@@ -222,9 +222,10 @@
       "level": 6
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Louis Auguste Blanqui: L'éternité par les astres (1872).",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -249,9 +250,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Lewis Carroll: Sylvie and Bruno Concluded, 1893.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

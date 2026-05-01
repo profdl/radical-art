@@ -21,9 +21,13 @@ const w = block.width ? Number(block.width) : undefined;
 const h = block.height ? Number(block.height) : undefined;
 const ratio = w && h ? `${w} / ${h}` : undefined;
 
-const captionLink = block.links.find(
-  (l) => l.text && caption.toLowerCase().includes(l.text.toLowerCase()),
-);
+// Prefer a link whose visible text is part of the caption; otherwise use any
+// link present (the legacy idiom often wraps the <img> in <a> with no inner
+// text — the caption is the implicit label).
+const captionLink =
+  block.links.find(
+    (l) => l.text && caption.toLowerCase().includes(l.text.toLowerCase()),
+  ) || block.links.find((l) => l.href);
 ---
 
 <figure class="space-y-2">
@@ -31,13 +35,30 @@ const captionLink = block.links.find(
     class="relative overflow-hidden bg-[color:var(--color-rule-light)]"
     style={ratio ? `aspect-ratio: ${ratio}` : undefined}
   >
-    <img
-      src={block.src}
-      alt={block.alt || caption}
-      loading="lazy"
-      decoding="async"
-      class="h-full w-full object-cover"
-    />
+    {captionLink ? (
+      <a
+        href={captionLink.href}
+        target={captionLink.external ? "_blank" : undefined}
+        rel={captionLink.external ? "noreferrer" : undefined}
+        class="block h-full w-full"
+      >
+        <img
+          src={block.src}
+          alt={block.alt || caption}
+          loading="lazy"
+          decoding="async"
+          class="h-full w-full object-cover"
+        />
+      </a>
+    ) : (
+      <img
+        src={block.src}
+        alt={block.alt || caption}
+        loading="lazy"
+        decoding="async"
+        class="h-full w-full object-cover"
+      />
+    )}
   </div>
   {
     caption && (

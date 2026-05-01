@@ -61,9 +61,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "References",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

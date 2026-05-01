@@ -130,17 +130,17 @@
       "text": "Halftone\nArt (Lichtenstein, Polke, Jacquet)\n\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)\n\n\n\nPhoto\nMosaics (Silvers, Blake)",
       "links": [
         {
-          "text": "",
+          "text": "Halftone Art (Lichtenstein, Polke, Jacquet) Pixel Grids (Harmon, Winiarski, Close) Photo Mosaics (Silvers, Blake)",
           "href": "/algorithmic-art/grid/discretization/half-tone",
           "external": false
         },
         {
-          "text": "",
+          "text": "Pixel Grids (Harmon, Winiarski, Close) Photo Mosaics (Silvers, Blake)",
           "href": "/algorithmic-art/grid/discretization/pixel-grids",
           "external": false
         },
         {
-          "text": "",
+          "text": "Photo Mosaics (Silvers, Blake)",
           "href": "/algorithmic-art/grid/discretization/photo-mosaic",
           "external": false
         }

@@ -213,12 +213,12 @@
       "text": "ASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)",
       "links": [
         {
-          "text": "",
+          "text": "ASCII Art (Peterson, Knowlton, Demiaux, Cosic) Pixel Grids (Harmon, Winiarski, Close)",
           "href": "/algorithmic-art/grid/discretization/asciiart",
           "external": false
         },
         {
-          "text": "",
+          "text": "Pixel Grids (Harmon, Winiarski, Close)",
           "href": "/algorithmic-art/grid/discretization/pixel-grids",
           "external": false
         }

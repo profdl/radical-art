@@ -33,9 +33,10 @@
       "level": 6
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Simple programming language for visual screen processes.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -109,15 +110,6 @@
       "level": 6
     },
     {
-      "type": "figure",
-      "src": "http://radicalart.info/Life/div/newage.jpg",
-      "alt": "New Age Painter",
-      "caption": "",
-      "width": "80",
-      "height": "80",
-      "links": []
-    },
-    {
       "type": "heading",
       "text": "Intuitive\nNew Age Painter",
       "links": [
@@ -132,15 +124,6 @@
     {
       "type": "paragraph",
       "text": "\"Playing\nwith color is fun and relaxing. You can make your own intuitive\npainting in our interactive painter. You don't have to click or\nselect color to get beautiful results. Just move the mouse! It\nis so easy, even a monkey could do it. All you need is a shockwave\nplugin and a 24 bit screendepth.\n\nHave fun!\n\nHint: try painting with your eyes closed. You will get the most\nbeautiful results.\"",
-      "links": []
-    },
-    {
-      "type": "figure",
-      "src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg",
-      "alt": "",
-      "caption": "",
-      "width": "120",
-      "height": null,
       "links": []
     },
     {
@@ -252,6 +235,11 @@
       "text": "Friendchip: Random\nPowerpoint Presentation",
       "links": [
         {
+          "text": "Friendchip:",
+          "href": "http://www.ransen.com/Gliftic/default.htm",
+          "external": true
+        },
+        {
           "text": "Random Powerpoint Presentation",
           "href": "http://www.friendchip.com/viewer.php3?URL=powerpoint/index.html",
           "external": true
@@ -287,30 +275,6 @@
         }
       ],
       "level": 6
-    },
-    {
-      "type": "figure",
-      "src": "http://radicalart.info/Life/div/n_Gen01.gif",
-      "alt": "n-generate",
-      "caption": "",
-      "width": "233",
-      "height": "40",
-      "links": [
-        {
-          "text": "",
-          "href": "http://www.n-generate.com/",
-          "external": true
-        }
-      ]
-    },
-    {
-      "type": "figure",
-      "src": "http://radicalart.info/Life/div/n_Gen02.gif",
-      "alt": "",
-      "caption": "\"It's the new tool graphic designers\ndon't want you to know about!\"\n\n\n\n\"n_Gen allows users with no graphic design experience to create\nprofessional quality output with their own text content. n_Gen takes\nover the burdensome task of designing, leaving the user to simply\npick and choose the generated images they like.\"",
-      "width": "366",
-      "height": "40",
-      "links": []
     },
     {
       "type": "heading",
@@ -510,9 +474,10 @@
       "level": 6
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Automatic Image Transformations",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -614,32 +579,7 @@
       "links": []
     }
   ],
-  "images": [
-    {
-      "src": "http://radicalart.info/Life/div/newage.jpg",
-      "alt": "New Age Painter",
-      "caption": "",
-      "legacy_src": "http://radicalart.info/Life/div/newage.jpg"
-    },
-    {
-      "src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg",
-      "alt": "",
-      "caption": "",
-      "legacy_src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg"
-    },
-    {
-      "src": "http://radicalart.info/Life/div/n_Gen01.gif",
-      "alt": "n-generate",
-      "caption": "",
-      "legacy_src": "http://radicalart.info/Life/div/n_Gen01.gif"
-    },
-    {
-      "src": "http://radicalart.info/Life/div/n_Gen02.gif",
-      "alt": "",
-      "caption": "\"It's the new tool graphic designers\ndon't want you to know about!\"\n\n\n\n\"n_Gen allows users with no graphic design experience to create\nprofessional quality output with their own text content. n_Gen takes\nover the burdensome task of designing, leaving the user to simply\npick and choose the generated images they like.\"",
-      "legacy_src": "http://radicalart.info/Life/div/n_Gen02.gif"
-    }
-  ],
+  "images": [],
   "out_links": [
     "/algorithmic-art/algebra/aaron"
   ]

@@ -19,22 +19,22 @@
       "text": "Process Art\n\n\n\n\nNatural Disasters\n\n\n\n\nPhysics\n\n\n\n\nAnimal Art",
       "links": [
         {
-          "text": "",
+          "text": "Process Art",
           "href": "/process",
           "external": false
         },
         {
-          "text": "",
+          "text": "Natural Disasters",
           "href": "/destruction/natural-disasters",
           "external": false
         },
         {
-          "text": "",
+          "text": "Physics",
           "href": "/physics",
           "external": false
         },
         {
-          "text": "",
+          "text": "Animal Art",
           "href": "/process/vibration/animal",
           "external": false
         }
@@ -45,7 +45,7 @@
       "text": "The\nAesthetics of Nature",
       "links": [
         {
-          "text": "",
+          "text": "The Aesthetics of Nature",
           "href": "/nature/quotes",
           "external": false
         }
@@ -73,9 +73,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Wolfgang Mally: Paper in Water 0-58 Days, 1977/1978.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -129,9 +130,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Trace of pendulum in sand during\nearthquake.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -145,9 +147,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Ongoing display of earth movements in Berkeley,\nCA.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",

@@ -20,6 +20,124 @@
     },
     {
       "type": "paragraph",
+      "text": "flexible sculpture",
+      "links": [
+        {
+          "text": "flexible sculpture",
+          "href": "/anything/open-form/flexible-sculpture",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "flexible\nsculpture",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "do it yourself drawing",
+      "links": [
+        {
+          "text": "do it yourself drawing",
+          "href": "/anything/open-form/diydrawing",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "drawing",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "do it yourself sculpture",
+      "links": [
+        {
+          "text": "do it yourself sculpture",
+          "href": "/anything/open-form/diysculpture",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "sculpture",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "do it yourself installations",
+      "links": [
+        {
+          "text": "do it yourself installations",
+          "href": "/anything/open-form/diyinstallation",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "installations",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "rearrangeable images",
+      "links": [
+        {
+          "text": "rearrangeable images",
+          "href": "/anything/open-form/rearrangeable-painting",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "rearrangeable\nimages",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "interactive digital art",
+      "links": [
+        {
+          "text": "interactive digital art",
+          "href": "/algorithmic-art/interactivity",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "interactive\ndigital art",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "music",
+      "links": [
+        {
+          "text": "music",
+          "href": "/anything/open-form/music",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "music",
+      "links": []
+    },
+    {
+      "type": "paragraph",
       "text": "Bruce Nauman: \"I mistrust audience participation.\"",
       "links": []
     },
@@ -40,5 +158,13 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/algorithmic-art/interactivity",
+    "/anything/open-form/diydrawing",
+    "/anything/open-form/diyinstallation",
+    "/anything/open-form/diysculpture",
+    "/anything/open-form/flexible-sculpture",
+    "/anything/open-form/music",
+    "/anything/open-form/rearrangeable-painting"
+  ]
 }

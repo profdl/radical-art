@@ -10,6 +10,17 @@
   "blocks": [
     {
       "type": "paragraph",
+      "text": "radical art homepage",
+      "links": [
+        {
+          "text": "radical art homepage",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "text": "radical\nart homepage",
       "links": []
     },
@@ -84,9 +95,10 @@
       "level": 4
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "(onto horizontal plane)",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -101,9 +113,10 @@
       "level": 4
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "(onto horizontal plane)",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -118,9 +131,10 @@
       "level": 4
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "(along\nvertical plane)",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -325,7 +339,7 @@
       "text": "art generation by means of simulated physics: cellular automata",
       "links": [
         {
-          "text": "",
+          "text": "art generation by means of simulated physics: cellular automata",
           "href": "/algorithmic-art/grid/cellular",
           "external": false
         }
@@ -336,7 +350,7 @@
       "text": "art generation by means of simulated movement",
       "links": [
         {
-          "text": "",
+          "text": "art generation by means of simulated movement",
           "href": "/algorithmic-art/movement",
           "external": false
         }
@@ -352,6 +366,7 @@
   "out_links": [
     "/algorithmic-art/grid/cellular",
     "/algorithmic-art/movement",
+    "/index",
     "/process/blast",
     "/process/burn",
     "/process/condensation",

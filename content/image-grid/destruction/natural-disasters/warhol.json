@@ -9,29 +9,54 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "back to:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "natural\ndisasters",
-      "links": []
+      "links": [
+        {
+          "text": "natural disasters",
+          "href": "/destruction/natural-disasters",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "destruction",
-      "links": []
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "artificial\nart",
-      "links": []
+      "links": [
+        {
+          "text": "artificial art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "iaaa",
-      "links": []
+      "links": [
+        {
+          "text": "iaaa",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -101,5 +126,9 @@
       "legacy_src": "WarholVesuvius1985d.jpg"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/destruction",
+    "/destruction/natural-disasters",
+    "/index"
+  ]
 }

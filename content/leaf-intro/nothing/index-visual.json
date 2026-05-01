@@ -15,9 +15,10 @@
       "level": 4
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "showing nothing",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -85,9 +86,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "something",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -156,9 +158,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "invisible things",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -194,9 +197,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "depictions",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

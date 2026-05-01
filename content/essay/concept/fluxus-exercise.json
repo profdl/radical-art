@@ -10,6 +10,73 @@
   "blocks": [
     {
       "type": "paragraph",
+      "text": "Gestalt Therapy Exercises",
+      "links": [
+        {
+          "text": "Gestalt Therapy Exercises",
+          "href": "/concept/perls",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Gestalt Therapy Exercises",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Fluxus: Generalized Music",
+      "links": [
+        {
+          "text": "Fluxus: Generalized Music",
+          "href": "/concept/scores",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fluxus: Generalized Music",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept Art",
+      "links": [
+        {
+          "text": "Concept Art",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Concept\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": []
+    },
+    {
+      "type": "paragraph",
       "text": "Fluxus: Exercises",
       "links": []
     },
@@ -71,5 +138,10 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/concept",
+    "/concept/perls",
+    "/concept/scores",
+    "/index"
+  ]
 }

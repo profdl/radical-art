@@ -9,24 +9,43 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "back to:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "destruction",
-      "links": []
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "process\nart",
-      "links": []
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "radical\nart",
-      "links": []
+      "links": [
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -170,5 +189,9 @@
       "legacy_src": "TunafishDisaster-63.gif"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
 }

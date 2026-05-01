@@ -58,15 +58,6 @@
       "level": 4
     },
     {
-      "type": "figure",
-      "src": "http://radicalart.info/Life/div/moireM.jpg",
-      "alt": "",
-      "caption": "",
-      "width": "452",
-      "height": "300",
-      "links": []
-    },
-    {
       "type": "paragraph",
       "text": "'Moiré' is a French word meaning 'watery' or 'watered silk'\nand has now been adopted in English. Watered silk and mohair fabric\nhave an appearance that is both shimmery and like the grain of wood.\nThat such patterns could be produced with a pair of diffraction gratings\nwas pointed out by Lord Rayleigh in 1874, who also mentioned that\nthe principle could be useful in making accurate measurements. (.\n. .)\n\n\n\nA diffraction grating is a transparency with ruled parallel lines\nso close they cannot be seen with the naked eye. But if two such gratings\nare superimposed, with slightly different rulings, a pattern analogous\nto the beats of sound becomes entirely visible, in fact a good alternative\nname for moiré patterns would be 'visible beats'. One is provoked\nto conjecture that the fundamental nature of matter is based on such\na principle. Perhaps all we can observe in nature are moiré fringes produced by something analogous to diffraction gratings in\nwhich the distances between adjacent lines are so small that there\nis no method known for their direct observation, even with an electron\nmicroscope. This suggestion would fit in well with the theory of 'winding\nspace', where space is assumed not to close in on itself but to just\nmiss, that is, instead of being a hypersphere it is a sort of hyper-helix.",
       "links": []
@@ -138,14 +129,7 @@
       "links": []
     }
   ],
-  "images": [
-    {
-      "src": "http://radicalart.info/Life/div/moireM.jpg",
-      "alt": "",
-      "caption": "",
-      "legacy_src": "http://radicalart.info/Life/div/moireM.jpg"
-    }
-  ],
+  "images": [],
   "out_links": [
     "/algorithmic-art/grid/cellular"
   ]

@@ -224,7 +224,7 @@
       "text": "art = ben",
       "links": [
         {
-          "text": "",
+          "text": "art = ben",
           "href": "/ego/ben",
           "external": false
         }
@@ -235,7 +235,7 @@
       "text": "word paintings",
       "links": [
         {
-          "text": "",
+          "text": "word paintings",
           "href": "/concept/words/ben",
           "external": false
         }

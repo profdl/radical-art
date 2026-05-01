@@ -39,24 +39,6 @@
       "links": []
     },
     {
-      "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg",
-      "alt": "",
-      "caption": "Bill Bollinger: Pipe, 1968",
-      "width": "326",
-      "height": "218",
-      "links": []
-    },
-    {
-      "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg",
-      "alt": "",
-      "caption": "Richard Serra:\n\nSlow Roll (for Philip Glass), 1968",
-      "width": "189",
-      "height": "284",
-      "links": []
-    },
-    {
       "type": "heading",
       "text": "horizontal sculpture (linear: beams & rows)",
       "links": [],
@@ -142,15 +124,6 @@
     },
     {
       "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg",
-      "alt": "",
-      "caption": "Carl Andre: Equivalent V, 1966",
-      "width": "307",
-      "height": "200",
-      "links": []
-    },
-    {
-      "type": "figure",
       "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel, 1979",
@@ -160,28 +133,10 @@
     },
     {
       "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg",
-      "alt": "",
-      "caption": "Robert Morris: Variant Arrangement, 1966",
-      "width": "353",
-      "height": "200",
-      "links": []
-    },
-    {
-      "type": "figure",
       "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
       "width": "360",
-      "height": "200",
-      "links": []
-    },
-    {
-      "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg",
-      "alt": "",
-      "caption": "Carl Andre: Steel Inside/Outside Piece, 1970",
-      "width": "308",
       "height": "200",
       "links": []
     },
@@ -247,15 +202,6 @@
     },
     {
       "type": "figure",
-      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg",
-      "alt": "",
-      "caption": "Bill Bollinger:\n\nGraphite Piece, 1969",
-      "width": "349",
-      "height": "200",
-      "links": []
-    },
-    {
-      "type": "figure",
       "src": "/images/kinetics/gravity/lie/stuff-morris68untitled-s.jpg",
       "alt": "",
       "caption": "Robert Morris:\n\nUntitled, 1968",
@@ -290,18 +236,6 @@
       "alt": "",
       "caption": "Barry Flanagan, 1967",
       "legacy_src": "baggy/BarryFlanagan-1967-L.jpg"
-    },
-    {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg",
-      "alt": "",
-      "caption": "Bill Bollinger: Pipe, 1968",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg"
-    },
-    {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg",
-      "alt": "",
-      "caption": "Richard Serra:\n\nSlow Roll (for Philip Glass), 1968",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg"
     },
     {
       "src": "/images/kinetics/gravity/lie/beams-1962-ben-black-box-s.jpg",
@@ -352,34 +286,16 @@
       "legacy_src": "SolidSurface/Andre/1967-10x10AltstadtCpprSqr-s.jpg"
     },
     {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg",
-      "alt": "",
-      "caption": "Carl Andre: Equivalent V, 1966",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg"
-    },
-    {
       "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel, 1979",
       "legacy_src": "SolidSurface/UlrichRueckriem/1979-OT%5BWoodenPlatform%5D-s.jpg"
     },
     {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg",
-      "alt": "",
-      "caption": "Robert Morris: Variant Arrangement, 1966",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg"
-    },
-    {
       "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
       "legacy_src": "SolidSurface/UlrichRueckriem/1981-OT(Bodenarbeit)-s.jpg"
-    },
-    {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg",
-      "alt": "",
-      "caption": "Carl Andre: Steel Inside/Outside Piece, 1970",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg"
     },
     {
       "src": "/images/kinetics/gravity/lie/rueckriem-1978-Vierteilung-s.jpg",
@@ -416,12 +332,6 @@
       "alt": "",
       "caption": "Carl Andre: 5 x 20 Altstadt Rectangle, 1967\n\n(Galerie Konrad Fischer, Düsseldorf)",
       "legacy_src": "SolidSurface/Andre/1967-5x20AltstadtRect-KonradFischer-Duesseldorf-s.jpg"
-    },
-    {
-      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg",
-      "alt": "",
-      "caption": "Bill Bollinger:\n\nGraphite Piece, 1969",
-      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg"
     },
     {
       "src": "/images/kinetics/gravity/lie/stuff-morris68untitled-s.jpg",

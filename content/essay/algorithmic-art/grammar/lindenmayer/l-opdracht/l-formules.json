@@ -48,9 +48,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Axiom f",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

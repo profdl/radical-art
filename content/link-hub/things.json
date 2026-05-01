@@ -19,135 +19,140 @@
       "text": "readymades",
       "links": [
         {
-          "text": "",
+          "text": "readymades",
           "href": "/things/readymade",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "copies",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "copies\nof primary objects\n\n\n\ncopies\nof artworks",
       "links": [
         {
-          "text": "",
+          "text": "copies of primary objects",
           "href": "/things/copied",
           "external": false
         },
         {
-          "text": "",
+          "text": "copies of artworks",
           "href": "/things/art-copied",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "constellations of readymades",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "stacks\n\n\n\n\ncollections\n& accumulations\n\n\n\ncombine-paintings",
       "links": [
         {
-          "text": "",
+          "text": "stacks",
           "href": "/things/composite/stacks",
           "external": false
         },
         {
-          "text": "",
+          "text": "collections & accumulations",
           "href": "/things/composite/collections",
           "external": false
         },
         {
-          "text": "",
+          "text": "combine-paintings",
           "href": "/things/composite/combine-paintings",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "hidden readymades",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "wrap\n\n\n\nsmear\n\n\n\nimmerse\n\n\n\ncover",
       "links": [
         {
-          "text": "",
+          "text": "wrap",
           "href": "/things/wrapped",
           "external": false
         },
         {
-          "text": "",
+          "text": "smear",
           "href": "/things/painted",
           "external": false
         },
         {
-          "text": "",
+          "text": "immerse",
           "href": "/things/immersed",
           "external": false
         },
         {
-          "text": "",
+          "text": "cover",
           "href": "/things/covered",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "transformed readymades",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "cast\n\n\n\nenlarge\n\n\n\nburn\n\n\n\nsqueeze\n\n\n\ngrind\n\n\n\ntear",
       "links": [
         {
-          "text": "",
+          "text": "cast",
           "href": "/things/cast",
           "external": false
         },
         {
-          "text": "",
+          "text": "enlarge",
           "href": "/things/enlarged",
           "external": false
         },
         {
-          "text": "",
+          "text": "burn",
           "href": "/process/burn",
           "external": false
         },
         {
-          "text": "",
+          "text": "squeeze",
           "href": "/process/squeeze",
           "external": false
         },
         {
-          "text": "",
+          "text": "grind",
           "href": "/process/grind",
           "external": false
         },
         {
-          "text": "",
+          "text": "tear",
           "href": "/process/tear",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "related topics",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

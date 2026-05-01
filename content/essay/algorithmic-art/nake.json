@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Other citations about art, science and technology",
+      "links": [
+        {
+          "text": "Other citations about art, science and technology",
+          "href": "/algorithmic-art/intro",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Other citations about art, science and technology",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Algorithmic Art",
+      "links": [
+        {
+          "text": "Algorithmic Art",
+          "href": "/algorithmic-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Algorithmic\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Quotes from: Frieder Nake: Ästhetik als Informationsverarbeitung.",
       "links": [],
@@ -136,16 +186,17 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "p. 104.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Frieder Nake: Einmaliges und Beliebiges; Künstliche Kunst im Strom der Zeit, 1995.",
       "links": [
         {
-          "text": "",
+          "text": "Frieder Nake: Einmaliges und Beliebiges; Künstliche Kunst im Strom der Zeit, 1995.",
           "href": "/algorithmic-art/intro",
           "external": false
         }
@@ -154,6 +205,8 @@
   ],
   "images": [],
   "out_links": [
-    "/algorithmic-art/intro"
+    "/algorithmic-art",
+    "/algorithmic-art/intro",
+    "/index"
   ]
 }

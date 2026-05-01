@@ -9,6 +9,22 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "about this site remko scha",
+      "links": [
+        {
+          "text": "about this site",
+          "href": "/about",
+          "external": false
+        },
+        {
+          "text": "remko scha",
+          "href": "http://remkoscha.nl",
+          "external": true
+        }
+      ]
+    },
+    {
       "type": "heading",
       "text": "institute of artificial art\namsterdam, department of art history",
       "links": [
@@ -157,12 +173,12 @@
       "text": "an introductory essay the end of art",
       "links": [
         {
-          "text": "",
+          "text": "an introductory essay",
           "href": "/meta",
           "external": false
         },
         {
-          "text": "",
+          "text": "the end of art",
           "href": "/qend-art",
           "external": false
         }
@@ -171,6 +187,7 @@
   ],
   "images": [],
   "out_links": [
+    "/about",
     "/algorithmic-art",
     "/anything",
     "/concept",

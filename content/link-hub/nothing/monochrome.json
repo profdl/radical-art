@@ -25,22 +25,22 @@
       "text": "les\nincohérents\n\n\n\nkazimir\nmalevich &\naleksandr rodchenko\n\n\n\nyves\nklein\n\n\n\nrobert\nrauschenberg",
       "links": [
         {
-          "text": "",
+          "text": "les incohérents",
           "href": "/nothing/monochrome/incoherents",
           "external": false
         },
         {
-          "text": "",
+          "text": "kazimir malevich & aleksandr rodchenko",
           "href": "/nothing/monochrome/malevich-rodchenko",
           "external": false
         },
         {
-          "text": "",
+          "text": "yves klein",
           "href": "/nothing/space/klein",
           "external": false
         },
         {
-          "text": "",
+          "text": "robert rauschenberg",
           "href": "/nothing/monochrome/rauschenberg",
           "external": false
         }
@@ -57,37 +57,37 @@
       "text": "black\n\n\n\nwhite\n\n\n\ngrey\n\n\n\ngold\n\n\n\ncolored\n\n\n\nmirrors\n\n\n\n\ncanvas\nbacks",
       "links": [
         {
-          "text": "",
+          "text": "black",
           "href": "/nothing/monochrome/black",
           "external": false
         },
         {
-          "text": "",
+          "text": "white",
           "href": "/nothing/monochrome/white",
           "external": false
         },
         {
-          "text": "",
+          "text": "grey",
           "href": "/nothing/monochrome/grey",
           "external": false
         },
         {
-          "text": "",
+          "text": "gold",
           "href": "/nothing/monochrome/gold",
           "external": false
         },
         {
-          "text": "",
+          "text": "c o l o r e d",
           "href": "/nothing/monochrome/colored",
           "external": false
         },
         {
-          "text": "",
+          "text": "mirrors",
           "href": "/nothing/mirrors",
           "external": false
         },
         {
-          "text": "",
+          "text": "canvas backs",
           "href": "/nothing/monochrome/back",
           "external": false
         }
@@ -104,22 +104,22 @@
       "text": "darkness\n\n\n\n\nuniform\nlight\n\n\n\nempty\nspace\n\n\n\nundifferentiated\nvolume",
       "links": [
         {
-          "text": "",
+          "text": "darkness",
           "href": "/nothing/darkness",
           "external": false
         },
         {
-          "text": "",
+          "text": "uniform light",
           "href": "/nothing/monochrome/light",
           "external": false
         },
         {
-          "text": "",
+          "text": "empty space",
           "href": "/nothing/space",
           "external": false
         },
         {
-          "text": "",
+          "text": "undifferentiated volume",
           "href": "/something",
           "external": false
         }
@@ -136,7 +136,7 @@
       "text": "undifferentiated\nline",
       "links": [
         {
-          "text": "",
+          "text": "undifferentiated line",
           "href": "/nothing/monochrome/1-d",
           "external": false
         }

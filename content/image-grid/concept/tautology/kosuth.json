@@ -188,7 +188,7 @@
       "height": "107",
       "links": [
         {
-          "text": "",
+          "text": "\"Floor - A Description\", 1966.",
           "href": "http://mitglied.lycos.de/ThomasDreher/3_Konzeptkunst_Kosu_Floor.html",
           "external": true
         }
@@ -268,9 +268,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Water [Dictionary\ntranslation: English-to-French.] 1966.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

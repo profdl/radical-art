@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Fluxus Exercises",
+      "links": [
+        {
+          "text": "Fluxus Exercises",
+          "href": "/concept/fluxus-exercise",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fluxus Exercises",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept Art",
+      "links": [
+        {
+          "text": "Concept Art",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Concept\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Mental Exercises",
       "links": [],
@@ -101,5 +151,9 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/concept",
+    "/concept/fluxus-exercise",
+    "/index"
+  ]
 }

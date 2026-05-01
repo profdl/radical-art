@@ -51,7 +51,7 @@
       "text": "George Brecht's Events",
       "links": [
         {
-          "text": "",
+          "text": "George Brecht's Events",
           "href": "/concept/brecht",
           "external": false
         }
@@ -62,7 +62,7 @@
       "text": "Musical Fluxus Pieces",
       "links": [
         {
-          "text": "",
+          "text": "Musical Fluxus Pieces",
           "href": "/concept/fluxus-music",
           "external": false
         }
@@ -73,7 +73,7 @@
       "text": "Theatrical Fluxus Pieces",
       "links": [
         {
-          "text": "",
+          "text": "Theatrical Fluxus Pieces",
           "href": "/concept/fluxus-theatre",
           "external": false
         }
@@ -84,7 +84,7 @@
       "text": "Fluxus Exercises",
       "links": [
         {
-          "text": "",
+          "text": "Fluxus Exercises",
           "href": "/concept/fluxus-exercise",
           "external": false
         }
@@ -95,7 +95,7 @@
       "text": "Impossible and Undefined Pieces",
       "links": [
         {
-          "text": "",
+          "text": "Impossible and Undefined Pieces",
           "href": "/concept/impossible",
           "external": false
         }
@@ -112,7 +112,7 @@
       "text": "Lawrence Weiner: Material and Topological Concepts",
       "links": [
         {
-          "text": "",
+          "text": "Lawrence Weiner: Material and Topological Concepts",
           "href": "/concept/weiner",
           "external": false
         }
@@ -123,7 +123,7 @@
       "text": "Sol LeWitt: Visual Concepts",
       "links": [
         {
-          "text": "",
+          "text": "Sol LeWitt: Visual Concepts",
           "href": "/concept/le-witt",
           "external": false
         }
@@ -134,7 +134,7 @@
       "text": "Robert Barry: Meta-Concepts",
       "links": [
         {
-          "text": "",
+          "text": "Robert Barry: Meta-Concepts",
           "href": "/concept/meta-concepts",
           "external": false
         }
@@ -145,7 +145,7 @@
       "text": "Art & Language: Invisible Pieces",
       "links": [
         {
-          "text": "",
+          "text": "Art & Language: Invisible Pieces",
           "href": "/concept/invisible",
           "external": false
         }
@@ -245,9 +245,10 @@
       "level": 5
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "John Cage: Experimental Music, 1957.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

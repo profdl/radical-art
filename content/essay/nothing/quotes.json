@@ -134,9 +134,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Albert Ribas: Biografia del vacuo.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

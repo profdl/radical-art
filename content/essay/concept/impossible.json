@@ -9,6 +9,62 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Fluxus: Generalized Music",
+      "links": [
+        {
+          "text": "Fluxus: Generalized Music",
+          "href": "/concept/scores",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fluxus: Generalized Music",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept Art",
+      "links": [
+        {
+          "text": "Concept Art",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Concept\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art Home Page",
+      "links": [
+        {
+          "text": "Radical Art Home Page",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art Home Page",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Impossible, undefined, unstable\n\nand unusually difficult pieces",
+      "links": [],
+      "level": 2
+    },
+    {
       "type": "heading",
       "text": "Paradoxical pieces",
       "links": [],
@@ -165,5 +221,9 @@
       "legacy_src": "../gif/logo/black.gif"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/concept",
+    "/concept/scores",
+    "/index"
+  ]
 }

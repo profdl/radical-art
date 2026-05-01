@@ -321,16 +321,17 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "more text pieces by ben vautier:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
       "text": "tautology",
       "links": [
         {
-          "text": "",
+          "text": "tautology",
           "href": "http://radicalart.info/concept/Words/tautology/ben/index.html",
           "external": true
         }
@@ -342,7 +343,7 @@
       "text": "paradox",
       "links": [
         {
-          "text": "",
+          "text": "paradox",
           "href": "http://radicalart.info/concept/Words/paradox/index.html",
           "external": true
         }
@@ -354,7 +355,7 @@
       "text": "nothing",
       "links": [
         {
-          "text": "",
+          "text": "nothing",
           "href": "http://radicalart.info/concept/nothing/concept/rien/index.html",
           "external": true
         }
@@ -366,7 +367,7 @@
       "text": "anything",
       "links": [
         {
-          "text": "",
+          "text": "anything",
           "href": "http://radicalart.info/concept/anything/NImporteQuoi/index.html",
           "external": true
         }
@@ -378,7 +379,7 @@
       "text": "everything",
       "links": [
         {
-          "text": "",
+          "text": "everything",
           "href": "http://radicalart.info/concept/everything/all.html",
           "external": true
         }
@@ -390,7 +391,7 @@
       "text": "art = ben",
       "links": [
         {
-          "text": "",
+          "text": "art = ben",
           "href": "/ego/ben",
           "external": false
         }
@@ -402,7 +403,7 @@
       "text": "speech acts",
       "links": [
         {
-          "text": "",
+          "text": "speech acts",
           "href": "/concept/speech-acts",
           "external": false
         }
@@ -414,7 +415,7 @@
       "text": "art against art",
       "links": [
         {
-          "text": "",
+          "text": "art against art",
           "href": "http://radicalart.info/concept/Words/ArtAgainstArt/index.html",
           "external": true
         }
@@ -426,7 +427,7 @@
       "text": "theatre",
       "links": [
         {
-          "text": "",
+          "text": "theatre",
           "href": "/concept/fluxus-theatre",
           "external": false
         }

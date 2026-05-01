@@ -142,12 +142,12 @@
       "links": [
         {
           "text": "",
-          "href": "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
+          "href": "/assets/algorithmicart/RayJohnson51CalmCenter-M.jpg",
           "external": false
         },
         {
           "text": "Calm Center",
-          "href": "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
+          "href": "/assets/algorithmicart/RayJohnson51CalmCenter-M.jpg",
           "external": false
         }
       ]
@@ -208,13 +208,13 @@
       "height": "186",
       "links": [
         {
-          "text": "",
-          "href": "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg",
+          "text": "Répartition aléatoire de 40 000 carrés,",
+          "href": "/assets/algorithmicart/Morellet2-M.jpg",
           "external": false
         },
         {
           "text": "click",
-          "href": "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg",
+          "href": "/assets/algorithmicart/Morellet2-M.jpg",
           "external": false
         }
       ]
@@ -589,7 +589,7 @@
     }
   ],
   "out_links": [
-    "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
-    "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg"
+    "/assets/algorithmicart/Morellet2-M.jpg",
+    "/assets/algorithmicart/RayJohnson51CalmCenter-M.jpg"
   ]
 }

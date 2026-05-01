@@ -42,21 +42,22 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Related work by Yves Klein:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Le\nVide\n\n\n\nMonochromes\n\n\n\nPeintures\nde Feu",
       "links": [
         {
-          "text": "",
+          "text": "Le Vide",
           "href": "/nothing/space/klein",
           "external": false
         },
         {
-          "text": "",
+          "text": "Peintures de Feu",
           "href": "/process/burn/klein",
           "external": false
         }

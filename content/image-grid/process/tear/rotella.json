@@ -509,29 +509,49 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Internal link:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Coperture",
-      "links": []
+      "links": [
+        {
+          "text": "Coperture",
+          "href": "/nothing/cover-up/cover/rotella-copertura",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "by Mimmo Rotella",
-      "links": []
+      "links": [
+        {
+          "text": "by Mimmo Rotella",
+          "href": "/nothing/cover-up/cover/rotella-copertura",
+          "external": false
+        }
+      ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "External link:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Mark Kostabi on Mimmo Rotella",
-      "links": []
+      "links": [
+        {
+          "text": "Mark Kostabi on Mimmo Rotella",
+          "href": "http://www.markkostabi.com/shout/nov00.htm",
+          "external": true
+        }
+      ]
     }
   ],
   "images": [
@@ -851,6 +871,7 @@
   "out_links": [
     "/destruction",
     "/index",
+    "/nothing/cover-up/cover/rotella-copertura",
     "/process",
     "/process/tear"
   ]

@@ -10,6 +10,17 @@
   "blocks": [
     {
       "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "text": "Radical\nArt",
       "links": []
     },
@@ -100,22 +111,22 @@
       "text": "Duchamp Readymades\nReality\nas art Monochromes The\nend of art",
       "links": [
         {
-          "text": "",
+          "text": "Readymades",
           "href": "/index",
           "external": false
         },
         {
-          "text": "",
+          "text": "Reality as art",
           "href": "/index",
           "external": false
         },
         {
-          "text": "",
+          "text": "Monochromes",
           "href": "/nothing/monochrome",
           "external": false
         },
         {
-          "text": "",
+          "text": "The end of art",
           "href": "/qend-art",
           "external": false
         }
@@ -162,17 +173,17 @@
       "text": "Everything Anything Nothing",
       "links": [
         {
-          "text": "",
+          "text": "Everything",
           "href": "/everything",
           "external": false
         },
         {
-          "text": "",
+          "text": "Anything",
           "href": "/anything",
           "external": false
         },
         {
-          "text": "",
+          "text": "Nothing",
           "href": "/nothing",
           "external": false
         }
@@ -229,32 +240,32 @@
       "text": "Open Form\nProcess Kinetics Algorithm Chance\nConcept",
       "links": [
         {
-          "text": "",
+          "text": "Open Form",
           "href": "/anything/open-form",
           "external": false
         },
         {
-          "text": "",
+          "text": "Process",
           "href": "/process",
           "external": false
         },
         {
-          "text": "",
+          "text": "Kinetics",
           "href": "/kinetics",
           "external": false
         },
         {
-          "text": "",
+          "text": "Algorithm",
           "href": "/algorithmic-art",
           "external": false
         },
         {
-          "text": "",
+          "text": "Chance",
           "href": "/algorithmic-art/chance",
           "external": false
         },
         {
-          "text": "",
+          "text": "Concept",
           "href": "/concept",
           "external": false
         }
@@ -291,12 +302,12 @@
       "text": "Every Grid\nRandom Grids",
       "links": [
         {
-          "text": "",
+          "text": "Every Grid",
           "href": "/algorithmic-art/grid/every",
           "external": false
         },
         {
-          "text": "",
+          "text": "Random Grids",
           "href": "/algorithmic-art/grid/any",
           "external": false
         }

@@ -9,14 +9,20 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "everything as art",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "\"the world\"",
       "links": [
+        {
+          "text": "\"the world\"",
+          "href": "/everything/all",
+          "external": false
+        },
         {
           "text": "\"the world\"",
           "href": "/everything/all",

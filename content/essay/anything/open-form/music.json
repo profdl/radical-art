@@ -59,9 +59,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Essay topic",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

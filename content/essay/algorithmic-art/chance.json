@@ -35,7 +35,12 @@
       "text": "Random Grids.",
       "links": [
         {
-          "text": "",
+          "text": "Random Grids.",
+          "href": "/algorithmic-art/grid/any",
+          "external": false
+        },
+        {
+          "text": "Random Grids.",
           "href": "/algorithmic-art/grid/any",
           "external": false
         }
@@ -46,7 +51,7 @@
       "text": "Random\nScatterings.",
       "links": [
         {
-          "text": "",
+          "text": "Random Scatterings.",
           "href": "/algorithmic-art/scatter",
           "external": false
         }
@@ -57,7 +62,7 @@
       "text": "Random Lines.",
       "links": [
         {
-          "text": "",
+          "text": "Random Lines.",
           "href": "/algorithmic-art/line",
           "external": false
         }
@@ -68,7 +73,7 @@
       "text": "Random samples from the surface of the earth.",
       "links": [
         {
-          "text": "",
+          "text": "Random samples from the surface of the earth.",
           "href": "/algorithmic-art/chance/boyle",
           "external": false
         }
@@ -79,7 +84,7 @@
       "text": "Quotes about Chance Art",
       "links": [
         {
-          "text": "",
+          "text": "Quotes about Chance Art",
           "href": "/algorithmic-art/chance/qchance-art",
           "external": false
         }
@@ -90,7 +95,7 @@
       "text": "Chance",
       "links": [
         {
-          "text": "",
+          "text": "Chance",
           "href": "/algorithmic-art/chance/chance",
           "external": false
         }
@@ -101,7 +106,7 @@
       "text": "Quotes about Chance",
       "links": [
         {
-          "text": "",
+          "text": "Quotes about Chance",
           "href": "/algorithmic-art/chance/qchance",
           "external": false
         }
@@ -198,9 +203,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "References",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

@@ -13,7 +13,7 @@
       "text": "radical\nart homepage",
       "links": [
         {
-          "text": "",
+          "text": "radical art homepage",
           "href": "/index",
           "external": false
         }
@@ -360,22 +360,22 @@
       "text": "light-space\nmodulators\n\n\n\nprocess\nart\n\n\n\ninteractive\nart\n\n\n\nsimulated\nmovement",
       "links": [
         {
-          "text": "",
+          "text": "light-space modulators",
           "href": "/kinetics/light",
           "external": false
         },
         {
-          "text": "",
+          "text": "process art",
           "href": "/process",
           "external": false
         },
         {
-          "text": "",
+          "text": "interactive art",
           "href": "/anything/open-form",
           "external": false
         },
         {
-          "text": "",
+          "text": "simulated movement",
           "href": "/algorithmic-art/movement",
           "external": false
         }

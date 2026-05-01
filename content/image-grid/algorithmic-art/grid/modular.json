@@ -82,9 +82,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Naomi Pitcairn: The Rotator Engine.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -92,7 +93,7 @@
       "links": [
         {
           "text": "\"Coloriage du pavage dit 'de Truchet'\"",
-          "href": "/pdf/truchet-pdf",
+          "href": "/assets/pdf/Truchet.pdf",
           "external": false
         }
       ]
@@ -334,6 +335,6 @@
     }
   ],
   "out_links": [
-    "/pdf/truchet-pdf"
+    "/assets/pdf/Truchet.pdf"
   ]
 }

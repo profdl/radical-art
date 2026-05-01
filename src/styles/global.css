@@ -137,3 +137,170 @@ a { color: inherit; }
 /* ---- structural rules ------------------------------------------------- */
 .rule { border: 0; border-top: 1px solid var(--color-rule); margin: 0; }
 .rule-light { border: 0; border-top: 1px solid var(--color-rule-light); margin: 0; }
+
+/* ---- editorial callout (colophon, editor's notes) -------------------- */
+.callout {
+  border: 1px solid var(--color-rule-light);
+  padding: 1.25rem 1.5rem;
+  margin: 0 0 2.5rem;
+  max-width: 42rem;
+  background: var(--color-paper);
+}
+.callout-label {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+  margin: 0 0 0.75rem;
+}
+.callout-body {
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  color: var(--color-ink);
+}
+.callout-body p { margin: 0 0 0.75em; }
+.callout-body p:last-child { margin-bottom: 0; }
+.callout-body a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+.callout-body a:hover { color: var(--color-ink-muted); }
+
+/* ---- gallery --------------------------------------------------------- */
+.gallery-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1rem;
+  margin-bottom: 1.75rem;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--color-paper);
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-rule-light);
+}
+.gallery-search {
+  flex: 1 1 18rem;
+  min-width: 12rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--color-rule-light);
+  background: var(--color-paper);
+  color: var(--color-ink);
+  outline: none;
+}
+.gallery-search:focus {
+  border-color: var(--color-ink);
+}
+.gallery-select,
+.gallery-button {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--color-rule-light);
+  background: var(--color-paper);
+  color: var(--color-ink);
+  cursor: pointer;
+}
+.gallery-button:hover,
+.gallery-select:hover {
+  border-color: var(--color-ink);
+}
+.gallery-count {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+  margin-left: auto;
+}
+.gallery-empty {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  color: var(--color-ink-muted);
+  padding: 3rem 0;
+  text-align: center;
+}
+.gallery-cascade {
+  column-count: 2;
+  column-gap: 1.75rem;
+}
+@media (min-width: 640px) { .gallery-cascade { column-count: 3; } }
+@media (min-width: 1024px) { .gallery-cascade { column-count: 4; } }
+@media (min-width: 1440px) { .gallery-cascade { column-count: 5; } }
+
+.gallery-card {
+  break-inside: avoid;
+  display: block;
+  margin: 0 0 2.25rem;
+}
+.gallery-card-image {
+  display: block;
+  text-decoration: none;
+}
+.gallery-card-frame {
+  display: block;
+  position: relative;
+  width: 100%;
+  background: var(--color-rule-light);
+  overflow: hidden;
+}
+.gallery-card-frame > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+.gallery-card-image:hover .gallery-card-frame > img {
+  opacity: 0.88;
+}
+.gallery-card-meta {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.gallery-card-caption {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  line-height: 1.35;
+  color: var(--color-ink);
+  margin: 0;
+}
+.gallery-card-page {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-ink);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+.gallery-card-page:hover {
+  color: var(--color-ink-muted);
+}
+.gallery-card-section {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+  margin: 0.05rem 0 0;
+}
+.gallery-loadmore {
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 0 0.5rem;
+}

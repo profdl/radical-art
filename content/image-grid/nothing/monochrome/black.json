@@ -349,31 +349,32 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "More black paintings:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Malevich\n& Rodchenko: From Suprematism to the monochrome.\n\n\n\nRauschenberg's\nmonochromes (white, black, red, gold).\n\n\n\nHerbert\nZangs: Schwarzarbeiten.\n\n\n\nÜbermalung\n(Soulages, Rauschenberg, Rainer, Hoehme).",
       "links": [
         {
-          "text": "",
+          "text": "Malevich & Rodchenko: From Suprematism to the monochrome.",
           "href": "/nothing/monochrome/malevich-rodchenko",
           "external": false
         },
         {
-          "text": "",
+          "text": "Rauschenberg's monochromes (white, black, red, gold).",
           "href": "/nothing/monochrome/rauschenberg",
           "external": false
         },
         {
-          "text": "",
+          "text": "Herbert Zangs: Schwarzarbeiten .",
           "href": "/nothing/monochrome/black/herbert-zangs",
           "external": false
         },
         {
-          "text": "",
+          "text": "Übermalung (Soulages, Rauschenberg, Rainer, Hoehme).",
           "href": "/nothing/cover-up/uebermalung",
           "external": false
         }
@@ -384,7 +385,7 @@
       "text": "Übermalung:\nSoulages.",
       "links": [
         {
-          "text": "",
+          "text": "Übermalung: Soulages.",
           "href": "/nothing/cover-up/uebermalung/soulages",
           "external": false
         }
@@ -395,16 +396,17 @@
       "text": "Übermalung:\nRainer.",
       "links": [
         {
-          "text": "",
+          "text": "Übermalung: Rainer.",
           "href": "/nothing/cover-up/uebermalung/rainer",
           "external": false
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "References",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Fluxus: Generalized Music",
+      "links": [
+        {
+          "text": "Fluxus: Generalized Music",
+          "href": "/concept/scores",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fluxus: Generalized Music",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept Art",
+      "links": [
+        {
+          "text": "Concept Art",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Concept\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Fluxus Events (Music)",
       "links": [],
@@ -95,14 +145,21 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "For more pieces consult",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "THE\nFLUXUS PERFORMANCE WORKBOOK",
-      "links": []
+      "links": [
+        {
+          "text": "THE FLUXUS PERFORMANCE WORKBOOK",
+          "href": "http://www.thing.net/%7Egrist/ld/fluxus.htm",
+          "external": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -111,5 +168,9 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/concept",
+    "/concept/scores",
+    "/index"
+  ]
 }

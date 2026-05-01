@@ -9,6 +9,90 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Quotes about Chance Art",
+      "links": [
+        {
+          "text": "Quotes about Chance Art",
+          "href": "/algorithmic-art/chance/qchance-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quotes\nabout Chance Art",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Chance",
+      "links": [
+        {
+          "text": "Chance",
+          "href": "/algorithmic-art/chance/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chance",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Chance Art",
+      "links": [
+        {
+          "text": "Chance Art",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chance\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Indeterminacy",
+      "links": [
+        {
+          "text": "Indeterminacy",
+          "href": "/anything",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Indeterminacy",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art Homepage",
+      "links": [
+        {
+          "text": "Radical Art Homepage",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt Homepage",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Quotes about Chance",
       "links": [],
@@ -227,9 +311,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "References",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -426,5 +511,11 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/algorithmic-art/chance",
+    "/algorithmic-art/chance/chance",
+    "/algorithmic-art/chance/qchance-art",
+    "/anything",
+    "/index"
+  ]
 }

@@ -159,19 +159,55 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "More:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
+      "text": "Malevich and the Monochrome",
+      "links": [
+        {
+          "text": "Malevich and the Monochrome",
+          "href": "/nothing/monochrome/malevich-rodchenko",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
       "text": "Malevich\nand the Monochrome",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Suprematism",
-      "links": []
+      "links": [
+        {
+          "text": "Suprematism",
+          "href": "/nothing/monochrome/malevich-rodchenko/suprematism",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Suprematism",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Roger Raveel",
+      "links": [
+        {
+          "text": "Roger Raveel",
+          "href": "/nothing/monochrome/depiction/roger-raveel",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -265,5 +301,9 @@
       "legacy_src": "67-SaburoMurakami-s.jpg"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/nothing/monochrome/depiction/roger-raveel",
+    "/nothing/monochrome/malevich-rodchenko",
+    "/nothing/monochrome/malevich-rodchenko/suprematism"
+  ]
 }

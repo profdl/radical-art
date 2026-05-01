@@ -223,9 +223,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Karl Sims\nVPRO Video.",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -277,7 +278,7 @@
       "links": [
         {
           "text": "Demo-program by Wouter Hager.",
-          "href": "/algorithmic-art/movement/boids-swf",
+          "href": "/assets/algorithmicart/boids.swf",
           "external": false
         }
       ]
@@ -363,6 +364,6 @@
   "images": [],
   "out_links": [
     "/algorithmic-art/grid/cellular/2-d",
-    "/algorithmic-art/movement/boids-swf"
+    "/assets/algorithmicart/boids.swf"
   ]
 }

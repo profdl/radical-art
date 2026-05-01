@@ -275,9 +275,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Hultén thus distinguishes:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "list",
@@ -406,16 +407,17 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Footnotes about Tinguely:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Automatic painting.",
       "links": [
         {
-          "text": "",
+          "text": "Automatic painting.",
           "href": "/process/vibration/metamatic",
           "external": false
         }
@@ -437,7 +439,7 @@
       "text": "Uselessness.",
       "links": [
         {
-          "text": "",
+          "text": "Uselessness.",
           "href": "/kinetics/inutile",
           "external": false
         }
@@ -469,9 +471,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Results sofar:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -512,9 +515,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Links",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

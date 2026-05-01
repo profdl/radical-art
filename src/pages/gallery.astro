@@ -1,0 +1,68 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import Gallery, { type GalleryItem } from "~/components/Gallery";
+import { sectionLabel } from "~/lib/text";
+
+function sectionSlug(s: string): string {
+  return s.replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-").toLowerCase();
+}
+
+function parseDim(v: string | null | undefined): number | null {
+  if (!v) return null;
+  const n = parseInt(v, 10);
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
+
+const all = await getCollection("pages");
+
+const items: GalleryItem[] = [];
+const sectionSet = new Map<string, string>();
+
+for (const page of all) {
+  const d = page.data;
+  if (d.archetype === "site-home") continue;
+  const sSlug = sectionSlug(d.section || "");
+  const sLabel = sectionLabel(d.section || "");
+  if (sSlug) sectionSet.set(sSlug, sLabel);
+
+  for (const block of d.blocks) {
+    if (block.type !== "figure") continue;
+    if (!block.src) continue;
+    // Skip the tiny legacy button GIFs and other decorative shims.
+    if (/\/buttons\/blue\d+\.gif/i.test(block.src)) continue;
+    items.push({
+      src: block.src,
+      alt: block.alt || "",
+      caption: (block.caption || "").trim(),
+      width: parseDim(block.width),
+      height: parseDim(block.height),
+      pageSlug: d.slug,
+      pageTitle: d.title || d.slug,
+      section: sLabel,
+      sectionSlug: sSlug,
+    });
+  }
+}
+
+const sections = Array.from(sectionSet.entries())
+  .map(([slug, label]) => ({ slug, label }))
+  .sort((a, b) => a.label.localeCompare(b.label));
+---
+
+<BaseLayout title="Gallery" description="Every image in the Radical Art archive — searchable, sortable, browsable." hideSidebar>
+  <header class="mb-6">
+    <p class="section-label">Browse</p>
+    <h1 class="h-page mt-1">Gallery</h1>
+    <p class="prose-archive max-w-3xl mt-3 text-[color:var(--color-ink-muted)]">
+      Every figure from the archive — {items.length.toLocaleString()} images
+      across {sections.length} sections. Each card links to the page where the
+      image appears.
+    </p>
+  </header>
+  <hr class="rule-light" />
+
+  <div class="pt-6">
+    <Gallery client:load items={items} sections={sections} />
+  </div>
+</BaseLayout>

@@ -9,6 +9,27 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Optimization\nAlgorithmic\nArt Radical\nArt",
+      "links": [
+        {
+          "text": "Optimization",
+          "href": "/algorithmic-art/optimization",
+          "external": false
+        },
+        {
+          "text": "Algorithmic Art",
+          "href": "/algorithmic-art",
+          "external": false
+        },
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
       "type": "heading",
       "text": "Art generation by simulated evolution\n\n(Genetic Algorithms)",
       "links": [],
@@ -20,9 +41,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Pablo Picasso",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -36,9 +58,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Links",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -159,9 +182,10 @@
       "level": 5
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Links",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -175,9 +199,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Discussion",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -232,9 +257,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Remko Scha, April 1, 2007",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
@@ -250,6 +276,8 @@
   ],
   "images": [],
   "out_links": [
-    "/algorithmic-art/optimization"
+    "/algorithmic-art",
+    "/algorithmic-art/optimization",
+    "/index"
   ]
 }

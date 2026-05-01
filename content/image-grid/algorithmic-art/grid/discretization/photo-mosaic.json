@@ -14,14 +14,21 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Robert Silvers:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Runaway Technology",
-      "links": []
+      "links": [
+        {
+          "text": "Runaway Technology",
+          "href": "http://www.photomosaic.com/rt/about.htm",
+          "external": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -38,12 +45,12 @@
       "links": [
         {
           "text": "",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
+          "href": "/assets/algorithmicart/BillGates.jpg",
           "external": false
         },
         {
           "text": "Bill Gates",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
+          "href": "/assets/algorithmicart/BillGates.jpg",
           "external": false
         }
       ]
@@ -58,12 +65,12 @@
       "links": [
         {
           "text": "",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
+          "href": "/assets/algorithmicart/100DollarBill.jpg",
           "external": false
         },
         {
           "text": "100 Dollar Bill",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
+          "href": "/assets/algorithmicart/100DollarBill.jpg",
           "external": false
         }
       ]
@@ -78,12 +85,12 @@
       "links": [
         {
           "text": "",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
+          "href": "/assets/algorithmicart/Flag.jpg",
           "external": false
         },
         {
           "text": "Flag",
-          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
+          "href": "/assets/algorithmicart/Flag.jpg",
           "external": false
         }
       ]
@@ -96,7 +103,13 @@
     {
       "type": "paragraph",
       "text": "Scott\nBlake: Barcode Art",
-      "links": []
+      "links": [
+        {
+          "text": "Scott Blake: Barcode Art",
+          "href": "http://www.barcodeart.com/artist/artist.html",
+          "external": true
+        }
+      ]
     },
     {
       "type": "figure",
@@ -159,7 +172,7 @@
       "height": "146",
       "links": [
         {
-          "text": "",
+          "text": "The Mazaika",
           "href": "http://mazaika.tripod.com/maztutor/mosaictest.html",
           "external": true
         },
@@ -181,12 +194,12 @@
       "text": "ASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)",
       "links": [
         {
-          "text": "",
+          "text": "ASCII Art (Peterson, Knowlton, Demiaux, Cosic) Pixel Grids (Harmon, Winiarski, Close)",
           "href": "/algorithmic-art/grid/discretization/asciiart",
           "external": false
         },
         {
-          "text": "",
+          "text": "Pixel Grids (Harmon, Winiarski, Close)",
           "href": "/algorithmic-art/grid/discretization/pixel-grids",
           "external": false
         }
@@ -245,9 +258,9 @@
   ],
   "out_links": [
     "/algorithmic-art/grid/discretization/asciiart",
-    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
-    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
-    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
-    "/algorithmic-art/grid/discretization/pixel-grids"
+    "/algorithmic-art/grid/discretization/pixel-grids",
+    "/assets/algorithmicart/100DollarBill.jpg",
+    "/assets/algorithmicart/BillGates.jpg",
+    "/assets/algorithmicart/Flag.jpg"
   ]
 }

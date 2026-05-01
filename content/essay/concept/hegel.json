@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Unsorted quotes about art and aesthetics",
+      "links": [
+        {
+          "text": "Unsorted quotes about art and aesthetics",
+          "href": "/aesthetics",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Unsorted quotes about art and aesthetics",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept Art",
+      "links": [
+        {
+          "text": "Concept Art",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Concept\nArt",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Home Page: Radical Art",
+      "links": [
+        {
+          "text": "Home Page: Radical Art",
+          "href": "http://radicalart.info/home.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Home Page: Radical Art",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Theory as Art as Theory",
       "links": [],
@@ -287,5 +337,8 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/aesthetics",
+    "/concept"
+  ]
 }

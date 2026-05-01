@@ -16,15 +16,6 @@
     },
     {
       "type": "figure",
-      "src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg",
-      "alt": "",
-      "caption": "Piero Manzoni:\n\nAchrome, 1961",
-      "width": "162",
-      "height": "200",
-      "links": []
-    },
-    {
-      "type": "figure",
       "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
       "alt": "",
       "caption": "Piero Manzoni\n\n1961",
@@ -88,12 +79,6 @@
     }
   ],
   "images": [
-    {
-      "src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg",
-      "alt": "",
-      "caption": "Piero Manzoni:\n\nAchrome, 1961",
-      "legacy_src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg"
-    },
     {
       "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
       "alt": "",

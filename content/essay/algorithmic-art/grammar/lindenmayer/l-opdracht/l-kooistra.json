@@ -19,9 +19,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Enkele L-Systeem-formules",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

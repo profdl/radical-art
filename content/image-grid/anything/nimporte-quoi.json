@@ -97,9 +97,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "John Cage: Music Lovers' Field Companion",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

@@ -10,8 +10,31 @@
   "blocks": [
     {
       "type": "paragraph",
+      "text": "Destruction in Art",
+      "links": [
+        {
+          "text": "Destruction in Art",
+          "href": "/destruction",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
       "text": "Destruction\nin Art",
-      "links": []
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -72,5 +95,8 @@
       "legacy_src": "RobMohlmannVernietigdStillS.jpg"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/destruction",
+    "/index"
+  ]
 }

@@ -29,8 +29,8 @@
       "links": [
         {
           "text": "\"Artificial\"",
-          "href": "/algorithmic-art/http-iaaa-nl/artificial",
-          "external": false
+          "href": "http://iaaa.nl//artificial/index.html",
+          "external": true
         }
       ]
     },
@@ -87,7 +87,5 @@
     }
   ],
   "images": [],
-  "out_links": [
-    "/algorithmic-art/http-iaaa-nl/artificial"
-  ]
+  "out_links": []
 }

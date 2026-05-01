@@ -11,17 +11,64 @@
     {
       "type": "paragraph",
       "text": "Image algebras",
-      "links": []
+      "links": [
+        {
+          "text": "Image algebras",
+          "href": "/algorithmic-art/algebra",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Image algebras",
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "Algorithmic line drawing",
-      "links": []
+      "links": [
+        {
+          "text": "Algorithmic line drawing",
+          "href": "/algorithmic-art/line",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Algorithmic line drawing",
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
+      "text": "Algorithmic Art",
+      "links": [
+        {
+          "text": "Algorithmic Art",
+          "href": "/algorithmic-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
       "text": "Algorithmic\nArt",
-      "links": []
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -325,5 +372,10 @@
       "legacy_src": "closure.jpg"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/algorithmic-art",
+    "/algorithmic-art/algebra",
+    "/algorithmic-art/line",
+    "/index"
+  ]
 }

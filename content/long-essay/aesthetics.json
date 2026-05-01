@@ -11,6 +11,17 @@
     {
       "type": "paragraph",
       "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
       "links": []
     },
     {
@@ -372,5 +383,7 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/index"
+  ]
 }

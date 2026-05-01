@@ -204,17 +204,17 @@
       "text": "Halftone\nArt (Lichtenstein, Polke, Jacquet)\n\n\n\n\nASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPhoto\nMosaics (Silvers, Blake)",
       "links": [
         {
-          "text": "",
+          "text": "Halftone Art (Lichtenstein, Polke, Jacquet) ASCII Art (Peterson, Knowlton, Demiaux, Cosic) Photo Mosaics (Silvers, Blake",
           "href": "/algorithmic-art/grid/discretization/half-tone",
           "external": false
         },
         {
-          "text": "",
+          "text": "ASCII Art (Peterson, Knowlton, Demiaux, Cosic) Photo Mosaics (Silvers, Blake)",
           "href": "/algorithmic-art/grid/discretization/asciiart",
           "external": false
         },
         {
-          "text": "",
+          "text": "Photo Mosaics (Silvers, Blake)",
           "href": "/algorithmic-art/grid/discretization/photo-mosaic",
           "external": false
         }

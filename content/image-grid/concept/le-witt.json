@@ -503,7 +503,13 @@
     {
       "type": "heading",
       "text": "Texts by Sol LeWitt",
-      "links": [],
+      "links": [
+        {
+          "text": "Texts by Sol LeWitt",
+          "href": "/concept/scores",
+          "external": false
+        }
+      ],
       "level": 6
     },
     {
@@ -511,7 +517,7 @@
       "text": "Sol LeWitt: \"Paragraphs on Conceptual Art,\" Artforum, summer issue, 1967.",
       "links": [
         {
-          "text": "",
+          "text": "Sol LeWitt: \"Paragraphs on Conceptual Art,\" Artforum , summer issue, 1967.",
           "href": "/concept/le-witt/paragraphs",
           "external": false
         }
@@ -522,7 +528,7 @@
       "text": "Sol LeWitt: \"Sentences on Conceptual Art.\" In: 0-9, 1969. Reprinted in: Art-Language, May 1969.",
       "links": [
         {
-          "text": "",
+          "text": "Sol LeWitt: \"Sentences on Conceptual Art.\" In: 0-9 , 1969. Reprinted in: Art-Language , May 1969.",
           "href": "/concept/le-witt/sentences",
           "external": false
         }
@@ -533,7 +539,7 @@
       "text": "Sol LeWitt on Cage, Fluxus and Minimalism. (Interview by Saul Ostrow in BOMB 85 (Fall 2003).)",
       "links": [
         {
-          "text": "",
+          "text": "Sol LeWitt on Cage, Fluxus and Minimalism. (Interview by Saul Ostrow in BOMB 85 (Fall 2003).)",
           "href": "/concept/le-witt/ostrow",
           "external": false
         }
@@ -599,6 +605,7 @@
     "/algorithmic-art/enumeration",
     "/concept/le-witt/ostrow",
     "/concept/le-witt/paragraphs",
-    "/concept/le-witt/sentences"
+    "/concept/le-witt/sentences",
+    "/concept/scores"
   ]
 }

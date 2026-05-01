@@ -27,6 +27,11 @@ LEGACY_ROOT = Path("legacy")
 INVENTORY_PATH = Path("scripts/pages_inventory.json")
 CONTENT_ROOT = Path("content")
 PUBLIC_IMAGES = Path("public/images")
+PUBLIC_ASSETS = Path("public/assets")
+
+ASSET_EXTS = {".pdf", ".zip", ".swf", ".mp3", ".mp4", ".mov", ".avi",
+              ".wav", ".jpg", ".jpeg", ".png", ".gif", ".tif", ".tiff",
+              ".doc", ".docx", ".rtf", ".txt", ".ps", ".eps"}
 
 ENCODINGS = ["utf-8", "latin1", "cp1252", "iso-8859-1"]
 
@@ -90,6 +95,9 @@ def normalize_local_link(href: str, source_rel: str) -> str | None:
         return None
     if href.startswith(("mailto:", "javascript:")):
         return None
+    # Malformed schemes like "http:foo.com/x" (missing //) — treat as external.
+    if re.match(r"^https?:[^/]", href):
+        return None
     parsed = urlparse(href)
     if parsed.netloc:
         return None  # external, caller keeps as-is
@@ -97,16 +105,34 @@ def normalize_local_link(href: str, source_rel: str) -> str | None:
     base_dir = os.path.dirname(source_rel)
     target = os.path.normpath(os.path.join(base_dir, href))
     target = target.replace("\\", "/")
-    # Drop leading "./" / "../" leftovers (normpath should handle but be safe).
     if target.startswith("./"):
         target = target[2:]
-    # Directory link → its index.html.
     full = LEGACY_ROOT / target
-    if full.is_dir() or (full.exists() and not target.endswith(".html")):
+    ext = os.path.splitext(target)[1].lower()
+    # Non-HTML asset: copy into public/assets and return its public URL.
+    if ext in ASSET_EXTS and full.exists() and full.is_file():
+        return _copy_asset(full, target)
+    # Directory link → its index.html.
+    if full.is_dir():
         target = (target + "/index.html").replace("//", "/")
-    if not target.endswith(".html") and "." not in os.path.basename(target):
+    elif not target.endswith(".html") and "." not in os.path.basename(target):
         target = target + "/index.html"
     return "/" + page_slug(target) if target.endswith(".html") else None
+
+
+def _copy_asset(src_path: Path, legacy_rel: str) -> str:
+    """Copy a non-HTML legacy asset into public/assets/ preserving its name,
+    namespaced by its top-level legacy folder so duplicates don't collide.
+    Returns the public URL."""
+    top = legacy_rel.split("/", 1)[0].lower()  # e.g. "pdf", "algorithmicart"
+    top = slugify(top)
+    filename = os.path.basename(legacy_rel)
+    dest_dir = PUBLIC_ASSETS / top
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / filename
+    if not dest.exists():
+        shutil.copy2(src_path, dest)
+    return f"/assets/{top}/{filename}"
 
 
 # ---------- image handling ---------------------------------------------------
@@ -119,7 +145,10 @@ def copy_image(src_attr: str, source_rel: str, page_slug_str: str) -> str | None
     """Copy a content image into public/images/<page-slug>/<filename> and
        return the public path. Returns None if the source can't be found."""
     if not src_attr or src_attr.startswith(("http://", "https://", "data:")):
-        return src_attr or None  # external image — keep URL as-is
+        # External / inline images — the legacy site has a handful of
+        # absolute http://radicalart.info/... URLs that 404 today. We have no
+        # local copy, so drop the figure rather than ship a broken <img>.
+        return None
     src_attr = unquote(src_attr).split("#")[0].split("?")[0]
     base_dir = os.path.dirname(source_rel)
     src_resolved = os.path.normpath(os.path.join(base_dir, src_attr))
@@ -159,12 +188,129 @@ def text_of(node: Tag | NavigableString) -> str:
     return "".join(parts)
 
 
+def _label_after_anchor(a: Tag) -> str:
+    """Walk forward from <a> through siblings, skipping whitespace, decorative
+    images, and <br>, and return the first text run encountered. Stops at the
+    next <a> or at a hard break (block-level element, multiple <br>s).
+
+    The legacy site's button-list idiom puts the link label *outside* the
+    anchor: `<a><img></a>&nbsp;&nbsp;<b>LABEL</b>...`. This recovers that label.
+
+    When the <a> is wrapped in an inline element (e.g. <font>), the label is
+    often the next sibling of the *parent*, not the anchor itself, so we
+    bubble up across inline-tag boundaries.
+    """
+    parts: list[str] = []
+    # Build the iteration sequence: start with anchor's siblings, then bubble
+    # up through inline ancestors and continue with their siblings.
+    def iter_forward(start: Tag):
+        node = start
+        while node is not None:
+            cur = node.next_sibling
+            while cur is not None:
+                yield cur
+                cur = cur.next_sibling
+            parent = node.parent
+            if parent is None or not isinstance(parent, Tag): return
+            if parent.name not in INLINE_TAGS and parent.name != "b": return
+            node = parent
+
+    # Stop as soon as we have the first meaningful text chunk and then hit
+    # any whitespace/break separator — this keeps labels from absorbing the
+    # next item's text in tightly-packed link lists.
+    have_text = False
+    for cur in iter_forward(a):
+        if isinstance(cur, NavigableString):
+            s = str(cur).replace("\xa0", " ")
+            if s.strip():
+                parts.append(s.strip())
+                have_text = True
+            elif have_text:
+                break  # whitespace separator after our label
+            continue
+        if isinstance(cur, Tag):
+            if cur.name == "a": break
+            if cur.name == "br":
+                if have_text: break
+                continue
+            if cur.name == "img":
+                if is_decorative(cur.get("src", "")): continue
+                break
+            if cur.name in INLINE_TAGS or cur.name == "b":
+                inner = " ".join(cur.get_text(" ", strip=True).split())
+                if inner:
+                    parts.append(inner)
+                    have_text = True
+                continue
+            break
+    label = " ".join(" ".join(parts).split())
+    return label[:120]
+
+
+def _consume_label_siblings(a: Tag, label: str) -> None:
+    """Strip the text nodes/inline tags following <a> that we just used as
+    its label, so they don't get re-emitted as orphan paragraphs by visit().
+    Stops at the next <a> or block-level element."""
+    label_norm = " ".join(label.split())
+    accumulated = ""
+    to_remove: list = []
+    cur = a.next_sibling
+    while cur is not None:
+        if isinstance(cur, NavigableString):
+            piece = " ".join(str(cur).replace("\xa0", " ").split())
+            if piece:
+                accumulated = (accumulated + " " + piece).strip()
+            to_remove.append(cur)
+        elif isinstance(cur, Tag):
+            if cur.name == "a": break
+            if cur.name == "br":
+                to_remove.append(cur)
+                cur = cur.next_sibling
+                continue
+            if cur.name == "img":
+                if is_decorative(cur.get("src", "")):
+                    to_remove.append(cur)
+                    cur = cur.next_sibling
+                    continue
+                break
+            if cur.name in INLINE_TAGS or cur.name == "b":
+                inner = " ".join(cur.get_text(" ", strip=True).split())
+                if inner:
+                    accumulated = (accumulated + " " + inner).strip()
+                to_remove.append(cur)
+            else:
+                break
+        # Stop once we have the label fully covered.
+        if accumulated and label_norm and label_norm in accumulated:
+            break
+        cur = cur.next_sibling
+    for n in to_remove:
+        try:
+            if isinstance(n, Tag): n.decompose()
+            else: n.extract()
+        except Exception: pass
+
+
 def collect_links(tag: Tag, source_rel: str) -> list[dict]:
     out = []
-    for a in tag.find_all("a"):
+    # find_all("a") only returns descendants — include `tag` itself if it's
+    # an anchor (happens when extract_blocks calls us with an <a> child).
+    anchors = list(tag.find_all("a"))
+    if tag.name == "a":
+        anchors.insert(0, tag)
+    for a in anchors:
         href = a.get("href", "")
         text = " ".join(a.get_text(" ", strip=True).split())
+        if not text:
+            # Anchor has no inner text. Try to recover a label from the
+            # adjacent text run (legacy "<a><img></a>&nbsp;LABEL" idiom).
+            text = _label_after_anchor(a)
         if not text and a.find("img") is None:
+            continue
+        # Treat malformed schemes ("http:foo.com/x") as external; repair the //.
+        if re.match(r"^https?:[^/]", href):
+            fixed = re.sub(r"^(https?:)", r"\1//", href, count=1)
+            out.append({"text": text, "href": fixed, "external": True})
             continue
         parsed = urlparse(href)
         if parsed.netloc:
@@ -172,6 +318,9 @@ def collect_links(tag: Tag, source_rel: str) -> list[dict]:
         else:
             internal = normalize_local_link(href, source_rel)
             if internal:
+                # Asset hrefs (under /assets/ or /images/) are external-like
+                # in that they're not page routes — keep external=False so
+                # they render as normal in-document links.
                 out.append({"text": text, "href": internal, "external": False})
     return out
 
@@ -197,19 +346,72 @@ def is_breadcrumb_block(tag: Tag) -> bool:
     button_imgs = [i for i in imgs if "buttons/" in (i.get("src") or "")]
     if len(button_imgs) < 2:
         return False
-    # Refuse to decompose if there's any non-decorative image — those are
-    # content the page is really about.
     content_imgs = [i for i in imgs if not is_decorative(i.get("src", ""))]
     if content_imgs:
         return False
     text_len = len(tag.get_text(" ", strip=True))
     if text_len > 250:
         return False
-    # Don't decompose if it contains a real prose paragraph.
     for p in tag.find_all("p"):
         if len(p.get_text(strip=True)) > 100:
             return False
+    # A breadcrumb's anchors go UP the tree (../, ../../). A content link
+    # list of buttons points DOWN (foo.html, foo/index.html). If the anchors
+    # are mostly downward, this isn't a breadcrumb.
+    anchors = tag.find_all("a")
+    hrefs = [a.get("href", "") for a in anchors if a.get("href")]
+    if hrefs:
+        upward = sum(1 for h in hrefs if h.startswith("../") or h == "../"
+                     or h.endswith("/index.html") and h.startswith(".."))
+        if upward / len(hrefs) < 0.5:
+            return False
+    # Right-aligned is the breadcrumb's other strong signal; if explicitly
+    # left- or center-aligned, refuse.
+    align = (tag.get("align") or "").lower()
+    if align in {"left", "center"}:
+        return False
     return True
+
+
+def _hoist_button_cell_links(root: Tag) -> None:
+    """Find rows like <tr><td>[<a><img blue/></a>]</td><td>prose</td></tr>
+    and rewrite them so the prose `<td>` becomes a link to the same href.
+    Run before extraction so the rest of the pipeline sees a normal anchor."""
+    for tr in root.find_all("tr"):
+        tds = [td for td in tr.find_all("td", recursive=False)]
+        if len(tds) < 2: continue
+        for i, btn_td in enumerate(tds[:-1]):
+            anchors = btn_td.find_all("a")
+            if len(anchors) != 1: continue
+            a = anchors[0]
+            href = a.get("href", "")
+            if not href: continue
+            # Anchor must be image-only (no inner text)
+            if a.get_text(strip=True): continue
+            imgs = a.find_all("img")
+            if not imgs or any(not is_decorative(i.get("src","")) for i in imgs):
+                continue
+            # Whole button cell must be small (just the anchor + whitespace)
+            cell_text = btn_td.get_text(strip=True)
+            if cell_text: continue
+            desc_td = tds[i + 1]
+            # Skip if desc cell already has its own anchors
+            if desc_td.find("a"): continue
+            desc_text = desc_td.get_text(strip=True)
+            if not desc_text or len(desc_text) > 400: continue
+            # Wrap the desc cell's contents in an <a>.
+            new_a = root.find_parent("html")
+            new_a = (root.find("html") or root).new_tag("a", href=href) if False else None
+            # Simpler: use the soup the tag belongs to.
+            from bs4 import BeautifulSoup as _BS
+            soup_obj = next((p for p in [desc_td] if hasattr(p, 'new_tag')), None)
+            # Tag has no new_tag, but its parents do; walk to soup root.
+            doc = desc_td
+            while doc.parent is not None: doc = doc.parent
+            wrap = doc.new_tag("a", href=href)
+            children = list(desc_td.children)
+            for c in children: wrap.append(c.extract())
+            desc_td.append(wrap)
 
 
 def normalize_text(s: str) -> str:
@@ -256,6 +458,12 @@ def extract_blocks(
     # Drop horizontal rules and stray hr.
     for t in body.find_all("hr"):
         t.decompose()
+
+    # Pre-process the legacy "button-cell + description-cell" table idiom:
+    # <tr><td><a><img blue/></a></td><td>description prose</td></tr>
+    # Hoist the link from the button cell into the description cell so the
+    # downstream extractor associates the prose with the href.
+    _hoist_button_cell_links(body)
 
     # Walk the document, but flatten table/blockquote/div containers — we
     # treat them as transparent and only pick up their atomic contents.
@@ -336,16 +544,25 @@ def extract_blocks(
                     if not is_decorative(i.get("src", ""))
                 ]
                 if inner_imgs:
-                    href = child.get("href", "")
                     href_links = collect_links(child, source_rel)
                     for img in inner_imgs:
                         emit_image(img, links=href_links)
                     continue
-                # Plain text link directly under a structural container.
-                emit_text_block(
-                    "paragraph", text_of(child),
-                    collect_links(child, source_rel),
-                )
+                # Bare/decorative-only <a>: recover label from text inside
+                # OR from the adjacent text run (legacy button-list idiom:
+                # `<a><img blue16.gif></a>&nbsp;LABEL`).
+                inner_text = text_of(child).strip()
+                label = inner_text or _label_after_anchor(child)
+                links = collect_links(child, source_rel)
+                # Force the link's text to the label we resolved, so later
+                # zero-text checks don't drop it.
+                if links and label and not links[0].get("text"):
+                    links[0]["text"] = label
+                emit_text_block("paragraph", label, links)
+                # Mark the label-carrying siblings as consumed so they don't
+                # get re-emitted as orphan paragraphs.
+                if not inner_text and label:
+                    _consume_label_siblings(child, label)
                 continue
             if name == "pre":
                 emit_text_block("preformatted", text_of(child), [])
@@ -406,6 +623,7 @@ def extract_blocks(
 
     blocks = attach_captions(blocks)
     blocks = drop_caption_only_paragraphs(blocks)
+    blocks = promote_section_labels(blocks)
     # Mirror caption back into images_index so it's not empty.
     cap_by_src = {b["src"]: b.get("caption", "") for b in blocks if b["type"] == "figure"}
     for img in images_index:
@@ -437,6 +655,25 @@ def attach_captions(blocks: list[dict]) -> list[dict]:
 
 def drop_caption_only_paragraphs(blocks: list[dict]) -> list[dict]:
     return [b for b in blocks if not b.get("_consumed")]
+
+
+def promote_section_labels(blocks: list[dict]) -> list[dict]:
+    """Convert paragraph blocks that are short, link-less, and immediately
+    precede a link-bearing paragraph into heading blocks. The legacy site
+    used bold prose (not <h*>) to label clusters of links — without this
+    pass they render as orphan body text that looks like broken links."""
+    for i, b in enumerate(blocks):
+        if b.get("type") != "paragraph": continue
+        if b.get("links"): continue
+        text = (b.get("text") or "").strip()
+        if not text or len(text) > 60 or "\n\n" in text: continue
+        # Must be followed by a paragraph that has links.
+        nxt = next((blocks[j] for j in range(i + 1, min(i + 3, len(blocks)))
+                    if blocks[j].get("type") in ("paragraph", "heading")), None)
+        if not nxt or not nxt.get("links"): continue
+        b["type"] = "heading"
+        b["level"] = 4
+    return blocks
 
 
 # ---------- per-page driver --------------------------------------------------

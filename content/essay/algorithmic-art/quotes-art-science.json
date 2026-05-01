@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Algorithmic Art Quotes",
+      "links": [
+        {
+          "text": "Algorithmic Art Quotes",
+          "href": "/algorithmic-art/quotes",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Algorithmic Art Quotes",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Algorithmic Art Index",
+      "links": [
+        {
+          "text": "Algorithmic Art Index",
+          "href": "/algorithmic-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Algorithmic\nArt Index",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Art, science and technology [Quotes]",
       "links": [],
@@ -121,5 +171,9 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/algorithmic-art",
+    "/algorithmic-art/quotes",
+    "/index"
+  ]
 }

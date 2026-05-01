@@ -9,6 +9,27 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Open\nForm Algorithmic\nArt Radical Art",
+      "links": [
+        {
+          "text": "Open Form",
+          "href": "/anything/open-form",
+          "external": false
+        },
+        {
+          "text": "Algorithmic Art",
+          "href": "/algorithmic-art",
+          "external": false
+        },
+        {
+          "text": "Radical Art",
+          "href": "/algorithmic-art",
+          "external": false
+        }
+      ]
+    },
+    {
       "type": "heading",
       "text": "Interactive digital art",
       "links": [],
@@ -98,5 +119,8 @@
     }
   ],
   "images": [],
-  "out_links": []
+  "out_links": [
+    "/algorithmic-art",
+    "/anything/open-form"
+  ]
 }

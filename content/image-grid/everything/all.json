@@ -118,12 +118,12 @@
       "links": [
         {
           "text": "",
-          "href": "/everything/64-kienholz/64-the-world-text-jpg",
+          "href": "/assets/everything/64TheWorld-Text.jpg",
           "external": false
         },
         {
           "text": "The World, 1964",
-          "href": "/everything/64-kienholz/64-the-world-text-jpg",
+          "href": "/assets/everything/64TheWorld-Text.jpg",
           "external": false
         }
       ]
@@ -133,12 +133,12 @@
       "text": "Readymades\n\n\n\nThe\nAesthetics of Reality",
       "links": [
         {
-          "text": "",
+          "text": "Readymades",
           "href": "/things",
           "external": false
         },
         {
-          "text": "",
+          "text": "The Aesthetics of Reality",
           "href": "/things/readymade/quotes",
           "external": false
         }
@@ -190,7 +190,7 @@
     }
   ],
   "out_links": [
-    "/everything/64-kienholz/64-the-world-text-jpg",
+    "/assets/everything/64TheWorld-Text.jpg",
     "/things",
     "/things/readymade/quotes"
   ]

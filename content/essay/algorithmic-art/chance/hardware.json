@@ -9,6 +9,56 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Chance",
+      "links": [
+        {
+          "text": "Chance",
+          "href": "/algorithmic-art/chance/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Chance",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Art & Chance",
+      "links": [
+        {
+          "text": "Art & Chance",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Art & Chance",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": [
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": []
+    },
+    {
       "type": "heading",
       "text": "Hardware devices for generating random sequences",
       "links": [],
@@ -238,17 +288,22 @@
       "text": "Random\nnumber tables\n\n\n\n\nQuotes about chance\n\n\n\n\nChance Art",
       "links": [
         {
-          "text": "",
+          "text": "Random number tables Quotes about chance Chance Art",
+          "href": "/algorithmic-art/grid",
+          "external": false
+        },
+        {
+          "text": "Random number tables Quotes about chance Chance Art",
           "href": "/algorithmic-art/chance/random-number-tables",
           "external": false
         },
         {
-          "text": "",
+          "text": "Quotes about chance",
           "href": "/algorithmic-art/chance/qchance",
           "external": false
         },
         {
-          "text": "",
+          "text": "Chance Art",
           "href": "/algorithmic-art/chance",
           "external": false
         }
@@ -265,7 +320,10 @@
   ],
   "out_links": [
     "/algorithmic-art/chance",
+    "/algorithmic-art/chance/chance",
     "/algorithmic-art/chance/qchance",
-    "/algorithmic-art/chance/random-number-tables"
+    "/algorithmic-art/chance/random-number-tables",
+    "/algorithmic-art/grid",
+    "/index"
   ]
 }

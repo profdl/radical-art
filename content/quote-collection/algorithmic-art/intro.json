@@ -130,7 +130,13 @@
     {
       "type": "paragraph",
       "text": "Scatter-algorithms, which map bags of\nobjects onto positions on the plane.",
-      "links": []
+      "links": [
+        {
+          "text": "Scatter-algorithms, which map bags of objects onto positions on the plane.",
+          "href": "/algorithmic-art/scatter",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -162,12 +168,24 @@
     {
       "type": "paragraph",
       "text": "Grammars.\nTo define visual languages which allow images with arbitrarily\ndeep hierarchical structures, one may draw inspiration from\nthe context-free and context-sensitive rewrite systems of\nearly Chomskyan linguistics.",
-      "links": []
+      "links": [
+        {
+          "text": "Grammars. To define visual languages which allow images with arbitrarily deep hierarchical structures, one may draw inspiration from the context-free and context-sensitive rewrite systems of early Chomskyan linguistics.",
+          "href": "/algorithmic-art/grammar",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "Algebras.\nThe most general approach is to use a mathematical image\ndescription language which encompasses complex image-generation\nand image-transformation operations.",
-      "links": []
+      "links": [
+        {
+          "text": "Algebras. The most general approach is to use a mathematical image description language which encompasses complex image-generation and image-transformation operations.",
+          "href": "/algorithmic-art/algebra",
+          "external": false
+        }
+      ]
     },
     {
       "type": "heading",
@@ -183,12 +201,24 @@
     {
       "type": "paragraph",
       "text": "Complete\nenumeration.",
-      "links": []
+      "links": [
+        {
+          "text": "Complete enumeration.",
+          "href": "/algorithmic-art/enumeration",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "Random\nsampling. If the space of possibilities is very large,\nthis is the only way to give an unbiased impression of what\nit contains.",
-      "links": []
+      "links": [
+        {
+          "text": "Random sampling. If the space of possibilities is very large, this is the only way to give an unbiased impression of what it contains.",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -204,7 +234,13 @@
     {
       "type": "paragraph",
       "text": "Interactivity. The spectator may be allowed to explore\nthe possibilities on her own accord. The algorithm is an\ninterface.",
-      "links": []
+      "links": [
+        {
+          "text": "Interactivity . The spectator may be allowed to explore the possibilities on her own accord. The algorithm is an interface .",
+          "href": "/algorithmic-art/interactivity",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -220,7 +256,13 @@
     {
       "type": "paragraph",
       "text": "Data-visualisation. Images may\nbe constructed by mapping data from a different (non-visual)\ndomain.",
-      "links": []
+      "links": [
+        {
+          "text": "Data-visualisation. Images may be constructed by mapping data from a different (non-visual) domain.",
+          "href": "/algorithmic-art/mapping",
+          "external": false
+        }
+      ]
     },
     {
       "type": "heading",
@@ -260,9 +302,16 @@
     }
   ],
   "out_links": [
+    "/algorithmic-art/algebra",
+    "/algorithmic-art/chance",
+    "/algorithmic-art/enumeration",
     "/algorithmic-art/evolutie",
+    "/algorithmic-art/grammar",
     "/algorithmic-art/grid/cellular",
+    "/algorithmic-art/interactivity",
+    "/algorithmic-art/mapping",
     "/algorithmic-art/movement",
+    "/algorithmic-art/scatter",
     "/anything/open-form",
     "/concept",
     "/kinetics",

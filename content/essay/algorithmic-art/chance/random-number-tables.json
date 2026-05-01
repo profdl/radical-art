@@ -9,6 +9,27 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "paragraph",
+      "text": "Chance\nArt & Chance Radical Art",
+      "links": [
+        {
+          "text": "Chance",
+          "href": "/algorithmic-art/chance/chance",
+          "external": false
+        },
+        {
+          "text": "Art & Chance",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        },
+        {
+          "text": "Radical Art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
       "type": "heading",
       "text": "Some Random Number Tables",
       "links": [],
@@ -51,17 +72,22 @@
       "text": "Hardware devices for generating\nrandom numbers\n\n\n\nQuotes about chance\n\n\n\nChance Art",
       "links": [
         {
-          "text": "",
+          "text": "Hardware devices for generating random numbers",
+          "href": "/algorithmic-art/scatter",
+          "external": false
+        },
+        {
+          "text": "Hardware devices for generating random numbers",
           "href": "/algorithmic-art/chance/hardware",
           "external": false
         },
         {
-          "text": "",
+          "text": "Quotes about chance",
           "href": "/algorithmic-art/chance/qchance",
           "external": false
         },
         {
-          "text": "",
+          "text": "Chance Art",
           "href": "/algorithmic-art/chance",
           "external": false
         }
@@ -76,7 +102,10 @@
   "images": [],
   "out_links": [
     "/algorithmic-art/chance",
+    "/algorithmic-art/chance/chance",
     "/algorithmic-art/chance/hardware",
-    "/algorithmic-art/chance/qchance"
+    "/algorithmic-art/chance/qchance",
+    "/algorithmic-art/scatter",
+    "/index"
   ]
 }

@@ -9,9 +9,10 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "Empty maps",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "heading",
@@ -59,7 +60,7 @@
       "height": null,
       "links": [
         {
-          "text": "",
+          "text": "Terry Atkinson & Michael Baldwin :",
           "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild2b.html",
           "external": true
         },
@@ -79,7 +80,7 @@
       "height": "200",
       "links": [
         {
-          "text": "",
+          "text": "Terry Atkinson & Michael Baldwin :",
           "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild3b.html",
           "external": true
         },

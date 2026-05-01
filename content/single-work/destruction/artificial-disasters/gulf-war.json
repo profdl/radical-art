@@ -9,19 +9,32 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "back to:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "destruction",
-      "links": []
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction/artificial-disasters",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "radical\nart",
-      "links": []
+      "links": [
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "heading",
@@ -83,5 +96,8 @@
       "legacy_src": "../../gif/natuur/FireS/HerzogLiF5.jpg"
     }
   ],
-  "out_links": []
+  "out_links": [
+    "/destruction/artificial-disasters",
+    "/index"
+  ]
 }

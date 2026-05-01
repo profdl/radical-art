@@ -79,7 +79,7 @@
       "height": "150",
       "links": [
         {
-          "text": "",
+          "text": "Ben Vautier: Art, 1958",
           "href": "/concept/tautology/ben",
           "external": false
         }
@@ -683,7 +683,7 @@
       "height": "150",
       "links": [
         {
-          "text": "",
+          "text": "Robert Indiana: Zero, 1964",
           "href": "/concept/tautology/indiana",
           "external": false
         }
@@ -696,7 +696,13 @@
       "caption": "",
       "width": "150",
       "height": "141",
-      "links": []
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/depiction/maps",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -736,7 +742,7 @@
       "links": [
         {
           "text": "Download here.",
-          "href": "/concept/tautology/selfdasm-zip",
+          "href": "/assets/concept/selfdasm.zip",
           "external": false
         }
       ]
@@ -752,7 +758,7 @@
       "text": "René Magritte",
       "links": [
         {
-          "text": "",
+          "text": "René Magritte",
           "href": "/concept/tautology/magritte",
           "external": false
         }
@@ -763,7 +769,7 @@
       "text": "Ben Vautier",
       "links": [
         {
-          "text": "",
+          "text": "Ben Vautier",
           "href": "/concept/tautology/ben",
           "external": false
         }
@@ -774,7 +780,7 @@
       "text": "Jasper Johns",
       "links": [
         {
-          "text": "",
+          "text": "Jasper Johns",
           "href": "/concept/tautology/johns",
           "external": false
         }
@@ -785,7 +791,7 @@
       "text": "Robert Indiana",
       "links": [
         {
-          "text": "",
+          "text": "Robert Indiana",
           "href": "/concept/tautology/indiana",
           "external": false
         }
@@ -796,7 +802,7 @@
       "text": "William Anastasi",
       "links": [
         {
-          "text": "",
+          "text": "William Anastasi",
           "href": "/concept/tautology/anastasi",
           "external": false
         }
@@ -807,7 +813,7 @@
       "text": "On Kawara",
       "links": [
         {
-          "text": "",
+          "text": "On Kawara",
           "href": "/concept/tautology/on-kawara",
           "external": false
         }
@@ -818,7 +824,7 @@
       "text": "Joseph Kosuth",
       "links": [
         {
-          "text": "",
+          "text": "Joseph Kosuth",
           "href": "/concept/tautology/kosuth",
           "external": false
         }
@@ -829,7 +835,7 @@
       "text": "Mel Bochner",
       "links": [
         {
-          "text": "",
+          "text": "Mel Bochner",
           "href": "/concept/tautology/measurement",
           "external": false
         }
@@ -840,7 +846,7 @@
       "text": "Stefan Brüggemann",
       "links": [
         {
-          "text": "",
+          "text": "Stefan Brüggemann",
           "href": "/concept/tautology/99-stefan-brueggemann",
           "external": false
         }
@@ -857,7 +863,7 @@
       "text": "Redundant\nPhotography",
       "links": [
         {
-          "text": "",
+          "text": "Redundant Photography",
           "href": "/concept/tautology/photo",
           "external": false
         }
@@ -868,7 +874,7 @@
       "text": "Redundant Video",
       "links": [
         {
-          "text": "",
+          "text": "Redundant Video",
           "href": "/concept/tautology/video",
           "external": false
         }
@@ -879,7 +885,7 @@
       "text": "Art\nAbout Art",
       "links": [
         {
-          "text": "",
+          "text": "Art About Art",
           "href": "/concept/art-about-art",
           "external": false
         }
@@ -890,7 +896,7 @@
       "text": "Measurement\nPieces",
       "links": [
         {
-          "text": "",
+          "text": "Measurement Pieces",
           "href": "/concept/tautology/measurement",
           "external": false
         }
@@ -901,7 +907,7 @@
       "text": "Monochromes",
       "links": [
         {
-          "text": "",
+          "text": "Monochromes",
           "href": "/nothing/monochrome",
           "external": false
         }
@@ -912,7 +918,7 @@
       "text": "Readymades",
       "links": [
         {
-          "text": "",
+          "text": "Readymades",
           "href": "/things/readymade",
           "external": false
         }
@@ -929,7 +935,7 @@
       "text": "Discussion at the end of the Kosuth page",
       "links": [
         {
-          "text": "",
+          "text": "Discussion at the end of the Kosuth page",
           "href": "/concept/tautology/kosuth",
           "external": false
         }
@@ -1225,6 +1231,7 @@
     }
   ],
   "out_links": [
+    "/assets/concept/selfdasm.zip",
     "/concept/art-about-art",
     "/concept/paradox",
     "/concept/tautology/99-stefan-brueggemann",
@@ -1237,8 +1244,8 @@
     "/concept/tautology/measurement",
     "/concept/tautology/on-kawara",
     "/concept/tautology/photo",
-    "/concept/tautology/selfdasm-zip",
     "/concept/tautology/video",
+    "/nothing/depiction/maps",
     "/nothing/monochrome",
     "/nothing/monochrome/back",
     "/things/readymade"

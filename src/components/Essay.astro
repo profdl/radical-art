@@ -14,23 +14,47 @@ type Item =
   | { kind: "p"; block: Block }
   | { kind: "pre"; text: string }
   | { kind: "ul"; items: { text: string }[] }
-  | { kind: "fig"; block: Block };
+  | { kind: "fig"; block: Block }
+  | { kind: "callout"; label: string; paragraphs: Block[] };
 
-const items: Item[] = blocks
-  .map<Item | null>((b) => {
-    if (b.type === "heading") {
-      const lvl = (b.level ?? 3) as number;
-      if (lvl <= 2) return { kind: "h2", text: b.text };
-      if (lvl === 3) return { kind: "h3", text: b.text };
-      return { kind: "h4", text: b.text };
+const CALLOUT_LABELS = new Set(["colophon", "editor's note", "editors note"]);
+
+function isCalloutHeading(b: Block): boolean {
+  if (b.type !== "heading") return false;
+  const t = String(b.text || "").trim().toLowerCase().replace(/^\[|\]$/g, "");
+  return CALLOUT_LABELS.has(t);
+}
+
+const items: Item[] = [];
+for (let i = 0; i < blocks.length; i++) {
+  const b = blocks[i];
+  if (isCalloutHeading(b)) {
+    const label = String(b.text || "").trim().replace(/^\[|\]$/g, "");
+    const paragraphs: Block[] = [];
+    let j = i + 1;
+    while (j < blocks.length && blocks[j].type === "paragraph") {
+      paragraphs.push(blocks[j]);
+      j++;
     }
-    if (b.type === "paragraph") return { kind: "p", block: b };
-    if (b.type === "preformatted") return { kind: "pre", text: b.text };
-    if (b.type === "list") return { kind: "ul", items: b.items };
-    if (b.type === "figure") return { kind: "fig", block: b };
-    return null;
-  })
-  .filter((x): x is Item => x !== null);
+    items.push({ kind: "callout", label, paragraphs });
+    i = j - 1;
+    continue;
+  }
+  if (b.type === "heading") {
+    const lvl = (b.level ?? 3) as number;
+    if (lvl <= 2) items.push({ kind: "h2", text: b.text });
+    else if (lvl === 3) items.push({ kind: "h3", text: b.text });
+    else items.push({ kind: "h4", text: b.text });
+  } else if (b.type === "paragraph") {
+    items.push({ kind: "p", block: b });
+  } else if (b.type === "preformatted") {
+    items.push({ kind: "pre", text: b.text });
+  } else if (b.type === "list") {
+    items.push({ kind: "ul", items: b.items });
+  } else if (b.type === "figure") {
+    items.push({ kind: "fig", block: b });
+  }
+}
 ---
 
 <article class="prose-archive max-w-[42rem]">
@@ -48,6 +72,17 @@ const items: Item[] = blocks
           <ul class="list-disc pl-6">
             {it.items.map((x) => <li>{x.text}</li>)}
           </ul>
+        );
+      if (it.kind === "callout")
+        return (
+          <aside class="callout">
+            <p class="callout-label">{it.label}</p>
+            <div class="callout-body">
+              {it.paragraphs.map((p) => (
+                <Paragraph text={p.text} links={p.links} />
+              ))}
+            </div>
+          </aside>
         );
       return (
         <div class="my-8 max-w-[28rem]">

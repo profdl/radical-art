@@ -1,54 +1,38 @@
 ---
-import { sectionLabel } from "~/lib/text";
-
 interface Props {
   current?: string;
 }
 
 const { current } = Astro.props;
 
-// Mirror Library Stack's BROWSE / SUBJECT GUIDES / INDEXES grouping:
-// we present the original site's 15 sections as three semantic groups.
-const groups = [
-  {
-    label: "Concepts",
-    items: ["concept", "AlgorithmicArt", "kinetics", "process"],
-  },
-  {
-    label: "Categories",
-    items: ["everything", "anything", "something", "nothing"],
-  },
-  {
-    label: "Themes",
-    items: ["destruction", "Life", "informe", "ego", "nature", "physics", "things"],
-  },
+const items = [
+  { label: "Concept", slug: "concept" },
+  { label: "Life", slug: "life" },
+  { label: "Everything", slug: "everything" },
+  { label: "Algorithm", slug: "algorithmic-art" },
+  { label: "Anything", slug: "anything" },
+  { label: "Mechanics", slug: "kinetics" },
+  { label: "Something", slug: "something" },
+  { label: "Process", slug: "process" },
+  { label: "Destruction", slug: "destruction" },
+  { label: "Nothing", slug: "nothing" },
 ];
-
-function sectionSlug(s: string): string {
-  return s.replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-").toLowerCase();
-}
 ---
 
-<aside class="space-y-10">
-  {
-    groups.map((g) => (
-      <div>
-        <p class="section-label mb-2">{g.label}</p>
-        <nav>
-          {g.items.map((s) => {
-            const slug = sectionSlug(s);
-            const active = current === slug;
-            return (
-              <a
-                href={"/" + slug}
-                class={`sidebar-link ${active ? "underline underline-offset-4" : ""}`}
-              >
-                {sectionLabel(s)}
-              </a>
-            );
-          })}
-        </nav>
-      </div>
-    ))
-  }
+<aside>
+  <nav>
+    {
+      items.map((it) => {
+        const active = current === it.slug;
+        return (
+          <a
+            href={"/" + it.slug}
+            class={`sidebar-link ${active ? "underline underline-offset-4" : ""}`}
+          >
+            {it.label}
+          </a>
+        );
+      })
+    }
+  </nav>
 </aside>

@@ -24,12 +24,12 @@
       "links": [
         {
           "text": "",
-          "href": "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg",
+          "href": "/assets/algorithmicart/65Computergraphic.jpg",
           "external": false
         },
         {
           "text": "click",
-          "href": "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg",
+          "href": "/assets/algorithmicart/65Computergraphic.jpg",
           "external": false
         }
       ]
@@ -155,8 +155,8 @@
       "height": "200",
       "links": [
         {
-          "text": "",
-          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington-93-ising-gif",
+          "text": "Antiferromagnetic triangular lattice",
+          "href": "/assets/algorithmicart/coddington-93-ising.gif",
           "external": false
         }
       ]
@@ -170,8 +170,8 @@
       "height": "200",
       "links": [
         {
-          "text": "",
-          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington93-potts-m-gif",
+          "text": "Antiferromagnetic triangular lattice",
+          "href": "/assets/algorithmicart/coddington93-potts-M.gif",
           "external": false
         }
       ]
@@ -185,8 +185,8 @@
       "height": "200",
       "links": [
         {
-          "text": "",
-          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/o3-vector-spin-model-jpg",
+          "text": "O(3) vector spin model",
+          "href": "/assets/algorithmicart/O3VectorSpinModel.jpg",
           "external": false
         }
       ]
@@ -450,9 +450,9 @@
     }
   ],
   "out_links": [
-    "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington-93-ising-gif",
-    "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington93-potts-m-gif",
-    "/algorithmic-art/grid/cellular/2-d/93-coddington/o3-vector-spin-model-jpg",
-    "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg"
+    "/assets/algorithmicart/65Computergraphic.jpg",
+    "/assets/algorithmicart/O3VectorSpinModel.jpg",
+    "/assets/algorithmicart/coddington-93-ising.gif",
+    "/assets/algorithmicart/coddington93-potts-M.gif"
   ]
 }

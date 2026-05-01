@@ -9,16 +9,17 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "depictions of nothing",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "romantic\nlandscapes",
       "links": [
         {
-          "text": "",
+          "text": "romantic landscapes",
           "href": "/nothing/depiction/romantic",
           "external": false
         }
@@ -29,7 +30,7 @@
       "text": "images of absence",
       "links": [
         {
-          "text": "",
+          "text": "images of absence",
           "href": "/nothing/depiction/realist",
           "external": false
         }
@@ -40,7 +41,7 @@
       "text": "empty\nmaps",
       "links": [
         {
-          "text": "",
+          "text": "empty maps",
           "href": "/nothing/depiction/maps",
           "external": false
         }

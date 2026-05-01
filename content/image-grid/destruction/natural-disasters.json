@@ -9,19 +9,32 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "back to:",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",
       "text": "destruction",
-      "links": []
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "radical\nart",
-      "links": []
+      "links": [
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
     },
     {
       "type": "heading",
@@ -345,6 +358,8 @@
     }
   ],
   "out_links": [
-    "/destruction/natural-disasters/warhol"
+    "/destruction",
+    "/destruction/natural-disasters/warhol",
+    "/index"
   ]
 }

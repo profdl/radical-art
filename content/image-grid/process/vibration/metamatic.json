@@ -51,9 +51,10 @@
       "links": []
     },
     {
-      "type": "paragraph",
+      "type": "heading",
       "text": "(Hultén 1975, p. 84.)",
-      "links": []
+      "links": [],
+      "level": 4
     },
     {
       "type": "paragraph",

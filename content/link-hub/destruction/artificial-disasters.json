@@ -33,17 +33,35 @@
     {
       "type": "paragraph",
       "text": "atom bomb",
-      "links": []
+      "links": [
+        {
+          "text": "atom bomb",
+          "href": "/destruction/artificial-disasters/atom-bomb",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "gulf war",
-      "links": []
+      "links": [
+        {
+          "text": "gulf war",
+          "href": "/destruction/artificial-disasters/gulf-war",
+          "external": false
+        }
+      ]
     },
     {
       "type": "paragraph",
       "text": "9-11",
-      "links": []
+      "links": [
+        {
+          "text": "9-11",
+          "href": "/destruction/artificial-disasters/wtc",
+          "external": false
+        }
+      ]
     },
     {
       "type": "heading",
@@ -60,6 +78,9 @@
   "images": [],
   "out_links": [
     "/destruction",
+    "/destruction/artificial-disasters/atom-bomb",
+    "/destruction/artificial-disasters/gulf-war",
+    "/destruction/artificial-disasters/wtc",
     "/index"
   ]
 }

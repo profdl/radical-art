@@ -207,7 +207,7 @@
       "text": "Falling objects",
       "links": [
         {
-          "text": "",
+          "text": "Falling objects",
           "href": "/physics/gravity/drop",
           "external": false
         }
@@ -219,7 +219,7 @@
       "text": "Falling persons",
       "links": [
         {
-          "text": "",
+          "text": "Falling persons",
           "href": "/physics/gravity/fall",
           "external": false
         }
