@@ -1,0 +1,35 @@
+---
+import { sectionLabel } from "~/lib/text";
+
+interface Props {
+  slug: string;
+  section: string;
+}
+
+const { slug } = Astro.props;
+const parts = slug.split("/").filter(Boolean);
+const crumbs = parts.map((part, i) => ({
+  label: sectionLabel(part),
+  href: i === parts.length - 1 ? null : "/" + parts.slice(0, i + 1).join("/"),
+}));
+---
+
+<nav class="section-label" aria-label="Breadcrumb">
+  <ol class="flex flex-wrap gap-x-2">
+    <li><a href="/" class="hover:underline">Index</a></li>
+    {
+      crumbs.map((c) => (
+        <li class="flex gap-2 text-[color:var(--color-ink-faint)]">
+          <span>/</span>
+          {c.href ? (
+            <a href={c.href} class="text-[color:var(--color-ink)] hover:underline">
+              {c.label}
+            </a>
+          ) : (
+            <span class="text-[color:var(--color-ink)]">{c.label}</span>
+          )}
+        </li>
+      ))
+    }
+  </ol>
+</nav>

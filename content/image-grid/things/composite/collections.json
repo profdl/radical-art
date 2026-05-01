@@ -1,0 +1,517 @@
+{
+  "slug": "things/composite/collections",
+  "legacy_path": "things/composite/collections/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Collections",
+  "heading": "Readymade collections & collections of readymades",
+  "description": "Compound readymades and accumulations of readymades. (From Man Ray to John Armleder.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: readymades radical\nart",
+      "links": [
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Readymade collections & collections of readymades",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Man Ray",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/man-ray-1917NewYork-s.jpg",
+      "alt": "",
+      "caption": "New York, 1917",
+      "width": "180",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/man-ray-1920NewYork-s.jpg",
+      "alt": "",
+      "caption": "New York, 1920",
+      "width": "131",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/man-ray-MRay20Equation-Obstruction.jpg",
+      "alt": "",
+      "caption": "Equation-Obstruction, 1920",
+      "width": "211",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Arman",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[Accumulations]",
+      "links": [
+        {
+          "text": "[Accumulations]",
+          "href": "/things/composite/collections/arman",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman-60TheGayGasMask-s.jpg",
+      "alt": "",
+      "caption": "The Gay Gas mask, 1960",
+      "width": "157",
+      "height": "261",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman-61UneSaisonEnEnfer-s.jpg",
+      "alt": "",
+      "caption": "Une Saison en Enfer, 1961",
+      "width": "140",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman-60ParadoxDuTemps-s.jpg",
+      "alt": "",
+      "caption": "Paradoxe du Temps, 1960",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Daniel Spoerri",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[Tableaux-Pièges]",
+      "links": [
+        {
+          "text": "[Tableaux-Pièges]",
+          "href": "/things/composite/collections/spoerri",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/spoerri-Spoerri59-60-ProsePoems-S.jpg",
+      "alt": "",
+      "caption": "Prose Poems, 1959-1960",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/spoerri-61LaTableBleue.jpg",
+      "alt": "",
+      "caption": "La Table Bleue, 1961",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/spoerri-CollectionDEpices63-S.jpg",
+      "alt": "",
+      "caption": "Collection d'Épices, 1963",
+      "width": "649",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Allan Kaprow",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/AllanKaprow61Yard.jpg",
+      "alt": "",
+      "caption": "Yard, 1961",
+      "width": "182",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Christo",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/christo-62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Rideau de Fer, 1962",
+      "width": "218",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/christo-68-28BarrelsStructure-S.jpg",
+      "alt": "",
+      "caption": "28 Barrels Structure, 1968",
+      "width": "230",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "George Brecht",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/brechtMersDAlors1972-s.jpg",
+      "alt": "",
+      "caption": "Mers d'Alors, 1972",
+      "width": "114",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jeff Koons",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/koons-8187NHConvertibles-S.jpg",
+      "alt": "",
+      "caption": "New Hoover Covertibles,\n\n1981/1987",
+      "width": "206",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/koons-84NewHooverConvertibles-S.jpg",
+      "alt": "",
+      "caption": "New Hoover Convertibles,\n\n1984",
+      "width": "223",
+      "height": "292",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/koons-8086NHDeluxeShampooPolishrs.jpg",
+      "alt": "",
+      "caption": "New Hoover De Luxe\n\nShampoo Polishers, 1980/1986",
+      "width": "150",
+      "height": "210",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Haim\nSteinbach",
+      "links": [
+        {
+          "text": "Haim Steinbach",
+          "href": "/things/composite/collections/steinbach",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach-85RelatedAndDifferent.jpg",
+      "alt": "",
+      "caption": "Related and Different, 1985",
+      "width": "170",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach-85supremelyblack.jpg",
+      "alt": "",
+      "caption": "Supremely Black, 1985",
+      "width": "348",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ange Leccia",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/ange-leccia-AngeLeciia87Conversation-S.jpg",
+      "alt": "",
+      "caption": "Conversation, 1987",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/ange-leccia-AngeLeccia88Lolita-S.jpg",
+      "alt": "",
+      "caption": "Lolita, 1988",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/ange-leccia-leccia-bmw-S.jpg",
+      "alt": "",
+      "caption": "BMW",
+      "width": "227",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Armleder",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/armleder-Armleder97-2000DonTDoIti-S.jpg",
+      "alt": "",
+      "caption": "Don't Do It! (1997/2000)",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/armleder-armleder-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "294",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More readymade collections by:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Arman",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/composite/collections/arman",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Daniel Spoerri",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/composite/collections/spoerri",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Haim Steinbach",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/composite/collections/steinbach",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/composite/collections/man-ray-1917NewYork-s.jpg",
+      "alt": "",
+      "caption": "New York, 1917",
+      "legacy_src": "ManRay/1917NewYork-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/man-ray-1920NewYork-s.jpg",
+      "alt": "",
+      "caption": "New York, 1920",
+      "legacy_src": "ManRay/1920NewYork-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/man-ray-MRay20Equation-Obstruction.jpg",
+      "alt": "",
+      "caption": "Equation-Obstruction, 1920",
+      "legacy_src": "ManRay/MRay20Equation-Obstruction.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman-60TheGayGasMask-s.jpg",
+      "alt": "",
+      "caption": "The Gay Gas mask, 1960",
+      "legacy_src": "Arman/60TheGayGasMask-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman-61UneSaisonEnEnfer-s.jpg",
+      "alt": "",
+      "caption": "Une Saison en Enfer, 1961",
+      "legacy_src": "Arman/61UneSaisonEnEnfer-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman-60ParadoxDuTemps-s.jpg",
+      "alt": "",
+      "caption": "Paradoxe du Temps, 1960",
+      "legacy_src": "Arman/60ParadoxDuTemps-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/spoerri-Spoerri59-60-ProsePoems-S.jpg",
+      "alt": "",
+      "caption": "Prose Poems, 1959-1960",
+      "legacy_src": "Spoerri/Spoerri59-60-ProsePoems-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/spoerri-61LaTableBleue.jpg",
+      "alt": "",
+      "caption": "La Table Bleue, 1961",
+      "legacy_src": "Spoerri/61LaTableBleue.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/spoerri-CollectionDEpices63-S.jpg",
+      "alt": "",
+      "caption": "Collection d'Épices, 1963",
+      "legacy_src": "Spoerri/CollectionDEpices63-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/AllanKaprow61Yard.jpg",
+      "alt": "",
+      "caption": "Yard, 1961",
+      "legacy_src": "AllanKaprow61Yard.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/christo-62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Rideau de Fer, 1962",
+      "legacy_src": "christo/62RideauDeFer.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/christo-68-28BarrelsStructure-S.jpg",
+      "alt": "",
+      "caption": "28 Barrels Structure, 1968",
+      "legacy_src": "christo/68-28BarrelsStructure-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/brechtMersDAlors1972-s.jpg",
+      "alt": "",
+      "caption": "Mers d'Alors, 1972",
+      "legacy_src": "brechtMersDAlors1972-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/koons-8187NHConvertibles-S.jpg",
+      "alt": "",
+      "caption": "New Hoover Covertibles,\n\n1981/1987",
+      "legacy_src": "Koons/8187NHConvertibles-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/koons-84NewHooverConvertibles-S.jpg",
+      "alt": "",
+      "caption": "New Hoover Convertibles,\n\n1984",
+      "legacy_src": "Koons/84NewHooverConvertibles-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/koons-8086NHDeluxeShampooPolishrs.jpg",
+      "alt": "",
+      "caption": "New Hoover De Luxe\n\nShampoo Polishers, 1980/1986",
+      "legacy_src": "Koons/8086NHDeluxeShampooPolishrs.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach-85RelatedAndDifferent.jpg",
+      "alt": "",
+      "caption": "Related and Different, 1985",
+      "legacy_src": "steinbach/85RelatedAndDifferent.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach-85supremelyblack.jpg",
+      "alt": "",
+      "caption": "Supremely Black, 1985",
+      "legacy_src": "steinbach/85supremelyblack.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/ange-leccia-AngeLeciia87Conversation-S.jpg",
+      "alt": "",
+      "caption": "Conversation, 1987",
+      "legacy_src": "AngeLeccia/AngeLeciia87Conversation-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/ange-leccia-AngeLeccia88Lolita-S.jpg",
+      "alt": "",
+      "caption": "Lolita, 1988",
+      "legacy_src": "AngeLeccia/AngeLeccia88Lolita-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/ange-leccia-leccia-bmw-S.jpg",
+      "alt": "",
+      "caption": "BMW",
+      "legacy_src": "AngeLeccia/leccia-bmw-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/armleder-Armleder97-2000DonTDoIti-S.jpg",
+      "alt": "",
+      "caption": "Don't Do It! (1997/2000)",
+      "legacy_src": "Armleder/Armleder97-2000DonTDoIti-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/armleder-armleder-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Armleder/armleder-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/composite/collections/arman",
+    "/things/composite/collections/spoerri",
+    "/things/composite/collections/steinbach"
+  ]
+}

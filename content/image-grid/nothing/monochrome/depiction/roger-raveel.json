@@ -1,0 +1,456 @@
+{
+  "slug": "nothing/monochrome/depiction/roger-raveel",
+  "legacy_path": "nothing/monochrome/depiction/RogerRaveel/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Roger Raveel",
+  "heading": "Roger Raveel: Adventures of the Empty Square",
+  "description": "Het lege vierkant in het werk van Roger Raveel.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Roger Raveel: Adventures of the Empty Square",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/depiction-60-raveel-s.jpg",
+      "alt": "",
+      "caption": "1960",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/63DSlechteCollectioneur.jpg",
+      "alt": "",
+      "caption": "De Slechte Collectionneur, 1963",
+      "width": "146",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/65HerinneringAHSterfbedVMM.jpg",
+      "alt": "",
+      "caption": "Herinnering aan het sterfbed van mijn moeder, 1965",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Een Sacraal Vierkant, 1966",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/70ZT(UitEenManOpStap).jpg",
+      "alt": "",
+      "caption": "Een Man Op Stap, 1970",
+      "width": "139",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/73MetDeBesteGroeten-s.jpg",
+      "alt": "",
+      "caption": "\"Met de beste groeten aan alle kunstenaars, goede en slechte\",\n1973",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/66-demuur.jpg",
+      "alt": "",
+      "caption": "De Muur, 1966",
+      "width": "276",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/78-Schilderijenoptocht.jpg",
+      "alt": "",
+      "caption": "De schilderijenoptocht van 1978 te Machelen aan de Leie",
+      "width": "250",
+      "height": "126",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/87-96-Een-abstractieIELE-s.jpg",
+      "alt": "",
+      "caption": "Een abstractie in een landschappelijk evenwicht, 1987/1996",
+      "width": "230",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/91Mirror-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1991",
+      "width": "191",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/93BeziningBijDeWeerschijn-S.jpg",
+      "alt": "",
+      "caption": "Bezinning bij de weerschijn in kleuren verzadigd, 1993",
+      "width": "194",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/99KijkenInDeLeegteVERchthkS.jpg",
+      "alt": "",
+      "caption": "Kijken in de leegte van een rechthoek, 1999",
+      "width": "176",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/99ToenZatZijAanEenTafel-S.jpg",
+      "alt": "",
+      "caption": "Toen zat zij aan een tafel, 1999",
+      "width": "175",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/DeSchilderAchterZijnEzel-s.jpg",
+      "alt": "",
+      "caption": "De schilder achter zijn ezel",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "179",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel5-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/Raveel_Aanschouwen.jpg",
+      "alt": "",
+      "caption": "Aanschouwen",
+      "width": "150",
+      "height": "218",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/WatBrengtDeToekomstQ-s.jpg",
+      "alt": "",
+      "caption": "Wat brengt de toekomst?",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/02RoepOmSolidariteit-s.jpg",
+      "alt": "",
+      "caption": "Roep om solidariteit, 2002",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/0203DEeuwigeOptochtVDSch-S.jpg",
+      "alt": "",
+      "caption": "De eeuwige schilderijenoptocht, 1979/2003",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-2-ZoalsZijnBeelden-s.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "width": "184",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-5-ZoalsZijnBeelden-s.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-prent2-ZlsZnBldn-S.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "width": "176",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04NatuurEnEGedIDLVE4kant-s.jpg",
+      "alt": "",
+      "caption": "Natuur en een gedachte in de leegte van een vierkant, 2004",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04-1DrangNaarVolmaaktheid-s.jpg",
+      "alt": "",
+      "caption": "Een drang naar volmaaktheid, 2004",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04DeOvertuigden-s.jpg",
+      "alt": "",
+      "caption": "De Overtuigden, 2004",
+      "width": "230",
+      "height": "181",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/depiction-60-raveel-s.jpg",
+      "alt": "",
+      "caption": "1960",
+      "legacy_src": "../60-raveel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/63DSlechteCollectioneur.jpg",
+      "alt": "",
+      "caption": "De Slechte Collectionneur, 1963",
+      "legacy_src": "63DSlechteCollectioneur.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/65HerinneringAHSterfbedVMM.jpg",
+      "alt": "",
+      "caption": "Herinnering aan het sterfbed van mijn moeder, 1965",
+      "legacy_src": "65HerinneringAHSterfbedVMM.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Een Sacraal Vierkant, 1966",
+      "legacy_src": "66EenSacraalVierkant-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/70ZT(UitEenManOpStap).jpg",
+      "alt": "",
+      "caption": "Een Man Op Stap, 1970",
+      "legacy_src": "70ZT(UitEenManOpStap).jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/73MetDeBesteGroeten-s.jpg",
+      "alt": "",
+      "caption": "\"Met de beste groeten aan alle kunstenaars, goede en slechte\",\n1973",
+      "legacy_src": "73MetDeBesteGroeten-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/66-demuur.jpg",
+      "alt": "",
+      "caption": "De Muur, 1966",
+      "legacy_src": "66-demuur.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/78-Schilderijenoptocht.jpg",
+      "alt": "",
+      "caption": "De schilderijenoptocht van 1978 te Machelen aan de Leie",
+      "legacy_src": "78-Schilderijenoptocht.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/87-96-Een-abstractieIELE-s.jpg",
+      "alt": "",
+      "caption": "Een abstractie in een landschappelijk evenwicht, 1987/1996",
+      "legacy_src": "87-96-Een-abstractieIELE-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/91Mirror-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1991",
+      "legacy_src": "91Mirror-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/93BeziningBijDeWeerschijn-S.jpg",
+      "alt": "",
+      "caption": "Bezinning bij de weerschijn in kleuren verzadigd, 1993",
+      "legacy_src": "93BeziningBijDeWeerschijn-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/99KijkenInDeLeegteVERchthkS.jpg",
+      "alt": "",
+      "caption": "Kijken in de leegte van een rechthoek, 1999",
+      "legacy_src": "99KijkenInDeLeegteVERchthkS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/99ToenZatZijAanEenTafel-S.jpg",
+      "alt": "",
+      "caption": "Toen zat zij aan een tafel, 1999",
+      "legacy_src": "99ToenZatZijAanEenTafel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/DeSchilderAchterZijnEzel-s.jpg",
+      "alt": "",
+      "caption": "De schilder achter zijn ezel",
+      "legacy_src": "DeSchilderAchterZijnEzel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaveelZonderTitel-2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaveelZonderTitel-4-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel-6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaveelZonderTitel-6-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaveelZonderTitel3-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/RaveelZonderTitel5-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaveelZonderTitel5-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/Raveel_Aanschouwen.jpg",
+      "alt": "",
+      "caption": "Aanschouwen",
+      "legacy_src": "Raveel_Aanschouwen.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/WatBrengtDeToekomstQ-s.jpg",
+      "alt": "",
+      "caption": "Wat brengt de toekomst?",
+      "legacy_src": "WatBrengtDeToekomstQ-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/02RoepOmSolidariteit-s.jpg",
+      "alt": "",
+      "caption": "Roep om solidariteit, 2002",
+      "legacy_src": "02RoepOmSolidariteit-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/0203DEeuwigeOptochtVDSch-S.jpg",
+      "alt": "",
+      "caption": "De eeuwige schilderijenoptocht, 1979/2003",
+      "legacy_src": "0203DEeuwigeOptochtVDSch-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-2-ZoalsZijnBeelden-s.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "legacy_src": "03-2-ZoalsZijnBeelden-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-5-ZoalsZijnBeelden-s.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "legacy_src": "03-5-ZoalsZijnBeelden-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/03-prent2-ZlsZnBldn-S.jpg",
+      "alt": "",
+      "caption": "Zoals Zijn Beelden, 2003",
+      "legacy_src": "03-prent2-ZlsZnBldn-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04NatuurEnEGedIDLVE4kant-s.jpg",
+      "alt": "",
+      "caption": "Natuur en een gedachte in de leegte van een vierkant, 2004",
+      "legacy_src": "04NatuurEnEGedIDLVE4kant-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04-1DrangNaarVolmaaktheid-s.jpg",
+      "alt": "",
+      "caption": "Een drang naar volmaaktheid, 2004",
+      "legacy_src": "04-1DrangNaarVolmaaktheid-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel/04DeOvertuigden-s.jpg",
+      "alt": "",
+      "caption": "De Overtuigden, 2004",
+      "legacy_src": "04DeOvertuigden-s.jpg"
+    }
+  ],
+  "out_links": []
+}

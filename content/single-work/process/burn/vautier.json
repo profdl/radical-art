@@ -1,0 +1,69 @@
+{
+  "slug": "process/burn/vautier",
+  "legacy_path": "process/burn/vautier.html",
+  "section": "process",
+  "archetype": "single-work",
+  "title": "burn the louvre",
+  "heading": "",
+  "description": "Ben Vautier's pyromania projects.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Ben Vautier: Pyromania Projects",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Burn the Louvre.",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "From: Projects for Events, 1962.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Houses that burn,\ntowns that burn, forests that burn, old ladies that burn, fire that\nburns — the pyromaniac is ME.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Fires, 1962.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/vautier/fire-s-VautierTotalartmatchbox66-S.jpg",
+      "alt": "",
+      "caption": "Total Art Matchbox, 1966",
+      "width": "300",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Source",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier: Me\nBen I Sign. Surrey (UK): Beau Geste Press, 1975).",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/vautier/fire-s-VautierTotalartmatchbox66-S.jpg",
+      "alt": "",
+      "caption": "Total Art Matchbox, 1966",
+      "legacy_src": "../../gif/natuur/FireS/VautierTotalartmatchbox66-S.jpg"
+    }
+  ],
+  "out_links": []
+}

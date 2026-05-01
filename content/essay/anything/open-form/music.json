@@ -1,0 +1,114 @@
+{
+  "slug": "anything/open-form/music",
+  "legacy_path": "anything/OpenForm/Music.html",
+  "section": "anything",
+  "archetype": "essay",
+  "title": "Open Form",
+  "heading": "",
+  "description": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Open Form: underspecified music",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Classical composers do not make music – they\nwrite scores which specify the scenarios followed by performing\nartists who create actual sonic structures. Composers could thus\nchoose an extremely modest interpretation of their role. Since they\ntrust the creativity of their performers, they could be content\nto view themselves as mere providers of material, without necessarily\nanticipating how the performer would use it, or entertaining expectations\nabout the eventually resulting sounds. Since the early 1960's, this\nmanner of composing has been been practiced in several different\nways. Examples are:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Graphic scores whose interpretation\nis partially or completely unspecified. The most radical proponent\nof this genre is Anastesis Logothetis. The anthology Notations,\nedited by John Cage, provides examples from many composers.",
+          "links": []
+        },
+        {
+          "text": "\"Meta-scores\" with\nan infinite variety of structurally different realisations, from\nwhich the performer may choose at his own discretion. A very complex\nexample is Plus-Minus by Karlheinz Stockhausen.",
+          "links": []
+        },
+        {
+          "text": "\"Word pieces\": generic\nverbal descriptions of musical events. This genre was practiced\nby George Brecht, La Monte Young, Henry Flynt, Dick Higgins, George\nMaciunas, and other composers associated with the International\nFluxus Movement.\n\nSome of these pieces do not specify any constraints. And some\nare impossible to perform; that is when music becomes concept\nart.",
+          "links": [
+            {
+              "text": "concept art",
+              "href": "/concept",
+              "external": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, the transfer of the composer's authority\nto the performer's autonomy symbolizes a political stance. John Cage,\none of the most enthusiastic advocates of indeterminacy, was\na card-carrying anarchist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Discuss also:\n\n\n\nUmberto Eco: \"The Poetics of the Open Work.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Konrad Boehmer re John Cage.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Essay topic",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigate the technique and meaning of indeterminacy\nin Karlheinz Stockhausen's work. Discuss Plus-Minus, the \"concept-pieces\",\nhis belief in magic, his reaction to the destruction of the World Trade\nCenter. Note that in some of his early serial works, indeterminacy was\na parameter.",
+      "links": [
+        {
+          "text": "his reaction to the destruction of the World Trade Center",
+          "href": "/destruction/artificial-disasters/wtc",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It is obvious that to appreciate the\nmany facets of open forms is beyond the means of any ordinary listener\nand possibly only of real significance to the composer himself.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R. Smith Brindle: The New Music, p. 72.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Interactivity",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "One may also organize a musical performance so as\nto allow the public to exercise a decisive influence on its course.\nThe first such \"interactive\" pieces were developed in the\ncontext of post-serial non-deterministic music. (Henri Pousseur's\n\"Votre Faust\" involves a \"voting machine\").\n\n\n\nIn a much less formal way, the \"happenings\" by Allan Kaprow\nand others also allow more audience interaction than traditional music\nor theatre. In some concerts by The New Electric Chamber Music Ensemble (1966), members of the audience completely took over the stage in the course of the evening.",
+      "links": [
+        {
+          "text": "The New Electric Chamber Music Ensemble",
+          "href": "http://iaaa.nl/rs/NewElectric/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha – November 7, 2006",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/destruction/artificial-disasters/wtc"
+  ]
+}

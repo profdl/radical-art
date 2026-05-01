@@ -1,0 +1,197 @@
+{
+  "slug": "everything/all",
+  "legacy_path": "everything/all.html",
+  "section": "everything",
+  "archetype": "image-grid",
+  "title": "all",
+  "heading": "The World as an Artwork",
+  "description": "All as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The World as an Artwork",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Lewis Carroll\n\n\n\n\n“That’s another thing we’ve learned from your Nation,” said Mein Herr, “map-making. But we’ve\ncarried it much further than you. What do you consider the largest map that would be really useful?” “About six inches to the mile.”\n“Only six inches!” exclaimed\nMein Herr. “We very soon got to six yards to\nthe mile. Then we tried a hundred yards to the mile.\nAnd then came the grandest idea of all! We actually made a\nmap of the country, on the scale of a mile to the mile!”\n”Have you used it much?” I enquired. “It has never been spread out, yet,”\nsaid Mein Herr: “the farmers objected: they said it would\ncover the whole country, and shut out the sunlight! So we\nnow use the country itself, as its own map, and I assure you\nit does nearly as well.\"\n\n\n\n\nSylvie and Bruno Concluded,\n1893 [Chapter\nXI: The Man in the Moon.]",
+      "links": [
+        {
+          "text": "Chapter XI: The Man in the Moon.",
+          "href": "http://www.hoboes.com/html/FireBlade/Carroll/Sylvie/Concluded/Chapter11.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "gerhard rühm",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/GerhardRuehm-1952-alle-s.jpg",
+      "alt": "",
+      "caption": "ein-wort-tafel, 1952",
+      "width": "230",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/ben-vautier-tout-1960-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "218",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/ben-6065[Tout]-s.jpg",
+      "alt": "",
+      "caption": "\"Je signe tout\", 1960/1965",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/ben-RienTout1979-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "199",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"J'ai rien à vous montrer.\n\nIl y à tout à voir.\" (1979)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/ben-BenToutEstArt1961.jpg",
+      "alt": "",
+      "caption": "1961",
+      "width": "350",
+      "height": "82",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Piero\nManzoni",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/manzoni-socle_du_monde-s.jpg",
+      "alt": "",
+      "caption": "Socle du Monde, Herning\n(Denmark), 1961.\n\n\n(Socle magique no.3. Hommage à Galileo.)",
+      "width": "326",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Edward\nKienholz",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/everything/all/64-kienholz-64-TheWorld-s.jpg",
+      "alt": "",
+      "caption": "The World, 1964",
+      "width": "305",
+      "height": "250",
+      "links": [
+        {
+          "text": "",
+          "href": "/everything/64-kienholz/64-the-world-text-jpg",
+          "external": false
+        },
+        {
+          "text": "The World, 1964",
+          "href": "/everything/64-kienholz/64-the-world-text-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Readymades\n\n\n\nThe\nAesthetics of Reality",
+      "links": [
+        {
+          "text": "",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/readymade/quotes",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/everything/all/GerhardRuehm-1952-alle-s.jpg",
+      "alt": "",
+      "caption": "ein-wort-tafel, 1952",
+      "legacy_src": "GerhardRuehm-1952-alle-s.jpg"
+    },
+    {
+      "src": "/images/everything/all/ben-vautier-tout-1960-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/vautier-tout-1960-S.jpg"
+    },
+    {
+      "src": "/images/everything/all/ben-6065[Tout]-s.jpg",
+      "alt": "",
+      "caption": "\"Je signe tout\", 1960/1965",
+      "legacy_src": "Ben/6065%5BTout%5D-s.jpg"
+    },
+    {
+      "src": "/images/everything/all/ben-RienTout1979-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/RienTout1979-s.jpg"
+    },
+    {
+      "src": "/images/everything/all/ben-BenToutEstArt1961.jpg",
+      "alt": "",
+      "caption": "1961",
+      "legacy_src": "Ben/BenToutEstArt1961.jpg"
+    },
+    {
+      "src": "/images/everything/all/manzoni-socle_du_monde-s.jpg",
+      "alt": "",
+      "caption": "Socle du Monde, Herning\n(Denmark), 1961.\n\n\n(Socle magique no.3. Hommage à Galileo.)",
+      "legacy_src": "Manzoni/socle_du_monde-s.jpg"
+    },
+    {
+      "src": "/images/everything/all/64-kienholz-64-TheWorld-s.jpg",
+      "alt": "",
+      "caption": "The World, 1964",
+      "legacy_src": "64Kienholz/64-TheWorld-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/everything/64-kienholz/64-the-world-text-jpg",
+    "/things",
+    "/things/readymade/quotes"
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "slug": "nothing/cover-up/uebermalung/rainer",
+  "legacy_path": "nothing/cover-up/Uebermalung/Rainer/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Arnulf Rainer: Übermalungen",
+  "heading": "Arnulf Rainer",
+  "description": "Übermalungen von Arnulf Rainer.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Arnulf Rainer",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Übermalungen, Zumalungen, Überdeckungen, Überzeichnungen",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/53-Gitterbild-s.jpg",
+      "alt": "",
+      "caption": "Gitterbild, 1953",
+      "width": "175",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/54Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Überdeckung, 1954",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/54-55-Hund-S.jpg",
+      "alt": "",
+      "caption": "Hund, 1954/1955",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55-Zuhaengung-S.jpg",
+      "alt": "",
+      "caption": "Zuhängung, 1955",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55Baeume-S.jpg",
+      "alt": "",
+      "caption": "Baüme, 1955",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Überdeckung, 1955",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55-61GrassUebermalung-S.jpg",
+      "alt": "",
+      "caption": "Grass Übermalung, 1955/1961",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56-AugUndNas-S.jpg",
+      "alt": "",
+      "caption": "Aug und Nas, 1956",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56SchwarzeZumalung-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Zumalung, 1956",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56Uebermalung-s.jpg",
+      "alt": "",
+      "caption": "Übermalung, 1956",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/57-OT(Ueberdeckung)-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Überdeckung), 1957",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/57-Wolke-S.jpg",
+      "alt": "",
+      "caption": "Wolke, 1957",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/58-RoteUbrdckng-S.jpg",
+      "alt": "",
+      "caption": "Rote Überdeckung, 1958",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/61--Wind-S.jpg",
+      "alt": "",
+      "caption": "Wind, 1961",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/61-64-BildMitDerSchnenEckeS.jpg",
+      "alt": "",
+      "caption": "Bild mit der schönen Ecke, 1961/1964",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/62UebrzeichneteLandschaft-S.jpg",
+      "alt": "",
+      "caption": "Überzeichnete Landschaft, 1962",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/62-64-Uebermalung-S.jpg",
+      "alt": "",
+      "caption": "Übermalung, 1962/1964",
+      "width": "134",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/63-66-Wand-s.jpg",
+      "alt": "",
+      "caption": "Wand, 1963/1966",
+      "width": "152",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/65Schall-s.jpg",
+      "alt": "",
+      "caption": "Schall, 1966",
+      "width": "230",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/72-80-Laberl-s.jpg",
+      "alt": "",
+      "caption": "Laberl, 1972/1980",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/75Sturm-s.jpg",
+      "alt": "",
+      "caption": "Sturm, 1975",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/76-U(AchtungNicht...!)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohne Titel, 1976\n\n(Achtung Nicht ...!)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/79-80-Christus-s.jpg",
+      "alt": "",
+      "caption": "Christus, 1979/1980",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/79-82-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1979/1982",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/81-82-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1981/1982",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/94-OT(AulschngNMschm)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "153",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohne Titel, 1994\n\n(Auslöschung nach Messerschmidt)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/94-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1994",
+      "width": "230",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/96-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1996",
+      "width": "133",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/2000Schiff-s.jpg",
+      "alt": "",
+      "caption": "Schiff, 2000",
+      "width": "230",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/rainer/2001GruenesKornfeld-s.jpg",
+      "alt": "",
+      "caption": "Grünes Kornfeld, 2001",
+      "width": "230",
+      "height": "171",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/53-Gitterbild-s.jpg",
+      "alt": "",
+      "caption": "Gitterbild, 1953",
+      "legacy_src": "53-Gitterbild-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/54Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Überdeckung, 1954",
+      "legacy_src": "54Ueberdeckung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/54-55-Hund-S.jpg",
+      "alt": "",
+      "caption": "Hund, 1954/1955",
+      "legacy_src": "54-55-Hund-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55-Zuhaengung-S.jpg",
+      "alt": "",
+      "caption": "Zuhängung, 1955",
+      "legacy_src": "55-Zuhaengung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55Baeume-S.jpg",
+      "alt": "",
+      "caption": "Baüme, 1955",
+      "legacy_src": "55Baeume-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Überdeckung, 1955",
+      "legacy_src": "55Ueberdeckung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/55-61GrassUebermalung-S.jpg",
+      "alt": "",
+      "caption": "Grass Übermalung, 1955/1961",
+      "legacy_src": "55-61GrassUebermalung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56-AugUndNas-S.jpg",
+      "alt": "",
+      "caption": "Aug und Nas, 1956",
+      "legacy_src": "56-AugUndNas-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56SchwarzeZumalung-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Zumalung, 1956",
+      "legacy_src": "56SchwarzeZumalung-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/56Uebermalung-s.jpg",
+      "alt": "",
+      "caption": "Übermalung, 1956",
+      "legacy_src": "56Uebermalung-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/57-OT(Ueberdeckung)-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Überdeckung), 1957",
+      "legacy_src": "57-OT(Ueberdeckung)-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/57-Wolke-S.jpg",
+      "alt": "",
+      "caption": "Wolke, 1957",
+      "legacy_src": "57-Wolke-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/58-RoteUbrdckng-S.jpg",
+      "alt": "",
+      "caption": "Rote Überdeckung, 1958",
+      "legacy_src": "58-RoteUbrdckng-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/61--Wind-S.jpg",
+      "alt": "",
+      "caption": "Wind, 1961",
+      "legacy_src": "61--Wind-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/61-64-BildMitDerSchnenEckeS.jpg",
+      "alt": "",
+      "caption": "Bild mit der schönen Ecke, 1961/1964",
+      "legacy_src": "61-64-BildMitDerSchnenEckeS.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/62UebrzeichneteLandschaft-S.jpg",
+      "alt": "",
+      "caption": "Überzeichnete Landschaft, 1962",
+      "legacy_src": "62UebrzeichneteLandschaft-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/62-64-Uebermalung-S.jpg",
+      "alt": "",
+      "caption": "Übermalung, 1962/1964",
+      "legacy_src": "62-64-Uebermalung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/63-66-Wand-s.jpg",
+      "alt": "",
+      "caption": "Wand, 1963/1966",
+      "legacy_src": "63-66-Wand-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/65Schall-s.jpg",
+      "alt": "",
+      "caption": "Schall, 1966",
+      "legacy_src": "65Schall-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/72-80-Laberl-s.jpg",
+      "alt": "",
+      "caption": "Laberl, 1972/1980",
+      "legacy_src": "72-80-Laberl-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/75Sturm-s.jpg",
+      "alt": "",
+      "caption": "Sturm, 1975",
+      "legacy_src": "75Sturm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/76-U(AchtungNicht...!)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "76-U(AchtungNicht...!)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/79-80-Christus-s.jpg",
+      "alt": "",
+      "caption": "Christus, 1979/1980",
+      "legacy_src": "79-80-Christus-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/79-82-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1979/1982",
+      "legacy_src": "79-82-OT-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/81-82-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1981/1982",
+      "legacy_src": "81-82-OT-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/94-OT(AulschngNMschm)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "94-OT(AulschngNMschm)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/94-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1994",
+      "legacy_src": "94-OT-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/96-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1996",
+      "legacy_src": "96-OT-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/2000Schiff-s.jpg",
+      "alt": "",
+      "caption": "Schiff, 2000",
+      "legacy_src": "2000Schiff-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/rainer/2001GruenesKornfeld-s.jpg",
+      "alt": "",
+      "caption": "Grünes Kornfeld, 2001",
+      "legacy_src": "2001GruenesKornfeld-s.jpg"
+    }
+  ],
+  "out_links": []
+}

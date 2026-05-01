@@ -1,0 +1,264 @@
+{
+  "slug": "nothing/monochrome/light",
+  "legacy_path": "nothing/monochrome/light/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "UniformLight",
+  "heading": "Uniform Light",
+  "description": "Light as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Uniform Light",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Dan Flavin",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/flavin-FlavinIconV-1962-S.jpg",
+      "alt": "",
+      "caption": "Icon V, 1962",
+      "width": "226",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/flavin-FlavinTDiagonalOMay25,1963S.jpg",
+      "alt": "",
+      "caption": "Diagonal of May 25, 1963",
+      "width": "221",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/flavin-Flavin-Unt6-1963.jpg",
+      "alt": "",
+      "caption": "Untitled # 6, 1963",
+      "width": "340",
+      "height": "206",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/flavin-FlavinU(PinkOutOACorner)63S.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n(Pink out of a corner), 1963",
+      "width": "165",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "James Turrell",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/turrell-Turrell-AfrumI-1967-S.jpg",
+      "alt": "",
+      "caption": "Afrum I, 1967",
+      "width": "235",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/turrell-turrellArcusWhite1967-S.jpg",
+      "alt": "",
+      "caption": "Arcus White, 1967",
+      "width": "153",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/turrell-turrellOndoeBlue1968-S.jpg",
+      "alt": "",
+      "caption": "Ondoe Blue, 1968",
+      "width": "243",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/turrell-turrellEnzuRed1967-S.jpg",
+      "alt": "",
+      "caption": "Enzu Red, 1967",
+      "width": "156",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Irwin",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/robert-irwin-RobertIrwinUnt1968.jpg",
+      "alt": "",
+      "caption": "Untitled, 1968",
+      "width": "206",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/robert-irwin-IrwinVareseScrim1973-s.jpg",
+      "alt": "",
+      "caption": "Varese Scrim, 1973",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Doug Wheeler",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/doug-wheeler-DougWheelerRM669-s.jpg",
+      "alt": "",
+      "caption": "RM 6, 1969",
+      "width": "252",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Bertrand Lavier",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/lavier-LavierPictureLight1983-S.jpg",
+      "alt": "",
+      "caption": "1983",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/light/lavier-LavierLita1988-S.jpg",
+      "alt": "",
+      "caption": "Lita, 1988",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Fred Forest",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Bleu Électronique (Hommage à Yves Klein), 1984.",
+      "links": [
+        {
+          "text": "Bleu Électronique (Hommage à Yves Klein)",
+          "href": "http://www.webnetmuseum.org/html/en/expo-retr-fredforest/actions/28_en.htm#text",
+          "external": true
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/light/flavin-FlavinIconV-1962-S.jpg",
+      "alt": "",
+      "caption": "Icon V, 1962",
+      "legacy_src": "Flavin/FlavinIconV-1962-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/flavin-FlavinTDiagonalOMay25,1963S.jpg",
+      "alt": "",
+      "caption": "Diagonal of May 25, 1963",
+      "legacy_src": "Flavin/FlavinTDiagonalOMay25,1963S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/flavin-Flavin-Unt6-1963.jpg",
+      "alt": "",
+      "caption": "Untitled # 6, 1963",
+      "legacy_src": "Flavin/Flavin-Unt6-1963.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/flavin-FlavinU(PinkOutOACorner)63S.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n(Pink out of a corner), 1963",
+      "legacy_src": "Flavin/FlavinU(PinkOutOACorner)63S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/turrell-Turrell-AfrumI-1967-S.jpg",
+      "alt": "",
+      "caption": "Afrum I, 1967",
+      "legacy_src": "Turrell/Turrell-AfrumI-1967-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/turrell-turrellArcusWhite1967-S.jpg",
+      "alt": "",
+      "caption": "Arcus White, 1967",
+      "legacy_src": "Turrell/turrellArcusWhite1967-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/turrell-turrellOndoeBlue1968-S.jpg",
+      "alt": "",
+      "caption": "Ondoe Blue, 1968",
+      "legacy_src": "Turrell/turrellOndoeBlue1968-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/turrell-turrellEnzuRed1967-S.jpg",
+      "alt": "",
+      "caption": "Enzu Red, 1967",
+      "legacy_src": "Turrell/turrellEnzuRed1967-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/robert-irwin-RobertIrwinUnt1968.jpg",
+      "alt": "",
+      "caption": "Untitled, 1968",
+      "legacy_src": "RobertIrwin/RobertIrwinUnt1968.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/robert-irwin-IrwinVareseScrim1973-s.jpg",
+      "alt": "",
+      "caption": "Varese Scrim, 1973",
+      "legacy_src": "RobertIrwin/IrwinVareseScrim1973-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/doug-wheeler-DougWheelerRM669-s.jpg",
+      "alt": "",
+      "caption": "RM 6, 1969",
+      "legacy_src": "DougWheeler/DougWheelerRM669-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/lavier-LavierPictureLight1983-S.jpg",
+      "alt": "",
+      "caption": "1983",
+      "legacy_src": "Lavier/LavierPictureLight1983-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/light/lavier-LavierLita1988-S.jpg",
+      "alt": "",
+      "caption": "Lita, 1988",
+      "legacy_src": "Lavier/LavierLita1988-S.jpg"
+    }
+  ],
+  "out_links": []
+}

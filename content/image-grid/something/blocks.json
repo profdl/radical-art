@@ -1,0 +1,246 @@
+{
+  "slug": "something/blocks",
+  "legacy_path": "something/blocks/index.html",
+  "section": "something",
+  "archetype": "image-grid",
+  "title": "something",
+  "heading": "",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "blocks & cubes",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/klein-1957-klein-S6-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nUntitled Sculpture\n(S6), 1957",
+      "width": "170",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/1966RobertMallary-Pythia-s.jpg",
+      "alt": "",
+      "caption": "Robert Mallary:\n\nPythia, 1966",
+      "width": "148",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/james-lee-byars-1986-[column]-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars\n\n1986",
+      "width": "119",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/1961-MathiasGoeritz-FG-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz: Figura Geométrica, 1961",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/tony-smith-Tony_Smith_Die-s.jpg",
+      "alt": "",
+      "caption": "Tony Smith: Die, 1962",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/serra-1978-Block_for_Charly_Chaplin-S.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Block for Charly Chaplin, 1978",
+      "width": "244",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/2000MarianKarelBlackCube-S.jpg",
+      "alt": "",
+      "caption": "Marian Karel: Black Cube, 2000",
+      "width": "195",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/armando-2005ArmandoMelancholie.jpg",
+      "alt": "",
+      "caption": "Armando: Melancholie, 2005",
+      "width": "210",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/black-2007-cube_hamburg-s.jpg",
+      "alt": "",
+      "caption": "Gregor Schneider: Cube Hamburg, 2007",
+      "width": "255",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/mc-cracken-1965-BlackBlock-s.jpg",
+      "alt": "",
+      "caption": "John McCracken: Black Block, 1965",
+      "width": "211",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/1969-larry_bell-unt-s.jpg",
+      "alt": "",
+      "caption": "Larry Bell: Untitled, 1969",
+      "width": "177",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/1957-PiergiorgioBranzi-Adriatico-s.jpg",
+      "alt": "",
+      "caption": "Piergorgio Brandi: Adriatico, 1957",
+      "width": "268",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/anish-kapoor-2004-Whiteout-s.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Whiteout, 2004",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/2005-IlyaKabakov-TheWhiteCu.jpg",
+      "alt": "",
+      "caption": "Ilya Kabakov: The White Cube, 2005",
+      "width": "292",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/blocks/white-2006-CubeCadiz-s.jpg",
+      "alt": "",
+      "caption": "Gregor Schneider: Cube Cadiz, 2006",
+      "width": "213",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/blocks/klein-1957-klein-S6-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nUntitled Sculpture\n(S6), 1957",
+      "legacy_src": "../Klein/1957-klein-S6-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/1966RobertMallary-Pythia-s.jpg",
+      "alt": "",
+      "caption": "Robert Mallary:\n\nPythia, 1966",
+      "legacy_src": "1966RobertMallary-Pythia-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/james-lee-byars-1986-[column]-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars\n\n1986",
+      "legacy_src": "../JamesLeeByars/1986-%5Bcolumn%5D-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/1961-MathiasGoeritz-FG-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz: Figura Geométrica, 1961",
+      "legacy_src": "1961-MathiasGoeritz-FG-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/tony-smith-Tony_Smith_Die-s.jpg",
+      "alt": "",
+      "caption": "Tony Smith: Die, 1962",
+      "legacy_src": "TonySmith/Tony_Smith_Die-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/serra-1978-Block_for_Charly_Chaplin-S.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Block for Charly Chaplin, 1978",
+      "legacy_src": "../Serra/1978-Block_for_Charly_Chaplin-S.jpg"
+    },
+    {
+      "src": "/images/something/blocks/2000MarianKarelBlackCube-S.jpg",
+      "alt": "",
+      "caption": "Marian Karel: Black Cube, 2000",
+      "legacy_src": "2000MarianKarelBlackCube-S.jpg"
+    },
+    {
+      "src": "/images/something/blocks/armando-2005ArmandoMelancholie.jpg",
+      "alt": "",
+      "caption": "Armando: Melancholie, 2005",
+      "legacy_src": "../Armando/2005ArmandoMelancholie.jpg"
+    },
+    {
+      "src": "/images/something/blocks/black-2007-cube_hamburg-s.jpg",
+      "alt": "",
+      "caption": "Gregor Schneider: Cube Hamburg, 2007",
+      "legacy_src": "GregorSchneider/Black/2007-cube_hamburg-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/mc-cracken-1965-BlackBlock-s.jpg",
+      "alt": "",
+      "caption": "John McCracken: Black Block, 1965",
+      "legacy_src": "McCracken/1965-BlackBlock-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/1969-larry_bell-unt-s.jpg",
+      "alt": "",
+      "caption": "Larry Bell: Untitled, 1969",
+      "legacy_src": "1969-larry_bell-unt-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/1957-PiergiorgioBranzi-Adriatico-s.jpg",
+      "alt": "",
+      "caption": "Piergorgio Brandi: Adriatico, 1957",
+      "legacy_src": "1957-PiergiorgioBranzi-Adriatico-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/anish-kapoor-2004-Whiteout-s.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Whiteout, 2004",
+      "legacy_src": "../AnishKapoor/2004-Whiteout-s.jpg"
+    },
+    {
+      "src": "/images/something/blocks/2005-IlyaKabakov-TheWhiteCu.jpg",
+      "alt": "",
+      "caption": "Ilya Kabakov: The White Cube, 2005",
+      "legacy_src": "2005-IlyaKabakov-TheWhiteCu.jpg"
+    },
+    {
+      "src": "/images/something/blocks/white-2006-CubeCadiz-s.jpg",
+      "alt": "",
+      "caption": "Gregor Schneider: Cube Cadiz, 2006",
+      "legacy_src": "GregorSchneider/White/2006-CubeCadiz-s.jpg"
+    }
+  ],
+  "out_links": []
+}

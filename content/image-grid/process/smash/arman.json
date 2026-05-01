@@ -1,0 +1,157 @@
+{
+  "slug": "process/smash/arman",
+  "legacy_path": "process/smash/arman/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "arman's smashed instruments",
+  "heading": "Arman: \n      Colères",
+  "description": "les colères d'arman",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: smash process\nart destruction radical\nart",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Arman:\nColères",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/61_NBC_Rage1961-S.jpg",
+      "alt": "",
+      "caption": "NBC Rage, 1961",
+      "width": "145",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/ArmanColereDePaganini-s.jpg",
+      "alt": "",
+      "caption": "Colère de Paganini",
+      "width": "117",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/62_colere_musicale1962-S.jpg",
+      "alt": "",
+      "caption": "Colère Musicale, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/62ChopinSWaterloo-s.jpg",
+      "alt": "",
+      "caption": "Chopin's Waterloo, 1962",
+      "width": "398",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/ArmanPourRom-S.jpg",
+      "alt": "",
+      "caption": "Pour\nRom",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/ArmanLaSecretaireRenvoyee-S.jpg",
+      "alt": "",
+      "caption": "La Sécrétaire Renvoyée",
+      "width": "315",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman/63PhotoStop-Colere.jpg",
+      "alt": "",
+      "caption": "Photo Stop Colère, 1963",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/smash/arman/61_NBC_Rage1961-S.jpg",
+      "alt": "",
+      "caption": "NBC Rage, 1961",
+      "legacy_src": "61_NBC_Rage1961-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/ArmanColereDePaganini-s.jpg",
+      "alt": "",
+      "caption": "Colère de Paganini",
+      "legacy_src": "ArmanColereDePaganini-s.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/62_colere_musicale1962-S.jpg",
+      "alt": "",
+      "caption": "Colère Musicale, 1962",
+      "legacy_src": "62_colere_musicale1962-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/62ChopinSWaterloo-s.jpg",
+      "alt": "",
+      "caption": "Chopin's Waterloo, 1962",
+      "legacy_src": "62ChopinSWaterloo-s.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/ArmanPourRom-S.jpg",
+      "alt": "",
+      "caption": "Pour\nRom",
+      "legacy_src": "ArmanPourRom-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/ArmanLaSecretaireRenvoyee-S.jpg",
+      "alt": "",
+      "caption": "La Sécrétaire Renvoyée",
+      "legacy_src": "ArmanLaSecretaireRenvoyee-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/arman/63PhotoStop-Colere.jpg",
+      "alt": "",
+      "caption": "Photo Stop Colère, 1963",
+      "legacy_src": "63PhotoStop-Colere.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/smash"
+  ]
+}

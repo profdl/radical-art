@@ -1,0 +1,790 @@
+{
+  "slug": "things/cast",
+  "legacy_path": "things/cast/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "cast",
+  "heading": "Replicated Objects: Metal Casts",
+  "description": "Replicated objects as art: metal casts.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things process\nart radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Replicated Objects: Metal Casts",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "André Breton",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/28-BretonBronzeGlove-SS.jpg",
+      "alt": "",
+      "caption": "Glove, 1928",
+      "width": "218",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jasper Johns",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/johns-60Flashlight.jpg",
+      "alt": "",
+      "caption": "Flashlight, 1960",
+      "width": "229",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/johns-60Lightbulb.jpg",
+      "alt": "",
+      "caption": "Lightbulb, 1960",
+      "width": "149",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Alik Cavaliere",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/alik-cavaliere-AlikCavaliere196xMela-S.jpg",
+      "alt": "",
+      "caption": "Mela, 1963",
+      "width": "143",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Watts",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/not-online-63WhitmnSAssrtdChclts-S.jpg",
+      "alt": "",
+      "caption": "Whitman's Assorted Chocolates, 1963",
+      "width": "220",
+      "height": "149",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/watts-Watts-63-BoxOfEggs-S.jpg",
+      "alt": "",
+      "caption": "Box of Eggs, 1963",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/watts-Watts6364BreadSliceAButterS.jpg",
+      "alt": "",
+      "caption": "Bread Slice and Butter, 1963/1964",
+      "width": "365",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/watts-wattsChromedAfrStatues1976.jpg",
+      "alt": "",
+      "caption": "Chromed African Statues, 1976",
+      "width": "185",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Clive Barker",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-66TableWDrawingBoardM.jpg",
+      "alt": "",
+      "caption": "Table with Drawing Board, 1966",
+      "width": "363",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-67-3Cokes-S.jpg",
+      "alt": "",
+      "caption": "Three Cokes, 1967",
+      "width": "158",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-68-2Cokes-S.jpg",
+      "alt": "",
+      "caption": "Two Cokes, 1968",
+      "width": "171",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-68cokeW2straws.jpg",
+      "alt": "",
+      "caption": "Coke with Two Straws, 1968",
+      "width": "157",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-69-3HandGrenades-S.jpg",
+      "alt": "",
+      "caption": "Three Hand Grenades, 1969",
+      "width": "230",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-98MarsBar-S.jpg",
+      "alt": "",
+      "caption": "Mars Bar, 1998",
+      "width": "230",
+      "height": "74",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-2000-robodog-S.jpg",
+      "alt": "",
+      "caption": "Robodog, 2000",
+      "width": "200",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-2000TomAJerry-S.jpg",
+      "alt": "",
+      "caption": "Tom & Jerry, 2000",
+      "width": "166",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/clive-barker-2000MickeyMouseS.jpg",
+      "alt": "",
+      "caption": "Mickey Mouse, 2000",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Eduardo Paolozzi",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/paolozzi-Paolozzi70-TheHulk-ss.jpg",
+      "alt": "",
+      "caption": "The Hulk, 1970",
+      "width": "179",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/paolozzi-Plzzi-FloridaSnail-M.jpg",
+      "alt": "",
+      "caption": "Florida Snail",
+      "width": "230",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/paolozzi-Paolozzi71-FriendlyDog-S.jpg",
+      "alt": "",
+      "caption": "Friendly Dog, 1971",
+      "width": "123",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/paolozzi-Plzzi71-Nch1FrndlchrHnd-S.jpg",
+      "alt": "",
+      "caption": "Noch Ein Freundlicher Hund, 1971",
+      "width": "115",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/paolozzi-Plzzi71-3AmericanHeroes-S.jpg",
+      "alt": "",
+      "caption": "Three American Heroes, 1971",
+      "width": "230",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jeff Koons",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-85Basketball-SS.jpg",
+      "alt": "",
+      "caption": "Basketball, 1985",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-85Soccerball(Molten)-SS.jpg",
+      "alt": "",
+      "caption": "Soccer Ball, 1985",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-85_snorkle_vest-S.jpg",
+      "alt": "",
+      "caption": "Snorkle Vest, 1985",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-85Lifeboat-s-n.jpg",
+      "alt": "",
+      "caption": "Life Boat, 1985",
+      "width": "230",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86Pail-S.jpg",
+      "alt": "",
+      "caption": "Pail, 1986",
+      "width": "149",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86LuxuryADegradation.jpg",
+      "alt": "",
+      "caption": "Luxury and Degradation, 1986",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86Train.jpg",
+      "alt": "",
+      "caption": "Train, 1986",
+      "width": "189",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86Model-AFordPick-UpTruck.jpg",
+      "alt": "",
+      "caption": "Model A Ford Pick-Up Truck, 1986",
+      "width": "200",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86FishermanGolfer-S.jpg",
+      "alt": "",
+      "caption": "Fisherman Golfer, 1986",
+      "width": "128",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86BobHope-S.jpg",
+      "alt": "",
+      "caption": "Bob Hope, 1986",
+      "width": "101",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/koons-86Rabbit-S.jpg",
+      "alt": "",
+      "caption": "Rabbit, 1986",
+      "width": "99",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sherry Levine",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sherry-levine-91Fountain(AftrMrclDchmp)-S.jpg",
+      "alt": "",
+      "caption": "Fountain (After Marcel Duchamp), 1991",
+      "width": "206",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sherry-levine-96Hobbyhorse.jpg",
+      "alt": "",
+      "caption": "Hobby Horse, 1996",
+      "width": "232",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sherry-levine-2002AvantgardeAKitsch.jpg",
+      "alt": "",
+      "caption": "Avant-Garde and Kitsch, 2002",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sherry-levine-2004Loulou.jpg",
+      "alt": "",
+      "caption": "Loulou, 2004",
+      "width": "107",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sylvie Fleury",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-98GucciShoes.jpg",
+      "alt": "",
+      "caption": "Gucci Shoes, 1998",
+      "width": "207",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-98PradaShoes.jpg",
+      "alt": "",
+      "caption": "Prada Shoes, 1998",
+      "width": "184",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-99-283Chevy.jpg",
+      "alt": "",
+      "caption": "283 Chevy, 1999",
+      "width": "223",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-99-400Dodge.jpg",
+      "alt": "",
+      "caption": "400 Dodge, 1999",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-99-400Pontiac.jpg",
+      "alt": "",
+      "caption": "400 Pontiac, 1999",
+      "width": "194",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-2000.jpg",
+      "alt": "",
+      "caption": "2000",
+      "width": "204",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-(Gold)FountainLKW.jpg",
+      "alt": "",
+      "caption": "Fountain LKW",
+      "width": "211",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-(Gold)FountainPKW.jpg",
+      "alt": "",
+      "caption": "Fountain PKW",
+      "width": "215",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/cast/sylvie-fleury-2004YesToAll.jpg",
+      "alt": "",
+      "caption": "Yes To All, 2004",
+      "width": "156",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/cast/28-BretonBronzeGlove-SS.jpg",
+      "alt": "",
+      "caption": "Glove, 1928",
+      "legacy_src": "28-BretonBronzeGlove-SS.jpg"
+    },
+    {
+      "src": "/images/things/cast/johns-60Flashlight.jpg",
+      "alt": "",
+      "caption": "Flashlight, 1960",
+      "legacy_src": "johns/60Flashlight.jpg"
+    },
+    {
+      "src": "/images/things/cast/johns-60Lightbulb.jpg",
+      "alt": "",
+      "caption": "Lightbulb, 1960",
+      "legacy_src": "johns/60Lightbulb.jpg"
+    },
+    {
+      "src": "/images/things/cast/alik-cavaliere-AlikCavaliere196xMela-S.jpg",
+      "alt": "",
+      "caption": "Mela, 1963",
+      "legacy_src": "AlikCavaliere/AlikCavaliere196xMela-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/not-online-63WhitmnSAssrtdChclts-S.jpg",
+      "alt": "",
+      "caption": "Whitman's Assorted Chocolates, 1963",
+      "legacy_src": "watts/NotOnline/63WhitmnSAssrtdChclts-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/watts-Watts-63-BoxOfEggs-S.jpg",
+      "alt": "",
+      "caption": "Box of Eggs, 1963",
+      "legacy_src": "watts/Watts-63-BoxOfEggs-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/watts-Watts6364BreadSliceAButterS.jpg",
+      "alt": "",
+      "caption": "Bread Slice and Butter, 1963/1964",
+      "legacy_src": "watts/Watts6364BreadSliceAButterS.jpg"
+    },
+    {
+      "src": "/images/things/cast/watts-wattsChromedAfrStatues1976.jpg",
+      "alt": "",
+      "caption": "Chromed African Statues, 1976",
+      "legacy_src": "watts/wattsChromedAfrStatues1976.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-66TableWDrawingBoardM.jpg",
+      "alt": "",
+      "caption": "Table with Drawing Board, 1966",
+      "legacy_src": "CliveBarker/66TableWDrawingBoardM.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-67-3Cokes-S.jpg",
+      "alt": "",
+      "caption": "Three Cokes, 1967",
+      "legacy_src": "CliveBarker/67-3Cokes-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-68-2Cokes-S.jpg",
+      "alt": "",
+      "caption": "Two Cokes, 1968",
+      "legacy_src": "CliveBarker/68-2Cokes-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-68cokeW2straws.jpg",
+      "alt": "",
+      "caption": "Coke with Two Straws, 1968",
+      "legacy_src": "CliveBarker/68cokeW2straws.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-69-3HandGrenades-S.jpg",
+      "alt": "",
+      "caption": "Three Hand Grenades, 1969",
+      "legacy_src": "CliveBarker/69-3HandGrenades-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-98MarsBar-S.jpg",
+      "alt": "",
+      "caption": "Mars Bar, 1998",
+      "legacy_src": "CliveBarker/98MarsBar-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-2000-robodog-S.jpg",
+      "alt": "",
+      "caption": "Robodog, 2000",
+      "legacy_src": "CliveBarker/2000-robodog-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-2000TomAJerry-S.jpg",
+      "alt": "",
+      "caption": "Tom & Jerry, 2000",
+      "legacy_src": "CliveBarker/2000TomAJerry-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/clive-barker-2000MickeyMouseS.jpg",
+      "alt": "",
+      "caption": "Mickey Mouse, 2000",
+      "legacy_src": "CliveBarker/2000MickeyMouseS.jpg"
+    },
+    {
+      "src": "/images/things/cast/paolozzi-Paolozzi70-TheHulk-ss.jpg",
+      "alt": "",
+      "caption": "The Hulk, 1970",
+      "legacy_src": "Paolozzi/Paolozzi70-TheHulk-ss.jpg"
+    },
+    {
+      "src": "/images/things/cast/paolozzi-Plzzi-FloridaSnail-M.jpg",
+      "alt": "",
+      "caption": "Florida Snail",
+      "legacy_src": "Paolozzi/Plzzi-FloridaSnail-M.jpg"
+    },
+    {
+      "src": "/images/things/cast/paolozzi-Paolozzi71-FriendlyDog-S.jpg",
+      "alt": "",
+      "caption": "Friendly Dog, 1971",
+      "legacy_src": "Paolozzi/Paolozzi71-FriendlyDog-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/paolozzi-Plzzi71-Nch1FrndlchrHnd-S.jpg",
+      "alt": "",
+      "caption": "Noch Ein Freundlicher Hund, 1971",
+      "legacy_src": "Paolozzi/Plzzi71-Nch1FrndlchrHnd-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/paolozzi-Plzzi71-3AmericanHeroes-S.jpg",
+      "alt": "",
+      "caption": "Three American Heroes, 1971",
+      "legacy_src": "Paolozzi/Plzzi71-3AmericanHeroes-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-85Basketball-SS.jpg",
+      "alt": "",
+      "caption": "Basketball, 1985",
+      "legacy_src": "koons/85Basketball-SS.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-85Soccerball(Molten)-SS.jpg",
+      "alt": "",
+      "caption": "Soccer Ball, 1985",
+      "legacy_src": "koons/85Soccerball(Molten)-SS.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-85_snorkle_vest-S.jpg",
+      "alt": "",
+      "caption": "Snorkle Vest, 1985",
+      "legacy_src": "koons/85_snorkle_vest-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-85Lifeboat-s-n.jpg",
+      "alt": "",
+      "caption": "Life Boat, 1985",
+      "legacy_src": "koons/85Lifeboat-s-n.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86Pail-S.jpg",
+      "alt": "",
+      "caption": "Pail, 1986",
+      "legacy_src": "koons/86Pail-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86LuxuryADegradation.jpg",
+      "alt": "",
+      "caption": "Luxury and Degradation, 1986",
+      "legacy_src": "koons/86LuxuryADegradation.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86Train.jpg",
+      "alt": "",
+      "caption": "Train, 1986",
+      "legacy_src": "koons/86Train.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86Model-AFordPick-UpTruck.jpg",
+      "alt": "",
+      "caption": "Model A Ford Pick-Up Truck, 1986",
+      "legacy_src": "koons/86Model-AFordPick-UpTruck.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86FishermanGolfer-S.jpg",
+      "alt": "",
+      "caption": "Fisherman Golfer, 1986",
+      "legacy_src": "koons/86FishermanGolfer-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86BobHope-S.jpg",
+      "alt": "",
+      "caption": "Bob Hope, 1986",
+      "legacy_src": "koons/86BobHope-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/koons-86Rabbit-S.jpg",
+      "alt": "",
+      "caption": "Rabbit, 1986",
+      "legacy_src": "koons/86Rabbit-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/sherry-levine-91Fountain(AftrMrclDchmp)-S.jpg",
+      "alt": "",
+      "caption": "Fountain (After Marcel Duchamp), 1991",
+      "legacy_src": "SherryLevine/91Fountain(AftrMrclDchmp)-S.jpg"
+    },
+    {
+      "src": "/images/things/cast/sherry-levine-96Hobbyhorse.jpg",
+      "alt": "",
+      "caption": "Hobby Horse, 1996",
+      "legacy_src": "SherryLevine/96Hobbyhorse.jpg"
+    },
+    {
+      "src": "/images/things/cast/sherry-levine-2002AvantgardeAKitsch.jpg",
+      "alt": "",
+      "caption": "Avant-Garde and Kitsch, 2002",
+      "legacy_src": "SherryLevine/2002AvantgardeAKitsch.jpg"
+    },
+    {
+      "src": "/images/things/cast/sherry-levine-2004Loulou.jpg",
+      "alt": "",
+      "caption": "Loulou, 2004",
+      "legacy_src": "SherryLevine/2004Loulou.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-98GucciShoes.jpg",
+      "alt": "",
+      "caption": "Gucci Shoes, 1998",
+      "legacy_src": "SylvieFleury/98GucciShoes.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-98PradaShoes.jpg",
+      "alt": "",
+      "caption": "Prada Shoes, 1998",
+      "legacy_src": "SylvieFleury/98PradaShoes.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-99-283Chevy.jpg",
+      "alt": "",
+      "caption": "283 Chevy, 1999",
+      "legacy_src": "SylvieFleury/99-283Chevy.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-99-400Dodge.jpg",
+      "alt": "",
+      "caption": "400 Dodge, 1999",
+      "legacy_src": "SylvieFleury/99-400Dodge.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-99-400Pontiac.jpg",
+      "alt": "",
+      "caption": "400 Pontiac, 1999",
+      "legacy_src": "SylvieFleury/99-400Pontiac.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-2000.jpg",
+      "alt": "",
+      "caption": "2000",
+      "legacy_src": "SylvieFleury/2000.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-(Gold)FountainLKW.jpg",
+      "alt": "",
+      "caption": "Fountain LKW",
+      "legacy_src": "SylvieFleury/(Gold)FountainLKW.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-(Gold)FountainPKW.jpg",
+      "alt": "",
+      "caption": "Fountain PKW",
+      "legacy_src": "SylvieFleury/(Gold)FountainPKW.jpg"
+    },
+    {
+      "src": "/images/things/cast/sylvie-fleury-2004YesToAll.jpg",
+      "alt": "",
+      "caption": "Yes To All, 2004",
+      "legacy_src": "SylvieFleury/2004YesToAll.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process",
+    "/things"
+  ]
+}

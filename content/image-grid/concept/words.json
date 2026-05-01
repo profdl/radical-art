@@ -1,0 +1,715 @@
+{
+  "slug": "concept/words",
+  "legacy_path": "concept/Words/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Words",
+  "heading": "Words",
+  "description": "Concept art: Text pieces: Words.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Words",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Ivan Puni",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Baths\", 1915",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/15puni_baths-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gerhard Rühm",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "(Einworttafel)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/52-ruehm-52GerhardRuehm-alle-s.jpg",
+      "alt": "",
+      "caption": "\"alle\" – 1952",
+      "width": "200",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/52-ruehm-55GerhardRuehm-Bild-ss.jpg",
+      "alt": "",
+      "caption": "\"Bild\" – 1955",
+      "width": "200",
+      "height": "91",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-58-[signature]-S.jpg",
+      "alt": "",
+      "caption": "\"Ben\" – 1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-58-art-ss.jpg",
+      "alt": "",
+      "caption": "\"ART\" – 1958",
+      "width": "177",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-58-rouge-SS.jpg",
+      "alt": "",
+      "caption": "\"rouge\" – 1958",
+      "width": "200",
+      "height": "77",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-59Mais-s.jpg",
+      "alt": "",
+      "caption": "\"mais\" – 1959",
+      "width": "230",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-59Hier-s.jpg",
+      "alt": "",
+      "caption": "\"hier\" – 1959",
+      "width": "230",
+      "height": "134",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben-59Liberte-s.jpg",
+      "alt": "",
+      "caption": "\"liberté\" – 1959",
+      "width": "230",
+      "height": "86",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More word pieces by Ben Vautier.",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/words/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ed Ruscha",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-61Ice-s.jpg",
+      "alt": "",
+      "caption": "\"Ice\", 1961",
+      "width": "188",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-62Annie-s.jpg",
+      "alt": "",
+      "caption": "\"Annie\" – 1962",
+      "width": "186",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-62Radio-s.jpg",
+      "alt": "",
+      "caption": "\"Radio\" – 1962",
+      "width": "186",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-62WarSurplus-s.jpg",
+      "alt": "",
+      "caption": "\"War surplus\" – 1962",
+      "width": "186",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-63Noise-s.jpg",
+      "alt": "",
+      "caption": "\"Noise\" – 1963",
+      "width": "190",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ed-ruscha-63Room-s.jpg",
+      "alt": "",
+      "caption": "\"Room\" – 1963",
+      "width": "188",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed Ruscha has continued to explore the interpolation and juxtaposition of word and image well into the 21st century. A Catalogue Raisonnée of his paintings is under development at: www.edruschacatalogue.com. Currently (July 2007), it is complete until the late eighties.",
+      "links": [
+        {
+          "text": "www.edruschacatalogue.com",
+          "href": "http://www.edruschacatalogue.com",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Roy Lichtenstein",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/62-lichtenstein-62-RL-IN-s.jpg",
+      "alt": "",
+      "caption": "\"In\" – 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/62-lichtenstein-62-ART-s.jpg",
+      "alt": "",
+      "caption": "\"Art\" – 1962",
+      "width": "230",
+      "height": "124",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Indiana",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/indiana-62TGreenDmndEat-s.jpg",
+      "alt": "",
+      "caption": "The Green Diamond EAT, 1962",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/indiana-62TRedDmndDie-s.jpg",
+      "alt": "",
+      "caption": "The Red Diamond DIE, 1962",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/indiana-66_LOVE-s.gif",
+      "alt": "",
+      "caption": "LOVE, 1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Joseph Kosuth",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/65-kosuth-Kosuth65Neon-M.jpg",
+      "alt": "",
+      "caption": "Neon, 1965",
+      "width": "200",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/65-kosuth-89WittgensteinSColor-M.jpg",
+      "alt": "",
+      "caption": "Wittgenstein's Color, 1989",
+      "width": "229",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Giovanni Anselmo",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/71-giovanni-anselmo-71-Infinito-s.jpg",
+      "alt": "",
+      "caption": "Infinito, 1971",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/71-giovanni-anselmo-71-Invisible-s.jpg",
+      "alt": "",
+      "caption": "Invisibile, 1971",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/71-giovanni-anselmo-72-Particolare-s.jpg",
+      "alt": "",
+      "caption": "Particolare, 1972",
+      "width": "227",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/90hdevries-90-this-S.jpg",
+      "alt": "",
+      "caption": "this, 1990",
+      "width": "230",
+      "height": "115",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/90hdevries-91-Change-s.jpg",
+      "alt": "",
+      "caption": "change, 1991",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sylvie Fleury",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/95-fleury-95FleuryGlamour-s.jpg",
+      "alt": "",
+      "caption": "\"Glamour\" – 1995",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/95-fleury-2000SylvieFleuryEgoiste-s.jpg",
+      "alt": "",
+      "caption": "\"Égoïste\" – 2000",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Christopher Wool",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/chistopher-wool-1996FearWB.jpg",
+      "alt": "",
+      "caption": "\"Fear\" – 1996",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/chistopher-wool-2001christopherwool-s.jpg",
+      "alt": "",
+      "caption": "\"Terrorist\" – 2001",
+      "width": "126",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/chistopher-wool-EricDoeringer-s.jpg",
+      "alt": "",
+      "caption": "\"Riot\" (Copy by Eric Doeringer)",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ottmar Hörl",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Unschuld\", 1997\n\n[Text on soap]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/97OttmarHoerlUnschuld-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "202",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Stefan Brueggemann",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2003(nothing)-s.jpg",
+      "alt": "",
+      "caption": "(Nothing) – 2003",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2004(Rubbish)-s.jpg",
+      "alt": "",
+      "caption": "(Rubbish) – 2004",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/2003-stefan-brueggemann-(Superficial)-s.jpg",
+      "alt": "",
+      "caption": "(Superficial)",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reynald Drouhin",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Keyword",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(\"Monochrome\")",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2006",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/2006ReynaldDrouhinKeyword.jpg",
+      "alt": "",
+      "caption": "[To add: Frederico Juan Carlos Loomis (Borges)]",
+      "width": "230",
+      "height": "185",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/words/15puni_baths-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "15puni_baths-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/52-ruehm-52GerhardRuehm-alle-s.jpg",
+      "alt": "",
+      "caption": "\"alle\" – 1952",
+      "legacy_src": "52Ruehm/52GerhardRuehm-alle-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/52-ruehm-55GerhardRuehm-Bild-ss.jpg",
+      "alt": "",
+      "caption": "\"Bild\" – 1955",
+      "legacy_src": "52Ruehm/55GerhardRuehm-Bild-ss.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-58-[signature]-S.jpg",
+      "alt": "",
+      "caption": "\"Ben\" – 1958",
+      "legacy_src": "Ben/58-%5Bsignature%5D-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-58-art-ss.jpg",
+      "alt": "",
+      "caption": "\"ART\" – 1958",
+      "legacy_src": "Ben/58-art-ss.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-58-rouge-SS.jpg",
+      "alt": "",
+      "caption": "\"rouge\" – 1958",
+      "legacy_src": "Ben/58-rouge-SS.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-59Mais-s.jpg",
+      "alt": "",
+      "caption": "\"mais\" – 1959",
+      "legacy_src": "Ben/59Mais-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-59Hier-s.jpg",
+      "alt": "",
+      "caption": "\"hier\" – 1959",
+      "legacy_src": "Ben/59Hier-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben-59Liberte-s.jpg",
+      "alt": "",
+      "caption": "\"liberté\" – 1959",
+      "legacy_src": "Ben/59Liberte-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-61Ice-s.jpg",
+      "alt": "",
+      "caption": "\"Ice\", 1961",
+      "legacy_src": "EdRuscha/61Ice-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-62Annie-s.jpg",
+      "alt": "",
+      "caption": "\"Annie\" – 1962",
+      "legacy_src": "EdRuscha/62Annie-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-62Radio-s.jpg",
+      "alt": "",
+      "caption": "\"Radio\" – 1962",
+      "legacy_src": "EdRuscha/62Radio-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-62WarSurplus-s.jpg",
+      "alt": "",
+      "caption": "\"War surplus\" – 1962",
+      "legacy_src": "EdRuscha/62WarSurplus-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-63Noise-s.jpg",
+      "alt": "",
+      "caption": "\"Noise\" – 1963",
+      "legacy_src": "EdRuscha/63Noise-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ed-ruscha-63Room-s.jpg",
+      "alt": "",
+      "caption": "\"Room\" – 1963",
+      "legacy_src": "EdRuscha/63Room-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/62-lichtenstein-62-RL-IN-s.jpg",
+      "alt": "",
+      "caption": "\"In\" – 1962",
+      "legacy_src": "62Lichtenstein/62-RL-IN-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/62-lichtenstein-62-ART-s.jpg",
+      "alt": "",
+      "caption": "\"Art\" – 1962",
+      "legacy_src": "62Lichtenstein/62-ART-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/indiana-62TGreenDmndEat-s.jpg",
+      "alt": "",
+      "caption": "The Green Diamond EAT, 1962",
+      "legacy_src": "Indiana/62TGreenDmndEat-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/indiana-62TRedDmndDie-s.jpg",
+      "alt": "",
+      "caption": "The Red Diamond DIE, 1962",
+      "legacy_src": "Indiana/62TRedDmndDie-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/indiana-66_LOVE-s.gif",
+      "alt": "",
+      "caption": "LOVE, 1966",
+      "legacy_src": "Indiana/66_LOVE-s.gif"
+    },
+    {
+      "src": "/images/concept/words/65-kosuth-Kosuth65Neon-M.jpg",
+      "alt": "",
+      "caption": "Neon, 1965",
+      "legacy_src": "65Kosuth/Kosuth65Neon-M.jpg"
+    },
+    {
+      "src": "/images/concept/words/65-kosuth-89WittgensteinSColor-M.jpg",
+      "alt": "",
+      "caption": "Wittgenstein's Color, 1989",
+      "legacy_src": "65Kosuth/89WittgensteinSColor-M.jpg"
+    },
+    {
+      "src": "/images/concept/words/71-giovanni-anselmo-71-Infinito-s.jpg",
+      "alt": "",
+      "caption": "Infinito, 1971",
+      "legacy_src": "71GiovanniAnselmo/71-Infinito-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/71-giovanni-anselmo-71-Invisible-s.jpg",
+      "alt": "",
+      "caption": "Invisibile, 1971",
+      "legacy_src": "71GiovanniAnselmo/71-Invisible-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/71-giovanni-anselmo-72-Particolare-s.jpg",
+      "alt": "",
+      "caption": "Particolare, 1972",
+      "legacy_src": "71GiovanniAnselmo/72-Particolare-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/90hdevries-90-this-S.jpg",
+      "alt": "",
+      "caption": "this, 1990",
+      "legacy_src": "90hdevries/90-this-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/90hdevries-91-Change-s.jpg",
+      "alt": "",
+      "caption": "change, 1991",
+      "legacy_src": "90hdevries/91-Change-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/95-fleury-95FleuryGlamour-s.jpg",
+      "alt": "",
+      "caption": "\"Glamour\" – 1995",
+      "legacy_src": "95Fleury/95FleuryGlamour-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/95-fleury-2000SylvieFleuryEgoiste-s.jpg",
+      "alt": "",
+      "caption": "\"Égoïste\" – 2000",
+      "legacy_src": "95Fleury/2000SylvieFleuryEgoiste-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/chistopher-wool-1996FearWB.jpg",
+      "alt": "",
+      "caption": "\"Fear\" – 1996",
+      "legacy_src": "ChistopherWool/1996FearWB.jpg"
+    },
+    {
+      "src": "/images/concept/words/chistopher-wool-2001christopherwool-s.jpg",
+      "alt": "",
+      "caption": "\"Terrorist\" – 2001",
+      "legacy_src": "ChistopherWool/2001christopherwool-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/chistopher-wool-EricDoeringer-s.jpg",
+      "alt": "",
+      "caption": "\"Riot\" (Copy by Eric Doeringer)",
+      "legacy_src": "ChistopherWool/EricDoeringer-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/97OttmarHoerlUnschuld-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "97OttmarHoerlUnschuld-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/2003-stefan-brueggemann-2003(nothing)-s.jpg",
+      "alt": "",
+      "caption": "(Nothing) – 2003",
+      "legacy_src": "2003StefanBrueggemann/2003(nothing)-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/2003-stefan-brueggemann-2004(Rubbish)-s.jpg",
+      "alt": "",
+      "caption": "(Rubbish) – 2004",
+      "legacy_src": "2003StefanBrueggemann/2004(Rubbish)-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/2003-stefan-brueggemann-(Superficial)-s.jpg",
+      "alt": "",
+      "caption": "(Superficial)",
+      "legacy_src": "2003StefanBrueggemann/(Superficial)-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/2006ReynaldDrouhinKeyword.jpg",
+      "alt": "",
+      "caption": "[To add: Frederico Juan Carlos Loomis (Borges)]",
+      "legacy_src": "2006ReynaldDrouhinKeyword.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/words/ben"
+  ]
+}

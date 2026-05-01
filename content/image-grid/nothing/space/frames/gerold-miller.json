@@ -1,0 +1,276 @@
+{
+  "slug": "nothing/space/frames/gerold-miller",
+  "legacy_path": "nothing/space/frames/GeroldMiller/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Gerold Miller",
+  "heading": "",
+  "description": "Empty Frames by Gerold Miller",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty frames by Gerold Miller",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC18.jpg",
+      "alt": "",
+      "caption": "Ready-mix C18, 1999",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC20.jpg",
+      "alt": "",
+      "caption": "Ready-mix C20, 1999",
+      "width": "167",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC24.jpg",
+      "alt": "",
+      "caption": "Ready-mix C24, 1999",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/00HardEdged9.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 9, 2000",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/00HardEdged10.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 10, 2000",
+      "width": "295",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged29.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 29, 2001",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged30.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 30, 2001",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged31.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 31, 2001",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged57.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 57, 2002",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged61.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 61, 2002",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged68.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 68, 2002",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged.jpg",
+      "alt": "",
+      "caption": "Hard Edged, 2002",
+      "width": "419",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/04-Black.jpg",
+      "alt": "",
+      "caption": "2004",
+      "width": "171",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/04B.jpg",
+      "alt": "",
+      "caption": "2004",
+      "width": "331",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/04-yellow.jpg",
+      "alt": "",
+      "caption": "2004",
+      "width": "160",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/04.jpg",
+      "alt": "",
+      "caption": "2004",
+      "width": "316",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller/04-Blue.jpg",
+      "alt": "",
+      "caption": "2004",
+      "width": "160",
+      "height": "193",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC18.jpg",
+      "alt": "",
+      "caption": "Ready-mix C18, 1999",
+      "legacy_src": "99Ready-mixC18.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC20.jpg",
+      "alt": "",
+      "caption": "Ready-mix C20, 1999",
+      "legacy_src": "99Ready-mixC20.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/99Ready-mixC24.jpg",
+      "alt": "",
+      "caption": "Ready-mix C24, 1999",
+      "legacy_src": "99Ready-mixC24.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/00HardEdged9.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 9, 2000",
+      "legacy_src": "00HardEdged9.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/00HardEdged10.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 10, 2000",
+      "legacy_src": "00HardEdged10.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged29.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 29, 2001",
+      "legacy_src": "01HardEdged29.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged30.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 30, 2001",
+      "legacy_src": "01HardEdged30.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/01HardEdged31.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 31, 2001",
+      "legacy_src": "01HardEdged31.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged57.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 57, 2002",
+      "legacy_src": "02HardEdged57.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged61.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 61, 2002",
+      "legacy_src": "02HardEdged61.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged68.jpg",
+      "alt": "",
+      "caption": "Hard Edged # 68, 2002",
+      "legacy_src": "02HardEdged68.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/02HardEdged.jpg",
+      "alt": "",
+      "caption": "Hard Edged, 2002",
+      "legacy_src": "02HardEdged.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/04-Black.jpg",
+      "alt": "",
+      "caption": "2004",
+      "legacy_src": "04-Black.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/04B.jpg",
+      "alt": "",
+      "caption": "2004",
+      "legacy_src": "04B.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/04-yellow.jpg",
+      "alt": "",
+      "caption": "2004",
+      "legacy_src": "04-yellow.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/04.jpg",
+      "alt": "",
+      "caption": "2004",
+      "legacy_src": "04.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller/04-Blue.jpg",
+      "alt": "",
+      "caption": "2004",
+      "legacy_src": "04-Blue.jpg"
+    }
+  ],
+  "out_links": []
+}

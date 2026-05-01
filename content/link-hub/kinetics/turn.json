@@ -1,0 +1,223 @@
+{
+  "slug": "kinetics/turn",
+  "legacy_path": "kinetics/Turn/index.html",
+  "section": "kinetics",
+  "archetype": "link-hub",
+  "title": "rotation",
+  "heading": "",
+  "description": "Kinetic art based on rotary motion.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Turn",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[Kinetic art based on rotary motion]",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Simple rotation",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp's Roue\nde Bicyclette (1913) invites us to experience a simple\nrotary motion as an aesthetic phenomenon. The rotating\nwheel remains one of the starkest, prototypical forms of\nkinetic art.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Increasing the speed\nof simple rotations, or rotating cleverly designed patterns,\ngets us into a completely different genre: the generation\nof optical artefacts through motion blur and other retinal\nphenomena.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Duchamp's\nBicycle Wheel, its antecedents, and its legacy",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/simple-rotation",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Spinning: Optical\nartefacts through fast\nrotation",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/spin",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Abstract compositions with motions as their basic elements",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Around 1930,\nAlexander Calder was inspired by Mondrian's neo-plasticist\ncompositions to develop a form of kinetic constructivism,\nemploying basic repertoires of elementary shapes,\nelementary colors, and\nelementary movements (rotation, pendulum, virtual translation;\nrotation-axis in the picture-plane or orthogonal to it).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexander\nCalder: Mobiles à Moteur",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/mobiles-amoteur",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Indeterminate nested rotations",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Soon after the first Mobiles\nà Moteur, Calder became interested in irregular,\n\"natural\" motion. This led to the Mobiles\nà Main, where\nshapes are hung in balanced constructions which can rotate\nfreely. These mobiles are very light; the slightest breeze\nof air creates (unpredictable) motions. Similar constructions\nhave been presented by Man Ray (1920) and by Bruno Munari\n(1930's and later).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man\nRay, Calder, Munari: Mobiles à Main",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/mobiles-amain",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "The useless machine",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Several artists have\nbuilt kinetic sculptures that have the look and feel of\nreal-world machines, with cogwheels, gears and belts – without,\nhowever, their functionality. Machines that define themselves\nas artworks by their uselessness.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Heinrich\nAnton Müller",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/gears-belts/heinrich-anton-mueller",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean\nTinguely",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/gears-belts/tinguely",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Méta-Peinture",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Prominent among Jean\nTinguely's early kinetic works is series of \"super-paintings\":\nabstract configurations designed to change continually\nthrough the rotation of their elements, thereby transcending\nthe arbitrary limitations of the individual painting.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerhard von Graevenitz\napplied the same strategy in the context of the minimalistic\nstyle of Zero, Nul and New\nTendencies. Snapshots\nof his \"kinetic objects\" may look like chance\npieces by Morellet – but in the course of time, infinitely\nmany chance configurations are shown because of the ongoing\nrotations of the elements.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean\nTinguely",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/kinetic-painting/tinguely",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerhard\nvon Graevenitz",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/kinetic-painting/von-graevenitz",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Historical antecedents",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In the history of scientific\nexperimentation and demonstration, we find many examples\nof set-ups intended to allow the observation of rotary\nmotions of various kinds.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Uniform\nnested rotation: Planetariums and telluriums",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/turn/planetariums",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Experiments\nwith rolling balls",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/gravity/roll",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/kinetics/gravity/roll",
+    "/kinetics/spin",
+    "/kinetics/turn/gears-belts/heinrich-anton-mueller",
+    "/kinetics/turn/gears-belts/tinguely",
+    "/kinetics/turn/kinetic-painting/tinguely",
+    "/kinetics/turn/kinetic-painting/von-graevenitz",
+    "/kinetics/turn/mobiles-amain",
+    "/kinetics/turn/mobiles-amoteur",
+    "/kinetics/turn/planetariums",
+    "/kinetics/turn/simple-rotation"
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "slug": "informe/heap",
+  "legacy_path": "informe/heap/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "heap",
+  "heading": "heap",
+  "description": "The heap in minimal art of the 1960's and after.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "heap",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Allan Kaprow",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/Kaprow-Untitled-59-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959",
+      "width": "249",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/ben-1962-SandHeap-s.jpg",
+      "alt": "",
+      "caption": "Sand Heap, 1962",
+      "width": "231",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Bernar Venet",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/venet63CharcoalPile.jpg",
+      "alt": "",
+      "caption": "Charcoal Pile, 1963",
+      "width": "395",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wim T. Schippers",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/WimSchippers65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "188",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Shattered Glass Pile, 1965\n\n\n[\"Spel van glas en licht\",\n\nDe Ploeg, Bergeyk]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Michelangelo Pistoletti",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/Pistoletto67VenereDegliStracci-s.jpg",
+      "alt": "",
+      "caption": "Venere degli Stracci, 1967",
+      "width": "250",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"[...] Other artists were more concerned with allowing materials rather than systems to determine the form of their work, reflected in the ubiquity of temporary \"piles\" of materials around 1968 (done by, among others, Andre, Baxter, Beuys, Bollinger, Ferrer, Kaltenbach, Long, Louw, Morris, Nauman, Oppenheim, Saret, Serra, Smithson). [...]\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucy R. Lippard: \"Preface\" In: Six Years: The dematerialization of the art object from 1966 to 1972.\n\nLondon: Studio Vista, 1973, p. 5.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reiner Ruthenbeck",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/reiner-ruthenbeck-RuthenbeckAschehaufen1968.jpg",
+      "alt": "",
+      "caption": "Aschehaufen, 1968",
+      "width": "352",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/reiner-ruthenbeck-Ruthenbeck70SchwarzrPaprhfn.jpg",
+      "alt": "",
+      "caption": "Schwarzer Papierhaufen,\n1970",
+      "width": "338",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/reiner-ruthenbeck-RuthenbeckWhitePaperHeap79S.jpg",
+      "alt": "",
+      "caption": "Weisser Papierhaufen, 1979",
+      "width": "262",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Smithson",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/smithson-smithson69 MOG(Atlantis).jpg",
+      "alt": "",
+      "caption": "Map of Glass (Atlantis), 1969",
+      "width": "285",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/smithson-Smithson69ChalkAMD-S.jpg",
+      "alt": "",
+      "caption": "Chalk and Mirror Displacement, 1969",
+      "width": "296",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/smithson-Smithson-S.jpg",
+      "alt": "",
+      "caption": "Nonsite, 1969",
+      "width": "267",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/smithson-Smithson69MWCrushedShells-S.jpg",
+      "alt": "",
+      "caption": "Mirror with crushed shells, 1969",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jannis Kounellis",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/JannisKounellis69Pietra.jpg",
+      "alt": "",
+      "caption": "Pietra, 1969",
+      "width": "300",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hans Haacke",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/haacke70BeachPollution.jpg",
+      "alt": "",
+      "caption": "Beach Pollution, 1970",
+      "width": null,
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Michael Heizer",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/MichaelHeizer71-DraggedMD-s.jpg",
+      "alt": "",
+      "caption": "Dragged Mass Displacement, 1971",
+      "width": null,
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/DeVries73ToevalligeStapelng.jpg",
+      "alt": "",
+      "caption": "toevallige stapeling, 1973",
+      "width": "210",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Giuseppe Penone",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/GiuseppePenone77Patate.jpg",
+      "alt": "",
+      "caption": "Patate, 1977",
+      "width": null,
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wolfgang Laib",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/LaibDie5UnbestgbrnBerge84-S.jpg",
+      "alt": "",
+      "caption": "Die Fünf Unbesteigbaren Berge, 1984",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Felix Gonzalez-Torres",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/GonzTorres(PublOpinion)91-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Public Opinion), 1991",
+      "width": null,
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Thomas Rentmeister",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/thomas-rentmeister-05-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 2005",
+      "width": null,
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/heap/thomas-rentmeister-06-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 2006",
+      "width": "300",
+      "height": "162",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/heap/Kaprow-Untitled-59-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959",
+      "legacy_src": "Kaprow-Untitled-59-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/ben-1962-SandHeap-s.jpg",
+      "alt": "",
+      "caption": "Sand Heap, 1962",
+      "legacy_src": "ben-1962-SandHeap-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/venet63CharcoalPile.jpg",
+      "alt": "",
+      "caption": "Charcoal Pile, 1963",
+      "legacy_src": "venet63CharcoalPile.jpg"
+    },
+    {
+      "src": "/images/informe/heap/WimSchippers65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "WimSchippers65-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/Pistoletto67VenereDegliStracci-s.jpg",
+      "alt": "",
+      "caption": "Venere degli Stracci, 1967",
+      "legacy_src": "Pistoletto67VenereDegliStracci-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/reiner-ruthenbeck-RuthenbeckAschehaufen1968.jpg",
+      "alt": "",
+      "caption": "Aschehaufen, 1968",
+      "legacy_src": "ReinerRuthenbeck/RuthenbeckAschehaufen1968.jpg"
+    },
+    {
+      "src": "/images/informe/heap/reiner-ruthenbeck-Ruthenbeck70SchwarzrPaprhfn.jpg",
+      "alt": "",
+      "caption": "Schwarzer Papierhaufen,\n1970",
+      "legacy_src": "ReinerRuthenbeck/Ruthenbeck70SchwarzrPaprhfn.jpg"
+    },
+    {
+      "src": "/images/informe/heap/reiner-ruthenbeck-RuthenbeckWhitePaperHeap79S.jpg",
+      "alt": "",
+      "caption": "Weisser Papierhaufen, 1979",
+      "legacy_src": "ReinerRuthenbeck/RuthenbeckWhitePaperHeap79S.jpg"
+    },
+    {
+      "src": "/images/informe/heap/smithson-smithson69 MOG(Atlantis).jpg",
+      "alt": "",
+      "caption": "Map of Glass (Atlantis), 1969",
+      "legacy_src": "Smithson/smithson69%20MOG(Atlantis).jpg"
+    },
+    {
+      "src": "/images/informe/heap/smithson-Smithson69ChalkAMD-S.jpg",
+      "alt": "",
+      "caption": "Chalk and Mirror Displacement, 1969",
+      "legacy_src": "Smithson/Smithson69ChalkAMD-S.jpg"
+    },
+    {
+      "src": "/images/informe/heap/smithson-Smithson-S.jpg",
+      "alt": "",
+      "caption": "Nonsite, 1969",
+      "legacy_src": "Smithson/Smithson-S.jpg"
+    },
+    {
+      "src": "/images/informe/heap/smithson-Smithson69MWCrushedShells-S.jpg",
+      "alt": "",
+      "caption": "Mirror with crushed shells, 1969",
+      "legacy_src": "Smithson/Smithson69MWCrushedShells-S.jpg"
+    },
+    {
+      "src": "/images/informe/heap/JannisKounellis69Pietra.jpg",
+      "alt": "",
+      "caption": "Pietra, 1969",
+      "legacy_src": "JannisKounellis69Pietra.jpg"
+    },
+    {
+      "src": "/images/informe/heap/haacke70BeachPollution.jpg",
+      "alt": "",
+      "caption": "Beach Pollution, 1970",
+      "legacy_src": "haacke70BeachPollution.jpg"
+    },
+    {
+      "src": "/images/informe/heap/MichaelHeizer71-DraggedMD-s.jpg",
+      "alt": "",
+      "caption": "Dragged Mass Displacement, 1971",
+      "legacy_src": "MichaelHeizer71-DraggedMD-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/DeVries73ToevalligeStapelng.jpg",
+      "alt": "",
+      "caption": "toevallige stapeling, 1973",
+      "legacy_src": "DeVries73ToevalligeStapelng.jpg"
+    },
+    {
+      "src": "/images/informe/heap/GiuseppePenone77Patate.jpg",
+      "alt": "",
+      "caption": "Patate, 1977",
+      "legacy_src": "GiuseppePenone77Patate.jpg"
+    },
+    {
+      "src": "/images/informe/heap/LaibDie5UnbestgbrnBerge84-S.jpg",
+      "alt": "",
+      "caption": "Die Fünf Unbesteigbaren Berge, 1984",
+      "legacy_src": "LaibDie5UnbestgbrnBerge84-S.jpg"
+    },
+    {
+      "src": "/images/informe/heap/GonzTorres(PublOpinion)91-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Public Opinion), 1991",
+      "legacy_src": "GonzTorres(PublOpinion)91-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/thomas-rentmeister-05-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 2005",
+      "legacy_src": "ThomasRentmeister/05-OT-s.jpg"
+    },
+    {
+      "src": "/images/informe/heap/thomas-rentmeister-06-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 2006",
+      "legacy_src": "ThomasRentmeister/06-OT-s.jpg"
+    }
+  ],
+  "out_links": []
+}

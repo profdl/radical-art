@@ -1,0 +1,621 @@
+{
+  "slug": "algorithmic-art/enumeration",
+  "legacy_path": "AlgorithmicArt/enumeration/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Enumeration",
+  "heading": "Enumeration",
+  "description": "Enumeration art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Enumeration",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Counting",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "\"One, two, three, . .\n. .\" – the row of these sounds (spoken ordinal numbers)\nwe know by heart as a series without end, i.e., which continues\nforever according to a law which is known as fixed.\n\nBesides this row of auditory images we possess other sequences of\nrepresentations which proceed according to a fixed law, such as\nthe row of visual symbols (written ordinal numbers) 1, 2, 3, . .\n. .\n\nThese things are intuitively clear.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "L.E.J. Brouwer: The Foundations\nof Mathematics, Ph. D. Dissertation, University of Amsterdam,\n1907. [Beginnning of Chapter 1: The Construction of Mathematics.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Piero Manzoni",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-58-Alfabeto-s.jpg",
+      "alt": "",
+      "caption": "Alfabeto, 1958",
+      "width": "171",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-58-ABCDEFG-s.jpg",
+      "alt": "",
+      "caption": "ABCDEFG, 1958",
+      "width": "175",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-59-1-30Settembre-s.jpg",
+      "alt": "",
+      "caption": "1-30 Settembre, 1959",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Konrad Bayer & Gerhard Rühm",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "10 Lebensregeln für Vierzigjährige",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "1.) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.\n\n2.) 2, 3, 4, 5, 6, 7, 8, 9, 10.\n\n\n3.) 3, 4, 5, 6, 7, 8, 9, 10.\n\n4.) 4, 5, 6, 7, 8, 9, 10.\n\n5.) 5, 6, 7, 8, 9, 10.\n\n6.) 6, 7, 8, 9, 10.\n\n7.) 7, 8, 9, 10.\n\n8.) 8, 9, 10.\n\n9.) 9, 10.\n\n10.) 10.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "(5.3.1959)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In: Gerhard Rühm (ed.): Die Wiener Gruppe. Achleitner, Artmann, Bayer, Rühm, Wiener.\n\nReinbek: Rowohlt Verlag, 1967, p. 318.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ellsworth Kelly",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/66-kelly-66-BGYOR-s.jpg",
+      "alt": "",
+      "caption": "Blue Green Yellow Orange Red, 1966",
+      "width": "480",
+      "height": "120",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/66-kelly-66-67-SpectrumII-S.jpg",
+      "alt": "",
+      "caption": "Spectrum II, 1966/1967",
+      "width": "419",
+      "height": "120",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/66-kelly-69-SpectrumV-s.jpg",
+      "alt": "",
+      "caption": "Spectrum V, 1969",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Iteration",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most basic algorithms is the iterative loop: repeat the same\ncalculation forever, merely changing the value of one parameter: i =\n0, 1, 2, 3, . . . The very form of this algorithm shows that its output\nsequence is isomorphic with the series of natural numbers. No matter\nwhat the output looks like, its abstract form embodies the Ur-intuition\nof counting.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The Universal Library",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "A schema allowing finitely many instantiations\nis succinctly represented by an algorithm enumerating these instantiations,\none by one, in some systematic order. An alternative (extensional)\nrepresentation is the output sequence of such an algorithm.\n\n\n\nThe first artwork instantiating this format is an early piece of \"concept art\": the \"Universal Library\" described\nby Kurd Laßwitz in his dialogue \"Die\nUniversalbibliothek\" (1901). The Universal Library is the\nset of all possible books: the set of all sequences of typographical\ncharacters with a certain maximum length. (Laßwitz notes that\nthe maximum length does not introduce an essential limitation: longer\ntexts merely consist of multiple volumes from the library. W.V.O. Quine (\"Universal Library\") observed that a small pocket library of two one-bit volumes may thus be used to represent the Universal Library in a very efficient way.) The\nhistory of this idea is beautifully summarized by Jorge Luis Borges\nin his essay \"La Biblioteca Total\" (1939). Borges mentions\nLewis Carroll and Gustav Theodor Fechner as direct antecedents of\nLaßwitz. The Universal Library re-appears in The Race with\nthe Tortoise by Theodor Wolff (1929) and \"The\nLibrary of Babel\" by Jorge Luis Borges (1944).",
+      "links": [
+        {
+          "text": "Die Universalbibliothek",
+          "href": "http://gutenberg.spiegel.de/lasswitz/univbib/univbib.htm",
+          "external": true
+        },
+        {
+          "text": "\"Universal Library\"",
+          "href": "http://jubal.westnet.com/hyperdiscordia/universal_library.html",
+          "external": true
+        },
+        {
+          "text": "The Library of Babel",
+          "href": "http://jubal.westnet.com/hyperdiscordia/library_of_babel.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quotes",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Interviewer: \"Can you tell us something about your new opera?\"\n\nGiuseppe Verdi: \"It's exactly the same notes as the previous one, I merely changed the order a little bit.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[To do: Find source and exact formulation!]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "When\nthings around me seemed once more to be real, Arthur\nwas saying “I’m afraid there’s no help\nfor it: they must be finite in number.”\n\n“I should be sorry to have to believe\nit,” said Lady Muriel. “Yet, when one comes\nto think of it, there are no new melodies,\nnow-a-days. What people talk of as ‘the last new\nsong’ always recalls to me some tune I’ve\nknown as a child!”\n\n“The day must come – if the world\nlasts long enough –” said Arthur, “when\nevery possible tune will have been composed and every\npossible pun perpetrated –” (Lady Muriel wrung\nher hands, like a tragedy-queen) \"and worse than\nthat, every possible book written! For the\nnumber of words is finite.\"\n\n“It’ll make very little difference\nto the authors,” I suggested. “Instead\nof saying ’what book shall I write?’ an author will ask himself ’which book\nshall I write?’ A mere verbal distinction!”\n\n\nLady Muriel gave me an approving smile.\n“But lunatics would always write new books,\nsurely?” she went on. They couldn’t write\nthe same books over again!”\n\n“True,”\nsaid Arthur. “But their books would come to an\nend, also. The number of lunatic books is as finite as the number of lunatics.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lewis Carroll: Sylvie and Bruno Concluded, 1893. Chapter\nIX: The Farewell-Party.",
+      "links": [
+        {
+          "text": "Chapter IX: The Farewell-Party.",
+          "href": "http://www.hoboes.com/html/FireBlade/Carroll/Sylvie/Concluded/Chapter9.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The caprice\nor fancy or utopia of the Total Library contains certain\ntraits that could be confused with virtues. Actually,\nit is astonishing how long it took mankind to dream up\nthe idea. Certain examples Aristotle attributes to Democritus\nand to Leucippus clearly prefigure it, but its late inventor\nis Gustav Theodor Fechner and its first expounder is Kurd\nLaßwitz. Its connections are illustrious and multiple:\nit is related to atomism and combinatory analysis, to\ntypography and to chance. In The Race with the Tortoise\n(Berlin, 1929), Dr. Theodor Wolff suggests that it is\neither a derivation from or a parody of Raymond Lull's\nmental machine; I would add that it is a typographical\navatar of the doctrine of the eternal return which, adopted\nby the Stoics or by Blanqui, by the Pythagoreans or by\nNietzsche, eternally returns.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jorge Luis Borges: \"La\nBiblioteca Total\", 1939.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque fois que l'on discute de tel ou tel produit de l'esprit sous le rapport de l'art, il faut s'en tenir à ce dilemme: ou c'est une intuition lyrique, ou ce sera n'importe quoi d'autre, même éminemment respectable, mais non pas de l'art. Si la peinture était, comme pour certaines théories, une imitation ou une reproduction des objets donnés, elle ne serait pas de l'art mais quelque chose de mécanique et de pratique; si les peintres étaient, comme selon d'autres théories, des assembleurs de lignes, de lumière et de couleurs au moyen de nouveautés ingénieuses, de trouvailles efficaces, ils ne seraient pas des artistes mes des inventeurs de techniques; si la musique consistait en de semblables combinaisons de tons il serait possible de composer des partitions sans connaître la musique, en réalisant le paradoxe de Leibniz et du Père Kircher, ou il serait à craindre, avec Proudhon pour la poésie et Stuart Mill pour la musique, que, une fois épuisé le nombre des combinaisons possibles de mots et de notes, poésie et musique disparaissent du monde.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Benedetto Croce: \"Aesthetica in nuce.\" (Laterza, 1935) French translation by Gilles A. Tiberghien\n\nin: Benedetto Croce: Essais d'esthétique (Paris: Gallimard, 1991), p. 47.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Louis Auguste Blanqui: L'éternité par les astres (1872).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jorge Luis Borges: \"La Biblioteca Total.\" Sur (August 1939).",
+      "links": [
+        {
+          "text": "La Biblioteca Total.",
+          "href": "http://www.literatura.org/Borges/LaBibliotecaTotal.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jorge Luis Borges: \"The Library of Babel.\" In: Ficciones (1944).",
+      "links": [
+        {
+          "text": "The Library of Babel",
+          "href": "http://jubal.westnet.com/hyperdiscordia/library_of_babel.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lewis Carroll: Sylvie and Bruno Concluded, 1893.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kurd Laßwitz: \"Die Universalbibliothek.\" In: Traumkristalle, 1901.",
+      "links": [
+        {
+          "text": "Die Universalbibliothek",
+          "href": "http://gutenberg.spiegel.de/lasswitz/univbib/univbib.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "W.V.O. Quine: \"Universal Library\"",
+      "links": [
+        {
+          "text": "\"Universal Library\"",
+          "href": "http://jubal.westnet.com/hyperdiscordia/universal_library.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Theodor Wolff: The Race with the Tortoise. Berlin, 1929.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Permutation Poetry",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In the 1960's, poets such as Brion Gysin and Dick\nHiggins produced enumerative literary works by means of digital\ncomputers. Their \"permutation poems\" consisted simply\nof all possible permutations of the words of a simple phrase.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Brion Gysin: Permutation poems.\nIn: William S. Burroughs: The Third Mind. Viking, New York,\n1978.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dick Higgins: Computers for the Arts. Somerville, Mass.:\nAbyss Publications, 1968/1970.\n\n[Including \"Hank and Mary\" by Dick\nHiggins, and \"Proposition No. 2 for Emmett Williams\" by Alison Knowles.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Conceptual Art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "An algorithm enumerating a relatively small finite\nsequence may be carried out by a human person, without the aid of\na digital computer. This approach was used in many \"conceptual\nart\" pieces by Sol LeWitt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The artist's\nwill is secondary to the process he initiates from idea to completion.\n[...] The process is mechanical and should not be tampered with.\nIt should run its course.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: \"Sentences on Conceptual Art.\"\nArt-Language 1,1 (May 1969).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: Arcs circles and\ngrids. Arcs, from corners & sides, circles, & grids and\nall their combinations. Bern: Kunsthalle Bern & Paul Bianchini,\n1972.\n\n\n\nSol LeWitt: Arcs and Lines. All combinations of arcs from four\ncorners, arcs from four sides, straight lines, not-straight lines,\nand broken lines. Lausanne: Éditions des Massons, 1974.\n\n\n\nSol LeWitt: Geometric Figures & Color. Circle, Square, Triangle,\nTrapezoid and Parallelogram in Red, Yellow and Blue on Red, Yellow\nand Blue. New York: Harry N. Abrams, 1979.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/69Winiarski-s.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski:\n\nGame 7x7 – logical course – the elements\n\nappear keeping the diagonal direction,\n\n1969",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Performance Art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the minimalist art of the 1960's shows an obsession with\nrepetition which is not primarily concerned with visual strategy\nbut just as much with compulsive behaviour. (Andy Warhol, Yayoi\nKusama, Jan Schoonhoven.) This attitude was developed into a curiously\nformal version of performance art in the oeuvres of On Kawara, Roman\nOpalka and Hanne Darboven, who all (in different ways) construed\ntheir lives as mere enumerations of temporal marks.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Quotes",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Wo Mechanismus ist, ist keine\nGeschichte, und umgekehrt, wo Geschichte ist, ist kein Mechanismus.\nKönnen wir uns z.B. die Geschichte einer Uhr denken,\ndie immer regelmäßig (der Einheit ihres Princips\ngemäß) geht? Aus doppeltem Grund nicht: einmal,\nweil in ihr keine Freiheit des Princips, und dann, weil in\nihr keine Mannichfaltigkeit der Handlung ist, denn es ist\neine und dieselbe immer wiederholte Begebenheit, die wir an\nihr sehen. Daher ist auch der Mensch nach der Uhr – der\nselbst Maschine geworden ist (er aß, trank, nahm ein\nWeib und starb) – kein Objekt – nicht einmal der\nErzählung.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Friedrich Wilhelm Joseph Schelling:\nIst eine Philosophie der Geschichte möglich? 1797/1798",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The things I want to show are\nmechanical. Machines have less problems. I'd like to be a\nmachine, wouldn't you?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Andy Warhol. (In: David Bourdon:\nWarhol. New York: Harry N. Abrams, 1989, p. 140.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Maurice Fréchuret:\nLa Machine à peindre, Jacqueline Chambon, 1994. [Discusses\nthe artist as machine and the machine as artist: Alberto Giacometti,\nAndy Warhol, Piero Manzoni, Jean Tinguely, Giuseppe Pinot-Gallizio,\nRoman Opalka, On Kawara, Hanne Darboven, Buren/Mosset/Parmentier/Toroni.]\n\n\n\nOn Kawara's date\npaintings.",
+      "links": [
+        {
+          "text": "On Kawara's date paintings.",
+          "href": "/concept/tautology/on-kawara",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Barthelémy Schwartz: Review\nof: Maurice Fréchuret: La Machine à Peindre.\n\n\n\n\nArthur Elsenaar and Remko Scha: The Varieties of Human Facial Expression (1997).",
+      "links": [
+        {
+          "text": "Review of: Maurice Fréchuret: La Machine à Peindre.",
+          "href": "http://www.republique-des-lettres.fr/260-maurice-frechuret.php",
+          "external": true
+        },
+        {
+          "text": "The Varieties of Human Facial Expression",
+          "href": "http://radicalart.info/artex/varwin.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "All pixel grids",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The visual equivalent of the Universal Library is the set of all images with a certain resolution and a certain color depth. In the 1990's, several artists implemented algorithms doing this.",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lars Eijssen & Boele\nKlopman: \"The Wishing Well\" (Enschede, 1991). Program\nprinting out all configurations of a 71 by 71 black & white\npixel grid. With a graphical interface for \"looking into the\nfuture\" and an \"inverse mapping\" which calculates\nfor any picture when it will be produced. (Pascal program running\non IBM-compatible PC's under MSDOS.) This piece was displayed as\nan installation at the 1991 TART Festival, University of Twente,\nthe Netherlands; it was mentioned in: Remko Scha: \"The\nArtificial Artist.\" Natuur en Techniek 60,\n7 (1992), pp. 526-539.",
+          "links": [
+            {
+              "text": "\"The Artificial Artist.\"",
+              "href": "http://iaaa.nl/rs/natuuren.html",
+              "external": true
+            }
+          ]
+        },
+        {
+          "text": "Jochem van der Spek:\n\"Borges\" (Amsterdam, 1993).",
+          "links": []
+        },
+        {
+          "text": "John F. Simon Jr.: \"Every\nIcon\" (New York, 1996). Enumeration of all configurations\nof a 32 by 32 black & white pixel grid. (Platform-independent\nJava-applet.)",
+          "links": [
+            {
+              "text": "\"Every Icon\"",
+              "href": "/algorithmic-art/grid/every/every-icon",
+              "external": false
+            }
+          ]
+        },
+        {
+          "text": "Leander Seige: \"Imagen\"\n(2000). Enumeration of all configurations of various pixel grids.\nE.g.: up to 150 by 150 black & white; up to 64 by 64 grey or\nRGB (up to 16 bit). [This program has been accessible online, and\nmay become accessible again. See http://imagen.hgb-leipzig.de/\n.]",
+          "links": [
+            {
+              "text": "http://imagen.hgb-leipzig.de/",
+              "href": "http://imagen.hgb-leipzig.de/",
+              "external": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Some related issues:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "An aesthetic experience evoked by these\npieces: Even if the number of 71 x 71 black-and-white images is\nfinite, it is extremely large. The attempt at mental representation\nof such an image set is experienced as a sublime vertigo. (Cf. Kant: \"Das physikalische Erhabene.\") [Computer Science correlary:\nTheory of randomness: Almost all of these images lack structure.\nRegularity is rare.]",
+          "links": []
+        },
+        {
+          "text": "A more difficult challenge is to design\nand implement a theory describing all possible images not as pixel\ngrids but as visual Gestalt structures, taking into account the\nway in which images are perceived by human observers. This is the\ngoal of the IAAA project Artificial,\ninitiated in 1988.",
+          "links": [
+            {
+              "text": "Artificial",
+              "href": "http://iaaa.nl/artificial/index.html",
+              "external": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Non-enumerable sets",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/enumeration/logo-black.gif",
+      "alt": "black line",
+      "caption": "Each point on this line is a composition.",
+      "width": "200",
+      "height": "2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt, January\n1961",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To add: Pieces by Christer Hennix which deal with\nthe real numbers.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Fodor's\nproblem.",
+      "links": [
+        {
+          "text": "Fodor's problem.",
+          "href": "http://iaaa.nl/rs/notes/fodor.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Risa Horowitz:\nGeneric Form",
+      "links": [
+        {
+          "text": "Generic Form",
+          "href": "http://www.risahorowitz.com/form/generic/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Yasuka Matsui: Algorithms\nfor Combinatorial Enumeration Problems",
+      "links": [
+        {
+          "text": "Algorithms for Combinatorial Enumeration Problems",
+          "href": "http://dmawww.epfl.ch/roso.mosaic/kf/enum/comb/combenum.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "© Remko Scha, 2001-2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-58-Alfabeto-s.jpg",
+      "alt": "",
+      "caption": "Alfabeto, 1958",
+      "legacy_src": "59Manzoni/58-Alfabeto-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-58-ABCDEFG-s.jpg",
+      "alt": "",
+      "caption": "ABCDEFG, 1958",
+      "legacy_src": "59Manzoni/58-ABCDEFG-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/59-manzoni-59-1-30Settembre-s.jpg",
+      "alt": "",
+      "caption": "1-30 Settembre, 1959",
+      "legacy_src": "59Manzoni/59-1-30Settembre-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/66-kelly-66-BGYOR-s.jpg",
+      "alt": "",
+      "caption": "Blue Green Yellow Orange Red, 1966",
+      "legacy_src": "66Kelly/66-BGYOR-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/66-kelly-66-67-SpectrumII-S.jpg",
+      "alt": "",
+      "caption": "Spectrum II, 1966/1967",
+      "legacy_src": "66Kelly/66-67-SpectrumII-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/66-kelly-69-SpectrumV-s.jpg",
+      "alt": "",
+      "caption": "Spectrum V, 1969",
+      "legacy_src": "66Kelly/69-SpectrumV-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/69Winiarski-s.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski:\n\nGame 7x7 – logical course – the elements\n\nappear keeping the diagonal direction,\n\n1969",
+      "legacy_src": "69Winiarski-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/enumeration/logo-black.gif",
+      "alt": "black line",
+      "caption": "Each point on this line is a composition.",
+      "legacy_src": "../../gif/logo/black.gif"
+    }
+  ],
+  "out_links": [
+    "/concept/tautology/on-kawara"
+  ]
+}

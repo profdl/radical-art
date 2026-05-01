@@ -1,0 +1,51 @@
+{
+  "slug": "process/burn/raphael-montanez-ortiz",
+  "legacy_path": "process/burn/RaphaelMontanezOrtiz/index.html",
+  "section": "process",
+  "archetype": "leaf-intro",
+  "title": "Raphael Montanez Ortiz: Archeological Finds",
+  "heading": "",
+  "description": "Henk Peeters: Pyrographies",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Raphael Montañez Ortiz: Archeological Finds, 1961",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/raphael-montanez-ortiz/61ArcheologicalFindNr2.jpg",
+      "alt": "",
+      "caption": "Nr. 2",
+      "width": "408",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/raphael-montanez-ortiz/61ArcheologicalFindNr3.jpg",
+      "alt": "",
+      "caption": "Nr. 3",
+      "width": "222",
+      "height": "400",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/raphael-montanez-ortiz/61ArcheologicalFindNr2.jpg",
+      "alt": "",
+      "caption": "Nr. 2",
+      "legacy_src": "61ArcheologicalFindNr2.jpg"
+    },
+    {
+      "src": "/images/process/burn/raphael-montanez-ortiz/61ArcheologicalFindNr3.jpg",
+      "alt": "",
+      "caption": "Nr. 3",
+      "legacy_src": "61ArcheologicalFindNr3.jpg"
+    }
+  ],
+  "out_links": []
+}

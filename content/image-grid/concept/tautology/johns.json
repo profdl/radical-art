@@ -1,0 +1,122 @@
+{
+  "slug": "concept/tautology/johns",
+  "legacy_path": "concept/tautology/Johns/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Tautologies",
+  "heading": "",
+  "description": "Artworks as analytical propositions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Jasper Johns: Tautological Paintings",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/JohnsFlag1954-55-S.jpg",
+      "alt": "",
+      "caption": "Flag, 1954-55",
+      "width": "150",
+      "height": "103",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/johns_target-1969-S.jpg",
+      "alt": "",
+      "caption": "Target, 1969",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/FlagAboveWhiteCollage-55-S.jpg",
+      "alt": "",
+      "caption": "Flag above white collage, 1955",
+      "width": "150",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/Johns2Flags(in6parts)1973-S.jpg",
+      "alt": "",
+      "caption": "Two Flags (in six parts), 1973",
+      "width": "150",
+      "height": "112",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/johns-3Flags-1958-S.jpg",
+      "alt": "",
+      "caption": "Three Flags, 1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns/JohnsTarget-1974-S.jpg",
+      "alt": "",
+      "caption": "Target, 1974",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Concept Art has its roots in Pop Art.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth: \"And in Jasper\nJohns' work – such as his 'Target' and 'Flag' paintings and\nhis ale cans – one has a particularly good example of art\nexisting as analytical proposition.\" (\"Art\nafter Philosophy, part II.\" Studio International, November\n1969, p.161)",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/johns/JohnsFlag1954-55-S.jpg",
+      "alt": "",
+      "caption": "Flag, 1954-55",
+      "legacy_src": "JohnsFlag1954-55-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns/johns_target-1969-S.jpg",
+      "alt": "",
+      "caption": "Target, 1969",
+      "legacy_src": "johns_target-1969-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns/FlagAboveWhiteCollage-55-S.jpg",
+      "alt": "",
+      "caption": "Flag above white collage, 1955",
+      "legacy_src": "FlagAboveWhiteCollage-55-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns/Johns2Flags(in6parts)1973-S.jpg",
+      "alt": "",
+      "caption": "Two Flags (in six parts), 1973",
+      "legacy_src": "Johns2Flags(in6parts)1973-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns/johns-3Flags-1958-S.jpg",
+      "alt": "",
+      "caption": "Three Flags, 1958",
+      "legacy_src": "johns-3Flags-1958-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns/JohnsTarget-1974-S.jpg",
+      "alt": "",
+      "caption": "Target, 1974",
+      "legacy_src": "JohnsTarget-1974-S.jpg"
+    }
+  ],
+  "out_links": []
+}

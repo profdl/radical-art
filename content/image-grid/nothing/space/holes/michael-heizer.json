@@ -1,0 +1,126 @@
+{
+  "slug": "nothing/space/holes/michael-heizer",
+  "legacy_path": "nothing/space/holes/MichaelHeizer/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes by Michael Heizer",
+  "heading": "",
+  "description": "Michael Heizer's Mass Displacements.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holes by Michael Heizer",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/holes-67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "North, East, South, West (1967)",
+      "width": "220",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/67-N[FromNESW]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "224",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "North, 1967\n\n[Sierra Mountains, Reno, Nevada]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/69-5ConicDisplacements-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "253",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Five Conic Displacements, 1969\n\n[Coyote Dry Lake, California]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/69-MassRemovedAPutBackInPlace-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "211",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mass removed and put back in place,\n\n1969",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/holes-69-70HeizerDoubleNegative.jpg",
+      "alt": "",
+      "caption": "Double Negative, 1969/1970",
+      "width": "285",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/michael-heizer/77-DisplReplacedMass-s.jpg",
+      "alt": "",
+      "caption": "Displaced Replaced Mass, 1977",
+      "width": "255",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/holes-67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "North, East, South, West (1967)",
+      "legacy_src": "../67HeizerNorthEastSouthWestS.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/67-N[FromNESW]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "67-N%5BFromNESW%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/69-5ConicDisplacements-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "69-5ConicDisplacements-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/69-MassRemovedAPutBackInPlace-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "69-MassRemovedAPutBackInPlace-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/holes-69-70HeizerDoubleNegative.jpg",
+      "alt": "",
+      "caption": "Double Negative, 1969/1970",
+      "legacy_src": "../69-70HeizerDoubleNegative.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/michael-heizer/77-DisplReplacedMass-s.jpg",
+      "alt": "",
+      "caption": "Displaced Replaced Mass, 1977",
+      "legacy_src": "77-DisplReplacedMass-s.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "process/burn/latham",
+  "legacy_path": "process/burn/latham.html",
+  "section": "process",
+  "archetype": "single-work",
+  "title": "john latham",
+  "heading": "",
+  "description": "john latham's book burnings",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "john\nlatham: book burnings",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/latham/fire-s-LathamBookFragment1958.jpg",
+      "alt": "",
+      "caption": "Book Fragment, 1958",
+      "width": "250",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/latham/fire-s-LathamUntitled-21258.jpg",
+      "alt": "",
+      "caption": "Untitled, 1958",
+      "width": "194",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/latham/fire-s-LathamSkoob.jpg",
+      "alt": "",
+      "caption": "Skoob Tower Ceremony, Bangor, North-Wales, 1966",
+      "width": "300",
+      "height": "204",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/latham/fire-s-LathamBookFragment1958.jpg",
+      "alt": "",
+      "caption": "Book Fragment, 1958",
+      "legacy_src": "../../gif/natuur/FireS/LathamBookFragment1958.jpg"
+    },
+    {
+      "src": "/images/process/burn/latham/fire-s-LathamUntitled-21258.jpg",
+      "alt": "",
+      "caption": "Untitled, 1958",
+      "legacy_src": "../../gif/natuur/FireS/LathamUntitled-21258.jpg"
+    },
+    {
+      "src": "/images/process/burn/latham/fire-s-LathamSkoob.jpg",
+      "alt": "",
+      "caption": "Skoob Tower Ceremony, Bangor, North-Wales, 1966",
+      "legacy_src": "../../gif/natuur/FireS/LathamSkoob.jpg"
+    }
+  ],
+  "out_links": []
+}

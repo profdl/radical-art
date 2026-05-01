@@ -1,0 +1,184 @@
+{
+  "slug": "algorithmic-art/algebra/aaron",
+  "legacy_path": "AlgorithmicArt/algebra/AARON/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "leaf-intro",
+  "title": "Artificial Intelligence",
+  "heading": "",
+  "description": "Artificial Intelligence and image generation",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Line Drawing as Process:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "AARON",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If art is a uniquely human form of expression, automatic art generation\nmust be a branch of cognitive science: it involves the computational\nsimulation of human psychology. This appears to be the position of\nHarold Cohen, who designed a sequence of art generation programs called\nAARON.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Art is valuable to\nhuman beings in virtue of being made by other human beings, and\nthe question of finding more efficient modes (. . .) simply does\nnot arise.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohen\n(1979), p. 1028.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Given the limitations\nof our understanding of human cognition, this would seem to imply\nthat serious efforts at automatic art generation ought to be deferred\nto the indefinite future. But Cohen views art-making as a very unusual\ncognitive activity, which lacks purpose and reflection:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"(. . .) art-making\nin general lacks clear internal goal-seeking structures. (. . .) the program has no critical judgment that would enable it\nto declare that one of its drawings was better than another.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohen\n(1979), p. 1030.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/algebra/aaron/aaron-Cohen-Untitled-1979.GIF",
+      "alt": "",
+      "caption": "Untitled Drawing, 1979, by\nHarold Cohen's program Aaron.",
+      "width": "400",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "AARON's style went through a sequence of stages. Its early work\nresembles abstract children's drawings. Its later productions depict\npersons in gardens or interiors. AARON's \"image grammars\"\nare implemented by means of A.I. techniques (systems of \"production\nrules\").",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "AARON's drawing technique emulates a process which is characteristic\nof early child drawing: the correction of inaccuracies through visual\nfeedback. When AARON draws a closed shape, for instance, it executes\nan incremental process which accumulates errors which are corrected\nwith increasing accuracy when the line approaches its starting point.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Links",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Artificial\nArt, focussing on Cohen",
+      "links": [
+        {
+          "text": "Artificial Art, focussing on Cohen",
+          "href": "http://www.aaai.org/AITopics/html/art.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohen’s\npapers",
+      "links": [
+        {
+          "text": "Cohen’s papers",
+          "href": "http://crca.ucsd.edu/%7Ehcohen/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Interview\nwith Cohen",
+      "links": [
+        {
+          "text": "Interview with Cohen",
+          "href": "http://www.pbs.org/safarchive/3_ask/archive/qna/3284_cohen.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Download\nAARON",
+      "links": [
+        {
+          "text": "Download AARON",
+          "href": "http://www.kurzweilcyberart.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold\nCohen: \"What is an Image?\" Proceedings International\nJoint Conference on Artificial Intelligence, Tokyo, 1979, Vol.\n2, pp. 1028 - 1057. [In Reader 1985]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold\nCohen, Becky Cohen and Penny Ni: The First Artificial Intelligence\nColoring Book. Los Altos, CA: William Kaufman, Inc., 1984.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen: \"How to Draw Three People in a Botanical Garden.\" [In Reader 1992]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen: \"The Computability of Art.\" Ms., 1991. [In\nReader 1992]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen: \"Parallel to Perception -- Some Notes on the Problem\nof Machine Art.\" Presented at INTERACT, Edinburgh 1973.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Curtis Roads: \"An Interview with Harold Cohen.\" Computer Music Journal\n3, 4 (1979?), pp. 50-57.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed Burton:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "ROSE",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed Burton embraced Harold Cohen's\nresearch paradigm. His program ROSE is designed to emulate\na certain stage of children's drawing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ed Burton: \"Thoughtful drawings:\nA computational model of the cognitive nature of children's drawing.\"\nEurographics '95.\n\nEd Burton: \"Representing\nRepresentation: Artificial Intelligence and Drawing.\" In:\nStuart Mealing (ed.): Computers & Art. Intellect Books, 1996.\n\nEd Burton: \"Artificial\nInnocence: Interactions between the study of children's drawing and\nartificial intelligence.\" Updated version of paper published\nat Creativity & Cognition '96, Loughborough.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/algebra/aaron/aaron-Cohen-Untitled-1979.GIF",
+      "alt": "",
+      "caption": "Untitled Drawing, 1979, by\nHarold Cohen's program Aaron.",
+      "legacy_src": "../../../gif/aaron/Cohen-Untitled-1979.GIF"
+    }
+  ],
+  "out_links": []
+}

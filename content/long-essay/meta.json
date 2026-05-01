@@ -1,0 +1,379 @@
+{
+  "slug": "meta",
+  "legacy_path": "meta.html",
+  "section": "(root)",
+  "archetype": "long-essay",
+  "title": "Kant, Duchamp, Meta-Art",
+  "heading": "Kant, Duchamp, Meta-Art",
+  "description": "The roots of algorithmic art: Kant's aesthetics, Duchamp's readymades, sixties meta-art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Kant, Duchamp, Meta-Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Kant: Nature versus art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Immanuel Kant’s classic Kritik\nder Urteilskraft analyses the esthetic experience as a cognitive\nphenomenon: a feature of perception which is manifested when perception\nbecomes conscious of itself -- when the process of input interpretation\ndoes not yield a definite final result, but nevertheless creates a\ncoherent experience.\n\n\n\nFor today's reader, it is striking that Kant’s discussion\nis not primarily concerned with works of art, but with natural\nphenomena -- his paradigm examples evoke flowers, crystals, landscapes,\nstormy seas and starry skies. This is not a coincidence; it is connected\nwith essential properties of Kant’s theory. In his view, the\nesthetic experience presupposes a disinterested attitude, which\ndoes not involve any practical purposes. It is the awareness of autonomous\nperceptual processes which analyse and reanalyse their input in a\nplayful manner, without trying to grasp it under a determinate concept.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Manmade artworks have an inherently\nproblematic status in Kant’s theory. Western highbrow art seems\nto agree with this point of view, in that it has increasingly emphasized\nits practical uselessness. But this very uselessness signals a purpose:\nthe artwork is deliberately constructed to be experienced in the esthetic\nmode, i.e., to be experienced as if it does not have any purpose.\nThis deliberateness must be ignored, if we are to experience the artwork\nin an esthetic way. Kant noticed this problem, and concluded that\nart necessarily involves a second-order mimesis: whatever the artwork\ndoes or does not portray, it must always fake its \"natural\" character: \". . . the finality in the product of fine art,\nalthough it is intentional, must nevertheless not seem to be intentional.\"\n[...] \"Nature proved beautiful, when it looked at the same time\nas art; art can only be called beautiful, when we are conscious of\nits being art, and yet it looks to us as nature.\"\n\n\n\nPerception is an abductive process. To interpret any product of a\nhuman artist is to retrace the mental processes behind it. These processes\nalways involve the artist’s ideas, methods, goals and motives.\nThe artists’s fellow-humans cannot be expected to overlook that\ncontent, or to deal with it in a disinterested fashion. Manmade art\nthus constitutes sub-optimal input for the process of esthetic reflection.\nTwentieth-century art-critics have not failed to notice this implication\nof Kant’s theory; and some of them have pointed at contingent\nbut ubiquitous features of manmade artworks, which increase their\ndiscrepancy with his esthetic ideal.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lyotard: \"Die großen Schauspiele\nder sich in Unordnung befindlichen Natur sind ein beispiel dafür,\ndaß die menschliche Kunst niemals etwas derartiges hervorbringen\nkann. Denn alle menschliche Kunst ist immer nur Mimesis und letztlich\nsuspekt, weil immer die möglichkeit besteht, daß sie\nmit einer absicht konzipiert worden ist und von daher ein Begriff\nund eine Zweckmäßigkeit mit Zweck auf ihr lastet.\"\n\n\n\nHuge Harry: \"Is it possible to listen in a disinterested\nway to music which is composed and performed by humans? Human composers\nand musicians are not disinterested. They want money, fame, sex.\nThey cannot hide this, and often they don’t even try. If we\ndo not turn off our microphones when we listen to their pieces,\nwe hear greed, jealousy, lust. Behind the apparent complexity and\nindefiniteness of their compositions, there are all too clear-cut\nmeanings.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esthetically motivated art thus faces\na curious challenge: if it is created by humans, it will always be\ninferior to nature! In the course of the twentieth century, this challenge\nhas been taken up by many artists. Some of them have suggested that\nthey are in fact natural forces, beyond the ken of ordinary\nhumans. Others have tried to withdraw from their artworks, by developing\nobjective art-generating processes which they initiate without controlling\nthe final result: chance art, écriture automatique, physical\nexperiments, mathematical calculations, biological processes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Duchamp: The Readymade",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/meta/duchamp-Porte-Bouteilles1914-S.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp occasionally bought simple objects in order\nto exhibit them as art objects. A typical example is his 1914\nBottlerack. Duchamp thus drew a radical consequence from Kant's\npoint of view: that the input doesn't matter, as long as the observer's\nprocess of esthetic reflection can take its course.",
+      "width": "150",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Clement Greenberg\nwas correct to observe that the whole Duchampian position was essentially\nanticipated by the eighteenth-century notion of the \"aesthetic attitude.\" Once it was recognized that anything whatsoever could be a work\nof art if contemplated aesthetically, then presenting such objects\nas Duchamp's Fountain in the museum merely involved drawing\nthe consequences of this Kantian position, though admittedly with\nexamples which would have bewildered Kant.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carrier 1993, p. 26, note 10.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Duchamp's gesture may seem to celebrate\nthe sublime autonomous creative power of the artist's Kunstwollen,\nbut his pronouncement that \"The spectator makes the picture\"\nsuggests a different interpretation. It is true that Duchamp chose\nhis objects very carefully, but his judiciousness has a very peculiar\ncharacter.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Duchamp: \"It is very difficult to\nchoose an object, because after a few weeks you start to like it\nor to hate it. You must approach a thing with indifference, as if\nyou have no esthetic emotion. The choice of readymades is always\nbased on visual indifference and, at the same time, on the complete\nabsence of good or bad taste.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The readymades are ordinary, 'neutral'\nobjects: schoolbook, coat-rack, hat-rack, bicycle-wheel, bottle-rack,\nsnow-shovel, plastic bucket, coffee grinder, typewriter-cover. Standard\nobjects, models from the drawing lesson. Like the chairs and tables which represent 'the object' in philosophical\ndiscussions, Duchamp's readymades are 'free variables' ––\nschemas that all other objects can substitute for, lacking specific\nproperties which would block unification. (The many racks and containers\namong Duchamp’s readymades do support another level of interpretation:\nevoking their absent pendants and fillers, they symbolize their\nown status as \"placeholders\" in a self-referential way;\nthis is of course not incompatible with equally obvious Freudian readings.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Duchamp asserts the esthetic interpretation\nof everything. Esthetic perception is not tied to the art-context — it has its origin and its justification in the observer, and\ncan be applied to arbitrary material. To embrace Duchamp's esthetics\nis to loose any reason to make one particular artwork rather than\nanother, or to make any artwork at all. The esthetic way of life does\nnot need art. The artwork has no special dignity any more, and art\nhistory has lost its driving force. It did not take long before the end of art was proclaimed explicitly.\nIn 1921, Aleksandr Rodchenko exhibited 3 monochrome paintings, and\nhis companion Varvara Stepanova explained: \"From here, Constructivism\nproceeds to the negation of all art in its entirety, and calls into\nquestion the necessity of a specific activity of art to create a universal\naesthetic.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Duchamp Readymades\nReality\nas art Monochromes The\nend of art",
+      "links": [
+        {
+          "text": "",
+          "href": "/index",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/index",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/qend-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "La Nausée du Peintre",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "For several decades, Duchamp's\nreadymades were dismissed as charming jokes, and Rodchenko's monochromes\nwere simply ignored. Modern art was blooming, and the end of art's history\nseemed further away than ever. Constructivism, expressionism and surrealism\nwere successful start-up enterprises with big promises for the future,\npresenting talented young artists with an abundance of exciting challenges.\nNo one needed the Pyrrhonian sophisms of artists without art.\n\n\n\nIn the course of the 1950's, however, the dynamics of modern art starts\nto get exhausted very quickly. With Jackson Pollock's gratuitous gestures\nand Georges Mathieu's theatrical performances, the cult of subjective\nexpression has culminated in its own parody. Duchamp's cerebral hypotheses\nhave become living reality: the connoisseur's capacity to assign profound\nmeanings to arbitrary traces of human activity is overdeveloped to such\nan extent, that any painting is as good as any other. The creative artist\nwho is aware of this, is overcome with a sickening sense of senselessness:\n\"la nausée du peintre\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Ce qui a été\nébauché n'apparaît plus que comme une barbouillage\ninane, sans plus de capacité à signifier que n'importe\nquelle autre proposition concurrente: émulsion pigmentaire\namorphe, désormais collée à la semelle de ce\nqui n'a plus rien d'un tableau, dont elle était idéalement\nséparée et qui, désinvestie des rêves d'absolu\nqui l'habitaient, se trouve maintenant reléguée au rang\nd'objet parmi les autres. Un désarroi paralysant, une débâcle\nphénoménologique. On pense au mot qui, à force\nd'être répété de façon incantatoire\n– mais là, c'est un jeu, et c'est un jeu d'enfant – se vide de son sens, se remplit d'ouate.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Conil Lacoste 1989, pp. 11/12.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"C'était mauvais, ça faisait 'de la peinture'.\n(. . .) J'ai fait de la peinture d'une manière désespérée.\nJe n'arrivais jamais à finir mes tableaux, je pouvais peindre\nsur une toile pendant des mois sans aucune raison de l'achever, je\nn'arrivais pas à saisir l'instant, il y avait toujours une\nespèce de continuité, un infini agaçant . . .\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Tinguely (1966)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Many artists now embrace Duchamp's point\nof view. The readymade becomes a standard technique in the art of Fluxus\nand Nouveau Réalisme: Stanley\nBrouwn's shoe shops, George Brecht's Events, Arman's Accumulations,\nDaniel Spoerri's Tableaux-Pièges, Christo's Empaquetages.\nThe esthetic validity of all and everything is asserted explicitly through\nmirrors, glass windows, and socles which display the whole world. Alternatively,\nthe futile and superfluous nature of art is illustrated by means of\ntautologies, paradoxes, monochrome paintings, empty frames, empty rooms\nand closed galleries.\n\n\n\nNote that artworks of this sort hardly count as esthetic objects in\nthe Kantian sense of that word. They are statements with a literal meaning,\ndidactic and unambiguous. And sterile -- because, once the point has\nbeen made, there is no reason to repeat it and no way to develop it.\nThey are self-defeating speech acts which kill the discourse that spawned\nthem. The end of art.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Everything Anything Nothing",
+      "links": [
+        {
+          "text": "",
+          "href": "/everything",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/anything",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignments.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur Danto has a story about the end of art history which correlates\nto some extent with the above discussion. The big milestone in his\nnarrative is Andy Warhol's Brillo Boxes, which we didn't\neven mention so far.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment 1: Look up how Danto justifies that\nhe ignored Duchamp, and discuss his arguments.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment 2: The Brillo Boxes were painted on wooden\nblocks by means of silk-screens. Discuss their relation with\n\ntrompe-l'œil painting, with Marisol's \"sculptures\",\nwith Jasper Johns' flag-paintings, and with Marcel Duchamp's readymades.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Meta-Art and Indeterminacy",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "The end of art was also a new beginning.\nMany of the artists who rejected the traditional art object\nfound new realms to explore, by moving to a new level of abstraction,\nwhich might be called \"meta-art\". The meta-artwork\nis a class of possibilities rather than an individual thing.\nIt may take the form of an underspecified score (\"open\nform\"), a collection of building blocks (interactivity),\na physical process (process art), a computer program\n(algorithmic art), or a mere idea (concept art).\nJean Tinguely's kinetic art is another case in point.\n[Cf. Hultén 1975, pp. 7-8.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Je pouvais continuer\nsur une peinture (. . .) jusqu'à usure totale de la toile\n(. . .) Je n'arrivais pas à décider 'Voilà,\nc'est terminé', à choisir le moment où,\ndisons, (le tableau) est donné à la pétrification.\nC'est à partir de là, au fond, que le mouvement\ns'est imposé à moi. Le mouvement me permettait\ntout simplement d'échapper à cette pétrification,\nà cette fin. Disons: me permettait de décider:\n'Voilà, c'est terminé'.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tinguely (1976)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Many of these approaches use some form of\nnon-determinism: the artist does not control the creation of the artwork,\nbut launches processes that yield unintended, unpredictable results.\nEven the unconscious influence of the artist on the artwork, characteristic\nfor Écriture Automatique and action painting, is\ngiven up. If there are human persons involved in the execution of the\nwork, they add a layer of random variation, not a layer of expressive\nmeaning.\n\n\n\nThe most rigorous non-determinism is exercised in the formal approach\nto meta-art which is known as Chance Art. (Cf. George Brecht, John Cage,\nEllsworth Kelly, François Morellet, Frieder Nake, Peter Struycken,\nZdenek Sykora, Herman de Vries.) The mathematical methods developed\nhere are particularly important for the future, because they can easily\nbe implemented on digital computers.\n\n\n\nIt should be noted that the unpredictability of these approaches is\nusually very limited. The framework established by the artist tends\nto dominate the details which he relegates to social, psychological,\nphysical or mathematical contingencies. No absolute randomness,\nbut form at a new level of abstraction.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Open Form\nProcess Kinetics Algorithm Chance\nConcept",
+      "links": [
+        {
+          "text": "",
+          "href": "/anything/open-form",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/kinetics",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/concept",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Everything and Anything",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "The big challenge\nof meta-art is posed by the doctrine of the esthetic viability\nof everything – suggested by Duchamp's readymades,\nand formulated literally by Richard of St. Victor, John Scottus\nEriugena, Lewis Carroll, Francis Picabia, Ludwig Wittgenstein,\nHerman de Vries, Piero Manzoni, Ben Vautier, John Cage, La Monte\nYoung, Tony Conrad, George Maciunas, and probably many others.\nTo hint at this possibility (as Duchamp did), or to claim it\nwith so many words (as theoreticians and conceptual artists\nhave done), is not too difficult, but to articulate an artistic\nprogram which takes it seriously is another matter. Because\nno one knows what everything is.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ". . . le readymade, c'est\nn'importe quoi. Ou encore: le readymade est absolument quelconque.\nC'est mon droit démocratique de juger en profane\nqui m'autorise à dire que, malgré leur qualités\n- ou leur absence de qualités - plastiques, le sèche-bouteilles,\nl'urinoir ou la pelle à neige sont des objets quelconques.\nMais, direz-vous, rien ne m'autorise à les juger\nabsolument quelconques. En effet, rien ne m'y autorise.\nMais tout m'y oblige. Duchamp ayant anticipé l'auteur\ndu readymade dans la position du regardeur profane qui juge\nque l'art moderne, au moins depuis le dadaïsme, c'est\nn'importe quoi, oblige en retour ce regardeur, surtout s'il\nest \"expert\", à se projeter rétrospectivement\ndans la position même de cet auteur et à se\nsoumettre à la même loi que lui. C'est la loi\nde la modernité et elle ne dit qu'une chose: fais\nn'importe quoi.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La loi ne fait pas\nqu'interdire, elle oblige. J'appelle donc moderne l'artiste\ndont le devoir est (était, fut, a été?)\nde faire n'importe quoi. C'est un devoir et non un droit.\nC'est un commendement que l'artiste moderne reçoit\net non une autorisation qu'il se donne. Comme tel, ce n'est\nmême pas une loi au sens ordinaire ou juridique. La\nphrase \"fais n'importe quoi\" n'énonce pas une règle\nà laquelle des cas peuvent être soumis, elle\nprescrit au contraire d'agir sans règle.\n\n\n\n[De Duve, 1989, pp. 118-119.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The esthetic interpretation\nof everything need not be limited to what we happen to encounter\nin the world as it is; it may include everything imagineable,\nall possible images. This observation creates an artistic\nchallenge which has a philosophical dimension (how to define \"everything\"?), and a technical one (how to show it?).\n\n\n\nIs it possible to define the set of all possible art objects?\nNot in a very general way. But once we have specified a particular\nmedium sufficiently explicitly, we have in fact specified a\nparticular set of possible pieces. This is especially clear\nwhen we employ a digital medium. In this case, there is a mathematical\nenumeration of the set of possible outputs. Look, for instance,\nat a black-and-white screen with a particular resolution, say\nm x n pixels; the set of all possible images is\nthen defined as the set generated by all combinations of choices\nof black vs. white for every pixel.\n\n\n\nA computer program that in principle generates all these possible\nimages one by one, can be constructed\nrather easily on the basis of this idea. Lars Eijssen and Boele\nKlopman were the first to actually do this, in 1991. They used\na grid of 171 x 171 pixels. For their program to run\nthrough all its possible outputs would take longer than the\nestimated lifetime of the universe; but an ingeneous interface\nmakes it possible to \"scroll ahead\" very effectively.\n\n\n\nThe method of chance art can be effectively deployed\nin this situation: draw random samples from the set of possibilities,\nrather than enumerating it. In this way one quickly gets an\nimpression of the range of possible outcomes. To sample from\nthe set of black & white pixel grids, for instance, one\nmakes for every pixel a random choice about its colour, independently\nof all the other pixels. Many artists have constructed random\nsamples of \"the m x n grid\",\nfor very small values of m and n; this results\nin the \"randomized checkerboards\" which were the icons\nof early chance art. (E.g.: Kelly, Morellet, De Vries, Winiarski.)\n\n\n\nNow the thing about these randomized checkerboards is, that\nto the human observer they all look alike. If we define the\nset of paintings or screen-images as the set of m x n pixel-grids, then virtually all of these\nwill look the same. If the resolution is high enough, they will\nlook like evenly grey planes. This kind of chance art thus gets\nvery close to the monochrome.\n\n\n\nChance art comes into its own when the artists vary the specification\nof the set of possibilities which are considered by the sampling\nprocedure. For different series of works they tend to employ\ndifferent \"image grammars\", which typically define a small repertoire\nof shapes with a small number of variable properties. The random\nchoices must then be made within the set of possibilities specified\nby the image grammar. For instance: a random number of dots\nwith randomly chosen sizes is placed on randomly chosen positions;\nor, a random number of lines with randomly chosen lengths and\ndirections is placed on randomly chosen positions; or, one line\nis drawn through a randomly chosen sequence of points. In work\nlike this, the promise of surprise and diversity, which is implicit\nin the idea of an \"arbitrary image\", does not pan out. The decisions\nof the artist (which elements, which variable parameters, what\nrange of variation) largely determine the character of the resulting\nimage; the random choice which is made within the constraints\nof the image grammar does in fact not make that much of a difference.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Every Grid\nRandom Grids",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/every",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/any",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Artificial Art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Mathematical randomness addresses\nKant's critique of art in a very direct way. If the esthetic insufficiency\nof human art is caused by the unesthetic, practical considerations which\ndetermine people's decisions, then we can try to avoid that problem\nby making random artworks, which have not been subjectively constructed\nor chosen by a human person.\n\n\n\nThe early chance artists were content with fairly simple systems, since\nthese were sufficient to put forward the very idea of chance.\nBut to really take on the project of the arbitrary painting, we need\nmore; we need a formal language which allows us to assign distinct codes\nto perceptually different paintings, but also to assign the same code\nto perceptually equivalent paintings whose details may nevertheless\ndiffer considerably (as in the case of the different instantiations\nof Morellet's random pixels).\n\n\n\nAlgebras like this have been developed for characterising specific styles.\nHarold Cohen, for instance, embued his drawing program AARON with an\noriginal style reminiscent of the COBRA painters. Programs which try\nto mimic existing artists have also been developed, for instance for\nMiró and Diebenkorn. The 'arbitrary painting' project, however,\nrequires a system with a much richer repertoire of stylistic possibilities,\nand with the capability to exploit those possibilities in a very flexible\nway -- so that the degree of stylistic coherence within a painting (or\nwithin an exhibition) is itself a parameter whose value can be chosen\nat random.\n\n\n\nFrom a completely different perspective, the psychology of Gestalt perception\nhas also developed some coding languages which are relevant for our\npurpose -- for instance, in the work by Leeuwenberg and Buffart in Nijmegen\non the mental representation of line drawings, and in the work by Lerdahl\nand Jackendoff in Boston on the perception of music.\n\n\n\nMathematically formulated image-generation processes can easily be combined\nand generalized. This makes it possible to put large numbers of chance-art\nideas together into one super-chance-art-machine which reaches a complexity\nthat cannot be surveyed any more by individual artists.\n\n\n\nTo take a simple example: In the chance art of the sixties one often\nencounters programs which repeat a particular shape (usually a square\nor a circle) in an arbitrary, unorderly manner on different positions\non the plane. Other, similar algorithms create arbitrary closed shapes\nby combining line segments. These two algorithms can be combined so\nthat both the shape and the position of the image elements are determined\nat random. Other algorithms generate a multitude of different regular\npatterns or regular shapes; these can also be integrated. We may thus\ngradually abolish choice, by avoiding all exclusions --\nby putting every choice on a par with\nevery other choice inside an all-encompassing probabilistic system. Art\ngeneration systems based on this approach are being developed in the\nproject \"Artificial\" at the Institute\nof Artificial Art Amsterdam.",
+      "links": [
+        {
+          "text": "\"Artificial\"",
+          "href": "http://radicalart.info/artificial/main.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward Ball and Robert Knafo: \"The R. Mutt Dossier\", Artforum,\nOctober 1988, p. 115.\n\n\n\nPierre Cabanne: Entretiens avec Marcel Duchamp. Paris: Editions\nPierre Belfond. 1967.\n\n\n\nJohn Cage: \"Lecture on Nothing\" Incontri Musicali, August\n1959. [In: Silence. Lectures and Writings by John Cage. Middletown,\nConnecticut: Wesleyan University Press, 1973, pp. 109-126.]\n\n\n\nDavid Carrier: \"Danto as Systematic Philosopher or comme on lit\nDanto en français.\" In: Mark Rollins (ed.): Danto\nand his critics. Oxford: Blackwell, 1993, p. 26, note 10.\n\n\n\nMichel Conil Lacoste: Tinguely. L'Énergétique de\nl'Insolence. Vol. I. Paris: Éditions de la Différence,\n1989.\n\n\n\nMarcel Duchamp: \"Apropos of 'Readymades'.\" Art and Artists,\n1, 4 (July 1966). [Lecture at the Museum of Modern Art, New\nYork, October 19, 1961.]\n\n\n\nThierry de Duve: Au nom de l'art. Pour une archéologie\nde la modernité. Paris: Les Éditions de Minuit,\n1989, p. 118-119.\n\n\n\nHuge Harry: \"A\nComputational Perspective on Twenty-First Century Music.\" Contemporary\nMusic Review, 14, 3 (1995), pp. 153-159.\n\n\n\nK.G. Pontus Hultén: Tinguely. 'Méta'. London:\nThames and Hudson, 1975.\n\n\n\nPontus Hulten: Jean Tinguely. A Magic Stronger than Death.\nNew York: Abbeville Press, 1987.\n\n\n\nDalia Judovitz: \"Rendez-vous with Marcel Duchamp: Given\", Dada/Surrealism 16, University of Iowa, 1987, p. 187.\n\n\n\nImmanuel Kant: Kritik der Urteilskraft, 1799, § 45.\n[Hamburg: Felix Meiner Verlag, 1974.]\n\n\n\nJean-François Lyotard: \"Die Erhabenheit ist das Unkonsumierbare.\nEin Gespräch mit Christine Pries am 6.5.1988.\" Kunstforum\nInternational, 100 (April/May 1989), pp. 355/356.\n\n\n\nMary A. McCloskey: Kant's Aesthetic. Albany: SUNY Press,\n1987, p.108.\n\n\n\nRemko Scha: \"Artificial\nArt.\" Informatie en Informatiebeleid 6, 4 (1988).\n\n\n\n\nRemko Scha: \"Readymades, Artificial\nArt, New Media.\" In: Annette W. Balkema and Henk Slager\n(eds.): Exploding Aesthetics. L&B Series of Philosophy of\nArt and Art Theory, Vol. 16. Amsterdam & Atlanta: Rodopi,\n2001.\n\n\n\nJean Tinguely: Conversation with Alain Jouffroy, L'Oeil, N° 135 (april 1966).\n\n\n\nJean Tinguely: Conversation with Charles Georg and Rainer Michael\nMason, June 1976. [In: Conil Lacoste 1989, p. 14. English translation\nin: Hulten 1987, p. 347. ]\n\n\n\nVarvara Stepanova: Lecture on Constructivism, 22 December 1921.\n[In: Peter Noever: Aleksandr M. Rodchenko - Varvara F. Stepanova.\nThe Future Is Our Only Goal. Munich: Prestel, 1991, pp. 174-178.]",
+      "links": [
+        {
+          "text": "A Computational Perspective on Twenty-First Century Music.",
+          "href": "http://iaaa.nl/hh/brettonh.html",
+          "external": true
+        },
+        {
+          "text": "\"Artificial Art.\"",
+          "href": "http://iaaa.nl/rs/artkunstE.html",
+          "external": true
+        },
+        {
+          "text": "\"Readymades, Artificial Art, New Media.\"",
+          "href": "http://iaaa.nl/rs/LierEnBoog.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 1991/2001",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/meta/duchamp-Porte-Bouteilles1914-S.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp occasionally bought simple objects in order\nto exhibit them as art objects. A typical example is his 1914\nBottlerack. Duchamp thus drew a radical consequence from Kant's\npoint of view: that the input doesn't matter, as long as the observer's\nprocess of esthetic reflection can take its course.",
+      "legacy_src": "things/readymade/duchamp/Porte-Bouteilles1914-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art",
+    "/algorithmic-art/chance",
+    "/algorithmic-art/grid/any",
+    "/algorithmic-art/grid/every",
+    "/anything",
+    "/anything/open-form",
+    "/concept",
+    "/everything",
+    "/index",
+    "/kinetics",
+    "/nothing",
+    "/nothing/monochrome",
+    "/process",
+    "/qend-art"
+  ]
+}

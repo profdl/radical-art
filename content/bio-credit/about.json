@@ -1,0 +1,71 @@
+{
+  "slug": "about",
+  "legacy_path": "about.html",
+  "section": "(root)",
+  "archetype": "bio-credit",
+  "title": "About the Radical Art Site",
+  "heading": "",
+  "description": "artificialart.com: colophon and acknowledgments",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Home",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[About]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This site was created by Remko Scha (Institute of Artificial Art Amsterdam).\n\n\n\nSome of the material presented here was compiled in the context\nof courses about algorithmic art and its art-historical and conceptual\ncontext, developed by Remko Scha for the Frank Mohr Institute, Groningen\n(2001-2003) and the MA New Media of the University of Amsterdam\n(2001-2005). Jos de Bruin and Jochem van der Spek made substantial\ncontributions to these courses.\n\n\n\nThe term \"radical art\" is due to Van Lagestein.",
+      "links": [
+        {
+          "text": "Remko Scha",
+          "href": "http://remkoscha.nl",
+          "external": true
+        },
+        {
+          "text": "Jos de Bruin",
+          "href": "http://iaaa.nl/jdb/cv.html",
+          "external": true
+        },
+        {
+          "text": "Jochem van der Spek",
+          "href": "http://dynamica.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Institute\nof Artificial Art Amsterdam (IAAA)\n\n\n\nRemko\nScha\n\n\n\nJos\nde Bruin\n\n\n\nJochem\nvan der Spek",
+      "links": [
+        {
+          "text": "",
+          "href": "http://iaaa.nl",
+          "external": true
+        },
+        {
+          "text": "",
+          "href": "http://remkoscha.nl",
+          "external": true
+        },
+        {
+          "text": "",
+          "href": "http://iaaa.nl/jdb/cv.html",
+          "external": true
+        },
+        {
+          "text": "",
+          "href": "http://dynamica.org/",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

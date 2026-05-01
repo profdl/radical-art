@@ -1,0 +1,604 @@
+{
+  "slug": "concept/le-witt",
+  "legacy_path": "concept/LeWitt/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Concept Art",
+  "heading": "Sol LeWitt: Visual Concepts",
+  "description": "Concept-art as a particular kind of meta-art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Sol LeWitt: Visual Concepts",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "In the constructivist tradition, many artists derived their works from predefined formal procedures. (Georges Vantongerloo may have been the first. in the 1950's and 1960's it became a common practice: Ellsworth Kelly, François Morellet, Max Bill, Richard Lohse, Karl Gerstner, etc., etc.) in his 1922 \"Telephone Pictures\", László Moholy Nagy pioneered the idea that constructivist pieces can be specified through a set of verbal instructions, and executed by any technically capable person who understands them. In 1960's minimalism, many artists started to rely on impersonal, industrial production techniques. Constructivism and minimalism thus anticipated some important aspects of algorithmic art generation.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt explicitly connects the constructivist/minimalist tradition with the algorithmic approach. He developed a rich oeuvre of minimalist drawings, paintings and sculptures, but he insisted on the conceptual nature of this work: most of his pieces were based on verbal descriptions, and these were supposed to be the \"real\" artworks. (Read his \"Paragraphs on Conceptual Art\" and \"Sentences on Conceptual Art\".) Note that LeWitt's descriptions are not intended (and not suitable) as autonomous artworks, to be appreciated at the abstraction level of verbal semantics. They only unleash their (often considerable) aesthetic impact when they are actually executed. They thus constitute a rather precise visual analogue of the musical scores of traditional classical composers.",
+      "links": [
+        {
+          "text": "Paragraphs on Conceptual Art",
+          "href": "/concept/le-witt/paragraphs",
+          "external": false
+        },
+        {
+          "text": "Sentences on Conceptual Art",
+          "href": "/concept/le-witt/sentences",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LeWitt cites the proto-cinematic photo-sequences of Edweard Muybridge as his most important aesthetic reference point. His work displays a consistent interest in the idea of complete enumeration. (See our page on enumeration art.)",
+      "links": [
+        {
+          "text": "enumeration art",
+          "href": "/algorithmic-art/enumeration",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #3 (1969)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A 40\" (100 cm) band of vertical and both sets of diagonal lines superimposed, centered top to bottom, running the length of the wall.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #20 (1969)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lines in four directions, each with a different color, superimposed on a wall.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #24 (1969)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Drawing Series B on aluminum box. One series on each face.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #37 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Intersecting symmetrical bands of parallel lines 36\" (90 cm) wide, in four directions and colors, on four walls progressively.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #38 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tissue paper cut into 1.5\" (4 cm) squares rolled and inserted into holes in gray pegboard walls. All holes in the wall are filled randomly.\n\n1st wall: White; 2nd wall: White, yellow; 3rd wall: White, yellow, red; 4th wall: White, yellow, red, blue.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #45 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Straight lines 10\" (25 cm) long, not touching, covering the wall evenly.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #52 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Four-part drawing with a different line direction in each part.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #53 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Serial drawing with lines in three directions (vertical, horizontal, diagonal-left or diagonal-right) and three colors superimposed in each part.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #54 (1970)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Six-part serial drawing with lines in two directions (vertical, horizontal, diagonal-left or diagonal-right) and two colors superimposed in each part.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #65 (1971)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #97 (1971)\n\n\n\nWithin an 80 inch (200cm) square, 10,000 straight lines. Next to it is an 80 inch (200 cm) square with 10,000 not straight lines.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #132",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A 36 in. (90 cm) grid covering the wall. All two-part combinations of arcs from corners and sides, straight and not straight lines, systematically.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1972",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #146\n\n\n\nAll two-part combinations of blue arcs from corners and sides, and blue straight, not straight and broken lines.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1972",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #150\n\n\n\nTen thousand one-inch (2.5 cm) lines evenly spaced on each of six walls.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1972",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #151 (1973)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "All combinations of a single line in four directions. (15 parts).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #152 (1973)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Three-part Drawing: 1st Wall: Straight horizontal lines. 2nd Wall: Not straight horizontal lines. 3rd Wall: Broken horizontal lines. The lines are about two inches (5 cm) apart.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #176 (1973)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A horizontal line from the left side (more than hal way, less than all the way).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #228 (1974)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "White Circles, Grids and Arcs from Two Opposite Sides of a Gray Wall.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #262 (1975)\n\n\n\nAll one-, two-, three-, and four-part combinations of lines in four directions and four colors, each within a square. 15 drawings..",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #263 (1975)\n\n\n\nA wall divided into 16 equal parts with all one-, two-, three-, and four-part combinations of lines in four directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #264 (1975)\n\n\n\nA wall divided into 16 equal parts with all one-, two-, three-, and four-part combinations of lines and color in four directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #265 (1975)\n\n\n\nA wall divided horizontally and vertically into four equal parts with lines in three directions and three colors in each part.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #266 (1975)\n\n\n\nTwo-part drawing: Grid and arcs from two adjacent corners and the midpoint of one side, between. (ACG 118) One drawing has arcs from the bottom. The second drawing has arcs from the top.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #267 (1975)\n\n\n\nArcs from four corners and the midpoints of three sides. (ACG 47).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #268 (1975)\n\n\n\nCircles and arcs from four corners and the midpoints of three sides. (ACG 96).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #269 (1975)\n\n\n\nGrids and arcs from four corners and the midpoints of three sides. (ACG 145).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #270 (1975)\n\n\n\nCircles, grids and arcs from four corners and the midpoints of three sides. (ACG 194).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #271 (1975)\n\n\n\nBlack circles, red grid and yellow arcs from four corners, blue arcs from the midpoints of three sides. (ACG 195).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #272 (1975)\n\n\n\nAn increasing number of horizontal lines about one inch (2.5 cm) apart from bottom to top, vertical lines from top to bottom,diagonal right lines from left to right, diagonal left lines from left to right.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #295 (1976)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Six Superimposed Geometric Figures.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #356",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Isometric figures outlined by three-inch (7.5 cm) bands. Within each plane are three in. (7.5 cm) wide black bands of parallel lines in one of three directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #356 BB.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Isometric figure within which are 3\" (7.5 cm) wide black lines in three directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #380",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Isometric figures drawn in color and India ink washes, each with a six-inch (15 cm) India ink wash border.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-88-WD565-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #565",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On three walls, continuous forms with alternating 8\" (20 cm) black and white bands. The walls are bordered with an 8\" (20 cm) black band.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-2000-wall-drawing-606-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #606. (Realization: 2000.)",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #552A",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tilted forms with color ink washes superimposed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #614",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rectangles formed by 3\" (7.5 cm) wide India ink bands, meeting at right angles.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-93-wd681C-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #681 C (1993)",
+      "width": "449",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #746",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Identical cubes with color ink washes superimposed on each plane.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-94-WD766.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #766 (1994)",
+      "width": "300",
+      "height": "117",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "21 Isometric cubes of varying sizes, each with color ink washes superimposed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #752",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Continuous forms with an irregular black grid.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing # 811 (1996)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Project for Franklin Furnace.\n\nSize of space: 16' x 18'7\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A square of 14' divided horizontally into two equal parts. The top half matte black. The bottom half glossy black.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-99-wd917-ArcsAndCircles-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #917 (1999): Arcs and Circles.",
+      "width": "460",
+      "height": "110",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #935 (1999)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Color bands in four directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #936 (1999)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Color arcs in four directions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #937 (1999)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Various shapes in color.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #938 (1999)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Flat Top Pyramid.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing # 1103 (2003)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Color vertical and horizontal broken bands.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wall Drawing #1113 (2003)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On a wall, a triangle within a rectangle, each with broken bands of color.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/le-witt/jpg-2005-WD-1183-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #1183 (2005)",
+      "width": "230",
+      "height": "128",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Texts by Sol LeWitt",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: \"Paragraphs on Conceptual Art,\" Artforum, summer issue, 1967.",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/le-witt/paragraphs",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: \"Sentences on Conceptual Art.\" In: 0-9, 1969. Reprinted in: Art-Language, May 1969.",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/le-witt/sentences",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt on Cage, Fluxus and Minimalism. (Interview by Saul Ostrow in BOMB 85 (Fall 2003).)",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/le-witt/ostrow",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "About Sol LeWitt and Algorithmic Art",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Domenico Quaranta: \"LeWitt's ideal children.\" In: Arte e Critica 44 (December 2005) & 45 (March 2006).",
+      "links": [
+        {
+          "text": "\"LeWitt's ideal children.\"",
+          "href": "http://www.fylkingen.se/hz/n9/quaranta.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/le-witt/jpg-88-WD565-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #565",
+      "legacy_src": "jpg/88-WD565-s.jpg"
+    },
+    {
+      "src": "/images/concept/le-witt/jpg-2000-wall-drawing-606-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #606. (Realization: 2000.)",
+      "legacy_src": "jpg/2000-wall-drawing-606-s.jpg"
+    },
+    {
+      "src": "/images/concept/le-witt/jpg-93-wd681C-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #681 C (1993)",
+      "legacy_src": "jpg/93-wd681C-s.jpg"
+    },
+    {
+      "src": "/images/concept/le-witt/jpg-94-WD766.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #766 (1994)",
+      "legacy_src": "jpg/94-WD766.jpg"
+    },
+    {
+      "src": "/images/concept/le-witt/jpg-99-wd917-ArcsAndCircles-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #917 (1999): Arcs and Circles.",
+      "legacy_src": "jpg/99-wd917-ArcsAndCircles-s.jpg"
+    },
+    {
+      "src": "/images/concept/le-witt/jpg-2005-WD-1183-s.jpg",
+      "alt": "",
+      "caption": "Wall Drawing #1183 (2005)",
+      "legacy_src": "jpg/2005-WD-1183-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/enumeration",
+    "/concept/le-witt/ostrow",
+    "/concept/le-witt/paragraphs",
+    "/concept/le-witt/sentences"
+  ]
+}

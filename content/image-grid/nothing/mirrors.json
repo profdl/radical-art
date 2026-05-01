@@ -1,0 +1,690 @@
+{
+  "slug": "nothing/mirrors",
+  "legacy_path": "nothing/mirrors/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "mirrors",
+  "heading": "Mirrors",
+  "description": "Mirrors in late twentieth-century painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirrors",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "(Absence.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The perfect monochrome is a surface without any\nmarks: uniform, textureless, polished: a mirror.\n\n\"Nothing\" turns into \"anything\": the perfect monochrome throws the world back at the spectator.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Tautology.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The mirror only reflects what is already there.\n\n\nIt can show anything, but it cannot make a difference.\n\nIt says: x = x.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Narcissism.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The only exception is the thing that cannot be duplicated: the subject.\n\nThe mirror returns the gaze of the observer. The subject becomes an object.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Fun.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A mirror surface with a non-uniform\norientation presents a multiplied, fragmented and/or distorted image\nof the world and the viewer. Automated cubism becomes a joke.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Infinity.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A closed optical loop between two or more mirrors\nmultiplies an image ad infinitum.\n\nPistoletto's \"Metrocubo d'Infinito\" implements the thought experiment: What if there is no\ninput image?",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Les Expositions des Arts Incohérents",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Detouche & Melandri: Mirror entitled \"Quelques\nspecimens des animaux embarqués par Noé dans son\narche.\" (One of the exhibits in the \"Musée semitique\net semi-toc\", 1883.)\n\n\n\nMirror entitled \"Une bonne bille\". [Date? Author?]\n\n\n\nMirror entitled \"Portrait de tout le monde – cent francs\nà qui ne se reconnaît pas\", 1889. [Author?]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Optical Effects",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack-57-HeinzMackOT-S.jpg",
+      "alt": "",
+      "caption": "Heinz Mack: Ohne Titel, 1957",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/alviani-Alviani62RilievoSpeculare-S.jpg",
+      "alt": "",
+      "caption": "Getulio Alviani:\n\nRilievo Speculare, 1962",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/66-NevelsonSilentMotion-S.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson: Silent Motion, 1966",
+      "width": "230",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther-69-lutherHohlspiegel-S.jpg",
+      "alt": "",
+      "caption": "Adolf Luther: Hohlspiegel, 1969",
+      "width": "279",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor-95kapoorTrngThWrldInsdOut-S.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nTurning the World Inside Out, 1995",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/01-IsaGenzken-Unt-S.jpg",
+      "alt": "",
+      "caption": "Isa Genzken:\n\nUntitled, 2001",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/02ArmlederLibertyDome-S.jpg",
+      "alt": "",
+      "caption": "John Armleder:\n\nLiberty Dome, 2002",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Absence & Tautology",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto-62PersonSeenFromTheBack-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelangelo Pistoletto:\n\nPerson seen from the back, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/morris65-mirrored-cubes-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Mirrored Cubes), 1965",
+      "width": "230",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert-Megert61Spiegelwand.jpg",
+      "alt": "",
+      "caption": "Christian Megert: Spiegelwand, 1961",
+      "width": "214",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/65-kosuth-1And3mirrors-S.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth: One and Three Mirrors, 1965",
+      "width": "480",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To add:\n\n\n\nArt & Language:\n\n\n\nUntitled Painting, 1965.\n\n[Four mirrors on canvas.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/smithson-smithson67mirageNo1-M.jpg",
+      "alt": "",
+      "caption": "Robert Smithson:\n\nMirage No.1, 1967",
+      "width": "313",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/68-AnselmoSpecchio[Inv]-S.jpg",
+      "alt": "",
+      "caption": "Giovanni Anselmo: Specchio,\n\n1968. [inverted mirror]",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein-69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Roy Lichtenstein:\n\nMirror Nr. 1, 1969",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter-86-RichterSpiegel-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter:\n\nSpiegel, 1986",
+      "width": "179",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/ken-lum-KenLum97PhotoMirror-SunsetS.jpg",
+      "alt": "",
+      "caption": "Ken Lum:\n\nPhoto Mirror (Sunset), 1997",
+      "width": "127",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Broken Mirrors",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/broken-Megert6263Scherbenspiegel-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "152",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Christian Megert:\n\nScherbenspiegel, 1962/1963",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/broken-78BrokenMirror-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michelangelo Pistoletto:\n\nBroken Mirror, 1978",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/broken-04Uecker[Mirror].jpg",
+      "alt": "",
+      "caption": "Gunther Ücker, 2004",
+      "width": "186",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Infinity",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto-65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nMetrocubo d'Infinito, 1965/1966",
+      "width": "198",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert-megert68spiegelraum-b-S.jpg",
+      "alt": "",
+      "caption": "Christian Megert:\n\nSpiegelraum, 1968",
+      "width": "145",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/alviani-69IntrrlzneCromospclre.jpg",
+      "alt": "",
+      "caption": "Getulio Alviani: Interrelazione\n\nCromospeculare, 1969",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Narcissism",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/vautier66-miroir-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Je me suis regardé\n\ndans ce miroir plus de 2 heures\", 1966",
+      "width": "214",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons-Koons88ChristAndTheLamb-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons:\n\nChrist and the Lamb, 1988",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/90RosemarieTrockelProfumo-S.jpg",
+      "alt": "",
+      "caption": "Rosemarie Trockel:\n\nProfumo, 1990",
+      "width": "126",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/00-Rentmeister-OT-S.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister:\n\nOhne Titel, 2000",
+      "width": "214",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/01-SylvieFleuryIcone-m.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury: Icone, 2001",
+      "width": "150",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/OttmarHoerl2004-ICH-Spiegel.jpg",
+      "alt": "",
+      "caption": "Ottmar Hörl: ICH-Spiegel, 2004",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Il ne faut regarder ni les choses ni les personnes. Il ne faut regarder que dans les miroirs. Car les miroirs ne nous montrent que des masques.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Oscar Wilde, ca. 1900. [Philippe Julian: Oscar Wilde. London: Paladin, 1971, p.326.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More Mirrors",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Anish\nKapoor\n\n\n\nJeff\nKoons\n\n\n\nRoy\nLichtenstein\n\n\n\nAdolphe\nLuther\n\n\n\nHeinz\nMack\n\n\n\nChristian\nMegert\n\n\n\nMichelangelo\nPistoletto\n\n\n\nGerhard\nRichter\n\n\n\nRobert\nSmithson (Photoworks)\n\n\n\nRobert\nSmithson (Sculptures)",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/mirrors/kapoor",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/koons",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/lichtenstein",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/luther",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/heinz-mack",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/christian-megert",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/pistoletto",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/richter",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "http://www.robertsmithson.com/photoworks/pw.htm",
+          "external": true
+        },
+        {
+          "text": "",
+          "href": "http://www.robertsmithson.com/sculpture/sculp.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related Genres",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Stainless\nSteel Casts\n\n\n\nMonochrome\npainting\n\n\n\nRedundant\nphotography\n\n\n\nRedundant\nvideo",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/cast",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/concept/tautology/photo",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/concept/tautology/video",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "André Gide: Traité du Narcisse. Théorie\ndu Symbole. Paris, 1891.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Laurie Schneider: \"Mirrors in Art\", Psychoanalytic\nInquiry, 5 (1985), pp. 283-324.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2005/2007",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/heinz-mack-57-HeinzMackOT-S.jpg",
+      "alt": "",
+      "caption": "Heinz Mack: Ohne Titel, 1957",
+      "legacy_src": "HeinzMack/57-HeinzMackOT-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/alviani-Alviani62RilievoSpeculare-S.jpg",
+      "alt": "",
+      "caption": "Getulio Alviani:\n\nRilievo Speculare, 1962",
+      "legacy_src": "Alviani/Alviani62RilievoSpeculare-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/66-NevelsonSilentMotion-S.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson: Silent Motion, 1966",
+      "legacy_src": "66-NevelsonSilentMotion-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther-69-lutherHohlspiegel-S.jpg",
+      "alt": "",
+      "caption": "Adolf Luther: Hohlspiegel, 1969",
+      "legacy_src": "luther/69-lutherHohlspiegel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/kapoor-95kapoorTrngThWrldInsdOut-S.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nTurning the World Inside Out, 1995",
+      "legacy_src": "Kapoor/95kapoorTrngThWrldInsdOut-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/01-IsaGenzken-Unt-S.jpg",
+      "alt": "",
+      "caption": "Isa Genzken:\n\nUntitled, 2001",
+      "legacy_src": "01-IsaGenzken-Unt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/02ArmlederLibertyDome-S.jpg",
+      "alt": "",
+      "caption": "John Armleder:\n\nLiberty Dome, 2002",
+      "legacy_src": "02ArmlederLibertyDome-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto-62PersonSeenFromTheBack-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Pistoletto/62PersonSeenFromTheBack-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/morris65-mirrored-cubes-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Mirrored Cubes), 1965",
+      "legacy_src": "morris65-mirrored-cubes-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert-Megert61Spiegelwand.jpg",
+      "alt": "",
+      "caption": "Christian Megert: Spiegelwand, 1961",
+      "legacy_src": "ChristianMegert/Megert61Spiegelwand.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/65-kosuth-1And3mirrors-S.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth: One and Three Mirrors, 1965",
+      "legacy_src": "65-kosuth-1And3mirrors-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/smithson-smithson67mirageNo1-M.jpg",
+      "alt": "",
+      "caption": "Robert Smithson:\n\nMirage No.1, 1967",
+      "legacy_src": "Smithson/smithson67mirageNo1-M.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/68-AnselmoSpecchio[Inv]-S.jpg",
+      "alt": "",
+      "caption": "Giovanni Anselmo: Specchio,\n\n1968. [inverted mirror]",
+      "legacy_src": "68-AnselmoSpecchio%5BInv%5D-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein-69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Roy Lichtenstein:\n\nMirror Nr. 1, 1969",
+      "legacy_src": "Lichtenstein/69-LsteinMirrorNr1-S.gif"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter-86-RichterSpiegel-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter:\n\nSpiegel, 1986",
+      "legacy_src": "Richter/86-RichterSpiegel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/ken-lum-KenLum97PhotoMirror-SunsetS.jpg",
+      "alt": "",
+      "caption": "Ken Lum:\n\nPhoto Mirror (Sunset), 1997",
+      "legacy_src": "KenLum/KenLum97PhotoMirror-SunsetS.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/broken-Megert6263Scherbenspiegel-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Broken/Megert6263Scherbenspiegel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/broken-78BrokenMirror-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Broken/78BrokenMirror-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/broken-04Uecker[Mirror].jpg",
+      "alt": "",
+      "caption": "Gunther Ücker, 2004",
+      "legacy_src": "Broken/04Uecker%5BMirror%5D.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto-65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nMetrocubo d'Infinito, 1965/1966",
+      "legacy_src": "Pistoletto/65-66PistolettoMetrocuboDIS.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert-megert68spiegelraum-b-S.jpg",
+      "alt": "",
+      "caption": "Christian Megert:\n\nSpiegelraum, 1968",
+      "legacy_src": "ChristianMegert/megert68spiegelraum-b-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/alviani-69IntrrlzneCromospclre.jpg",
+      "alt": "",
+      "caption": "Getulio Alviani: Interrelazione\n\nCromospeculare, 1969",
+      "legacy_src": "Alviani/69IntrrlzneCromospclre.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/vautier66-miroir-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Je me suis regardé\n\ndans ce miroir plus de 2 heures\", 1966",
+      "legacy_src": "vautier66-miroir-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/koons-Koons88ChristAndTheLamb-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons:\n\nChrist and the Lamb, 1988",
+      "legacy_src": "koons/Koons88ChristAndTheLamb-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/90RosemarieTrockelProfumo-S.jpg",
+      "alt": "",
+      "caption": "Rosemarie Trockel:\n\nProfumo, 1990",
+      "legacy_src": "90RosemarieTrockelProfumo-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/00-Rentmeister-OT-S.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister:\n\nOhne Titel, 2000",
+      "legacy_src": "00-Rentmeister-OT-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/01-SylvieFleuryIcone-m.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury: Icone, 2001",
+      "legacy_src": "01-SylvieFleuryIcone-m.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/OttmarHoerl2004-ICH-Spiegel.jpg",
+      "alt": "",
+      "caption": "Ottmar Hörl: ICH-Spiegel, 2004",
+      "legacy_src": "OttmarHoerl2004-ICH-Spiegel.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/tautology/photo",
+    "/concept/tautology/video",
+    "/nothing/mirrors/christian-megert",
+    "/nothing/mirrors/heinz-mack",
+    "/nothing/mirrors/kapoor",
+    "/nothing/mirrors/koons",
+    "/nothing/mirrors/lichtenstein",
+    "/nothing/mirrors/luther",
+    "/nothing/mirrors/pistoletto",
+    "/nothing/mirrors/richter",
+    "/nothing/monochrome",
+    "/things/cast"
+  ]
+}

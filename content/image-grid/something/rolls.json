@@ -1,0 +1,141 @@
+{
+  "slug": "something/rolls",
+  "legacy_path": "something/rolls/index.html",
+  "section": "something",
+  "archetype": "image-grid",
+  "title": "something",
+  "heading": "rolls",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "rolls",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/beuys-1961-Beuys-Unt-S.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Untitled, 1961",
+      "width": "260",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/beuys-1965-Beuys-S.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Entwurf für ein Filzenvironment, 1965",
+      "width": "402",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/beuys-1983-SamuraiSchwert-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Samurai-Schwert, 1983",
+      "width": "369",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/WilliamTWiley_1966-OEPRAT-s.jpg",
+      "alt": "",
+      "caption": "William T. Wiley:\n\nOne Abstract Expressionist\n\nPainting Rolled and Taped, 1966\n\n\n\n\n\n\n\n\n\n\n\nIgor Kopistiansky:\n\nCompact Exhibition, 1992",
+      "width": "130",
+      "height": "567",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/IgorKopystiansky85CompactExhibition.gif",
+      "alt": "",
+      "caption": "",
+      "width": "188",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/serra-1968-SlowRoll(4PhilipGlass)-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Slow Roll\n\n(For Philip Glass), 1968\n\n\n\n\n\n\n\n\n\n\n\nRichard Serra:\n\nRoll On, 1968",
+      "width": "189",
+      "height": "284",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/serra-1968RichardSerraRoll-On.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/rolls/serra-Rolled,Encased,andSawed-s.jpg",
+      "alt": "",
+      "caption": "Richhard Serra:\n\nRolled, Encased, and Sawed",
+      "width": "189",
+      "height": "141",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/rolls/beuys-1961-Beuys-Unt-S.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Untitled, 1961",
+      "legacy_src": "../Beuys/1961-Beuys-Unt-S.jpg"
+    },
+    {
+      "src": "/images/something/rolls/beuys-1965-Beuys-S.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Entwurf für ein Filzenvironment, 1965",
+      "legacy_src": "../Beuys/1965-Beuys-S.jpg"
+    },
+    {
+      "src": "/images/something/rolls/beuys-1983-SamuraiSchwert-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Samurai-Schwert, 1983",
+      "legacy_src": "../Beuys/1983-SamuraiSchwert-s.jpg"
+    },
+    {
+      "src": "/images/something/rolls/WilliamTWiley_1966-OEPRAT-s.jpg",
+      "alt": "",
+      "caption": "William T. Wiley:\n\nOne Abstract Expressionist\n\nPainting Rolled and Taped, 1966\n\n\n\n\n\n\n\n\n\n\n\nIgor Kopistiansky:\n\nCompact Exhibition, 1992",
+      "legacy_src": "WilliamTWiley_1966-OEPRAT-s.jpg"
+    },
+    {
+      "src": "/images/something/rolls/IgorKopystiansky85CompactExhibition.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "IgorKopystiansky85CompactExhibition.gif"
+    },
+    {
+      "src": "/images/something/rolls/serra-1968-SlowRoll(4PhilipGlass)-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Slow Roll\n\n(For Philip Glass), 1968\n\n\n\n\n\n\n\n\n\n\n\nRichard Serra:\n\nRoll On, 1968",
+      "legacy_src": "../Serra/1968-SlowRoll(4PhilipGlass)-s.jpg"
+    },
+    {
+      "src": "/images/something/rolls/serra-1968RichardSerraRoll-On.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Serra/1968RichardSerraRoll-On.jpg"
+    },
+    {
+      "src": "/images/something/rolls/serra-Rolled,Encased,andSawed-s.jpg",
+      "alt": "",
+      "caption": "Richhard Serra:\n\nRolled, Encased, and Sawed",
+      "legacy_src": "../Serra/Rolled,Encased,andSawed-s.jpg"
+    }
+  ],
+  "out_links": []
+}

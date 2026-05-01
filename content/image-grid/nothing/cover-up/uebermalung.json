@@ -1,0 +1,129 @@
+{
+  "slug": "nothing/cover-up/uebermalung",
+  "legacy_path": "nothing/cover-up/Uebermalung/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Uebermalung",
+  "heading": "",
+  "description": "Übermalung.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Übermalung",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/48soulages-ST-1948.jpg",
+      "alt": "",
+      "caption": "Pierre Soulages:\n\nSans Titre, 1948",
+      "width": "147",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/1953Unt(ShouldLoveCome1st).jpg",
+      "alt": "",
+      "caption": "Robert\nRauschenberg: Untitled, 1953\n\n[Übermalung of \"Should Love Come\n\nFirst?\", 1951]",
+      "width": "246",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/54Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Arnulf Rainer: Überdeckung, 1954",
+      "width": "288",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/58HoehmeEssorEnDeclin.jpg",
+      "alt": "",
+      "caption": "Gerhard Hoehme: Essor en déclin, 1958.",
+      "width": "206",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More Übermalungen by: Pierre Soulages Arnulf Rainer",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung/soulages",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung/rainer",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Related genres: Black\nMonochromes Secrets\nEmpaquetage\nCover-up",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/black",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/uebermalung/48soulages-ST-1948.jpg",
+      "alt": "",
+      "caption": "Pierre Soulages:\n\nSans Titre, 1948",
+      "legacy_src": "48soulages-ST-1948.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/1953Unt(ShouldLoveCome1st).jpg",
+      "alt": "",
+      "caption": "Robert\nRauschenberg: Untitled, 1953\n\n[Übermalung of \"Should Love Come\n\nFirst?\", 1951]",
+      "legacy_src": "1953Unt(ShouldLoveCome1st).jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/54Ueberdeckung-S.jpg",
+      "alt": "",
+      "caption": "Arnulf Rainer: Überdeckung, 1954",
+      "legacy_src": "54Ueberdeckung-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/58HoehmeEssorEnDeclin.jpg",
+      "alt": "",
+      "caption": "Gerhard Hoehme: Essor en déclin, 1958.",
+      "legacy_src": "58HoehmeEssorEnDeclin.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover",
+    "/nothing/cover-up/uebermalung/rainer",
+    "/nothing/cover-up/uebermalung/soulages",
+    "/nothing/monochrome/black",
+    "/things/wrapped"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "destruction/rip",
+  "legacy_path": "destruction/rip/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "rip",
+  "heading": "rip",
+  "description": "destruction in art: ripping",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Destruction\nin Art",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "rip",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/rip/SaburoMurakami56Passage-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami:\n\nPassage, 1956",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/rip/GeorgHeroldUnt1985-S.jpg",
+      "alt": "",
+      "caption": "Georg Herold,\n\n1985",
+      "width": "207",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/rip/RobMohlmannVernietigdStillS.jpg",
+      "alt": "",
+      "caption": "Rob Mohlmann:\n\nVernietigd Stilleven",
+      "width": "198",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/rip/SaburoMurakami56Passage-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami:\n\nPassage, 1956",
+      "legacy_src": "SaburoMurakami56Passage-s.jpg"
+    },
+    {
+      "src": "/images/destruction/rip/GeorgHeroldUnt1985-S.jpg",
+      "alt": "",
+      "caption": "Georg Herold,\n\n1985",
+      "legacy_src": "GeorgHeroldUnt1985-S.jpg"
+    },
+    {
+      "src": "/images/destruction/rip/RobMohlmannVernietigdStillS.jpg",
+      "alt": "",
+      "caption": "Rob Mohlmann:\n\nVernietigd Stilleven",
+      "legacy_src": "RobMohlmannVernietigdStillS.jpg"
+    }
+  ],
+  "out_links": []
+}

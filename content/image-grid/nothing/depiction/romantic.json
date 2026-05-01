@@ -1,0 +1,468 @@
+{
+  "slug": "nothing/depiction/romantic",
+  "legacy_path": "nothing/depiction/romantic/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Depicting the void",
+  "heading": "The \n        void in romantic painting",
+  "description": "Antecedents of the monochrome in 17th century and romantic painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The\nvoid in romantic painting",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Caspar David Friedrich",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-CDFriedrichMaM-1809-10-S.gif",
+      "alt": "",
+      "caption": "Mönch am Meer, 1809/1810",
+      "width": "260",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-FrMeadowsnearGreifswald20-S.jpg",
+      "alt": "",
+      "caption": "Meadows near Greifswald, 1820",
+      "width": "200",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-CDFriedrich1821-S.jpg",
+      "alt": "",
+      "caption": "1821",
+      "width": "200",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrichMondaufgangAmM21-S.jpg",
+      "alt": "",
+      "caption": "Mondaufgang am Meer, 1821",
+      "width": "200",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrich_abend-1824-S.jpg",
+      "alt": "",
+      "caption": "Abend, 1824",
+      "width": "200",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-Friedr2MenContemplTMoon30-S.jpg",
+      "alt": "",
+      "caption": "Two men contemplating the moon, 1830",
+      "width": "200",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-DasGrosseGehege-32-S.jpg",
+      "alt": "",
+      "caption": "Das große Gehege, 1832",
+      "width": "200",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrich_der_traeumer-35-S.jpg",
+      "alt": "",
+      "caption": "Der Träumer, 1835",
+      "width": "200",
+      "height": "144",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Joseph Turner",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerColourBeginning1819-S.jpg",
+      "alt": "",
+      "caption": "Colour Beginning, 1819",
+      "width": "200",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turner-FishingBoats1827-S.jpg",
+      "alt": "",
+      "caption": "Fishing Boats, 1827",
+      "width": "200",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerTheEveningStar1830-S.jpg",
+      "alt": "",
+      "caption": "The Evening Star, 1830",
+      "width": "200",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turner-keelmen-1835-S.jpg",
+      "alt": "",
+      "caption": "Keelmen, 1835",
+      "width": "200",
+      "height": "145",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerMargateFTSea1835-40-S.jpg",
+      "alt": "",
+      "caption": "Margate from the Sea, 1835-1840",
+      "width": "200",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerLndscWDstntRAB40-50-S.jpg",
+      "alt": "",
+      "caption": "Landscape with distant rain and boat, 1840-1850",
+      "width": "200",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turnerStrmySeaWDlphns1840-S.jpg",
+      "alt": "",
+      "caption": "Stormy Sea with Dolphins, 1840",
+      "width": "200",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerSunSettngOvrALake40-S.jpg",
+      "alt": "",
+      "caption": "Sun Setting over a Lake, 1840",
+      "width": "200",
+      "height": "149",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turnerVnceWSMdllaSlte-4045S.jpg",
+      "alt": "",
+      "caption": "Venice with Santa Maria della Salute, 1840-1845",
+      "width": "200",
+      "height": "133",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turnerLakeOfGeneva1841-S.jpg",
+      "alt": "",
+      "caption": "Lake of Geneva, 1841",
+      "width": "200",
+      "height": "149",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-TurnerLightAndColour1843-S.jpg",
+      "alt": "",
+      "caption": "Light and Colour, 1843",
+      "width": "180",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turner-norham-castle-1844-S.jpg",
+      "alt": "",
+      "caption": "Norham Castle, 1844",
+      "width": "200",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-PrcssnBtsDstntSmkVnc1845-S.jpg",
+      "alt": "",
+      "caption": "Procession (Boats, Distant Smoke),\n\nVenice, 1845",
+      "width": "200",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-Trnr-FstvLgnScn-1845-S.jpg",
+      "alt": "",
+      "caption": "Festive Laguna Scene, 1845",
+      "width": "200",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-Trnr-SnrsWSeamonstrs-1845-S.jpg",
+      "alt": "",
+      "caption": "Sunrise with Seamonsters, 1845",
+      "width": "200",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turnerSnrseWABtBtwnH45-S.jpg",
+      "alt": "",
+      "caption": "Sunrise with a Boat between Headlands, 1845",
+      "width": "200",
+      "height": "149",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/turner-turner_HurrahFTWErebus-46-S.jpg",
+      "alt": "",
+      "caption": "Hurrah for the Whaler Erebus! - 1846",
+      "width": "200",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The artist delights to go back to the first chaos of the world... All is without forms and void. Some one said of his landscapes that they were pictures of nothing, and very like.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "William Hazlitt: \"Round Table.\"\n\nExaminer, 1816.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "James\nWhistler",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/whistler-WhistlerSeaAndRain1865-S.jpg",
+      "alt": "",
+      "caption": "Sea and Rain, 1865",
+      "width": "200",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/whistler-whistler3SymphInGrey-1871-S.jpg",
+      "alt": "",
+      "caption": "Symphony in Grey, 1871",
+      "width": "200",
+      "height": "134",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/romantic/whistler-whistlerNctrneBlueASlvr72-S.jpg",
+      "alt": "",
+      "caption": "Nocturne: Blue and Silver, 1872",
+      "width": "200",
+      "height": "130",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-CDFriedrichMaM-1809-10-S.gif",
+      "alt": "",
+      "caption": "Mönch am Meer, 1809/1810",
+      "legacy_src": "Friedrich/CDFriedrichMaM-1809-10-S.gif"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-FrMeadowsnearGreifswald20-S.jpg",
+      "alt": "",
+      "caption": "Meadows near Greifswald, 1820",
+      "legacy_src": "Friedrich/FrMeadowsnearGreifswald20-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-CDFriedrich1821-S.jpg",
+      "alt": "",
+      "caption": "1821",
+      "legacy_src": "Friedrich/CDFriedrich1821-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrichMondaufgangAmM21-S.jpg",
+      "alt": "",
+      "caption": "Mondaufgang am Meer, 1821",
+      "legacy_src": "Friedrich/friedrichMondaufgangAmM21-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrich_abend-1824-S.jpg",
+      "alt": "",
+      "caption": "Abend, 1824",
+      "legacy_src": "Friedrich/friedrich_abend-1824-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-Friedr2MenContemplTMoon30-S.jpg",
+      "alt": "",
+      "caption": "Two men contemplating the moon, 1830",
+      "legacy_src": "Friedrich/Friedr2MenContemplTMoon30-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-DasGrosseGehege-32-S.jpg",
+      "alt": "",
+      "caption": "Das große Gehege, 1832",
+      "legacy_src": "Friedrich/DasGrosseGehege-32-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/friedrich-friedrich_der_traeumer-35-S.jpg",
+      "alt": "",
+      "caption": "Der Träumer, 1835",
+      "legacy_src": "Friedrich/friedrich_der_traeumer-35-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerColourBeginning1819-S.jpg",
+      "alt": "",
+      "caption": "Colour Beginning, 1819",
+      "legacy_src": "Turner/TurnerColourBeginning1819-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turner-FishingBoats1827-S.jpg",
+      "alt": "",
+      "caption": "Fishing Boats, 1827",
+      "legacy_src": "Turner/turner-FishingBoats1827-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerTheEveningStar1830-S.jpg",
+      "alt": "",
+      "caption": "The Evening Star, 1830",
+      "legacy_src": "Turner/TurnerTheEveningStar1830-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turner-keelmen-1835-S.jpg",
+      "alt": "",
+      "caption": "Keelmen, 1835",
+      "legacy_src": "Turner/turner-keelmen-1835-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerMargateFTSea1835-40-S.jpg",
+      "alt": "",
+      "caption": "Margate from the Sea, 1835-1840",
+      "legacy_src": "Turner/TurnerMargateFTSea1835-40-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerLndscWDstntRAB40-50-S.jpg",
+      "alt": "",
+      "caption": "Landscape with distant rain and boat, 1840-1850",
+      "legacy_src": "Turner/TurnerLndscWDstntRAB40-50-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turnerStrmySeaWDlphns1840-S.jpg",
+      "alt": "",
+      "caption": "Stormy Sea with Dolphins, 1840",
+      "legacy_src": "Turner/turnerStrmySeaWDlphns1840-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerSunSettngOvrALake40-S.jpg",
+      "alt": "",
+      "caption": "Sun Setting over a Lake, 1840",
+      "legacy_src": "Turner/TurnerSunSettngOvrALake40-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turnerVnceWSMdllaSlte-4045S.jpg",
+      "alt": "",
+      "caption": "Venice with Santa Maria della Salute, 1840-1845",
+      "legacy_src": "Turner/turnerVnceWSMdllaSlte-4045S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turnerLakeOfGeneva1841-S.jpg",
+      "alt": "",
+      "caption": "Lake of Geneva, 1841",
+      "legacy_src": "Turner/turnerLakeOfGeneva1841-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-TurnerLightAndColour1843-S.jpg",
+      "alt": "",
+      "caption": "Light and Colour, 1843",
+      "legacy_src": "Turner/TurnerLightAndColour1843-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turner-norham-castle-1844-S.jpg",
+      "alt": "",
+      "caption": "Norham Castle, 1844",
+      "legacy_src": "Turner/turner-norham-castle-1844-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-PrcssnBtsDstntSmkVnc1845-S.jpg",
+      "alt": "",
+      "caption": "Procession (Boats, Distant Smoke),\n\nVenice, 1845",
+      "legacy_src": "Turner/PrcssnBtsDstntSmkVnc1845-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-Trnr-FstvLgnScn-1845-S.jpg",
+      "alt": "",
+      "caption": "Festive Laguna Scene, 1845",
+      "legacy_src": "Turner/Trnr-FstvLgnScn-1845-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-Trnr-SnrsWSeamonstrs-1845-S.jpg",
+      "alt": "",
+      "caption": "Sunrise with Seamonsters, 1845",
+      "legacy_src": "Turner/Trnr-SnrsWSeamonstrs-1845-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turnerSnrseWABtBtwnH45-S.jpg",
+      "alt": "",
+      "caption": "Sunrise with a Boat between Headlands, 1845",
+      "legacy_src": "Turner/turnerSnrseWABtBtwnH45-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/turner-turner_HurrahFTWErebus-46-S.jpg",
+      "alt": "",
+      "caption": "Hurrah for the Whaler Erebus! - 1846",
+      "legacy_src": "Turner/turner_HurrahFTWErebus-46-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/whistler-WhistlerSeaAndRain1865-S.jpg",
+      "alt": "",
+      "caption": "Sea and Rain, 1865",
+      "legacy_src": "Whistler/WhistlerSeaAndRain1865-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/whistler-whistler3SymphInGrey-1871-S.jpg",
+      "alt": "",
+      "caption": "Symphony in Grey, 1871",
+      "legacy_src": "Whistler/whistler3SymphInGrey-1871-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/romantic/whistler-whistlerNctrneBlueASlvr72-S.jpg",
+      "alt": "",
+      "caption": "Nocturne: Blue and Silver, 1872",
+      "legacy_src": "Whistler/whistlerNctrneBlueASlvr72-S.jpg"
+    }
+  ],
+  "out_links": []
+}

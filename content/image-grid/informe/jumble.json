@@ -1,0 +1,70 @@
+{
+  "slug": "informe/jumble",
+  "legacy_path": "informe/jumble/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "jumble",
+  "heading": "",
+  "description": "Disorganized textile distributions in minimal art of the 1960's.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "jumble",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[disorganized textile distributions]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/jumble/LeVa66Unt.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Untitled, 1966",
+      "width": "329",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/jumble/MorrisUnt(Tangle)1967-68-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Tangle), 1967-1968",
+      "width": "299",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/jumble/Morris70Unt(PinkFelt).jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Pink Felt), 1970",
+      "width": "426",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/jumble/LeVa66Unt.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Untitled, 1966",
+      "legacy_src": "LeVa66Unt.jpg"
+    },
+    {
+      "src": "/images/informe/jumble/MorrisUnt(Tangle)1967-68-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Tangle), 1967-1968",
+      "legacy_src": "MorrisUnt(Tangle)1967-68-S.jpg"
+    },
+    {
+      "src": "/images/informe/jumble/Morris70Unt(PinkFelt).jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Pink Felt), 1970",
+      "legacy_src": "Morris70Unt(PinkFelt).jpg"
+    }
+  ],
+  "out_links": []
+}

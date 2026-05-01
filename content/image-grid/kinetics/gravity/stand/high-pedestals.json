@@ -1,0 +1,161 @@
+{
+  "slug": "kinetics/gravity/stand/high-pedestals",
+  "legacy_path": "kinetics/gravity/Stand/HighPedestals/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "high pedestals",
+  "heading": "high pedestals",
+  "description": "",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "high pedestals",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/3rdCBC-Ashoka-Vaishali-M.jpg",
+      "alt": "",
+      "caption": "Ashoka, Vaishali\n\n3rd Century B.C.",
+      "width": "197",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/113AD-ColonnaTraiana-M.jpg",
+      "alt": "",
+      "caption": "Colonna Traiana\n\nRome,\n113 C.E.",
+      "width": "191",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/185AD(+-)c-Antonina-M.jpg",
+      "alt": "",
+      "caption": "Colonna Antonina\n\nRome, ca.\n185 C.E.",
+      "width": "177",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1808-FontaineDuPalmier-PlDuChAtelet-M.jpg",
+      "alt": "",
+      "caption": "Fontaine du Palmier\n\nPlace du Châtelet, Paris, 1808",
+      "width": "176",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1810-ColonneVendome-M.jpg",
+      "alt": "",
+      "caption": "Colonne Vendome\n\nParis, 1810",
+      "width": "190",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1831-1840-ColonneDeJuillet-M.jpg",
+      "alt": "",
+      "caption": "Jean-Antoine Alavoine: Colonne de Juillet\n\nPlace de\nla Bastille, Paris, 1831-40",
+      "width": "205",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1854-ColDell'Immacolata-Rome-M.jpg",
+      "alt": "",
+      "caption": "Colonna dell'Immacolata\n\nRome, 1854",
+      "width": "173",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1892-1902-CDsGirondinsBrdx-M.jpg",
+      "alt": "",
+      "caption": "Colonne des Girondins\n\nBordeaux, 1892-1902",
+      "width": "172",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/high-pedestals/2002-HvHouwelingenZuilVLely-M.jpg",
+      "alt": "",
+      "caption": "Hans van Houwelingen:\n\nZuil van Lely, 2002",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha – October, 2010",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/3rdCBC-Ashoka-Vaishali-M.jpg",
+      "alt": "",
+      "caption": "Ashoka, Vaishali\n\n3rd Century B.C.",
+      "legacy_src": "3rdCBC-Ashoka-Vaishali-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/113AD-ColonnaTraiana-M.jpg",
+      "alt": "",
+      "caption": "Colonna Traiana\n\nRome,\n113 C.E.",
+      "legacy_src": "113AD-ColonnaTraiana-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/185AD(+-)c-Antonina-M.jpg",
+      "alt": "",
+      "caption": "Colonna Antonina\n\nRome, ca.\n185 C.E.",
+      "legacy_src": "185AD(+-)c-Antonina-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1808-FontaineDuPalmier-PlDuChAtelet-M.jpg",
+      "alt": "",
+      "caption": "Fontaine du Palmier\n\nPlace du Châtelet, Paris, 1808",
+      "legacy_src": "1808-FontaineDuPalmier-PlDuChAtelet-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1810-ColonneVendome-M.jpg",
+      "alt": "",
+      "caption": "Colonne Vendome\n\nParis, 1810",
+      "legacy_src": "1810-ColonneVendome-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1831-1840-ColonneDeJuillet-M.jpg",
+      "alt": "",
+      "caption": "Jean-Antoine Alavoine: Colonne de Juillet\n\nPlace de\nla Bastille, Paris, 1831-40",
+      "legacy_src": "1831-1840-ColonneDeJuillet-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1854-ColDell'Immacolata-Rome-M.jpg",
+      "alt": "",
+      "caption": "Colonna dell'Immacolata\n\nRome, 1854",
+      "legacy_src": "1854-ColDell'Immacolata-Rome-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/1892-1902-CDsGirondinsBrdx-M.jpg",
+      "alt": "",
+      "caption": "Colonne des Girondins\n\nBordeaux, 1892-1902",
+      "legacy_src": "1892-1902-CDsGirondinsBrdx-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/high-pedestals/2002-HvHouwelingenZuilVLely-M.jpg",
+      "alt": "",
+      "caption": "Hans van Houwelingen:\n\nZuil van Lely, 2002",
+      "legacy_src": "2002-HvHouwelingenZuilVLely-M.jpg"
+    }
+  ],
+  "out_links": []
+}

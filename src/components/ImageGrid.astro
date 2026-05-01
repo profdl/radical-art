@@ -1,0 +1,78 @@
+---
+import Figure from "./Figure.astro";
+import Paragraph from "./Paragraph.astro";
+
+interface Block {
+  type: string;
+  [k: string]: any;
+}
+
+interface Props {
+  blocks: Block[];
+}
+
+const { blocks } = Astro.props;
+
+type Group =
+  | { kind: "figures"; items: Block[] }
+  | { kind: "h2"; text: string }
+  | { kind: "h-meta"; text: string }
+  | { kind: "paragraph"; block: Block }
+  | { kind: "list"; block: Block };
+
+const groups: Group[] = [];
+for (const b of blocks) {
+  if (b.type === "figure") {
+    const last = groups[groups.length - 1];
+    if (last && last.kind === "figures") {
+      last.items.push(b);
+    } else {
+      groups.push({ kind: "figures", items: [b] });
+    }
+  } else if (b.type === "heading") {
+    const lvl = (b.level ?? 3) as number;
+    if (lvl <= 2) groups.push({ kind: "h2", text: b.text });
+    else groups.push({ kind: "h-meta", text: b.text });
+  } else if (b.type === "paragraph") {
+    groups.push({ kind: "paragraph", block: b });
+  } else if (b.type === "list") {
+    groups.push({ kind: "list", block: b });
+  }
+}
+---
+
+<div class="space-y-8">
+  {
+    groups.map((g) => {
+      if (g.kind === "h2") {
+        return <h2 class="h-detail mt-10 mb-2">{g.text}</h2>;
+      }
+      if (g.kind === "h-meta") {
+        return (
+          <div class="mt-10 mb-2 pt-4 border-t border-[color:var(--color-rule-light)]">
+            <p class="section-label">{g.text}</p>
+          </div>
+        );
+      }
+      if (g.kind === "paragraph") {
+        return (
+          <div class="prose-archive max-w-2xl">
+            <Paragraph text={g.block.text} links={g.block.links} />
+          </div>
+        );
+      }
+      if (g.kind === "list") {
+        return (
+          <ul class="prose-archive max-w-2xl list-disc pl-6">
+            {g.block.items.map((it: any) => <li>{it.text}</li>)}
+          </ul>
+        );
+      }
+      return (
+        <div class="grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
+          {g.items.map((f) => <Figure block={f as any} />)}
+        </div>
+      );
+    })
+  }
+</div>

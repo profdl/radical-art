@@ -1,0 +1,80 @@
+{
+  "slug": "everything",
+  "legacy_path": "everything/index.html",
+  "section": "everything",
+  "archetype": "leaf-intro",
+  "title": "everything",
+  "heading": "",
+  "description": "Enumeration art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "everything as art",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"the world\"",
+      "links": [
+        {
+          "text": "\"the world\"",
+          "href": "/everything/all",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "readymades",
+      "links": [
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "nature",
+      "links": [
+        {
+          "text": "nature",
+          "href": "/nature",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "life",
+      "links": [
+        {
+          "text": "life",
+          "href": "/qlife",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "all possible\nimages",
+      "links": [
+        {
+          "text": "all possible images",
+          "href": "/algorithmic-art/artificial",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/artificial",
+    "/everything/all",
+    "/nature",
+    "/qlife",
+    "/things"
+  ]
+}

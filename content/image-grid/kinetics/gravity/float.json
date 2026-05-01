@@ -1,0 +1,327 @@
+{
+  "slug": "kinetics/gravity/float",
+  "legacy_path": "kinetics/gravity/Float/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Float",
+  "heading": "to float",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to float",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "[to be in harmony with gravity]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "float on an air stream",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1947-MoholyNagy-FloatingChi.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Laszlo Moholy-Nagy\n\nFloating Chisel\n\nVision in Motion, 1947",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1964HansHaackeFloatingSpher.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "128",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans Haacke\n\nFloating Sphere\n\n1964",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1967-Haacke-s-SphereInObliq.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "137",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans Haacke\n\nSphere in Oblique Air-Jet\n\n1967",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1994-damien-hirst-1994-WhatGoesUpMustComeDown.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "215",
+      "height": "242",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Damien Hirst\n\nWhat goes up must come down\n\n1994",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1994-damien-hirst-1995Loving_in_a_World_of_De.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "159",
+      "height": "242",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Damien Hirst\n\nLoving in a world of desire",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1995",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "float in a magnetic field",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1964-AlbertoCollie-SpatialAbsolutes.jpg",
+      "alt": "",
+      "caption": "Alberto Collie: Spatial Absolutes, 1964",
+      "width": "315",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1981-tom-shannon-81TheCompassOfLove-s.jpg",
+      "alt": "",
+      "caption": "Tom Shannon: The Compass of Love, 1981",
+      "width": "316",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1999-SchippersHetIsMeWat-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Het Is Me Wat, 1999",
+      "width": "315",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "float in water",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-TET-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "153",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Koons\n\nOne Ball Total Equilibrium Tank, 1985",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-TET-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "237",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Koons\n\nThree Ball Total Equilibrium Tank, 1985",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "float on water",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "180",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Koons\n\nOne Ball 50/50 Tank\n\n1985",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "226",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Koons\n\nTwo Ball 50/50 Tank\n\n1985",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "241",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Koons\n\nThree Ball 50/50 Tank\n\n1985",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "virtual float",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/float/1991-geraldvander-kaap-HoveRHover-s.jpg",
+      "alt": "",
+      "caption": "Gerald van der Kaap: Hover Hover, 1991",
+      "width": "333",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, June 2011",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/float/1947-MoholyNagy-FloatingChi.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1947-MoholyNagy-FloatingChi.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1964HansHaackeFloatingSpher.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1964HansHaackeFloatingSpher.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1967-Haacke-s-SphereInObliq.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1967-Haacke-s-SphereInObliq.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1994-damien-hirst-1994-WhatGoesUpMustComeDown.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1994-DamienHirst/1994-WhatGoesUpMustComeDown.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1994-damien-hirst-1995Loving_in_a_World_of_De.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1994-DamienHirst/1995Loving_in_a_World_of_De.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1964-AlbertoCollie-SpatialAbsolutes.jpg",
+      "alt": "",
+      "caption": "Alberto Collie: Spatial Absolutes, 1964",
+      "legacy_src": "1964-AlbertoCollie-SpatialAbsolutes.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1981-tom-shannon-81TheCompassOfLove-s.jpg",
+      "alt": "",
+      "caption": "Tom Shannon: The Compass of Love, 1981",
+      "legacy_src": "1981-TomShannon/81TheCompassOfLove-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1999-SchippersHetIsMeWat-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Het Is Me Wat, 1999",
+      "legacy_src": "1999-SchippersHetIsMeWat-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-TET-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1985-JeffKoons/TET-1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-TET-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1985-JeffKoons/TET-3-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1985-JeffKoons/5050-1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1985-JeffKoons/5050-2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1985-jeff-koons-5050-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1985-JeffKoons/5050-3-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/float/1991-geraldvander-kaap-HoveRHover-s.jpg",
+      "alt": "",
+      "caption": "Gerald van der Kaap: Hover Hover, 1991",
+      "legacy_src": "1991-geraldvander-kaap-HoveRHover-s.jpg"
+    }
+  ],
+  "out_links": []
+}

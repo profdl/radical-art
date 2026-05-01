@@ -1,0 +1,222 @@
+{
+  "slug": "algorithmic-art/grid/discretization/asciiart",
+  "legacy_path": "AlgorithmicArt/grid/discretization/ASCIIArt/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "ASCII Art",
+  "heading": "",
+  "description": "Images made out of alphanumeric characters.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ASCII Art\n\nImages built up out of alphanumeric characters",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/39BelangerWashington-s.jpg",
+      "alt": "",
+      "caption": "Rosaire J. Belanger:\n\nGeorge Washington, 1939",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/48-MennoFast-ASCII-Flag-s.jpg",
+      "alt": "",
+      "caption": "Menno Fast: Flag, 1948",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/64-HPhilipPetersonDigtlML-s.jpg",
+      "alt": "",
+      "caption": "H. Philip Peterson:\n\nDigital Mona Lisa, 1964",
+      "width": "167",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/66-knowlton-66KnowltonHarmon-StdsInPn-S.jpg",
+      "alt": "",
+      "caption": "Kenneth Knowlton & Leon Harmon: Studies\nin Perception, 1966",
+      "width": "480",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/66-knowlton-66KnowltonHarmonDDetail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "width": "220",
+      "height": "218",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/70-WA6PIR(DonRoyer)-s.jpg",
+      "alt": "",
+      "caption": "WA6PIR (Don Royer):\n\nRichard M. Nixon, 1970",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/91-bernard-demiaux-Demiaux91CanalEnergie-s.jpg",
+      "alt": "",
+      "caption": "Bernard Demiaux: Capture \"Canal Énergie\", 1991",
+      "width": "365",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-98-DeepAscii-19-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic: Deep ASCII, 1998\n\n[Still from ASCII Movie]",
+      "width": "230",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-99-IAC-Photo-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic:\n\nPhoto by Instant ASCII Camera, 1999",
+      "width": "135",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-Venus(ASCII4TheBlind)-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic: Venus\n\n[From: ASCII for the Blind]",
+      "width": "96",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "H.P. Peterson: \"The Digital Mona Lisa.\" Computers and Automation XIV (1965).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pierre\nRestany: Les Objets-plus et leurs présentations informationelles\npar Bernard Demiaux. Paris: La Différance, 1989.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Directly related work:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Halftone\nArt (Lichtenstein, Polke, Jacquet)\n\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)\n\n\n\nPhoto\nMosaics (Silvers, Blake)",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/half-tone",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/pixel-grids",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliled by Remko Scha, 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/39BelangerWashington-s.jpg",
+      "alt": "",
+      "caption": "Rosaire J. Belanger:\n\nGeorge Washington, 1939",
+      "legacy_src": "39BelangerWashington-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/48-MennoFast-ASCII-Flag-s.jpg",
+      "alt": "",
+      "caption": "Menno Fast: Flag, 1948",
+      "legacy_src": "48-MennoFast-ASCII-Flag-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/64-HPhilipPetersonDigtlML-s.jpg",
+      "alt": "",
+      "caption": "H. Philip Peterson:\n\nDigital Mona Lisa, 1964",
+      "legacy_src": "64-HPhilipPetersonDigtlML-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/66-knowlton-66KnowltonHarmon-StdsInPn-S.jpg",
+      "alt": "",
+      "caption": "Kenneth Knowlton & Leon Harmon: Studies\nin Perception, 1966",
+      "legacy_src": "66-Knowlton/66KnowltonHarmon-StdsInPn-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/66-knowlton-66KnowltonHarmonDDetail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "legacy_src": "66-Knowlton/66KnowltonHarmonDDetail.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/70-WA6PIR(DonRoyer)-s.jpg",
+      "alt": "",
+      "caption": "WA6PIR (Don Royer):\n\nRichard M. Nixon, 1970",
+      "legacy_src": "70-WA6PIR(DonRoyer)-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/91-bernard-demiaux-Demiaux91CanalEnergie-s.jpg",
+      "alt": "",
+      "caption": "Bernard Demiaux: Capture \"Canal Énergie\", 1991",
+      "legacy_src": "91-BernardDemiaux/Demiaux91CanalEnergie-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-98-DeepAscii-19-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic: Deep ASCII, 1998\n\n[Still from ASCII Movie]",
+      "legacy_src": "98VukCosic/98-DeepAscii-19-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-99-IAC-Photo-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic:\n\nPhoto by Instant ASCII Camera, 1999",
+      "legacy_src": "98VukCosic/99-IAC-Photo-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/asciiart/98-vuk-cosic-Venus(ASCII4TheBlind)-s.jpg",
+      "alt": "",
+      "caption": "Vuk Cosic: Venus\n\n[From: ASCII for the Blind]",
+      "legacy_src": "98VukCosic/Venus(ASCII4TheBlind)-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/discretization/half-tone",
+    "/algorithmic-art/grid/discretization/photo-mosaic",
+    "/algorithmic-art/grid/discretization/pixel-grids"
+  ]
+}

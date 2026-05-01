@@ -1,0 +1,96 @@
+{
+  "slug": "nothing/monochrome/grey",
+  "legacy_path": "nothing/monochrome/grey/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "grey",
+  "heading": "Grey Monochromes",
+  "description": "Grey monochrome paintings.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Grey Monochromes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/grey/64MorrisUntd(CornerPiece)-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Corner Piece), 1964",
+      "width": "227",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/grey/68RichterGrau,Strahlen-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter:\n\nGrau (Strahlen), 1968",
+      "width": "234",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/grey/69MardenDAprsLMrqseDLSolana.jpg",
+      "alt": "",
+      "caption": "Brice Marden: D'Après\nla Marquise de la Solana, 1969",
+      "width": "298",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/grey/83CharltonUntitled1983-S.jpg",
+      "alt": "",
+      "caption": "Alan Charlton: Untitled, 1983",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/grey/98JohnZurierAfterAntwerp-s.jpg",
+      "alt": "",
+      "caption": "John Zurier: After Antwerp, 1998",
+      "width": "195",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/grey/64MorrisUntd(CornerPiece)-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Corner Piece), 1964",
+      "legacy_src": "64MorrisUntd(CornerPiece)-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/grey/68RichterGrau,Strahlen-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter:\n\nGrau (Strahlen), 1968",
+      "legacy_src": "68RichterGrau,Strahlen-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/grey/69MardenDAprsLMrqseDLSolana.jpg",
+      "alt": "",
+      "caption": "Brice Marden: D'Après\nla Marquise de la Solana, 1969",
+      "legacy_src": "69MardenDAprsLMrqseDLSolana.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/grey/83CharltonUntitled1983-S.jpg",
+      "alt": "",
+      "caption": "Alan Charlton: Untitled, 1983",
+      "legacy_src": "83CharltonUntitled1983-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/grey/98JohnZurierAfterAntwerp-s.jpg",
+      "alt": "",
+      "caption": "John Zurier: After Antwerp, 1998",
+      "legacy_src": "98JohnZurierAfterAntwerp-s.jpg"
+    }
+  ],
+  "out_links": []
+}

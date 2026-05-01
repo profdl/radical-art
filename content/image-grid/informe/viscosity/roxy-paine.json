@@ -1,0 +1,132 @@
+{
+  "slug": "informe/viscosity/roxy-paine",
+  "legacy_path": "informe/Viscosity/RoxyPaine/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "Roxy Paine: Automatic Sculpture",
+  "heading": "Scumak by Roxy Paine",
+  "description": "Formlessness through viscosity: Roxy Paine's sculpture machines.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Scumak by Roxy Paine",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "[automatic sculpture]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2[machine]-s.jpg",
+      "alt": "",
+      "caption": "Scumak No. 2",
+      "width": "333",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/scumakNo2[machine-detail]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "190",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20(RF)-ss.jpg",
+      "alt": "",
+      "caption": "1999",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/2001-Scumak-s.jpg",
+      "alt": "",
+      "caption": "2001",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/unknown-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "272",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/front-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "340",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine/2007-Scumak-s.jpg",
+      "alt": "",
+      "caption": "2007",
+      "width": "271",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2[machine]-s.jpg",
+      "alt": "",
+      "caption": "Scumak No. 2",
+      "legacy_src": "ScumakNo2%5Bmachine%5D-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/scumakNo2[machine-detail]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "scumakNo2%5Bmachine-detail%5D-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20(RF)-ss.jpg",
+      "alt": "",
+      "caption": "1999",
+      "legacy_src": "1999-ScumakNo.20(RF)-ss.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/2001-Scumak-s.jpg",
+      "alt": "",
+      "caption": "2001",
+      "legacy_src": "2001-Scumak-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/unknown-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "unknown-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/front-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "front-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine/2007-Scumak-s.jpg",
+      "alt": "",
+      "caption": "2007",
+      "legacy_src": "2007-Scumak-s.jpg"
+    }
+  ],
+  "out_links": []
+}

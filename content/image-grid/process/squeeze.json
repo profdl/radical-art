@@ -1,0 +1,343 @@
+{
+  "slug": "process/squeeze",
+  "legacy_path": "process/squeeze/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "squeeze",
+  "heading": "Process Art: Compression",
+  "description": "compression art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Process Art: Compression",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "César Baldaccini",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1958TiroirBleu.jpg",
+      "alt": "",
+      "caption": "Tiroir Bleu, 1958",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1959-70-Dauphine.jpg",
+      "alt": "",
+      "caption": "Dauphine, 1959",
+      "width": "143",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1960CompressionMobil.jpg",
+      "alt": "",
+      "caption": "Mobil, 1960",
+      "width": "198",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1961Compression.jpg",
+      "alt": "",
+      "caption": "Compression, 1961",
+      "width": "152",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1961TheYellowBuick.jpg",
+      "alt": "",
+      "caption": "The Yellow Buick, 1961",
+      "width": "129",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1962-Ricard.jpg",
+      "alt": "",
+      "caption": "Ricard, 1962",
+      "width": "147",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1962-vega.jpg",
+      "alt": "",
+      "caption": "Facel Vega, 1962",
+      "width": "171",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1966Compression.jpg",
+      "alt": "",
+      "caption": "Compression, 1966",
+      "width": "140",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1970-Motocyclette.jpg",
+      "alt": "",
+      "caption": "Motocyclette, 1970",
+      "width": "278",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1970LaCompression.jpg",
+      "alt": "",
+      "caption": "Compression, 1970",
+      "width": "186",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1971Untitled.jpg",
+      "alt": "",
+      "caption": "1971",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1975Untitled(karton).jpg",
+      "alt": "",
+      "caption": "Untitled (Cardboard), 1975",
+      "width": "138",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/cesar-1976-compr(carton).jpg",
+      "alt": "",
+      "caption": "Untitled (Cardboard), 1976",
+      "width": "167",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Chamberlain",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-Chamberlain-S-1959-S.jpg",
+      "alt": "",
+      "caption": "S, 1959",
+      "width": "256",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUnt1961-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-ChamberlainTippeCanoe1967-S.jpg",
+      "alt": "",
+      "caption": "Tippe Canoe, 1967",
+      "width": "178",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUnt1967-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1967",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-Tintinabulary67-S.jpg",
+      "alt": "",
+      "caption": "Tintinabulary, 1967",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUntitled1973-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1973",
+      "width": "214",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/squeeze/cesar-1958TiroirBleu.jpg",
+      "alt": "",
+      "caption": "Tiroir Bleu, 1958",
+      "legacy_src": "cesar/1958TiroirBleu.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1959-70-Dauphine.jpg",
+      "alt": "",
+      "caption": "Dauphine, 1959",
+      "legacy_src": "cesar/1959-70-Dauphine.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1960CompressionMobil.jpg",
+      "alt": "",
+      "caption": "Mobil, 1960",
+      "legacy_src": "cesar/1960CompressionMobil.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1961Compression.jpg",
+      "alt": "",
+      "caption": "Compression, 1961",
+      "legacy_src": "cesar/1961Compression.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1961TheYellowBuick.jpg",
+      "alt": "",
+      "caption": "The Yellow Buick, 1961",
+      "legacy_src": "cesar/1961TheYellowBuick.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1962-Ricard.jpg",
+      "alt": "",
+      "caption": "Ricard, 1962",
+      "legacy_src": "cesar/1962-Ricard.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1962-vega.jpg",
+      "alt": "",
+      "caption": "Facel Vega, 1962",
+      "legacy_src": "cesar/1962-vega.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1966Compression.jpg",
+      "alt": "",
+      "caption": "Compression, 1966",
+      "legacy_src": "cesar/1966Compression.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1970-Motocyclette.jpg",
+      "alt": "",
+      "caption": "Motocyclette, 1970",
+      "legacy_src": "cesar/1970-Motocyclette.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1970LaCompression.jpg",
+      "alt": "",
+      "caption": "Compression, 1970",
+      "legacy_src": "cesar/1970LaCompression.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1971Untitled.jpg",
+      "alt": "",
+      "caption": "1971",
+      "legacy_src": "cesar/1971Untitled.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1975Untitled(karton).jpg",
+      "alt": "",
+      "caption": "Untitled (Cardboard), 1975",
+      "legacy_src": "cesar/1975Untitled(karton).jpg"
+    },
+    {
+      "src": "/images/process/squeeze/cesar-1976-compr(carton).jpg",
+      "alt": "",
+      "caption": "Untitled (Cardboard), 1976",
+      "legacy_src": "cesar/1976-compr(carton).jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-Chamberlain-S-1959-S.jpg",
+      "alt": "",
+      "caption": "S, 1959",
+      "legacy_src": "chamberlain/Chamberlain-S-1959-S.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUnt1961-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "legacy_src": "chamberlain/ChamberlainUnt1961-S.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-ChamberlainTippeCanoe1967-S.jpg",
+      "alt": "",
+      "caption": "Tippe Canoe, 1967",
+      "legacy_src": "chamberlain/ChamberlainTippeCanoe1967-S.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUnt1967-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1967",
+      "legacy_src": "chamberlain/ChamberlainUnt1967-S.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-Tintinabulary67-S.jpg",
+      "alt": "",
+      "caption": "Tintinabulary, 1967",
+      "legacy_src": "chamberlain/Tintinabulary67-S.jpg"
+    },
+    {
+      "src": "/images/process/squeeze/chamberlain-ChamberlainUntitled1973-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1973",
+      "legacy_src": "chamberlain/ChamberlainUntitled1973-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
+}

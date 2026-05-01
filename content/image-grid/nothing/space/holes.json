@@ -1,0 +1,888 @@
+{
+  "slug": "nothing/space/holes",
+  "legacy_path": "nothing/space/holes/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes",
+  "heading": "Holes",
+  "description": "Holes and pits in modern art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holes",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/1913-Brancusi-TheFirstCry-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "179",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Constantin Brancusi:\n\nThe First Cry, 1913",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/55FontanaUntitled-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "165",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucio Fontana:\n\nUntitled, 1955",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/6364-APomodoroSferaNr4.jpg",
+      "alt": "",
+      "caption": "Arnoldo Pomodoro:\n\nSfera # 4, 1963-1964",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth-31PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Barbara Hepworth:\n\nPierced Form, 1931",
+      "width": "178",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/60BenTheFirstPortableHole.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nThe First Portable Hole, 1960",
+      "width": "162",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/33-RM-LaReponseImprevue-M2.jpg",
+      "alt": "",
+      "caption": "René Magritte:\n\nLa Réponse Imprévue, 1933",
+      "width": "192",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/RobertOverby71DoorWHole-S.jpg",
+      "alt": "",
+      "caption": "Robert Overby:\n\nDoor with Hole, 1971",
+      "width": "126",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/37-LeeMiller-PortraitOfSpace-s.jpg",
+      "alt": "",
+      "caption": "Lee Miller: Portrait of Space, 1937",
+      "width": "226",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/38-RM-LeBaiser-s.jpg",
+      "alt": "",
+      "caption": "René Magritte: Le Baiser, 1938",
+      "width": "305",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/34nicholsonrelief.jpg",
+      "alt": "",
+      "caption": "Ben Nicholson: Relief, 1934",
+      "width": "185",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/Dadamaino1958Volume-M.jpg",
+      "alt": "",
+      "caption": "Dadamaino: Volumes, 1958",
+      "width": "165",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/58-DadamainoVolume-b-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/63-DiterRot-WPWHoles-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Diter Rot:\n\nWhite page with holes, 1963",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/73AdDekkersOppvlTussn-s.jpg",
+      "alt": "",
+      "caption": "Ad Dekkers: Oppervlakte tussen vierkant en vierkant\n\n& Oppervlakte tussen vierkant en cirkel, 1973",
+      "width": "230",
+      "height": "129",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/97ChristianEckartZootrope-s.jpg",
+      "alt": "",
+      "caption": "Christian Eckart: Zootrope, 1979",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino-86-BigHole-s.jpg",
+      "alt": "",
+      "caption": "Steven Parrino: Big Hole, 1986",
+      "width": "183",
+      "height": "224",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller-Miller05instantvision2-s.jpg",
+      "alt": "",
+      "caption": "Gerold Miller:\n\nInstant Vision # 2, 2005",
+      "width": "173",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/44-HThWijdeveld_15mileShaft.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "135",
+      "height": "391",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "H. Th. Wijdeveld:\n\n15 Mile Shaft, 1944",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "Michael Heizer:\n\nNorth, East, South, West (1967)",
+      "width": "220",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/68-nobuo-sekine-Phase-MotherEarth-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nobuo Sekine:\n\nPhase – Mother Earth (1968)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/klein-57KleinCaNeVautRien-S.jpg",
+      "alt": "",
+      "caption": "Yves Klein: \"Tentative des Vides dans le tableau\n\nfiguratif de 1955 [monochrome en 49].\n\nÇa ne vaut rien!\" (1957)",
+      "width": "196",
+      "height": "250",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/klein",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares-60-cuadro111-s.jpg",
+      "alt": "",
+      "caption": "Manolo Millares: Cuadro 111, 1960",
+      "width": "208",
+      "height": "275",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/59-Christo-ST(Crateres)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Christo Javacheff:\n\nSans Titre (Cratères), 1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/bontecou59-60-Unt-S.jpg",
+      "alt": "",
+      "caption": "Lee Bontecou:\n\nUntitled, 1959-1960",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/DelPezzo61LOraDelRicordo-s.jpg",
+      "alt": "",
+      "caption": "Lucio del Pezzo: L'Ora del Ricorda, 1961",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/informel-LAWells61RelieveOscuro-s.jpg",
+      "alt": "",
+      "caption": "Luis Albert Wells: Relieve Oscuro, 1961",
+      "width": "197",
+      "height": "275",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/FrancoBemporad-s.jpg",
+      "alt": "",
+      "caption": "Franco Bemporad",
+      "width": "197",
+      "height": "275",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana-62ConcSpaz-S.gif",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spaziale, 1962",
+      "width": "207",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/61JuddRelief.JPG",
+      "alt": "",
+      "caption": "Don Judd:\n\nRelief, 1961",
+      "width": "167",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/63-SaburoMurakamiUnt.jpg",
+      "alt": "",
+      "caption": "Sabura Murakami:\n\nUntitled, 1963",
+      "width": "171",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas-97-Unt1997-18-s.jpg",
+      "alt": "",
+      "caption": "Maryellen Latas:\n\nUntitled 1997-18, 1997",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wim T. Schippers: Negative Contribution. \"A tidy pit of modest dimensions, that slightly hinders entering the cultural premises.\" Manifestatie te Zeist, Nederlandse Kunststichting, 1965. [Cancelled by municipal authorities.] Kasteel Drakensteyn, Lage Vuursche, 1969.\n\n\n\nClaes Oldenburg: Placid Civic Monument. \"108 cubic feet of Central Park surface excavated and reinserted.\" New York, October 1, 1967.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/69-70HeizerDoubleNegative.jpg",
+      "alt": "",
+      "caption": "Michael Heizer:\n\nDouble Negative, 1969/1970",
+      "width": "285",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/79ChrisBurdenHonestLabor-s.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Honest Labor, 1979",
+      "width": "176",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/2007-UrsFischer-You-s.jpg",
+      "alt": "",
+      "caption": "Urs Fischer: You, 2007",
+      "width": "210",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/88-89kapoorAdam.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nAdam, 1988/1989",
+      "width": "152",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/89LeWittCubeWithoutACube-S.jpg",
+      "alt": "",
+      "caption": "Sol Lewitt:\n\nCube without a cube, 1989",
+      "width": "205",
+      "height": "193",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/98BrueggemannOpening[Ext]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/98StefanBrueggemannOpening-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann:\n\nOpening, 1998",
+      "width": "230",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/2004UrsFischerKirRoyal-s.jpg",
+      "alt": "",
+      "caption": "Urs Fischer: Kir Royal, 2004",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More holes:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Related genres:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Barbara Hepworth",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/barbara-hepworth",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alberto Burri: Combustiones",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/burn/burri",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Manolo Millares",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/manolo-millares",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucio Fontana",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/fontana",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Yves Klein",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/klein",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee Bontecou\n\n\n\nBen Vautier",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/lee-bontecou",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/holes/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Heizer\n\n\n\nSteven Parrino",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/michael-heizer",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/holes/steven-parrino",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Maryellen Latas",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/maryellen-latas",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerold Miller",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/gerold-miller",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Slash",
+      "links": [
+        {
+          "text": "",
+          "href": "/destruction/slash/fontana",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Destruction\n\n\n\nEmpty\nFrames",
+      "links": [
+        {
+          "text": "",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/frames",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Void",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/vide",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/darkness",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Invisible\nart",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/invisible",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Some sources",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Christo & Jeanne Claude: Early Works 1958-1969. Köln: Taschen, 2001.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucy R. Lippard: \"Heroic Years from Humble Treasures: Notes on African and Modern Art.\" Art International X, 7 (September, 1966). Reprinted in: Changing. Essays in Art Criticism. New York: E.P. Dutton, 1971, pp. 35-47. [Brancusi's \"First Cry\" on p. 46.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Diter Rot: \"Poetry.\" In: La Monte Young & Jackson Mac Low (eds.): An Anthology. New York, 1963.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harry Ruhé: The Best of Wim T. Schippers. Utrecht: Centraal Museum, 1997.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Further literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Easy Aloha's: Gaten & andere dingen die er niet zijn. Amsterdam: Nieuw Amsterdam, 2008. [A lighthearted book in Dutch about holes, voids, and silence. It includes some descriptions based on this webpage.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Last update: R. Scha, December 2009",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/1913-Brancusi-TheFirstCry-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1913-Brancusi-TheFirstCry-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/55FontanaUntitled-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "55FontanaUntitled-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/6364-APomodoroSferaNr4.jpg",
+      "alt": "",
+      "caption": "Arnoldo Pomodoro:\n\nSfera # 4, 1963-1964",
+      "legacy_src": "6364-APomodoroSferaNr4.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth-31PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Barbara Hepworth:\n\nPierced Form, 1931",
+      "legacy_src": "BarbaraHepworth/31PiercedForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/60BenTheFirstPortableHole.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nThe First Portable Hole, 1960",
+      "legacy_src": "60BenTheFirstPortableHole.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/33-RM-LaReponseImprevue-M2.jpg",
+      "alt": "",
+      "caption": "René Magritte:\n\nLa Réponse Imprévue, 1933",
+      "legacy_src": "33-RM-LaReponseImprevue-M2.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/RobertOverby71DoorWHole-S.jpg",
+      "alt": "",
+      "caption": "Robert Overby:\n\nDoor with Hole, 1971",
+      "legacy_src": "RobertOverby71DoorWHole-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/37-LeeMiller-PortraitOfSpace-s.jpg",
+      "alt": "",
+      "caption": "Lee Miller: Portrait of Space, 1937",
+      "legacy_src": "37-LeeMiller-PortraitOfSpace-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/38-RM-LeBaiser-s.jpg",
+      "alt": "",
+      "caption": "René Magritte: Le Baiser, 1938",
+      "legacy_src": "38-RM-LeBaiser-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/34nicholsonrelief.jpg",
+      "alt": "",
+      "caption": "Ben Nicholson: Relief, 1934",
+      "legacy_src": "34nicholsonrelief.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/Dadamaino1958Volume-M.jpg",
+      "alt": "",
+      "caption": "Dadamaino: Volumes, 1958",
+      "legacy_src": "Dadamaino1958Volume-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/58-DadamainoVolume-b-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "58-DadamainoVolume-b-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/63-DiterRot-WPWHoles-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "63-DiterRot-WPWHoles-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/73AdDekkersOppvlTussn-s.jpg",
+      "alt": "",
+      "caption": "Ad Dekkers: Oppervlakte tussen vierkant en vierkant\n\n& Oppervlakte tussen vierkant en cirkel, 1973",
+      "legacy_src": "73AdDekkersOppvlTussn-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/97ChristianEckartZootrope-s.jpg",
+      "alt": "",
+      "caption": "Christian Eckart: Zootrope, 1979",
+      "legacy_src": "97ChristianEckartZootrope-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino-86-BigHole-s.jpg",
+      "alt": "",
+      "caption": "Steven Parrino: Big Hole, 1986",
+      "legacy_src": "StevenParrino/86-BigHole-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/gerold-miller-Miller05instantvision2-s.jpg",
+      "alt": "",
+      "caption": "Gerold Miller:\n\nInstant Vision # 2, 2005",
+      "legacy_src": "GeroldMiller/Miller05instantvision2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/44-HThWijdeveld_15mileShaft.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "44-HThWijdeveld_15mileShaft.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "Michael Heizer:\n\nNorth, East, South, West (1967)",
+      "legacy_src": "67HeizerNorthEastSouthWestS.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/68-nobuo-sekine-Phase-MotherEarth-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "68-nobuo-sekine-Phase-MotherEarth-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/klein-57KleinCaNeVautRien-S.jpg",
+      "alt": "",
+      "caption": "Yves Klein: \"Tentative des Vides dans le tableau\n\nfiguratif de 1955 [monochrome en 49].\n\nÇa ne vaut rien!\" (1957)",
+      "legacy_src": "klein/57KleinCaNeVautRien-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares-60-cuadro111-s.jpg",
+      "alt": "",
+      "caption": "Manolo Millares: Cuadro 111, 1960",
+      "legacy_src": "ManoloMillares/60-cuadro111-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/59-Christo-ST(Crateres)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59-Christo-ST(Crateres)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/bontecou59-60-Unt-S.jpg",
+      "alt": "",
+      "caption": "Lee Bontecou:\n\nUntitled, 1959-1960",
+      "legacy_src": "bontecou59-60-Unt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/DelPezzo61LOraDelRicordo-s.jpg",
+      "alt": "",
+      "caption": "Lucio del Pezzo: L'Ora del Ricorda, 1961",
+      "legacy_src": "DelPezzo61LOraDelRicordo-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/informel-LAWells61RelieveOscuro-s.jpg",
+      "alt": "",
+      "caption": "Luis Albert Wells: Relieve Oscuro, 1961",
+      "legacy_src": "informel/LAWells61RelieveOscuro-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/FrancoBemporad-s.jpg",
+      "alt": "",
+      "caption": "Franco Bemporad",
+      "legacy_src": "FrancoBemporad-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana-62ConcSpaz-S.gif",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spaziale, 1962",
+      "legacy_src": "Fontana/62ConcSpaz-S.gif"
+    },
+    {
+      "src": "/images/nothing/space/holes/61JuddRelief.JPG",
+      "alt": "",
+      "caption": "Don Judd:\n\nRelief, 1961",
+      "legacy_src": "61JuddRelief.JPG"
+    },
+    {
+      "src": "/images/nothing/space/holes/63-SaburoMurakamiUnt.jpg",
+      "alt": "",
+      "caption": "Sabura Murakami:\n\nUntitled, 1963",
+      "legacy_src": "63-SaburoMurakamiUnt.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas-97-Unt1997-18-s.jpg",
+      "alt": "",
+      "caption": "Maryellen Latas:\n\nUntitled 1997-18, 1997",
+      "legacy_src": "MaryellenLatas/97-Unt1997-18-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/69-70HeizerDoubleNegative.jpg",
+      "alt": "",
+      "caption": "Michael Heizer:\n\nDouble Negative, 1969/1970",
+      "legacy_src": "69-70HeizerDoubleNegative.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/79ChrisBurdenHonestLabor-s.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Honest Labor, 1979",
+      "legacy_src": "79ChrisBurdenHonestLabor-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/2007-UrsFischer-You-s.jpg",
+      "alt": "",
+      "caption": "Urs Fischer: You, 2007",
+      "legacy_src": "2007-UrsFischer-You-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/88-89kapoorAdam.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nAdam, 1988/1989",
+      "legacy_src": "88-89kapoorAdam.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/89LeWittCubeWithoutACube-S.jpg",
+      "alt": "",
+      "caption": "Sol Lewitt:\n\nCube without a cube, 1989",
+      "legacy_src": "89LeWittCubeWithoutACube-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/98BrueggemannOpening[Ext]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "98BrueggemannOpening%5BExt%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/98StefanBrueggemannOpening-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann:\n\nOpening, 1998",
+      "legacy_src": "98StefanBrueggemannOpening-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/2004UrsFischerKirRoyal-s.jpg",
+      "alt": "",
+      "caption": "Urs Fischer: Kir Royal, 2004",
+      "legacy_src": "2004UrsFischerKirRoyal-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/destruction/slash/fontana",
+    "/nothing/darkness",
+    "/nothing/invisible",
+    "/nothing/space/frames",
+    "/nothing/space/holes/barbara-hepworth",
+    "/nothing/space/holes/ben",
+    "/nothing/space/holes/fontana",
+    "/nothing/space/holes/gerold-miller",
+    "/nothing/space/holes/klein",
+    "/nothing/space/holes/lee-bontecou",
+    "/nothing/space/holes/manolo-millares",
+    "/nothing/space/holes/maryellen-latas",
+    "/nothing/space/holes/michael-heizer",
+    "/nothing/space/holes/steven-parrino",
+    "/nothing/space/vide",
+    "/process/burn/burri"
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "slug": "nature",
+  "legacy_path": "nature/index.html",
+  "section": "nature",
+  "archetype": "quote-collection",
+  "title": "Nature",
+  "heading": "Nature as Art",
+  "description": "Natural phenomena as works of visual art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nature as Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Process Art\n\n\n\n\nNatural Disasters\n\n\n\n\nPhysics\n\n\n\n\nAnimal Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/destruction/natural-disasters",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/physics",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/vibration/animal",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nAesthetics of Nature",
+      "links": [
+        {
+          "text": "",
+          "href": "/nature/quotes",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Miscellaneous material",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Eames: Blacktop (1952). 10'47\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This film shows the shapes produced\nby the movement of soapy water across an asphalt surface. Don\nAlbinson controlled the hose and movement of the water. Eames\nedited the film and synchronized it to Bach's Goldberg Variations\non the basis of visual cues from the film's optical track.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Henderikse: The San Pedro Art Project, 1973. (Three\nartificial lakes.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wolfgang Mally: Paper in Water 0-58 Days, 1977/1978.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mally placed 365 sheets of paper\nin water, earth and air, and removed one sheet every day. (Dorothea\nEimert: PaperArt, Geschichte der Papierkunst. Wienand Verlag,\n1994.) (Cf. Marcel Duchamp: Readymade\nMalheureux, 1919; and some pieces by Yves Klein.)",
+      "links": [
+        {
+          "text": "Readymade Malheureux,",
+          "href": "http://www.zumbacombo.com/duchamp/malheur.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Henderikse: Ice, 1981.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nature/Yanagi-Ant.jpg",
+      "alt": "",
+      "caption": "Yukinori Yanagi: Wandering\nPosition, 1995.",
+      "width": "288",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The plan for Wandering\nPosition, which will be executed on-site, is to set an ant free\nwithin a square area surrounded by a steel frame. The artist\nwill follow the ant and trace his own footsteps in pastel. Only\nthe size and position of the enclosure are to be determined\nby the artist. The rest will be drawn according to the ant's\n'will'.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Asa Elzen: Communiejurkje, 1998.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A glass container with water\nand salt. The water dries out and leaves a pattern of salt crystals.\n\n(Catalogue Flexible 3, Close to the Body. Nederlands Textielmuseum,\nTilburg - 2000.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Norman McLeod: The\nRattle in Seattle. Earthquake as Artist.",
+      "links": [
+        {
+          "text": "The Rattle in Seattle. Earthquake as Artist.",
+          "href": "http://www.earthquakerose.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Trace of pendulum in sand during\nearthquake.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ken Goldberg, Randall Packer, Wojciech Matusik and Gregory\nKuhn: Mori,\n2001.",
+      "links": [
+        {
+          "text": "Mori,",
+          "href": "http://memento.ieor.berkeley.edu/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ongoing display of earth movements in Berkeley,\nCA.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wim van Egmond, Loes Modderman, Spike Walker, Karl E. Deckart: Photomicrographs.",
+      "links": [
+        {
+          "text": "Photomicrographs.",
+          "href": "http://micro.magnet.fsu.edu/featuredmicroscopist/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Michael W. Davidson: Photomicrographs.",
+      "links": [
+        {
+          "text": "Photomicrographs",
+          "href": "http://micro.magnet.fsu.edu/micro/gallery.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Reference",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Henderikse: Photo. Installations 1960-1992. Almere:\nDirectie Kunstzaken / Amsterdam: Galerie . Apunto, 1992, pp. 15,\n18-19, 47.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Simulations",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Steam: Kevin Newman: Smoke.\n(<5k Flash 5, 2002.)\n\nErosion: Bit-101\nLaboratory: 01 dec 08/12/20; 02 dec 23-25\n\nExplosion: Bit-101\nLaboratory: 01 dec 11",
+      "links": [
+        {
+          "text": "Smoke.",
+          "href": "http://entries.the5k.org/875/smoke.html",
+          "external": true
+        },
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/lab.html",
+          "external": true
+        },
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/lab.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Music: The Aeolian Harp",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Howard Dearstyne: Material Compiled on the Subject\nof the Aeolian Harp from Various Sources. Williamsburg, VA:\nColonial Williamsburg, Inc., 1954.\n\n\n\nStephen Bonner: The history and organology of the Aeolian harp.\n\n\n\n\nStephen Bonner and M. G. Davies: The acoustics of the Aeolian\nharp. Bois de Boulogne, 1974\n\n\n\nMins Minssen et al.: Äolsharfen: der Wind als Musikant. Universität Kiel, Institut für die Pädagogik der\nNaturwissenschaften, 1997.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Exercises:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Make computer\nsimulations of some natural phenomena.",
+          "links": []
+        },
+        {
+          "text": "It has\noften been observed that Immanuel Kant's analysis of the aesthetic\nexperience focusses on beauty in nature, and that the status of\nart in his theory is problematic. Discuss against this background\nthe \"Nature as Art\" genre in the art of the 1960's.\nTake into consideration also: Duchamp's readymades, algorithmic art, and Artificial\nLife.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, August 2002 / January 2003.\n\n\n\nSome works and links suggested by Chris Alderliefste, Jorn\nBaas, Maja Brouwer, Daniel Marcel Joosse.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nature/Yanagi-Ant.jpg",
+      "alt": "",
+      "caption": "Yukinori Yanagi: Wandering\nPosition, 1995.",
+      "legacy_src": "Yanagi-Ant.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction/natural-disasters",
+    "/nature/quotes",
+    "/physics",
+    "/process",
+    "/process/vibration/animal"
+  ]
+}

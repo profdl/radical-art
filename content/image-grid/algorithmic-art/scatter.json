@@ -1,0 +1,589 @@
+{
+  "slug": "algorithmic-art/scatter",
+  "legacy_path": "AlgorithmicArt/scatter/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "scattering",
+  "heading": "Scatterings",
+  "description": "Image generation by random scattering.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Scatterings",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries: points",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots1SS.jpg",
+      "alt": "",
+      "caption": "random objectivations, 1975",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots2SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "148",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots3SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots4SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/hdevries-75Zufallscollage-s.jpg",
+      "alt": "",
+      "caption": "zufallscollage, 1975",
+      "width": "291",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/hdevries-91ZweiTage-M.jpg",
+      "alt": "",
+      "caption": "zwei tage unter der weissdornhecke, 1991",
+      "width": "302",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries: shapes",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/hdevries-66-67-relief-s.jpg",
+      "alt": "",
+      "caption": "relief, 1966/1967",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries: letters",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/hdevries-67-DieWeltIstAllesEtc-s.jpg",
+      "alt": "",
+      "caption": "\"die welt ist alles was der fall ist\", 1967",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLettersSS.jpg",
+      "alt": "",
+      "caption": "toevalsverdeling v 68-38, 1968",
+      "width": "212",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lines",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLines1SS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevalsobjectivering v 66-59, 1966",
+      "width": "212",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLines2SS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevalsobjectivering v 66-60, 1966",
+      "width": "213",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/hdevries-71RandomDotsInSpace.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nrandom dots in space, 1971",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLinesTSS.jpg",
+      "alt": "",
+      "caption": "François Morellet: 5 lignes au hasard; 10 lignes au hasard; 20\nlignes au hasard; 40 lignes au hasard (1971)",
+      "width": "149",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLinestT2SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "148",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLines3SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "149",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLines4SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/stazewski-77[lines]-s.jpg",
+      "alt": "",
+      "caption": "Henryk Stazewski, 1977",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-streetsSS.jpg",
+      "alt": "",
+      "caption": "Benoit B. Mandelbrot: Random Pattern of Streets, 1977.",
+      "width": "272",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Zdenek Sykora: Curves",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-Sykora2SS.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 3 \"Hundert Linien\", 1975",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/sykora-83-s.jpg",
+      "alt": "",
+      "caption": "Linienbild, 1983",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/sykora-88-LineNo50-s.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 50, 1988",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-SykoraSS.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 75, 1990",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/sykora-sykora_linie-s.jpg",
+      "alt": "",
+      "caption": "Linienbild",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/sykora-Sykora[dik]-s.jpg",
+      "alt": "",
+      "caption": "Linienbild",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "3D",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesBlokjesSS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevallige stapeling, 1973",
+      "width": "210",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/ChrisBurden1984BeamDrop-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "207",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Chris Burden: Beam Drop. Lewiston,\nNY, 1984.\n\n(A public artwork, created by a crane\n\ndropping steel beams\ninto wet cement.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "A. Michael Noll: Paths through random point sequences, 1965",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "139",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "2D shapes created by connecting random points",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/scatter/chanceart-polygon24SS.jpg",
+      "alt": "",
+      "caption": "F. Attneave and M.D. Arnoult:\n\nTwenty-four point random polygons.",
+      "width": "188",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "F. Attneave and M.D. Arnoult: \"The\nQuantitative Study of Shape and Pattern Perception.\" Psychological\nBulletin 53 (1956), pp. 452-471.\n\n\n\nJ.M. Vanderplas and E.A. Garvin: \"The Association Value of Random\nShapes.\" Journal of Experimental Psychology 57 (1959),\npp. 147-154.\n\n\n\nBit-101\nLaboratory: 02 mar 20; 02 apr 22/30; 02 may 03/12/23;\n02 jul 30; 02 aug 11; 02 nov 18.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Online",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "nooflat",
+      "links": [
+        {
+          "text": "nooflat",
+          "href": "http://www.nooflat.nu",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reload\nUnlimited",
+      "links": [
+        {
+          "text": "Reload Unlimited",
+          "href": "http://www.teleferique.org/stations/Fercoq/Reload/reload.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101 Laboratory:\n02 jun 09",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/base.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Literature",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Gottfried Boehm: \"Zur Analyse eines künstlerischen\nProblems bei F. Morellet.\" In Exhibition Catalogue François\nMorellet, Nationalgalerie Berlin, 1977.\n\n\n\nBenoit B. Mandelbrot: Fractals. Form, Chance and Dimension. San\nFrancisco: W.H. Freeman, 1977.\n\n\n\nFrançois Morellet: \"Pour une peinture expérimentale\nprogrammée.\" (1962) In Exhibition Catalogue François\nMorellet, Nationalgalerie Berlin, 1977.\n\n\n\nFrançois Morellet: \"Du spectateur au spectateur ou l'art\nde déballer son pique-nique.\" (1971) In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nFrançois Morellet: \"Avertissement.\" (1972) In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nPaul C. Vitz and Arnold B. Glimcher: Modern Art and Modern Science.\nThe Parallel Analysis of Vision. New York: Praeger, 1984, p.230.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "herman de vries: \"Random Objectivations.\" In: Revue Nul=0, 2 (1963), pp. 34-35. [Reprinted in: herman\nde vries, Werken 1954 - 1980, Exhibition Catalogue Groninger\nMuseum, 1980.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2002",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots1SS.jpg",
+      "alt": "",
+      "caption": "random objectivations, 1975",
+      "legacy_src": "../../gif/chanceart/DeVriesDots1SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots2SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/DeVriesDots2SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots3SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/DeVriesDots3SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesDots4SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/DeVriesDots4SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/hdevries-75Zufallscollage-s.jpg",
+      "alt": "",
+      "caption": "zufallscollage, 1975",
+      "legacy_src": "hdevries/75Zufallscollage-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/hdevries-91ZweiTage-M.jpg",
+      "alt": "",
+      "caption": "zwei tage unter der weissdornhecke, 1991",
+      "legacy_src": "hdevries/91ZweiTage-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/hdevries-66-67-relief-s.jpg",
+      "alt": "",
+      "caption": "relief, 1966/1967",
+      "legacy_src": "hdevries/66-67-relief-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/hdevries-67-DieWeltIstAllesEtc-s.jpg",
+      "alt": "",
+      "caption": "\"die welt ist alles was der fall ist\", 1967",
+      "legacy_src": "hdevries/67-DieWeltIstAllesEtc-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLettersSS.jpg",
+      "alt": "",
+      "caption": "toevalsverdeling v 68-38, 1968",
+      "legacy_src": "../../gif/chanceart/DeVriesLettersSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLines1SS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevalsobjectivering v 66-59, 1966",
+      "legacy_src": "../../gif/chanceart/DeVriesLines1SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesLines2SS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevalsobjectivering v 66-60, 1966",
+      "legacy_src": "../../gif/chanceart/DeVriesLines2SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/hdevries-71RandomDotsInSpace.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nrandom dots in space, 1971",
+      "legacy_src": "hdevries/71RandomDotsInSpace.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLinesTSS.jpg",
+      "alt": "",
+      "caption": "François Morellet: 5 lignes au hasard; 10 lignes au hasard; 20\nlignes au hasard; 40 lignes au hasard (1971)",
+      "legacy_src": "../../gif/chanceart/MorelLinesTSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLinestT2SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/MorelLinestT2SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLines3SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/MorelLines3SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-MorelLines4SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/chanceart/MorelLines4SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/stazewski-77[lines]-s.jpg",
+      "alt": "",
+      "caption": "Henryk Stazewski, 1977",
+      "legacy_src": "Stazewski/77%5Blines%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-streetsSS.jpg",
+      "alt": "",
+      "caption": "Benoit B. Mandelbrot: Random Pattern of Streets, 1977.",
+      "legacy_src": "../../gif/chanceart/streetsSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-Sykora2SS.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 3 \"Hundert Linien\", 1975",
+      "legacy_src": "../../gif/chanceart/Sykora2SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/sykora-83-s.jpg",
+      "alt": "",
+      "caption": "Linienbild, 1983",
+      "legacy_src": "Sykora/83-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/sykora-88-LineNo50-s.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 50, 1988",
+      "legacy_src": "Sykora/88-LineNo50-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-SykoraSS.jpg",
+      "alt": "",
+      "caption": "Linienbild Nr. 75, 1990",
+      "legacy_src": "../../gif/chanceart/SykoraSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/sykora-sykora_linie-s.jpg",
+      "alt": "",
+      "caption": "Linienbild",
+      "legacy_src": "Sykora/sykora_linie-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/sykora-Sykora[dik]-s.jpg",
+      "alt": "",
+      "caption": "Linienbild",
+      "legacy_src": "Sykora/Sykora%5Bdik%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-DeVriesBlokjesSS.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\ntoevallige stapeling, 1973",
+      "legacy_src": "../../gif/chanceart/DeVriesBlokjesSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/ChrisBurden1984BeamDrop-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ChrisBurden1984BeamDrop-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AMichaelNoll/65-2-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AMichaelNoll/65-4-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/amichael-noll-65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AMichaelNoll/65-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/scatter/chanceart-polygon24SS.jpg",
+      "alt": "",
+      "caption": "F. Attneave and M.D. Arnoult:\n\nTwenty-four point random polygons.",
+      "legacy_src": "../../gif/chanceart/polygon24SS.jpg"
+    }
+  ],
+  "out_links": []
+}

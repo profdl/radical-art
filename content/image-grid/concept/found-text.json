@@ -1,0 +1,264 @@
+{
+  "slug": "concept/found-text",
+  "legacy_path": "concept/FoundText/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Found Text",
+  "heading": "Found Text as Visual Art",
+  "description": "Found text as visual art: John Baldessari's art texts and Jenny Holzer's",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Found Text as Visual Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "John Baldessari",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-6668Composing-s.jpg",
+      "alt": "",
+      "caption": "1966/1968",
+      "width": "230",
+      "height": "271",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-6668SolvingEachProblemAIA-s.jpg",
+      "alt": "",
+      "caption": "1966/1968",
+      "width": "230",
+      "height": "283",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-67-2DSurface-s.jpg",
+      "alt": "",
+      "caption": "1967",
+      "width": "230",
+      "height": "193",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-6768Tips4Artists-BW.jpg",
+      "alt": "",
+      "caption": "1967/1968",
+      "width": "230",
+      "height": "255",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-68WhatIsPainting-BW.jpg",
+      "alt": "",
+      "caption": "1968",
+      "width": "230",
+      "height": "273",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/baldessari-TermsMostUseful-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "274",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jenny Holzer",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "The Living Series, 1980/1982",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-80-82(TLivingSeries)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-80Aneurisms-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-holzer8082Living-howdoyou.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-holzer8082Living-inaparadisiac.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-holzer8082Living-somebodyjust.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-holzer8082Living[Tears].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-80-82GoodChild-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-80-82Living[Bleeding]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/found-text/holzer-holzer8082Living[WhatAShock].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "184",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/found-text/baldessari-6668Composing-s.jpg",
+      "alt": "",
+      "caption": "1966/1968",
+      "legacy_src": "Baldessari/6668Composing-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/baldessari-6668SolvingEachProblemAIA-s.jpg",
+      "alt": "",
+      "caption": "1966/1968",
+      "legacy_src": "Baldessari/6668SolvingEachProblemAIA-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/baldessari-67-2DSurface-s.jpg",
+      "alt": "",
+      "caption": "1967",
+      "legacy_src": "Baldessari/67-2DSurface-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/baldessari-6768Tips4Artists-BW.jpg",
+      "alt": "",
+      "caption": "1967/1968",
+      "legacy_src": "Baldessari/6768Tips4Artists-BW.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/baldessari-68WhatIsPainting-BW.jpg",
+      "alt": "",
+      "caption": "1968",
+      "legacy_src": "Baldessari/68WhatIsPainting-BW.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/baldessari-TermsMostUseful-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Baldessari/TermsMostUseful-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-80-82(TLivingSeries)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/80-82(TLivingSeries)-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-80Aneurisms-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/80Aneurisms-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-holzer8082Living-howdoyou.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/holzer8082Living-howdoyou.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-holzer8082Living-inaparadisiac.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/holzer8082Living-inaparadisiac.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-holzer8082Living-somebodyjust.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/holzer8082Living-somebodyjust.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-holzer8082Living[Tears].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/holzer8082Living%5BTears%5D.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-80-82GoodChild-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/80-82GoodChild-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-80-82Living[Bleeding]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/80-82Living%5BBleeding%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/found-text/holzer-holzer8082Living[WhatAShock].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Holzer/holzer8082Living%5BWhatAShock%5D.jpg"
+    }
+  ],
+  "out_links": []
+}

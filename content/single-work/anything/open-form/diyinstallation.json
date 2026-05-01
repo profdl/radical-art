@@ -1,0 +1,40 @@
+{
+  "slug": "anything/open-form/diyinstallation",
+  "legacy_path": "anything/OpenForm/DIYInstallation.html",
+  "section": "anything",
+  "archetype": "single-work",
+  "title": "Do It Yourself Installation",
+  "heading": "",
+  "description": "Open Form: Do It Yourself Installation",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Open Form: Do It Yourself Installation",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert\nMorris: Untitled (L-Beams),\n1965-1967.\n\n\n\n(The L-Beams can be exhibited in any position and orientation with respect\nto floor, wall, corners, and each other.)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diyinstallation/MurrisUntL-Beams1965-67.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "215",
+      "height": "149",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/open-form/diyinstallation/MurrisUntL-Beams1965-67.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MurrisUntL-Beams1965-67.jpg"
+    }
+  ],
+  "out_links": []
+}

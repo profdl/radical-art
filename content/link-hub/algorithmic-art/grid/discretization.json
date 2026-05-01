@@ -1,0 +1,56 @@
+{
+  "slug": "algorithmic-art/grid/discretization",
+  "legacy_path": "AlgorithmicArt/grid/discretization/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "link-hub",
+  "title": "ASCII Art",
+  "heading": "",
+  "description": "Images made out of alphanumeric characters.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Discretization",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Real-world images turned into discrete grids.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pixel\nGrids (Harmon, Winiarski, Close)\n\n\n\nHalftone\nArt (Lichtenstein, Polke, Jacquet)\n\n\n\nASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPhoto\nMosaics (Silvers, Blake)",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/pixel-grids",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/half-tone",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/asciiart",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grid/discretization/asciiart",
+    "/algorithmic-art/grid/discretization/half-tone",
+    "/algorithmic-art/grid/discretization/photo-mosaic",
+    "/algorithmic-art/grid/discretization/pixel-grids"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "things/art-copied/levine",
+  "legacy_path": "things/art-copied/levine/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "SherryLevine",
+  "heading": "Sherry Levine's Copy Art",
+  "description": "Sherry Levine's Copy Art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: copy\nart readymades radical\nart",
+      "links": [
+        {
+          "text": "copy art",
+          "href": "/things/art-copied",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sherry Levine's Copy Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine/79AfterWalkerEvans-S.jpg",
+      "alt": "",
+      "caption": "After Walker Evans,\n\n1979",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine/87Unt(AftrRodchenko)s.jpg",
+      "alt": "",
+      "caption": "Untitled (After Rodchenko),\n\n1987",
+      "width": "153",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine/91Fountain(AftrMrclDchmp)S.jpg",
+      "alt": "",
+      "caption": "Fountain (After Marcel Duchamp),\n\n1991",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine/93AfterVanGogh.jpg",
+      "alt": "",
+      "caption": "After Van Gogh, 1993",
+      "width": "163",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine/94AfterDegas.jpg",
+      "alt": "",
+      "caption": "After Degas, 1994",
+      "width": "168",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/levine/79AfterWalkerEvans-S.jpg",
+      "alt": "",
+      "caption": "After Walker Evans,\n\n1979",
+      "legacy_src": "79AfterWalkerEvans-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/levine/87Unt(AftrRodchenko)s.jpg",
+      "alt": "",
+      "caption": "Untitled (After Rodchenko),\n\n1987",
+      "legacy_src": "87Unt(AftrRodchenko)s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/levine/91Fountain(AftrMrclDchmp)S.jpg",
+      "alt": "",
+      "caption": "Fountain (After Marcel Duchamp),\n\n1991",
+      "legacy_src": "91Fountain(AftrMrclDchmp)S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/levine/93AfterVanGogh.jpg",
+      "alt": "",
+      "caption": "After Van Gogh, 1993",
+      "legacy_src": "93AfterVanGogh.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/levine/94AfterDegas.jpg",
+      "alt": "",
+      "caption": "After Degas, 1994",
+      "legacy_src": "94AfterDegas.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied"
+  ]
+}

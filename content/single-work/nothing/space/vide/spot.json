@@ -1,0 +1,66 @@
+{
+  "slug": "nothing/space/vide/spot",
+  "legacy_path": "nothing/space/vide/spot.html",
+  "section": "nothing",
+  "archetype": "single-work",
+  "title": "Empty Spots",
+  "heading": "Empty Spots",
+  "description": "Empty pedestals and similar invisible artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty Spots",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/spot/85WarholInvisibleSculpture.jpg",
+      "alt": "",
+      "caption": "Andy Warhol with\n\nInvisible Sculpture, 1985",
+      "width": "148",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/spot/92TomFriedmanUnt(ACurse).jpg",
+      "alt": "",
+      "caption": "Tom Friedman:\n\nUntitled (A Curse), 1992",
+      "width": "133",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/spot/MatthewCrawley94MyInvFriend-s.jpg",
+      "alt": "",
+      "caption": "Matthew Crawley:\n\nMy Invisible Friend, 1994",
+      "width": "164",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/vide/spot/85WarholInvisibleSculpture.jpg",
+      "alt": "",
+      "caption": "Andy Warhol with\n\nInvisible Sculpture, 1985",
+      "legacy_src": "85WarholInvisibleSculpture.jpg"
+    },
+    {
+      "src": "/images/nothing/space/vide/spot/92TomFriedmanUnt(ACurse).jpg",
+      "alt": "",
+      "caption": "Tom Friedman:\n\nUntitled (A Curse), 1992",
+      "legacy_src": "92TomFriedmanUnt(ACurse).jpg"
+    },
+    {
+      "src": "/images/nothing/space/vide/spot/MatthewCrawley94MyInvFriend-s.jpg",
+      "alt": "",
+      "caption": "Matthew Crawley:\n\nMy Invisible Friend, 1994",
+      "legacy_src": "MatthewCrawley94MyInvFriend-s.jpg"
+    }
+  ],
+  "out_links": []
+}

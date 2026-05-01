@@ -1,0 +1,96 @@
+{
+  "slug": "process/shatter",
+  "legacy_path": "process/shatter/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "shatter",
+  "heading": "Shatter",
+  "description": "Process art: shattering.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Shatter",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/shatter/68-71LeVaShatterscatter-S.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Shatter Scatter, 1968/1971",
+      "width": "303",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/shatter/69SmithsonMapOfBrknClrGlssS.jpg",
+      "alt": "",
+      "caption": "Robert Smithson: Map of Broken Glass, 1969",
+      "width": "253",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/shatter/02MichelFrancoisNeonBriseS.jpg",
+      "alt": "",
+      "caption": "Michel François: Néon Brisé, 2002",
+      "width": "240",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To add:\n\n\n\nWim T. Schippers: Glass shards installation, Museum\nFodor, Amsterdam, 1962.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/shatter/68-71LeVaShatterscatter-S.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Shatter Scatter, 1968/1971",
+      "legacy_src": "68-71LeVaShatterscatter-S.jpg"
+    },
+    {
+      "src": "/images/process/shatter/69SmithsonMapOfBrknClrGlssS.jpg",
+      "alt": "",
+      "caption": "Robert Smithson: Map of Broken Glass, 1969",
+      "legacy_src": "69SmithsonMapOfBrknClrGlssS.jpg"
+    },
+    {
+      "src": "/images/process/shatter/02MichelFrancoisNeonBriseS.jpg",
+      "alt": "",
+      "caption": "Michel François: Néon Brisé, 2002",
+      "legacy_src": "02MichelFrancoisNeonBriseS.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
+}

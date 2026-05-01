@@ -1,0 +1,76 @@
+{
+  "slug": "algorithmic-art/grammar",
+  "legacy_path": "AlgorithmicArt/grammar/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "link-hub",
+  "title": "Image Grammars",
+  "heading": "Image Grammars",
+  "description": "Rewrite grammars in automatic art generation.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Image Grammars",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Aristid\nLindenmayer: L-Systems\n\n\n\nGeorge\nStiny: Shape Grammars",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grammar/lindenmayer",
+          "external": false
+        },
+        {
+          "text": "L-Systems",
+          "href": "/algorithmic-art/grammar/lindenmayer",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grammar/shape-grammar",
+          "external": false
+        },
+        {
+          "text": "Shape Grammars",
+          "href": "/algorithmic-art/grammar/shape-grammar",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quote",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Die\n5 Dinge, die [. . .] ein ästhetisches Programm bestimmen,\nsind: das \"Zeichenrepertoire\" Z, die \"Transformationsmenge\" T, die \"Ablauffunktion\"\na, die \"Bewertungsfunktion\" b und \"Zielmenge\"\nK. [. . .] Wir haben es demnach bei dem ästhetischen\nProgramm mit einem Modell folgender Art zu tun: ein Künstler\nist sich seiner Mittel (Z, T)\nund Ziele (K) bewußt: er kennt operationale\nDefinitionen seiner Kriterien (b) und weiß a priori auf welche Art er sein Ziel erreichen will oder welche\nKonstruktionsschritte er sich selbst zugesteht (a).\n[. . .]\n\nWir machen einen Unterschied\nzwischen den von einem ästhetischen Programm P erzeugbaren ästhetischen Objekten und den bezüglich P akzeptablen Objekten, die eine Untermenge\nder erzeugbaren sind. Ein vorliegendes ästhetisches Objekt\nist also nicht notwendig \"akzeptabel\" (der Begriff \"akzeptabel\"\nist rein operational, obwohl er natürlich auf das traditionelle\n\"schön\" reflektiert). [. . .]\n\nHätten wir aber vielleicht\nbesser getan, eine generative Grammatik für die Beschreibung\ndes ästhetischen Programms zu wählen? Der Generationsprozeß\nformaler Grammatiken läuft in der Regel \"blind\", \"zufällig\",\nnicht zielgerichtet ab. Das soll heißen, das nicht versucht\nwird, ein vorgegebenes Ziel zu erreichen [. . .]. Da wir aber\nausdrücklich die Zielgerichtetheit des ästhetischen\nRealisationsprozesses im Auge behalten wollen, scheint der\neingeschlagene Weg der bessere zu sein.\n\nAllerdings sei angemerkt, da§\nder Begriff der Grammatik explizit in einigen Veröffentlichungen\nüber Computerkunst auftritt (z. B. Lansdown 1970ab, Stiny\n& Gips 1971, Camarero 1972). Allerdings erscheinen an diesen\nStellen keine Definitionen von Grammatiken im Sinne des formalen\nBegriffs, oder doch nur vage Andeutungen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik als Informationsverarbeitung.\nGrundlagen und Anwendungen der Informatik im Bereich ästhetischer\nProduktion und Kritik. (Vienna/New York: Springer Verlag,\n1974), pp. 34-40.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ernesto Garcia Camarero: \"Computer\nArt.\" In: G. Mazzotta (ed.): La Scienzia e l'Arte (Milano:\nEdition Mazzotta, 1972).\n\nR. John Lansdown: \"Would you believe 'Woaagang Amazeus Mezart'?\" In: Computers in the creative arts (Manchester: The National\nComputing Centre Ltd, 1970), pp. 12-32.\n\nR. John Lansdown: \"The use of computers in art.\" Proc. Int.\nSymp. Computer Graphics 70, Brunel University, Uxbridge,\nEngland, 1970.\n\nGeorge Stiny and James Gips: \"Shape grammars and the generative\nspecification of painting and sculpture.\" Proc. IFIP Congress\n1971. TA-7, pp. 62-67.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grammar/lindenmayer",
+    "/algorithmic-art/grammar/shape-grammar"
+  ]
+}

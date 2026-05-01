@@ -1,0 +1,243 @@
+{
+  "slug": "algorithmic-art/grid/cellular/1-d",
+  "legacy_path": "AlgorithmicArt/grid/cellular/1D/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "1D Cellular Automata",
+  "heading": "One-Dimensional \n      Cellular Automata",
+  "description": "One-dimensional Cellular Automata.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "One-Dimensional\nCellular Automata",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Stephen Wolfram",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Articles\non Cellular Automata (1983-1988).\n\n\n\n\"Computer Software in Science and Mathematics.\" Scientific\nAmerican 251, 3 (September 1984), pp. 188 - 203.",
+      "links": [
+        {
+          "text": "Articles on Cellular Automata (1983-1988).",
+          "href": "http://www.stephenwolfram.com/publications/articles/ca/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cellular\nAutomata and Complexity. Collected Papers, 1994.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A New Kind of Science,\n2002.",
+      "links": [
+        {
+          "text": "A New Kind of Science",
+          "href": "http://www.wolframscience.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/ElementaryCARule030_700.jpg",
+      "alt": "walfrom",
+      "caption": "",
+      "width": "316",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/archive-SierpinskyGasket-D.jpg",
+      "alt": "Sierpinsky",
+      "caption": "Jim Loy: The Sierpinsky\nGasket",
+      "width": "375",
+      "height": "163",
+      "links": [
+        {
+          "text": "",
+          "href": "http://www.jimloy.com/fractals/sierpins.htm",
+          "external": true
+        },
+        {
+          "text": "The Sierpinsky Gasket",
+          "href": "http://www.jimloy.com/fractals/sierpins.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Eric Weeks",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Cell.C, 1995. One-Dimensional\nCellular Automata that operate with real numbers (rather than 0/1).",
+      "links": [
+        {
+          "text": "Cell.C",
+          "href": "http://www.physics.emory.edu/faculty/weeks/software/cell.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Music",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/CSound-2001-s.jpg",
+      "alt": "",
+      "caption": "Imran Rashid: Combining\nCSound with Cellular Automata, 2001",
+      "width": "202",
+      "height": "200",
+      "links": [
+        {
+          "text": "Combining CSound with Cellular Automata",
+          "href": "http://archive.ncsa.uiuc.edu/Classes/MATH198/irashid/CellAuto.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/1-d/Schaper-s.jpg",
+      "alt": "",
+      "caption": "Sjoerd\nJ. Schaper: Cellular\nAutomata Music in Basic, 2006.",
+      "width": "251",
+      "height": "200",
+      "links": [
+        {
+          "text": "Cellular Automata Music in Basic",
+          "href": "http://ca-pieces.sourceforge.net/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "David\nEck: Cellular\nAutomata and the Edge of Chaos.",
+      "links": [
+        {
+          "text": "Cellular Automata and the Edge of Chaos",
+          "href": "http://godel.hws.edu/xJava/CA/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael\nFrame and Benoit Mandelbrot: Cellular\nAutomata and Fractal Evolution. [From: Introduction\nto Fractal Geometry. Yale University, 2000.]",
+      "links": [
+        {
+          "text": "Cellular Automata and Fractal Evolution.",
+          "href": "http://classes.yale.edu/99-00/math190a/welcomeCA.html",
+          "external": true
+        },
+        {
+          "text": "Introduction to Fractal Geometry.",
+          "href": "http://classes.yale.edu/99-00/math190a/welcome.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Burton H. Voorhees: Computational Analysis of One-Dimensional\nCellular Automata. World Scientific Series on Nonlinear Science.\nSeries a, Vol 15, 1996.\n\n\n\nAndrew Wuensche & Mike Lesser: The Global Dynamics of Celullar\nAutomata: An Atlas of Basin of Attraction Fields of One-Dimensional\nCellular Automata. Studies in the Sciences of Complexity.\nSanta Fe, NM: Santa Fe Institute, 1992.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/ElementaryCARule030_700.jpg",
+      "alt": "walfrom",
+      "caption": "",
+      "legacy_src": "ElementaryCARule030_700.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/archive-SierpinskyGasket-D.jpg",
+      "alt": "Sierpinsky",
+      "caption": "Jim Loy: The Sierpinsky\nGasket",
+      "legacy_src": "archive/SierpinskyGasket-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "EricWeeks95/Real1D-2.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "EricWeeks95/Real1D-3-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/eric-weeks95-Real1D-6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "EricWeeks95/Real1D-6-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/CSound-2001-s.jpg",
+      "alt": "",
+      "caption": "Imran Rashid: Combining\nCSound with Cellular Automata, 2001",
+      "legacy_src": "CSound-2001-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/1-d/Schaper-s.jpg",
+      "alt": "",
+      "caption": "Sjoerd\nJ. Schaper: Cellular\nAutomata Music in Basic, 2006.",
+      "legacy_src": "Schaper-s.jpg"
+    }
+  ],
+  "out_links": []
+}

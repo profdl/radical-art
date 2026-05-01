@@ -1,0 +1,106 @@
+{
+  "slug": "concept/quote-collections",
+  "legacy_path": "concept/QuoteCollections.html",
+  "section": "concept",
+  "archetype": "quote-collection",
+  "title": "Propositions: Fragments and Quotes",
+  "heading": "Fragments & Quotes",
+  "description": "Concept art: Fragmentary philosophy and collections of quotes.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Fragments & Quotes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Fragmentary philosophy",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Georg Lichtenberg: Sudelbücher (1765-1798). In: Georg Lichtenberg: Schriften und Briefe, Vol. I & II (Wolfgang Promies, ed.). München: Carl Hanser, 1968.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Novalis: Fragmente (1797-1800). In: Novalis: Schriften, Vol. 2 & 3 (J. Minor, ed.). Jena: Eugen Diederichs, 1923.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Friedrich Nietzsche: \"Sprüche und Zwischenspiele.\" Chapter 4 of: Jenseits von Gut und Böse. Vorspiel einer Philosophie der Zukunft. Leipzig: C.G. Naumann, 1886",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein: Philosophische Untersuchungen / Philosophical Investigations. Oxford: Basil Blackwell, 1953.",
+      "links": [
+        {
+          "text": "Philosophische Untersuchungen",
+          "href": "http://www.geocities.jp/mickindex/wittgenstein/witt_pu_gm.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Collections of quotes",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Walter Benjamin: Das Passagen-Werk (1927-1940). Frankfurt am Main: Suhrkamp, 1983.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth: \"Editorial in 27 Parts.\" In: Joseph Kosuth (ed.): Straight 1 (April 1968).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth: \"Information 2\" In: Exhibition catalogue Conceptual Art and Conceptual Aspects. New York: New York Cultural Center, 1970, pp. 29-59.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucy R. Lippard: \"Absentee Information and or Criticism.\" In: Kynaston McShine (ed.): Information. New York: Museum of Modern Art, 1970, pp. 74-81.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth: \"A Fragmented and Didactic Ethnology of Science as Religion and Ideology.\" (Part I of \"The Artist as Anthropologist\") In: The Fox 1, 1 (1975), pp. 18-30.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A.J. Ayer & Jane O'Grady (eds): A Dictionary of Philosophical Quotations. Oxford: Basil Blackwell, 1992.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R. Scha: This Website (2002-2010)",
+      "links": [
+        {
+          "text": "This Website",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "R. Scha – Jan. 2010",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/index"
+  ]
+}

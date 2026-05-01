@@ -1,0 +1,106 @@
+{
+  "slug": "ego",
+  "legacy_path": "ego/index.html",
+  "section": "ego",
+  "archetype": "link-hub",
+  "title": "the artist as artwork",
+  "heading": "the artist as artwork",
+  "description": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "the artist as artwork",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "signatures and statements\n\n\n\nself-exhibits\n\n\n\nselfportraits",
+      "links": [
+        {
+          "text": "",
+          "href": "/ego/statements",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/ego/self-exhibits",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/ego/selfportraits",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Man nennt viele Künstler, die eigentlich\nKunstwerke der Natur sind.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Friedrich Schlegel: Kritische Fragmente,\n#1. Lyceum der schönen\nKünste, Vol. 1, Part 2 (1797),\npp. 133-169.\n\n[Ernst Behler (ed.): Kritische Friedrich Schlegel-Ausgabe,\nBand II. Paderborn, 1967, p. 147.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dichter sind doch immer Narzisse.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "August Wilhelm Schlegel: Fragmente, #132. Athenäum,\nVol. 1, Part 2 (1798).\n\n[Ernst Behler (ed.): Kritische Friedrich Schlegel-Ausgabe.\nBand II. Paderborn, 1967, p. 186.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Streben nach Selbstvergottung, nach dem unmittelbaren Genuß des\nGöttlichen in der eigene Seele.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Max Weber re Stefan George. (Letter to\nDora Jellinek, May 9, 1910.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Warum soll ich mich heute scheuen zu wiederholen: dass ich im Anblick\nGeorges erfahren habe, was das ist, das Göttliche.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Edith Landmann re Stefan George. In: Gespräche\nmit Stefan George. Düsseldorf,\n1963, p. 18.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Un peintre doit peindre un seul\nchef d'oeuvre: lui-même, constamment,\net devenir ainsi une sorte de pile atomique, une sorte de générateur à rayonnement\nconstant qui imprègne l'atmosphère de toute sa présence\npicturale fixée dans l'espace après son passage.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Yves Klein. Quelques extraits de mon journal en 1957. In: Le\ndépassement de la problématique de l'art.\n\nLa\nLouvière, Belgique: Éditions Montbliart, 1959, pp.\n43-44.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "ICH, GROSS GESCHRIEBEN / [...]\n/ ich bin das buch der bücher, mir auf den leib geschrieben / ich\nbin die moral der geschichte, die ich mache / ich bin das ende vom\nlied / [...] / ich, mir selbst verschrieben, bin nicht in worte zu\nfassen / ich, tonangebend, kann kein lied von mir singen / ich, in\nworte gekleidet, spotte jeder beschreibung / [...] / ICH BIN UNBESCHREIBLICH",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Timm Ulrichs: 3.\nEgozentrisch-Monomanisches Manifest. Vienna: Werkstatt Verein zur Förderung Moderner Kunst,\n1968.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/ego/self-exhibits",
+    "/ego/selfportraits",
+    "/ego/statements"
+  ]
+}

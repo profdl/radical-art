@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+@theme {
+  /* Library Stack uses a humanist sans for chrome and a clean transitional
+     serif for body excerpts. Plex Sans + Plex Serif are an excellent free
+     match for that look. */
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", Roboto, sans-serif;
+  --font-serif: "IBM Plex Serif", "Source Serif 4", Georgia, "Times New Roman",
+    serif;
+
+  --color-paper: #ffffff;
+  --color-ink: #111111;
+  --color-ink-muted: #6b6b6b;
+  --color-ink-faint: #a3a3a3;
+  --color-rule: #111111;
+  --color-rule-light: #e5e5e5;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+a { color: inherit; }
+
+/* ---- chrome typography ----------------------------------------------- */
+
+.nav-link {
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  font-weight: 400;
+  color: var(--color-ink);
+}
+.nav-link:hover { text-decoration: underline; text-underline-offset: 0.2em; }
+
+.section-label {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+}
+
+.sidebar-link {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-ink);
+  display: block;
+  padding: 0.45rem 0;
+}
+.sidebar-link:hover { text-decoration: underline; text-underline-offset: 0.2em; }
+
+.h-page {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 1.875rem;
+  line-height: 1.15;
+  letter-spacing: -0.005em;
+}
+
+.h-detail {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 1.3;
+}
+
+.meta-key {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+}
+
+/* ---- body prose for essays ------------------------------------------- */
+
+.prose-archive {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.55;
+  color: var(--color-ink);
+}
+.prose-archive p { margin: 0 0 1em; }
+.prose-archive a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+.prose-archive a:hover { color: var(--color-ink-muted); }
+.prose-archive blockquote {
+  margin: 1.4em 0;
+  padding-left: 1rem;
+  border-left: 1px solid var(--color-rule-light);
+  color: var(--color-ink-muted);
+}
+.prose-archive h2 {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 2em 0 0.6em;
+}
+.prose-archive h3 {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 1.0625rem;
+  margin: 1.6em 0 0.4em;
+}
+.prose-archive h4, .prose-archive h5 {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+  margin: 2em 0 0.4em;
+}
+
+/* ---- structural rules ------------------------------------------------- */
+.rule { border: 0; border-top: 1px solid var(--color-rule); margin: 0; }
+.rule-light { border: 0; border-top: 1px solid var(--color-rule-light); margin: 0; }

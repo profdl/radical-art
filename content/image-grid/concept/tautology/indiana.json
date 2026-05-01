@@ -1,0 +1,236 @@
+{
+  "slug": "concept/tautology/indiana",
+  "legacy_path": "concept/tautology/Indiana/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Indiana",
+  "heading": "Robert Indiana's Digits",
+  "description": "Robert Indiana's Digits.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Robert Indiana's Digits",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/zero_indiana_1964-S.gif",
+      "alt": "",
+      "caption": "Zero, 1964",
+      "width": "150",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/IndianaOne-1968-S.gif",
+      "alt": "",
+      "caption": "One, 1968",
+      "width": "150",
+      "height": "179",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/Indiana-Two-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/Indiana2003-Three-s.jpg",
+      "alt": "",
+      "caption": "Three, 2003",
+      "width": "147",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/indiana-2001-four-s.jpg",
+      "alt": "",
+      "caption": "Four, 2001",
+      "width": "150",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/Indiana63TheFigureFive-s.jpg",
+      "alt": "",
+      "caption": "The Figure Five, 1963",
+      "width": "150",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/IndianaEternalHexagon6-64-S.jpg",
+      "alt": "",
+      "caption": "Eternal Hexagon 6, 1964",
+      "width": "150",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/IndianaHeptagon7-1975-S.jpg",
+      "alt": "",
+      "caption": "Heptagon 7, 1975",
+      "width": "150",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/IndianaOctagon1975-S.jpg",
+      "alt": "",
+      "caption": "Octagon 8, 1975",
+      "width": "150",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/Indiana96-Nine-s.jpg",
+      "alt": "",
+      "caption": "Nine, 1996",
+      "width": "150",
+      "height": "179",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Footnote",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana/CharlesDemuth28TFgre5InGold.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Demuth:\n\nThe Figure Five in Gold, 1928",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Great Figure",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the rain\n\nand lights\n\nI saw the figure 5\n\nin gold\n\non a red\n\nfire truck\n\nmoving\n\ntense\n\nunheeded\n\nto gong clangs\n\nsiren howls\n\nand wheels rumbling\n\nthrough the dark city",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "William Carlos Williams\n\n[In: Sour Grapes, 1921]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Exam question",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Is Missisippi Mississippi? Is there a Petula in Indiana?\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ray Johnson: IS MARIANNE MOORE MARIANNE\nMOORE? (1966). In: Donna de Salvo and Catherine Gudis: Ray Johnson.\nCorrespondences. Columbus, Ohio: Wexner Center for the Arts,\n1999, pp. 169-171.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Answer: In William S. Wilson's accompanying essay: \"Ray Johnson: The One and the Other.\" (pp. 165-175).]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha. 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/indiana/zero_indiana_1964-S.gif",
+      "alt": "",
+      "caption": "Zero, 1964",
+      "legacy_src": "zero_indiana_1964-S.gif"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/IndianaOne-1968-S.gif",
+      "alt": "",
+      "caption": "One, 1968",
+      "legacy_src": "IndianaOne-1968-S.gif"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/Indiana-Two-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Indiana-Two-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/Indiana2003-Three-s.jpg",
+      "alt": "",
+      "caption": "Three, 2003",
+      "legacy_src": "Indiana2003-Three-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/indiana-2001-four-s.jpg",
+      "alt": "",
+      "caption": "Four, 2001",
+      "legacy_src": "indiana-2001-four-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/Indiana63TheFigureFive-s.jpg",
+      "alt": "",
+      "caption": "The Figure Five, 1963",
+      "legacy_src": "Indiana63TheFigureFive-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/IndianaEternalHexagon6-64-S.jpg",
+      "alt": "",
+      "caption": "Eternal Hexagon 6, 1964",
+      "legacy_src": "IndianaEternalHexagon6-64-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/IndianaHeptagon7-1975-S.jpg",
+      "alt": "",
+      "caption": "Heptagon 7, 1975",
+      "legacy_src": "IndianaHeptagon7-1975-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/IndianaOctagon1975-S.jpg",
+      "alt": "",
+      "caption": "Octagon 8, 1975",
+      "legacy_src": "IndianaOctagon1975-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/Indiana96-Nine-s.jpg",
+      "alt": "",
+      "caption": "Nine, 1996",
+      "legacy_src": "Indiana96-Nine-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana/CharlesDemuth28TFgre5InGold.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "CharlesDemuth28TFgre5InGold.jpg"
+    }
+  ],
+  "out_links": []
+}

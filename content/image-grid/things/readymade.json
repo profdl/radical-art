@@ -1,0 +1,500 @@
+{
+  "slug": "things/readymade",
+  "legacy_path": "things/readymade/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Readymades",
+  "heading": "Readymades",
+  "description": "Unaltered objects as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: everything anything\nthings radical\nart home page",
+      "links": [
+        {
+          "text": "everything",
+          "href": "/everything",
+          "external": false
+        },
+        {
+          "text": "anything",
+          "href": "/anything",
+          "external": false
+        },
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art home page",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Readymades",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Les Expositions des Arts Incohérents",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: \"Bas Relief\",\n1882 [Stocking nailed on wooden plank]\n\n(Illustration based on reconstruction\nby Présence Panchouette, 1988.)\n\n\n\nUmbrella entitled \"Sarah Bernardt\", 1884.\n\n\n\nMiss Ella: \"La nouvelle niche à\nsaints\", 1886. [Corset]\n\n\n\nTrousers entitled \"Tour Eiiffel\", 1889.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/Bas-relief-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Marcel Duchamp",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/duchamp-1915InAdvanceOTBrokenARm.jpg",
+      "alt": "",
+      "caption": "In Advance of the Broken Arm, 1915",
+      "width": "100",
+      "height": "328",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/duchamp-Porte-Bouteilles1914.jpg",
+      "alt": "",
+      "caption": "Porte-Bouteilles, 1914",
+      "width": "156",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/duchamp-trebuchet1917-s.jpg",
+      "alt": "",
+      "caption": "Trébuchet, 1917",
+      "width": "200",
+      "height": "448",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/duchamp-Duchamp_Hat-Rack-1916-S.jpg",
+      "alt": "",
+      "caption": "Hat Rack, 1916",
+      "width": "230",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/duchamp-Fountain1917.jpg",
+      "alt": "",
+      "caption": "Fountain, 1917",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Iwan Puni",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/IvanPuni_1915.jpg",
+      "alt": "",
+      "caption": "Plate on Table, 1915",
+      "width": "384",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Morton Schamberg",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/MortonSchamberg17God.jpg",
+      "alt": "",
+      "caption": "God, 1917",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben\nVautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/ben-60-vomit-.jpg",
+      "alt": "",
+      "caption": "Vomit, 1960",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/ben-61-jean-XXIII-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "202",
+      "height": "233",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Piero Manzoni",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/manzoni-61-OperaDArteVivente.jpg",
+      "alt": "",
+      "caption": "Opera d\"Arte Vivente, 1961",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/manzoni-ManzoniCarteDAuth-1961-S.jpg",
+      "alt": "",
+      "caption": "Carte d' Authenticité, 1961",
+      "width": "350",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/AW64TheAmericanSupermarktS.jpg",
+      "alt": "",
+      "caption": "The American Supermarket, 1964 (detail)",
+      "width": "177",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/Warhol-brillo-box-1986-S.jpg",
+      "alt": "",
+      "caption": "Brillo Box, 1986",
+      "width": "189",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "1980's / 1990's",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/K8086NHDeluxeCelebrityQS-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons: New Hoover DeLuxe\n\nCelebrity QS, 1980/1986",
+      "width": "195",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/AngeLeccia88-92Lolita-S.jpg",
+      "alt": "",
+      "caption": "Ange Leccia:\n\nLolita, 1988/1992",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/hirst-91TPhysImpODeathITMndOSmnL.jpg",
+      "alt": "",
+      "caption": "Damien Hirst:\n\nThe Physical Impossibility of Death\n\nto the Mind of Someone Living,\n\n1991",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/LevineTwoShoes1992-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine: Two Shoes, 1992",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/bertrand-lavier-lavier94Teddy-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Teddy, 1994",
+      "width": "130",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/readymade/steinbach2004Unt(baby)-S.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach:\n\nUntitled (Baby), 2004",
+      "width": "200",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Related Pages",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Readymade Literature and Theatre",
+      "links": [
+        {
+          "text": "Readymade Literature and Theatre",
+          "href": "/things/readymade/literature",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Aesthetics of Reality",
+      "links": [
+        {
+          "text": "The Aesthetics of Reality",
+          "href": "/things/readymade/quotes",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Natural Phenomena as Art",
+      "links": [
+        {
+          "text": "Natural Phenomena as Art",
+          "href": "/nature",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Life as Art",
+      "links": [
+        {
+          "text": "Life as Art",
+          "href": "/qlife",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The End of Art",
+      "links": [
+        {
+          "text": "The End of Art",
+          "href": "/qend-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Texts by Marcel Duchamp",
+      "links": [
+        {
+          "text": "Texts by Marcel Duchamp",
+          "href": "/things/readymade/duchamp/text",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "External Link",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp's Readymades",
+      "links": [
+        {
+          "text": "Marcel Duchamp's Readymades",
+          "href": "http://www.franceweb.fr/zumba/Duchamp/readymades.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/readymade/Bas-relief-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Bas-relief-s.jpg"
+    },
+    {
+      "src": "/images/things/readymade/duchamp-1915InAdvanceOTBrokenARm.jpg",
+      "alt": "",
+      "caption": "In Advance of the Broken Arm, 1915",
+      "legacy_src": "duchamp/1915InAdvanceOTBrokenARm.jpg"
+    },
+    {
+      "src": "/images/things/readymade/duchamp-Porte-Bouteilles1914.jpg",
+      "alt": "",
+      "caption": "Porte-Bouteilles, 1914",
+      "legacy_src": "duchamp/Porte-Bouteilles1914.jpg"
+    },
+    {
+      "src": "/images/things/readymade/duchamp-trebuchet1917-s.jpg",
+      "alt": "",
+      "caption": "Trébuchet, 1917",
+      "legacy_src": "duchamp/trebuchet1917-s.jpg"
+    },
+    {
+      "src": "/images/things/readymade/duchamp-Duchamp_Hat-Rack-1916-S.jpg",
+      "alt": "",
+      "caption": "Hat Rack, 1916",
+      "legacy_src": "duchamp/Duchamp_Hat-Rack-1916-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/duchamp-Fountain1917.jpg",
+      "alt": "",
+      "caption": "Fountain, 1917",
+      "legacy_src": "duchamp/Fountain1917.jpg"
+    },
+    {
+      "src": "/images/things/readymade/IvanPuni_1915.jpg",
+      "alt": "",
+      "caption": "Plate on Table, 1915",
+      "legacy_src": "IvanPuni_1915.jpg"
+    },
+    {
+      "src": "/images/things/readymade/MortonSchamberg17God.jpg",
+      "alt": "",
+      "caption": "God, 1917",
+      "legacy_src": "MortonSchamberg17God.jpg"
+    },
+    {
+      "src": "/images/things/readymade/ben-60-vomit-.jpg",
+      "alt": "",
+      "caption": "Vomit, 1960",
+      "legacy_src": "ben/60-vomit-.jpg"
+    },
+    {
+      "src": "/images/things/readymade/ben-61-jean-XXIII-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ben/61-jean-XXIII-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/manzoni-61-OperaDArteVivente.jpg",
+      "alt": "",
+      "caption": "Opera d\"Arte Vivente, 1961",
+      "legacy_src": "Manzoni/61-OperaDArteVivente.jpg"
+    },
+    {
+      "src": "/images/things/readymade/manzoni-ManzoniCarteDAuth-1961-S.jpg",
+      "alt": "",
+      "caption": "Carte d' Authenticité, 1961",
+      "legacy_src": "Manzoni/ManzoniCarteDAuth-1961-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/AW64TheAmericanSupermarktS.jpg",
+      "alt": "",
+      "caption": "The American Supermarket, 1964 (detail)",
+      "legacy_src": "AW64TheAmericanSupermarktS.jpg"
+    },
+    {
+      "src": "/images/things/readymade/Warhol-brillo-box-1986-S.jpg",
+      "alt": "",
+      "caption": "Brillo Box, 1986",
+      "legacy_src": "Warhol-brillo-box-1986-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/K8086NHDeluxeCelebrityQS-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons: New Hoover DeLuxe\n\nCelebrity QS, 1980/1986",
+      "legacy_src": "K8086NHDeluxeCelebrityQS-s.jpg"
+    },
+    {
+      "src": "/images/things/readymade/AngeLeccia88-92Lolita-S.jpg",
+      "alt": "",
+      "caption": "Ange Leccia:\n\nLolita, 1988/1992",
+      "legacy_src": "AngeLeccia88-92Lolita-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/hirst-91TPhysImpODeathITMndOSmnL.jpg",
+      "alt": "",
+      "caption": "Damien Hirst:\n\nThe Physical Impossibility of Death\n\nto the Mind of Someone Living,\n\n1991",
+      "legacy_src": "hirst/91TPhysImpODeathITMndOSmnL.jpg"
+    },
+    {
+      "src": "/images/things/readymade/LevineTwoShoes1992-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine: Two Shoes, 1992",
+      "legacy_src": "LevineTwoShoes1992-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/bertrand-lavier-lavier94Teddy-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Teddy, 1994",
+      "legacy_src": "BertrandLavier/lavier94Teddy-S.jpg"
+    },
+    {
+      "src": "/images/things/readymade/steinbach2004Unt(baby)-S.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach:\n\nUntitled (Baby), 2004",
+      "legacy_src": "steinbach2004Unt(baby)-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/anything",
+    "/everything",
+    "/index",
+    "/nature",
+    "/qend-art",
+    "/qlife",
+    "/things",
+    "/things/readymade/duchamp/text",
+    "/things/readymade/literature",
+    "/things/readymade/quotes"
+  ]
+}

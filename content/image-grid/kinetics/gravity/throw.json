@@ -1,0 +1,111 @@
+{
+  "slug": "kinetics/gravity/throw",
+  "legacy_path": "kinetics/gravity/Throw/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Throw",
+  "heading": "to throw",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to throw",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/1912-LARTIGUE-M.Folletete-et-son-chien-tupy-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue:\n\nM. Folletête avec son chien Tupy, 1912",
+      "width": "283",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/1962-Ben-JeterDieuALM-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nJeter Dieu à la Mer, 1962",
+      "width": "187",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/weiner-1969-RubberBallThrown-s.jpg",
+      "alt": "",
+      "caption": "Lawrence Weiner: A RUBBER BALL THROWN ON THE SEA,\n1969",
+      "width": "464",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/1970-molten_lead-Serra-s.jpg",
+      "alt": "",
+      "caption": "Richard\nSerra throwing molten lead, 1970",
+      "width": "268",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/1971-Weibel-ImaginaryWaterSculpture-s.jpg",
+      "alt": "",
+      "caption": "Peter\nWeibel: Imaginary Water Sculpture, 1971",
+      "width": "333",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/throw/1987-Nitsch-20.Malaktion-s.gif",
+      "alt": "",
+      "caption": "Hermann Nitsch: 20. Malaktion, 1987",
+      "width": "441",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/throw/1912-LARTIGUE-M.Folletete-et-son-chien-tupy-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue:\n\nM. Folletête avec son chien Tupy, 1912",
+      "legacy_src": "1912-LARTIGUE-M.Folletete-et-son-chien-tupy-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/throw/1962-Ben-JeterDieuALM-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nJeter Dieu à la Mer, 1962",
+      "legacy_src": "1962-Ben-JeterDieuALM-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/throw/weiner-1969-RubberBallThrown-s.jpg",
+      "alt": "",
+      "caption": "Lawrence Weiner: A RUBBER BALL THROWN ON THE SEA,\n1969",
+      "legacy_src": "Weiner/1969-RubberBallThrown-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/throw/1970-molten_lead-Serra-s.jpg",
+      "alt": "",
+      "caption": "Richard\nSerra throwing molten lead, 1970",
+      "legacy_src": "1970-molten_lead-Serra-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/throw/1971-Weibel-ImaginaryWaterSculpture-s.jpg",
+      "alt": "",
+      "caption": "Peter\nWeibel: Imaginary Water Sculpture, 1971",
+      "legacy_src": "1971-Weibel-ImaginaryWaterSculpture-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/throw/1987-Nitsch-20.Malaktion-s.gif",
+      "alt": "",
+      "caption": "Hermann Nitsch: 20. Malaktion, 1987",
+      "legacy_src": "1987-Nitsch-20.Malaktion-s.gif"
+    }
+  ],
+  "out_links": []
+}

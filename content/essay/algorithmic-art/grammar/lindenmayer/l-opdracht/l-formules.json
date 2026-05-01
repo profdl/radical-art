@@ -1,0 +1,186 @@
+{
+  "slug": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules",
+  "legacy_path": "AlgorithmicArt/grammar/Lindenmayer/L-Opdracht/L-formules.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Joost Puite:",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Joost Puite:",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules/mondriaanLF.Color-JPEG",
+      "alt": "",
+      "caption": "f=ffffffff++f++ffffffff--f--ffffffff++f++ffffffff--f--fffff+fffff---fffffffffffff--f--ffffffffff-f+++ffffffff++fffffffffffff++ffffffff++f++ffffffff--f--ffffffff--f--f--fffffff++f++fffffff--f--fffffff++f++fffffff--ff--fffffff--ffffff----ffffffff--f--ffffffff++fff++ffff----ff+++ff---f++f-ff--f----fff+++fff--f--fff--ffff--ff----ff++fffffffffffff++ff+",
+      "width": "434",
+      "height": "443",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "fffffffffffff++ffffffffffffffff++ffffffff",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "waardem DEPTH: 1",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial angle: 0",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Delta angle: 45",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Delta step size:0.2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Axiom f",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mondriaan",
+      "links": [
+        {
+          "text": "Mondriaan",
+          "href": "http://www.liacs.nl/%7Ejvhemert/mondriaan/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhythm of Black Lines",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "f=-ffffffffff+ffffffffff+ffffffffff+ffffffffff+fffffffff+ffffffffff+f+ffffffffff-ff-ffffffffff+f+ffffffffff-f-ffffffffff+ff+ffffffffff-f-ffffffffff+f+ff+ffffffffff-f-ffffffffff+ff+ffffffffff-fff-ffffffffff--ff-f-f",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Roelofs",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "depth 5",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "initial angle 90",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "delta angle 30",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "delta stepsize 0.667",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "axiom f++f++f",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "rule f=|[--f]ggg[+f][--f]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze formule genereert een\nsoort foetusvorm. De g's in de formule zorgen ervoor dat de lijnen onderbroken\nworden. Dit was mijn eerste min of meer geslaagde experiment de L-systems, nadat\nik doorhad hoe de formules precies werkten.Deze formule tracht dan ook geen\nformalistische kunstijl te imiteren.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "depth 3",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "initial angle 0",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "delta angle 88",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "axiom f",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "rule f=f--[2+f]gg-f",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Deze formule toont een schijnbaar\ntoevallig tafereel van losse lijnen van verschillende lengtes en met verschillende\nhoeken. Met een hele hoop fantasie zou dit een beschrijving kunnen zijn van\neen fragment van een schilderij van Kandinsky. Door deze formule werd het mij\nduidelijk dat om een groter deel van een Kandinskyaans werk te beschrijven,\nhet axioma uitgebreid moet worden, omdat kandinsky ook veel gebruik maakt van\ntwee-dimensionale primitieven, die niet of nauwelijks herschreven moeten worden.\nMet het commando '|' in het axioma bleek dit vrij aardig te werken en kwam ik,\nna wat probeersels, op de volgende formule:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "depth 2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "initial angle 0",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "delta angle 30",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "delta stepsize 1",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "axiom f[-f][f][+f]gg [|+|+|+|+|+|+|+|+|+|+|+|]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "rule f=3+ff---f[4+ggf]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules/mondriaanLF.Color-JPEG",
+      "alt": "",
+      "caption": "f=ffffffff++f++ffffffff--f--ffffffff++f++ffffffff--f--fffff+fffff---fffffffffffff--f--ffffffffff-f+++ffffffff++fffffffffffff++ffffffff++f++ffffffff--f--ffffffff--f--f--fffffff++f++fffffff--f--fffffff++f++fffffff--ff--fffffff--ffffff----ffffffff--f--ffffffff++fff++ffff----ff+++ff---f++f-ff--f----fff+++fff--f--fff--ffff--ff----ff++fffffffffffff++ff+",
+      "legacy_src": "mondriaanLF.Color-JPEG"
+    }
+  ],
+  "out_links": []
+}

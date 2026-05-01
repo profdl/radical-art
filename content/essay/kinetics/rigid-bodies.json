@@ -1,0 +1,646 @@
+{
+  "slug": "kinetics/rigid-bodies",
+  "legacy_path": "kinetics/RigidBodies.html",
+  "section": "kinetics",
+  "archetype": "essay",
+  "title": "Kinetiek",
+  "heading": "",
+  "description": "Kinetic Art: Movement of Rigid Bodies. (Calder, Tinguely and others.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kinetic Art, Chapter I: Movement of Rigid Bodies",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The least you can demand from a painting, is that it hangs still.\"\n\n\nPablo Picasso\n\n\n\n\"Mondrian didn't like the idea.\"\n\nAlexander\nCalder",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-roue1913S.jpg",
+      "alt": "",
+      "caption": "Rotation.",
+      "width": "200",
+      "height": "387",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp: Bicycle Wheel (1913).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To add:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstration of the motion detection\nmechanism of the human eye, by means of a spinning black & white\ndisk (J.F. Schouten).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tinguely/Klein collaboration: spinning\nmonochromes (high speeds).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Translation.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Ray Staakman: Moving steel wall. (Early\nnineteensixties.)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Simultaneous Rotations.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Jean Tinguely: Méta-Malevich\nSeries (15 pieces), 1954",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich1S.jpg",
+      "alt": "",
+      "caption": "Front / Back",
+      "width": "200",
+      "height": "276",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvichbackS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "269",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich2S.jpg",
+      "alt": "",
+      "caption": "Snapshot / Multiple Exposure\n\n\n\n\n\n\n\n\nMéta-Kandinsky I (Wundermaschine), 1956",
+      "width": "200",
+      "height": "296",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich2movS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metakandinskyS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "323",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"... 'meta-mechanical paintings', reliefs\nof a kind, in which simple geometrical shapes painted in the primary colours\nmove about slowly in front of a surface. (. . .) It is theoretically possible\nto calculate the periodicity of the reliefs. One of them, for instance,\nought to repeat the same configuration after about a year, if it ran continuously.\nBut the couplings slip a bit; as a result, the shapes might reach the\nsame position already after two months, or it might not happen for hundreds\nof years.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén, 1955, p. 26.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I am an artist of movement. Initially I did painting but I got\nblocked there, I found myself stuck. I was handicapped by the whole\nhistory of art and the Ecole des Beaux Arts. I got hung up in the pictures,\non the pictures – finally all I could do is wait until they were\ntired; I could never find their end. So I decided to introduce movement.\nI started from Constructivist elements, taken from the vocabulary of\nthe Russian Suprematist painter Malevich, and from Kandinsky and Arp\nand a few others. I re-used their elements and set them in motion. I\nwas trying to get away from the imperative, the power of these artists,\nalso from Mondrian. I began to use movement simply to make a re-creation.\nIt was a way of re-doing a painting so that it would become infinite\n– it would go on making new compositions by means of the physical\nand mechanical movements that I gave it.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tinguely, 1982",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cf. also: Gerhard von Graevenitz\n(early nineteenseventies): Panels with rotating strips.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\". . . puisque le tableau ne\nse laisse pas terminer, il n'y a qu'à le rendre interminable. Interminable parce que mis en mouvement, et par là perpétuellement\nrecombiné, jamais plus le même, jamais plus \"pétrifié\"\nen lui-même. (. . .) Le principe de mise en œuvre sera simple.\nOn peut le résumer ainsi: j'hésitais entre plusieurs configurations,\nle mouvement va me les donner toutes. Il suffira de découper\ndans la tôle des formes simples, et de les faire tourner indépendamment\nen les plaçant sur des axes entraînés par un moteur.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Conil Lacoste:\nTinguely. L'Énergétique de l'Insolence. Vol. I, p. 14. Paris: Éditions\nde la Différence, 1989.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment (Algorithmic Art): Make computer simulations of\nthe Méta-Malevitch's and Méta-Kandinsky's, and integrate\nthem in a Méta-Tinguely-program. Make sure the program is based\non an explicit mathematical model. Describe and motivate the model\nin an accompanying essay.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Compositions with Movement:\n\n\nAlexander Calder's \"Mobiles à Moteur\".",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder (...) says\nthat during a visit to Mondrian's studio, in the rue du Départ\nin Paris, he received a vision of a new art form (...). Mondrian's studio\nwas an extraordinary room, with small, movable red, blue and yellow\nrectangles on the white walls, and a large, red, cylindrical gramophone\nin the middle of the floor (..). Calder writes: \"... the light\ncoming from two facing windows met in the room, and I thought how beautiful\nit would have been if everything had started to move, but Mondrian didn't\nlike the idea.\" (...)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén 1955, p. 19. [Cf.\nalso: Calder, 1937.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder did not heed Mondriaan's advice, and developed\na form of \"kinetic constructivism\" in his \"Mobiles\nà moteur\" (1931): different elementary shapes: line,\nspiral, circle, ball; different elementary colors and black/white/grey;\ndifferent elementary movements: rotation, pendulum, virtual translation;\nrotation-axis in the picture-plane or orthogonal to it.\n\n\n\nCalder describes one of these works as follows:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• Dimensions:\n2 x 2.50 m.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• Frame,\n8 cm., neutral red.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• The\ntwo white balls rotate at a high speed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• The\nblack spiral rotates at a lower speed and appears to be constantly\nclimbing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• The\ntin disc turns even more slowly, the two black lines appear to be\nconstantly climbing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• The\nblack pendulum, which is 40 cm. in diameter, climbs to 45° on\neach side with 25 strokes a minute and swings outside the frame",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-calderS.jpg",
+      "alt": "",
+      "caption": "Mobile à Moteur\n\n\"Red Frame\", 1931.\n\n\n\n\n\n\n\nMobile à Moteur\n\n\"Black Frame\", 1934.",
+      "width": "192",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A02091_F.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-kleerhangersBS.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nEquation-Obstruction, 1920.\n\n\n\n\n\n\n\n\n\nAlexander Calder:\n\nUntitled, 1942.\n\n\n\n\n\n\n\n\n\nAlexander Calder:\n\nMyxomatose, 1953.",
+      "width": "211",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A15493_F.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "220",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A08122_F.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "220",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Natural Chance:\nAlexander Calder's \"Mobiles à Main\".",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder's later \"mobiles à main\"\nuse organic-looking shapes, hung in balanced constructions which\ncan rotate freely. They are very light; the slightest breeze of air\ncreates (unpredictable) motions.\n\n\n\nThe \"mobile à main\" has the mechanical structure\nof a planetarium: nested rotary relations. But its movements are different:\nhorizontal pendulums with unpredictable speeds and amplitudes, rather\nthan uniform rotations. We are in Arp's world rather than Mondriaan's.\n\n\n\nAn almost readymade version of this idea had been carried out Man\nRay a decade before: a construction of cloth-hangers.\n(Cf. Duchamp: bottle-rack, coat-racks. Cf. Armand: accumulations.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder found\nthat a motor forced repetition on the movement: if the mechanism\nwas not rather complicated there was a danger of the movement becoming\nmonotonous. (...) With his 'mobiles à main' Calder found\nthe simple, perfect way of giving his constructions mobility, by\nthe use of equilibrium, as fundamental a principle as Duchamp's\nrotary movement. These wires, suspended interdependently and moving\ntheir frail elements in space, offer an inexhaustible range of possibilities.\n(...) Calder took the history of mobile art a step forward by the\nintroduction of endless variation, the fact that the movement of\na mobile never repeats itself exactly. It is now possible to create\nendlessly complicated combinations, eternal change. As I see it,\neverlastingly varied rhythm is one of the assets of mobile sculpture,\nwithout which it is in danger of becoming more boring than static\nsculpture.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén\n1955, pp. 21-22.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén thus distinguishes:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "the number of configurations that\nmay occur\n\n(finite or infinite);",
+          "links": []
+        },
+        {
+          "text": "the sequence of configurations\n\n(fixed or not);",
+          "links": []
+        },
+        {
+          "text": "the nature of the movement\n\n(uniform or varied).",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A combination of different of different periodic\nmovements yields an infinite, non-cyclic sequence of configurations,\niff the periods of some of the movements are incommensurable; but\nits a deterministic well-ordered process, and it is experienced as\nsuch. In Calder's \"mobiles à main\", the sequence\nis non-deterministic, because the motions are caused by unpredictable\nexternal influences.\n\n\n\nCf: Jean-Paul Sartre: \"Les Mobiles de Calder,\" Carré, 1946.",
+      "links": [
+        {
+          "text": "\"Les Mobiles de Calder,\"",
+          "href": "http://www.calder.org/SETS_SUB/life/texts/life_texts_sartre46_con1.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Mechanical Chance",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Tinguely's earliest kinetic works, discussed\nabove, are based on painterly examples. (Méta-Malevitch, Méta-Kandinsky,\nMéta-Herbin). The elements of these \"kinetic paintings\" are simultaneously rotated with different speeds; this creates an\ninfinite variety of possible configurations.\n\n\n\nTinguely's next step is the construction of machines which are no\nlonger concerned with painting, but with movement per se. These \"moving sculptures\" consist of motors, wheels, belts, cogs,\nand crank-shafts. Their movements are irregular because of the machine's\nimperfections. This irregularity has nothing in common with the unpredictability\nof Calder's mobiles à main: it is not organic but anti-mechanic:\njerking, jamming, jittering epicycles of periodic rotations and translations.\n[slippen, haperen, stokken] (Rubato:\nGustav Leonhart, Thelonious Monk.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Tinguely\ndiscovered an almost inexhaustible source — a mechanism whose\ngoal was not precision but anti-precision, the mechanics of chance.\"\n[Pontus\nHultén 1975, p. 8.]\n\n\n\n\"In\nmachines intended for practical use the engineer tries to reduce\nthe irregularities as much as possible. Tinguely is after the exact\nopposite. His objective is mechanical disorder. His cog-wheels are\nso constructed that they jump the cogs continually, jam, and start\nturning again, unpredictably. (. . .) The same movement can appear\nten times in succession and then, apparently, never be repeated\nagain. This creates an unusually acute sense of time.\"\n[Hultén 1955, p. 26.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Le mot\n\"asynchrone\", dit Tinguely, tu peux l'écrire mais\nen petit. C'était plutôt un défaut mais j'ai\ndécouvert que la création était là,\nla combinaison infinie: ce n'était plus calculable.\" [Conil Lacoste 1989, p. 33.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In the \"Schéma des Dispositifs\", Tinguely gives an inventory of his techniques. The construction\nof chance by means of imperfections is a recurring theme in this text.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Les Courroies en cuir [le\npeaux des les les Vaches - Veaux tire coupé en ficelles\nau kilomètre ...... ] Glisse bien = distributeur du HASARd\n(...) Les Courroies Trapezoidales Glisse aussi (...) 1953\nle \"META\" est LA mais \"le\nJolie\" Meta-MECANIQUE c'est l'ENGENAGE \"Libre\"\n& hésitant – en fil de fer tousjour \"en\npanne\" permanent Stabilité du Hasard. (...) la \"FAbricAtioN\" du HASARd & de\nl'IRRéGulaRité VARiAble } le MetA d'Abord\nle \"CHAOS\" stable",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Tinguely: \"Schéma des\nDispositifs\". In: Conil Lacoste, 1989, pp. 27-31.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Tinguely\n(...) uses an old-fashioned technology in his machines. He likes\nordinary, conventional motors (...). As yet, with the exception\nof the components from radio-sets used in his sculptures around\n1962, he has never employed electronics or other more up-to-date\ntechniques.\" [ Pontus\nHultén 1975, p. 307.]\n\n\n\n\"There\nwas nothing new in the idea of deliberately introducing chance as\nan element in art. (. . .) In Tinguely's case, however, it was no\nlonger a matter of the role of chance in the act of creation, nor\nof a static display of something that had come about by chance,\nbut of chance in action.\" [Pontus\nHultén 1975, p. 8.]\n\n\n\n\"With their\nunrepeatable and unique movements and sequences, Tinguely's machines\nexist in an enviable freedom. Their vitality, spontaneity, and lyricism\nbring to us ecstatic moments of life divorced entirely from moral\nprecept or inhibition, from good and evil, right and wrong, beautiful\nor ugly. His machines are a piece of pure existence, eternally changeable,\nand they do not have to mean anything or refer to anything. But\none is mistaken to believe that their artistic message is innocent\nor harmless. They subvert the established order and convey a sense\nof anarchy and individual liberation which would otherwise not exist.\"\n[Hultèn 1965, pp. 13/14.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Métamatic\nand Métaméchanique – In the work of Jean Tinguely\n(Swiss, 1925 – ), machines programmed electronically to act with\nantimechanical unpredictability, jerking erraticly, sometimes scribbling\non rolls of paper. Tinguely was influenced by Klee, Miró and Duchamp.\nHis most famous work was Homage to New York, 1960, an assemblage including\nan old piano, a pram, a meteorological balloon, and various machine parts;\nit self-destructed with pyrotechnics before a crowd; its remnants now\nat the Museum of Modern Art, NY. See automata, Dada and Surrealism.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[From: Artlex.com]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Exam question:\nThis text from Artlex.com contains\none very bad mistake. Discuss it.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Für Statik",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es bewegt sich alles. Stillstand gibt es nicht. Lasst Euch nicht\nvon überlebten Zeitbegriffen beherrschen. Fort mit den Stunden,\nSekunden und Minuten. Hört auf, der Veränderlichkeit\nzu widerstehen. SEID IN DER ZEIT – SEID STATISCH, SEID STATISCH\n– MIT DER BEWEGUNG. Für Statik, im Jetzt stattfindenden\nJETZT. Widersteht den angstvollen Schwächeanfällen,\nBewegtes anzuhalten, Augenblicke zu versteinern und Lebendiges\nzu töten. Gebt es auf, immer wieder «Werte» aufzustellen\ndie doch in sich zusammenfallen. Seid frei, lebt!\n\nHört auf, die Zeit zu «malen». Lasst es sein,\nKathedralen und Pyramiden zu bauen, die zerbröckeln wie Zuckerwerk.\nAtmet tief, lebt im Jetzt, lebt auf und in der Zeit. Für\neine schöne und absolute Wirklichkeit!",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Düsseldorf, März 1959\n\nTINGUELY",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pamphlet released in 150.000 copies\nfrom an airplane above Düsseldorf, March 14, 1959. A more extensive\nmanifesto along the same lines was presented in Tinguely's lecture\n\"Art, Machines and Motion\" at the Cyclo-matic Evening, ICA,\nLondon, November 12, 1959.\n\n\n\n[Cf. Pontus Hultén, 1975,\npp. 77, 114-119, 327; Hulten 1987, p.67.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "For Stasis",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Everything moves. Rest does not exist. Don't let\nyourself be controlled by obsolete notions of time. Away with\nhours, seconds and minutes. Stop resisting change. EXIST IN TIME\n- BE STATIC, BE STATIC WITH THE MOVEMENT. For stasis, in the now\noccurring NOW. Resist the anxious impulse to stop what moves,\nto freeze moments and to kill what lives. Give up constructing\n«values» that always collapse anyway. Be free, live!\n\n\nStop «painting» time. Give up building cathedrals\nand pyramids, that fall apart like sugar-candy. Breathe deep,\nlive in the now, live on and in time. For a beautiful and absolute\nreality!",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Düsseldorf, March\n1959 TINGUELY",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Essay topic:\nAnalyse Tinguely's pamphlet. For instance: investigate connections\nwith Bergson's psychology of time; with Wittgenstein's statement that \"living in eternity is living in the present\" (Tractatus);\nwith Duchamp's \"aesthetics of indifference\" (cf. Pyrrho\nand other Stoics); and with Tinguely's art.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Footnotes about Tinguely:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic painting.",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1959, Tinguely's Metamatics become\nautonomous painters themselves. We devote a separate\npage to this pioneering work in automatic image generation.",
+      "links": [
+        {
+          "text": "separate page",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Uselessness.",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/inutile",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tinguely's machines were often interpreted\nas demonstrating \"uselessness\", but they didn't seem to\nmind. Around 1964, their behaviour tends to get less cheerful and\nmore predictable. Mechanical, regular motions. Sisyphus-labor, joyless\nsex. Cf: Pontus Hultén 1975, p. 278.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Make\na computer simulation of Calder's kinetic work (both periods: \"mobiles\nà moteur\" and \"mobiles à main\").",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Make\na computer simulation Tinguely's work (both periods: \"Méta-Malevich\"\nand \"fabrication du hasard\")",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Write\nan essay about what you did and why.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Results sofar:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Erik\nBorra (Mobiles à Moteur and Méta-Malevitch)",
+      "links": [
+        {
+          "text": "Erik Borra",
+          "href": "http://gene.science.uva.nl/%7Eekborra/aaai/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thematisation of movement",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Pol Bury: slow motions and quiet rustling.",
+          "links": []
+        },
+        {
+          "text": "Jan van Munster: sudden events.",
+          "links": []
+        },
+        {
+          "text": "Gerrit van Bakel: imperceptably slow\nuniform movement.",
+          "links": []
+        },
+        {
+          "text": "Yves Klein & Jean Tinguely: \"Vitesse\nPure\" (high speed spinning monochrome disks).",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Links",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"From\nLeonardo to Calder\" (Thematic description of an overview\nexhibit)",
+      "links": [
+        {
+          "text": "From Leonardo to Calder",
+          "href": "http://www.artmag.com/techno/machins.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Chronologie\nder kinetischen Kunst im 20. Jahrhundert.",
+      "links": [
+        {
+          "text": "Chronologie der kinetischen Kunst im 20. Jahrhundert.",
+          "href": "http://sync.ung.at/verweise/chronologie_kinetische_kunst.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexander Calder: \"Mobiles.\"\nIn: Myfanwy Evans (ed.): The Painter's Object, Gerold Howe,\nLondon, 1937.\n\n\n\nMichel Conil Lacoste: Tinguely. L'Énergétique\nde l'Insolence. Vol. I. Paris: Éditions de la Différence,\n1989.\n\n\n\nKarl G. Hultén: Den Ställföreträdande\nFriheten eller Om Rörelse i Konsten och Tinguelys Metamekanik.\n(Substitute Freedom or On Movement in Art and Tinguely's Meta-mechanics.)\nSpecial issue of Kasark, October 1955. (English translation\nin: Pontus Hultén, 1975.)\n\n\n\nK.G. Hultèn: \"Jean Tinguely.\" In: Jean Cassou,\nK.G. Hultèn, Sam Hunter & Nicolas Schöffer:\n\n\"Two Kinetic Sculptors: Nicolas Schöffer and Jean Tinguely.\"\nNew York: October House / Jewish Museum, 1965.\n\n\n\nPontus Hulten: Jean Tinguely. A Magic Stronger than Death.\nNew York: Abbeville Press, 1987.\n\n\n\nK.G. Pontus Hultén: Tinguely. 'Méta'. London:\nThames and Hudson, 1975.\n\n\n\nJean-Louis Prat:\nL' Art en Mouvement. Fondation Maeght, 1992\n\n\n\nJean-Paul Sartre: \"Les Mobiles de Calder,\" Carré,\n1946. [OnLine\nwith an English translation.]\n\n\n\nJean Tinguely: Radio Conversation, Radio Télévision\nBelge, Brussels, 13 December 1982. [In: Hulten 1987, p. 350.]",
+      "links": [
+        {
+          "text": "\"Mobiles.\"",
+          "href": "http://www.calder.org/SETS/life/life.html",
+          "external": true
+        },
+        {
+          "text": "L' Art en Mouvement.",
+          "href": "http://perso.ensad.fr/%7Elonga/cours/ARTMo.html",
+          "external": true
+        },
+        {
+          "text": "[OnLine with an English translation.]",
+          "href": "http://www.calder.org/SETS_SUB/life/texts/life_texts_sartre46_con1.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha – November 22, 2002",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-roue1913S.jpg",
+      "alt": "",
+      "caption": "Rotation.",
+      "legacy_src": "../gif/kinetiek/roue1913S.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich1S.jpg",
+      "alt": "",
+      "caption": "Front / Back",
+      "legacy_src": "../gif/kinetiek/metamvich1S.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvichbackS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/metamvichbackS.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich2S.jpg",
+      "alt": "",
+      "caption": "Snapshot / Multiple Exposure\n\n\n\n\n\n\n\n\nMéta-Kandinsky I (Wundermaschine), 1956",
+      "legacy_src": "../gif/kinetiek/metamvich2S.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metamvich2movS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/metamvich2movS.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-metakandinskyS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/metakandinskyS.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-calderS.jpg",
+      "alt": "",
+      "caption": "Mobile à Moteur\n\n\"Red Frame\", 1931.\n\n\n\n\n\n\n\nMobile à Moteur\n\n\"Black Frame\", 1934.",
+      "legacy_src": "../gif/kinetiek/calderS.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A02091_F.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/A02091_F.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-kleerhangersBS.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nEquation-Obstruction, 1920.\n\n\n\n\n\n\n\n\n\nAlexander Calder:\n\nUntitled, 1942.\n\n\n\n\n\n\n\n\n\nAlexander Calder:\n\nMyxomatose, 1953.",
+      "legacy_src": "../gif/kinetiek/kleerhangersBS.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A15493_F.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/A15493_F.jpg"
+    },
+    {
+      "src": "/images/kinetics/rigid-bodies/kinetiek-A08122_F.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/kinetiek/A08122_F.jpg"
+    }
+  ],
+  "out_links": [
+    "/kinetics/inutile",
+    "/process/vibration/metamatic"
+  ]
+}

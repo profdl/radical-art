@@ -1,0 +1,276 @@
+{
+  "slug": "process/burn/klein",
+  "legacy_path": "process/burn/klein/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "klein",
+  "heading": "",
+  "description": "Yves Klein: Peintures de Feu",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Yves Klein: Peintures de Feu, 1961",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinReveDeFeu1960.jpg",
+      "alt": "",
+      "caption": "Rêve de Feu, 1960",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinGazDeFrance1961.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinF25.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPeintureDeFeuST(F3)61.jpg",
+      "alt": "",
+      "caption": "# 3",
+      "width": "162",
+      "height": "247",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPdF(F27-I)1961.jpg",
+      "alt": "",
+      "caption": "# 27-I",
+      "width": "131",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPdF-ST(F31)-1961.jpg",
+      "alt": "",
+      "caption": "# 31",
+      "width": "160",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPeintureFeuST(F74)1961.jpg",
+      "alt": "",
+      "caption": "# 74",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPdF(F80)1961.jpg",
+      "alt": "",
+      "caption": "# 80",
+      "width": "128",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinUntFirePainting1961.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "165",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/KleinPdF-1961-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "135",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/KleinPdF(F89)-1961-S.jpg",
+      "alt": "",
+      "caption": "#89",
+      "width": "166",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/KleinPdF(F90)-1961-S.jpg",
+      "alt": "",
+      "caption": "# 90",
+      "width": "304",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinEmprnteParLEauELFeu61.jpg",
+      "alt": "",
+      "caption": "Empreinté par\n\nl'Eau et le Feu",
+      "width": "138",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPdF-ST-1961-b.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "185",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-Klein-monfeuM.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "208",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "alt": "",
+      "caption": "Peinture Feu Couleur # 1",
+      "width": "332",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/klein/fire-s-Klein-vuur.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "185",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinReveDeFeu1960.jpg",
+      "alt": "",
+      "caption": "Rêve de Feu, 1960",
+      "legacy_src": "../../../gif/natuur/FireS/KleinReveDeFeu1960.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinGazDeFrance1961.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/KleinGazDeFrance1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinF25.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/KleinF25.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPeintureDeFeuST(F3)61.jpg",
+      "alt": "",
+      "caption": "# 3",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPeintureDeFeuST(F3)61.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPdF(F27-I)1961.jpg",
+      "alt": "",
+      "caption": "# 27-I",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPdF(F27-I)1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPdF-ST(F31)-1961.jpg",
+      "alt": "",
+      "caption": "# 31",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPdF-ST(F31)-1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPeintureFeuST(F74)1961.jpg",
+      "alt": "",
+      "caption": "# 74",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPeintureFeuST(F74)1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPdF(F80)1961.jpg",
+      "alt": "",
+      "caption": "# 80",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPdF(F80)1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinUntFirePainting1961.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/KleinUntFirePainting1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/KleinPdF-1961-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "KleinPdF-1961-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/KleinPdF(F89)-1961-S.jpg",
+      "alt": "",
+      "caption": "#89",
+      "legacy_src": "KleinPdF(F89)-1961-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/KleinPdF(F90)-1961-S.jpg",
+      "alt": "",
+      "caption": "# 90",
+      "legacy_src": "KleinPdF(F90)-1961-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinEmprnteParLEauELFeu61.jpg",
+      "alt": "",
+      "caption": "Empreinté par\n\nl'Eau et le Feu",
+      "legacy_src": "../../../gif/natuur/FireS/KleinEmprnteParLEauELFeu61.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPdF-ST-1961-b.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPdF-ST-1961-b.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-Klein-monfeuM.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/Klein-monfeuM.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "alt": "",
+      "caption": "Peinture Feu Couleur # 1",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPFCouleurST(FC1)61.jpg"
+    },
+    {
+      "src": "/images/process/burn/klein/fire-s-Klein-vuur.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/natuur/FireS/Klein-vuur.jpg"
+    }
+  ],
+  "out_links": []
+}

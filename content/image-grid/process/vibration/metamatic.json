@@ -1,0 +1,660 @@
+{
+  "slug": "process/vibration/metamatic",
+  "legacy_path": "process/vibration/metamatic/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "automatic expressionism",
+  "heading": "The Mechanics of Expression",
+  "description": "Tinguely's Meta-Matic's; and other mechanical methods for generating expressive visual art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Mechanics of Expression",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Tinguely's\nMeta-matics",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Tinguely's earliest kinetic works\n(Meta-Malevitch, Meta-Kandinsky, Meta-Herbin) realise an infinity\nof \"constructivist\" images by means of constructions whose\nelements rotate with different, incommensurable speeds. (They are discussed in our kinetic\nart chapter on rigid\nbodies.) The Meta-matics (1959) are meta-artworks in a different\nsense: they are machines which automatically create infinite sequences\nof drawings. They also have a different style –– they operate\nin the context of late-1950's gestural expressionism.",
+      "links": [
+        {
+          "text": "rigid bodies",
+          "href": "/kinetics/rigid-bodies",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/vibration/metamatic/kinetiek-metamaticS.jpg",
+      "alt": "",
+      "caption": "Meta-matic no. 8 (Meta-Moritz)",
+      "width": "369",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Brevet d'Invention\" issued by the French Ministry of Industry, Service de la Propriété Industrielle (requested on June 26, 1959 and granted on June 17, 1960) for an \"appareil à dessiner et à peindre\":",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"La présente invention a pour objet un appareil de construction simple permettant de dessiner ou de peindre d'une manière qui, en pratique, est entièrement automatique, l'intervention humaine étant limitée au choix d'un ou de quelques paramètres, et éventuellement, à la fourniture de l'énergie motrice.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Hultén 1975, p. 84.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The principle of these machines is the Lissajous\nfigure: the superposition of different harmonic oscillations.\nCarried out in a very precise way, such movements result in stark\ngeometric images with pretty Moiré-effects.\n(This is what we see in many early computer-generated graphics.)\nBut the mechanical imperfections of Tinguely's machines creates\nan abundance of irregularities, deviations and interruptions; this\nresults in a suggestion of expressive human gesture.\n\nThe Meta-Matics present a pastiche of the abstract-expressive painting\nof the 1950's. Their position in art history may be compared with\nJackson Pollock's all-over's, Franz Kline's gestural minimalism,\nand Georges Mathieu's theatre performances; rightly famous oeuvres\nwhich all, perhaps unwittingly, parody the expressive gesture. Another\nparallel is the increasingly popular art of painting\nmonkeys in the early 1960's.",
+      "links": [
+        {
+          "text": "Lissajous figure",
+          "href": "/process/vibration/chladni-lissajous",
+          "external": false
+        },
+        {
+          "text": "Moiré-effects",
+          "href": "/algorithmic-art/moire",
+          "external": false
+        },
+        {
+          "text": "painting monkeys",
+          "href": "/process/vibration/animal",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta-matic\ndrawings vary enormously, entirely according to how the machine\nis set up and used. No two drawings are ever completely identical.\nHow close the felt-pen, or whatever is being used, is fixed to the\npaper, is an important factor, but the fluidity or otherwise of\nof the colouring agent, or the texture of the paper, will also play\na part. The operator can use pencil, ballpoint, airmail stamps,\ninvisible ink . . . The decisive thing is how long the machine is\nallowed to run without interference, and how long with each separate\ncolour. But however it is set up, it is impossible for the machine\nto produce an ugly drawing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén 1975, p. 82.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "libérez-vous\n\nen créant\n\nvous-même\n\nvos œuvres d'art",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "du 1er au 31 juillet\n1959",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "avec",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "les machines à peindre",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "«",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "meta - matics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "»",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "de",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "tinguely",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "galerie iris clert",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "3 rue des beaux arts",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "paris 6 dan. 44-76",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "ouvert de 11 à 13 h",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "et tous les soirs",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "de 16 à 23 heures",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "à l'occasion de cette manifestation sera décerné\nle prix iris clert, dôté de 50.000 f. à\nla meilleure œuvre produite avec les «meta-matics».",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "venez exécuter vous-même\nvos œuvres",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "du 1er au 31 juillet 1959",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "en collaborant avec les machines à peindre",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "«",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "meta - matics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "»",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "de",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "tinguely",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "à la galerie iris\nclert, 3 rue des beaux arts, paris 6",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "de 11 à 13 h et tous\nles soirs de 16 à 23 heures",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "do it yourself",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "and create",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "your own abstract painting",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "with",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "tinguely's",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "«",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "meta - matics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "»",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(a machine producing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "paintings)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "from the 1st to the 31st of july",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "iris clert gallery",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "3 rue des beaux arts",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "paris 6 dan. 44-76",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "open 11 - 13, 16 - 23 h",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "a prize of 50.000 f. is offered by the gallery to the best\npainting made on tinguely's «meta-matics».",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput3S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "273",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput1S.jpg",
+      "alt": "",
+      "caption": "Painting by Meta-matic No. 12\n\nin collaboration with J. Kosics.",
+      "width": "180",
+      "height": "253",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput2S.jpg",
+      "alt": "",
+      "caption": "Painting by Meta-matic No. 20\n\nin collaboration with Klara Hulten.",
+      "width": "180",
+      "height": "259",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Painting by Meta-matic No. 18\n\nin collaboration with Klara Hulten.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mechanical Chance",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "The Meta-matics (just like Tinguely's other \"moving sculptures\" of this period) consist of motors, wheels, belts, cogs, and crank-shafts.\nTheir movements are irregular because of the machine's imperfections:\njerking, jamming, jittering epicycles of periodic rotations and translations.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Tinguely\ndiscovered an almost inexhaustible source — a mechanism whose\ngoal was not precision but anti-precision, the mechanics of chance.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Pontus\nHultén 1975, p. 8.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"In\nmachines intended for practical use the engineer tries to reduce\nthe irregularities as much as possible. Tinguely is after the exact\nopposite. His objective is mechanical disorder. His cog-wheels are\nso constructed that they jump the cogs continually, jam, and start\nturning again, unpredictably. (. . .) The same movement can appear\nten times in succession and then, apparently, never be repeated\nagain. This creates an unusually acute sense of time.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hultén 1955, p. 26.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Le mot\n\"asynchrone\", dit Tinguely, tu peux l'écrire mais\nen petit. C'était plutôt un défaut mais j'ai\ndécouvert que la création était là,\nla combinaison infinie: ce n'était plus calculable.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Conil Lacoste 1989, p. 33.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In the \"Schéma des Dispositifs\", Tinguely gives an inventory of his techniques. The construction\nof chance by means of imperfections is a recurring theme in this text.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Les Courroies en cuir [le\npeaux des les les Vaches - Veaux tire coupé en ficelles\nau kilomètre ...... ] Glisse bien = distributeur du HASARd\n(...) Les Courroies Trapezoidales Glisse aussi (...) 1953\nle \"META\" est LA mais \"le\nJolie\" Meta-MECANIQUE c'est l'ENGENAGE \"Libre\"\n& hésitant – en fil de fer tousjour \"en\npanne\" permanent Stabilité du Hasard. (...) la \"FAbricAtioN\" du HASARd & de\nl'IRRéGulaRité VARiAble } le MetA d'Abord\nle \"CHAOS\" stable",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Tinguely: \"Schéma des\nDispositifs\". In: Conil Lacoste, 1989, pp. 27-31.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Tinguely\n(...) uses an old-fashioned technology in his machines. He likes\nordinary, conventional motors (...). As yet, with the exception\nof the components from radio-sets used in his sculptures around\n1962, he has never employed electronics or other more up-to-date\ntechniques.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[ Pontus\nHultén 1975, p. 307.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"There\nwas nothing new in the idea of deliberately introducing chance as\nan element in art. (. . .) In Tinguely's case, however, it was no\nlonger a matter of the role of chance in the act of creation, nor\nof a static display of something that had come about by chance,\nbut of chance in action.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Pontus\nHultén 1975, p. 8.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"With their\nunrepeatable and unique movements and sequences, Tinguely's machines\nexist in an enviable freedom. Their vitality, spontaneity, and lyricism\nbring to us ecstatic moments of life divorced entirely from moral\nprecept or inhibition, from good and evil, right and wrong, beautiful\nor ugly. His machines are a piece of pure existence, eternally changeable,\nand they do not have to mean anything or refer to anything. But\none is mistaken to believe that their artistic message is innocent\nor harmless. They subvert the established order and convey a sense\nof anarchy and individual liberation which would otherwise not exist.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hultèn 1965, pp. 13/14.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The Significance of the Meta-matics",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"These machines are to a certain type of abstract or nonfigurative art, what the invention of photography was to the realism of the nineteenth century. Just as the academic exasperation of realist painting was stopped by photography, [...] so too will these extraordinary machines [...] now stop very happily this kind of abstract art that has for several years dangerously precipitated a whole generation toward [...] what is the moral plague of the West, the hypertrophy of the ego of the personality.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Yves Klein, 1959.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"One may\njustifiably compare his meta-matic drawing machines to Marcel Duchamp's\nready-mades for richness of meanings, among others a rather devastating\ncritique of the automatic and \"informal\" art of the 1958\nperiod (. . .). Any dissertation could only fail to exhaust the significance\nof his creation. The drawing machine adds another question mark after\nthe question: Is art possible? Above all, it is a hallucinating vision\nof the position of art in the future.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hultèn\n1965, pp. 13/14.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The drawing\nmachine is an invention of the same, barely assimilable significance\nas the Ready Made. (. . .) The meta-matic has no more to do with any\none particular style than had the Ready Made. It is rather a matter\nof a new approach to reality, an approach using art as a means of\nachieving its ends. Undoubtedly the drawings produced by the metamatics\nmade a certain ironic comment on the tachisme that dominated\nabstract art in Paris in 1959, but it was a mistake, and one frequently\nmade, to single out this aspect of them as their principal significant\nfeature (. . .). The meta-matic is art as an object for metaphysical\nmeditation; the aesthetic framework is widened. It is impossible for\nanother artist to copy directly the idea of the meta-matic, just as\nit would have been to copy the idea of the Ready Made, but the possibilities\nthat it might implant in the mind of another artist are all the greater.\n(. . .) We have reached a new concept of art, we judge works of art\nby what they produce, and not by how they look (. . .). Self-creative\nworks of art possess the beauty of the very simple and thus truly\ngreat ideas. Machines that manufacture art touch the very kernel of\nour civilization.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Hultén 1975, p. 80.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Métamatic n° 1 est une machine à faire des dessins, ou plutôt des gribouillages inutiles.\n\nC'est une machine artiste qui ne sert à rien, une sculpture absurde.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Yves Michaud: Les Apories de la Sculpture]",
+      "links": [
+        {
+          "text": "Les Apories de la Sculpture",
+          "href": "http://membres.multimania.fr/charliette/sculpture.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related Work",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Animals\nsuch as donkeys, monkeys, cats or elephants naturally move their tails,\npaws and trunks with a noisy regularity which is not unlike the Metamatics.\n(Ignace Schretlen has used\nthe Meta-matic owned by the Amsterdam Stedelijk Museum as a simulation\ndevice in his research on the drawing of monkeys and human infants.)\n\n\n\nThe electric sabre-saws which constitute the automatic guitar band\n\"The Machines\" used the Meta-matic approach to develop a graphical oeuvre. Their \"Machine Drawings\"\nare made by two cooperating sabre saws: one moves the paper, the other\none moves a pen.\n\n\n\nA somewhat perverse version of this approach was implemented by the\nIAAA Department of ArtiFacial Expression in the \"muscle\ncontrol drawings\" project: muscles in the hands and arms\nof a passive human person are triggered in rhythmic patterns; one\nhand holds the paper, the other holds the pen.",
+      "links": [
+        {
+          "text": "Animals",
+          "href": "/process/vibration/animal",
+          "external": false
+        },
+        {
+          "text": "Ignace Schretlen",
+          "href": "/process/vibration/animal/schretlen",
+          "external": false
+        },
+        {
+          "text": "\"The Machines\"",
+          "href": "http://iaaa.nl/music/machines.html",
+          "external": true
+        },
+        {
+          "text": "\"Machine Drawings\"",
+          "href": "http://iaaa.nl/machinedrawings.html",
+          "external": true
+        },
+        {
+          "text": "\"muscle control drawings\"",
+          "href": "http://iaaa.nl/musclecontrol.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Simulating Pollock",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Taylor, Adam Micolich and\nDavid Jonas: \"Fractal\nexpressionism.\" Physics World 12, 10 (October\n1999).\n\n\n\nOne of Jackson Pollock's drip paintings is compared with images from\nnature, and with images generated by a chaotic pendulum. Its statistical\nuniformity is established, and the fractal dimension of its different\nlayers is calculated.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Assignments:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "(1) Make a computer simulation of Tinguely's Meta-matics. Also write\na program that makes machine\ndrawings, and a program that makes muscle\ncontrol drawings. Discuss differences and common features between\nthese programs.\n\n(2) Develop a simulation of the drawing motorics of humans an higher\nanimals.",
+      "links": [
+        {
+          "text": "machine drawings",
+          "href": "http://iaaa.nl/machinedrawings.html",
+          "external": true
+        },
+        {
+          "text": "muscle control drawings",
+          "href": "http://iaaa.nl/musclecontrol.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: Métamatics. Les sculptures\nqui peignent. Galerie Iris Clert, Paris, 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: \"Un Marlo Brando suisse invente une machine\nà fabriquer l'art abstrait.\" Jours de France, 27\nJune 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: \"Progrès décisif pour la\npeinture non figurative: le chef d'œuvre peut se faire à la machine.\" Le Figaro, 25 July, 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dore Ashton: \"Art: Machine-like work.\" New York Times, 28 January 1960.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Edith Auerbach: \"Do it yourself.\" Weltkunst, 15 August\n1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Berg: \"Abstract paintings at touch of button.\" St\nLouis Post – Dispatch, 6 March 1960.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Conil Lacoste: Tinguely. L'Énergétique de\nl'Insolence. Vol. I. Paris: Éditions de la Différence,\n1989.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pierre Descargues: \"Tinguely à inventé\nla machine à faire des tableaux.\" Tribune de Lausanne,\n26 July 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Guy Dornand: \"Des 'Nouvelles Réalités'\nà la peinture des robots.\" Libération, 30\nJuly 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Guy Dornand: \"En attendant le salon des robots.\" Le Hors-côte, 5 August 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Emily Genauer: \"Machine-made abstraction is clever, but is it\nart?\" New York Herald Tribune, 14 February 1960.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl G. Hultén: Den Ställföreträdande\nFriheten eller Om Rörelse i Konsten och Tinguelys Metamekanik. (Substitute-Freedom or On Movement in Art and Tinguely's Meta-mechanics.)\nSpecial issue of Kasark, oktober 1955. (English translation\nin: Pontus Hultén, 1975.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.G. Hultèn: \"Jean Tinguely.\" In: Jean Cassou,\nK.G. Hultèn, Sam Hunter and Nicolas Schöffer:\n\n\"Two Kinetic Sculptors: Nicolas Schöffer and Jean Tinguely.\"\nNew York: October House / Jewish Museum, 1965.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.G. Pontus Hultén: Tinguely. 'Méta'. London: Thames and Hudson, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pontus Hulten: Jean Tinguely. A Magic Stronger than Death. New York: Abbeville Press, 1987.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexander Watt: Jean Tinguely — kinetic constructions and\ndrawing machines. Staempfli Gallery, New York, 1960.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/vibration/metamatic/kinetiek-metamaticS.jpg",
+      "alt": "",
+      "caption": "Meta-matic no. 8 (Meta-Moritz)",
+      "legacy_src": "../../../gif/kinetiek/metamaticS.jpg"
+    },
+    {
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput3S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/kinetiek/metaoutput3S.jpg"
+    },
+    {
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput1S.jpg",
+      "alt": "",
+      "caption": "Painting by Meta-matic No. 12\n\nin collaboration with J. Kosics.",
+      "legacy_src": "../../../gif/kinetiek/metaoutput1S.jpg"
+    },
+    {
+      "src": "/images/process/vibration/metamatic/kinetiek-metaoutput2S.jpg",
+      "alt": "",
+      "caption": "Painting by Meta-matic No. 20\n\nin collaboration with Klara Hulten.",
+      "legacy_src": "../../../gif/kinetiek/metaoutput2S.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/moire",
+    "/kinetics/rigid-bodies",
+    "/process/vibration/animal",
+    "/process/vibration/animal/schretlen",
+    "/process/vibration/chladni-lissajous"
+  ]
+}

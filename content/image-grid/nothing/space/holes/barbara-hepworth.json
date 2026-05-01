@@ -1,0 +1,1841 @@
+{
+  "slug": "nothing/space/holes/barbara-hepworth",
+  "legacy_path": "nothing/space/holes/BarbaraHepworth/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes / Barbara Hepworth",
+  "heading": "Holes by Barbara Hepworth",
+  "description": "Holes by Barbara Hepworth.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holes by Barbara Hepworth",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/31PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1931",
+      "width": "178",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/32Profile-s.jpg",
+      "alt": "",
+      "caption": "Profile, 1932",
+      "width": "213",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/36HoledPolyhedron-s.jpg",
+      "alt": "",
+      "caption": "Holed Polyhdron, 1936",
+      "width": "230",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/37PiercedHemisphereII-s.jpg",
+      "alt": "",
+      "caption": "Pierced Hemisphere II, 1937",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/38-helicoid-in-sphere-s.jpg",
+      "alt": "",
+      "caption": "Helicoid in Sphere, 1938",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/48-49-PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1948/1949",
+      "width": "161",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/51FormEnclosed-s.jpg",
+      "alt": "",
+      "caption": "Form Enclosed, 1951",
+      "width": "218",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/58Head(Chios)-s.jpg",
+      "alt": "",
+      "caption": "Head (Chios), 1958",
+      "width": "212",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/58Head(Fetish)-s.jpg",
+      "alt": "",
+      "caption": "Head (Fetish), 1958",
+      "width": "230",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59PiercedRoundForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Round Form, 1959",
+      "width": "206",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59SmallFormTrink-M.jpg",
+      "alt": "",
+      "caption": "Small Form (Trink), 1959",
+      "width": "150",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Talisman-s.jpg",
+      "alt": "",
+      "caption": "Talisman, 1959",
+      "width": "157",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-CurvedForm(Pathmos)-s.jpg",
+      "alt": "",
+      "caption": "Curved Form (Pathmos), 1960",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-EpidaurosII-s.jpg",
+      "alt": "",
+      "caption": "Epidauros II, 1960",
+      "width": "221",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-IconII-s.jpg",
+      "alt": "",
+      "caption": "Icon II, 1960",
+      "width": "167",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-ImageII-s.jpg",
+      "alt": "",
+      "caption": "Image II, 1960",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-Mandala-s.jpg",
+      "alt": "",
+      "caption": "Mandala, 1960",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-Santorin-s.jpg",
+      "alt": "",
+      "caption": "Santorin, 1960",
+      "width": "230",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-TalismanII-s.jpg",
+      "alt": "",
+      "caption": "Talisman II, 1960",
+      "width": "163",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60HllwFrm(ChuringaIII)-M.jpg",
+      "alt": "",
+      "caption": "Hollow Form (Churinga III), 1960",
+      "width": "151",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60PiercedForm(Epidauros)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Epidauros), 1960",
+      "width": "185",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61PiercedFormAmulet-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Amulet), 1961",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61ReclSolForm(Amulet)-s.jpg",
+      "alt": "",
+      "caption": "Reclining Solitary Form (Amulet), 1961",
+      "width": "209",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/62HoledHemisphere.jpg",
+      "alt": "",
+      "caption": "Holed Hemisphere, 1962",
+      "width": "209",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-62-2FormsPierced-M.jpg",
+      "alt": "",
+      "caption": "Two Forms Pierced, 1961/1962",
+      "width": "336",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/62UprightForm(Gwithan)-s.jpg",
+      "alt": "",
+      "caption": "Upright Form (Gwithan), 1962",
+      "width": "143",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-3Forms(Porthmeor)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Porthmeor), 1963",
+      "width": "220",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1963",
+      "width": "140",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63PiercedForm(Santorin)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Santorin), 1963",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-3FormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1963",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63TwoForms(TwoCircles)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Two Circles), 1963",
+      "width": "225",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63TwoFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1963",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64CurvedAndPiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Curved and Pierced Form, 1964",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64MarbleHead-s.jpg",
+      "alt": "",
+      "caption": "Marble Head, 1964",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64Sonnet-s.jpg",
+      "alt": "",
+      "caption": "Sonnet, 1964",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64-2Forms(FaceToFace)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Face to Face), 1964",
+      "width": "230",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64ThreeFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1964",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64ThreeStandingForms-s.jpg",
+      "alt": "",
+      "caption": "Three Standard Forms, 1964",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoFigures(Menhirs)-s.jpg",
+      "alt": "",
+      "caption": "Two Figures (Menhirs), 1964",
+      "width": "149",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoForms(Mincarlo)-S.jpg",
+      "alt": "",
+      "caption": "Two Forms (Mincarlo), 1964",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoHeads-s.jpg",
+      "alt": "",
+      "caption": "Two Heads, 1964",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65CntrptualFrms(Mycenae)S.jpg",
+      "alt": "",
+      "caption": "Contraptual Forms (Mycenae), 1965",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65FourFormsGroup-s.jpg",
+      "alt": "",
+      "caption": "Four Forms, 1965",
+      "width": "221",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65PoisedFormIIWCircle-s.jpg",
+      "alt": "",
+      "caption": "Poised Form with Circle, 1965",
+      "width": "142",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-Two(Ticino)-s.jpg",
+      "alt": "",
+      "caption": "Two (Ticino), 1966",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66TwoForms(Gemini)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Gemini), 1966",
+      "width": "227",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66TwoForms(GeminiII)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Gemini II), 1966",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/67-2Forms(Orkney)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Orkney), 1967",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/67-3Forms(Tokio)-s.jpg",
+      "alt": "",
+      "caption": "Three forms (Tokio), 1967",
+      "width": "230",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/67RitualStone-s.jpg",
+      "alt": "",
+      "caption": "Ritual Stone, 1967",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/67TwoForms-s.jpg",
+      "alt": "",
+      "caption": "Two Forms, 1967",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68-3Forms(FamilyGroup)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Family Group), 1968",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68HorizontalForm-s.jpg",
+      "alt": "",
+      "caption": "Horizontal Form, 1968",
+      "width": "230",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68MoonForm-s.jpg",
+      "alt": "",
+      "caption": "Moon Form, 1968",
+      "width": "163",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68PiercedForm(April)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (April), 1968",
+      "width": "164",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68SingleForm(Nocturne)-s.jpg",
+      "alt": "",
+      "caption": "Single Form (Nocturne), 1968",
+      "width": "129",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-4Hemispheres-s.jpg",
+      "alt": "",
+      "caption": "Four Hemispheres, 1969",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Matutu-s.jpg",
+      "alt": "",
+      "caption": "Matutu, 1969",
+      "width": "131",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Touchstone-s.jpg",
+      "alt": "",
+      "caption": "Touchstone, 1969",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/70-2FormsInEchelonI-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1970",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/70Kyoto-s.jpg",
+      "alt": "",
+      "caption": "Kyoto, 1970",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/71-HeadRa-s.jpg",
+      "alt": "",
+      "caption": "Head (Ra), 1971",
+      "width": "194",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/71SolitaryForm-s.jpg",
+      "alt": "",
+      "caption": "Solitary Form, 1971",
+      "width": "118",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/72Impression-s.jpg",
+      "alt": "",
+      "caption": "Impression, 1972",
+      "width": "143",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/72MinoanHead-s.jpg",
+      "alt": "",
+      "caption": "Minoan Head, 1972",
+      "width": "164",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/74-NewPenwith-s.jpg",
+      "alt": "",
+      "caption": "New Penwith, 1974",
+      "width": "230",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/Hepworth19yy-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/Hepworth19yy-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/36Ball,PlaneAndHoleM.jpg",
+      "alt": "",
+      "caption": "Ball, Plane and Hole, 1936",
+      "width": "386",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/37NestingStones-s.jpg",
+      "alt": "",
+      "caption": "Nesting stones, 1937",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/38TwoForms-s.jpg",
+      "alt": "",
+      "caption": "Two Forms, 1938",
+      "width": "153",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68-2MrblePce(Rangataria)-m.jpg",
+      "alt": "",
+      "caption": "Two marble Piece (Rangataria), 1968",
+      "width": "152",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/70-3FormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1970",
+      "width": "230",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/43SculptureWithColour-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour, 1943",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/46SculptureWColour(Eos)-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour (Eos), 1946",
+      "width": "136",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61SculptureWithColour-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour, 1961",
+      "width": "230",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65OvalFrmWStringsAClr-S.jpg",
+      "alt": "",
+      "caption": "Oval Form with Strings and Colour, 1965",
+      "width": "152",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65OvalWBlackAndWhite-S.jpg",
+      "alt": "",
+      "caption": "Oval Black and White, 1965",
+      "width": "156",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/65PiercedMonolithWClr-s.jpg",
+      "alt": "",
+      "caption": "Pierced Monolith with Colour, 1965",
+      "width": "129",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/43-59-OvalSculpture-s.jpg",
+      "alt": "",
+      "caption": "Oval Sculpture, 1943/1959",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/44HandSculpture-s.jpg",
+      "alt": "",
+      "caption": "Hand Sculpture, 1944",
+      "width": "212",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/46CurvedStoneWithYellow-s.jpg",
+      "alt": "",
+      "caption": "Curved Stone with Yellow, 1946",
+      "width": "230",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/46InvoluteI-s.jpg",
+      "alt": "",
+      "caption": "Involute I, 1946",
+      "width": "209",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/47Pendour.jpg",
+      "alt": "",
+      "caption": "Pendour, 1947",
+      "width": "461",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/52FgreIALndscpe(Tremcrom)-s.jpg",
+      "alt": "",
+      "caption": "Figure in a Landscape (Tremcrom), 1952",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/57-Icon-s.jpg",
+      "alt": "",
+      "caption": "Icon, 1957",
+      "width": "163",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/62SmallForm(November)-s.jpg",
+      "alt": "",
+      "caption": "Small Form (November), 1962",
+      "width": "154",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-69-2FrmsWWhite(Greek)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms with White (Greek), 1963/1969",
+      "width": "230",
+      "height": "179",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64-Figure-M.jpg",
+      "alt": "",
+      "caption": "Figure, 1964",
+      "width": "127",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68VertcalWoodForm-m.jpg",
+      "alt": "",
+      "caption": "Vertical Wood Form, 1968",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/49Dyad-s.jpg",
+      "alt": "",
+      "caption": "Dyad, 1949",
+      "width": "126",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/58SeaFromPorthmeor-s.jpg",
+      "alt": "",
+      "caption": "Sea from Porthmeor, 1958",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Figure(Nyanga)-s.jpg",
+      "alt": "",
+      "caption": "Figure (Nyanga), 1959",
+      "width": "132",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59RecliningForm(Trewyn)-s.jpg",
+      "alt": "",
+      "caption": "Reclining Form (Trewyn), 1959",
+      "width": "230",
+      "height": "110",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-62-CRF(Rosewall)-s.jpg",
+      "alt": "",
+      "caption": "Curved Rclining Form (Rosewall), 1960/1962",
+      "width": "230",
+      "height": "110",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-TwoFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1961",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-68-SingleForm-M.jpg",
+      "alt": "",
+      "caption": "Single Form, 1963/1968",
+      "width": "116",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64SeaForm(Atlantic)-M.jpg",
+      "alt": "",
+      "caption": "Sea Form (Atlantic), 1964",
+      "width": "180",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoFigures-M.jpg",
+      "alt": "",
+      "caption": "Two Figures, 1964",
+      "width": "160",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66SingleFrm(SunAMn)-M.jpg",
+      "alt": "",
+      "caption": "Single Form (Sun and Moon), 1966",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Head(Icon)-s.jpg",
+      "alt": "",
+      "caption": "Head (Icon), 1959",
+      "width": "120",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/59CrvdFrmWLneAHllw-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Curved Round Form with Line and Hollow,\n\n1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61MrbleFrm(2Circles)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "157",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marble Form (Two Circles),\n\n1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-64-SngleFrm(DHM)-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Single Form (Dag Hammarskjöld Memorial),\n\n1961/1964",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66MrbleRectngleW4Crcls-s.jpg",
+      "alt": "",
+      "caption": "Marble Rectangle with Four Circles, 1966",
+      "width": "139",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68RhomboidII-s.jpg",
+      "alt": "",
+      "caption": "Rhomboid II, 1968",
+      "width": "152",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63Maquette4Monolith-s.jpg",
+      "alt": "",
+      "caption": "Maquette for Monolith, 1963",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/63SquaresWithTwoCircles-s.jpg",
+      "alt": "",
+      "caption": "Squares with Two Circles, 1963",
+      "width": "132",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/64MarbleWClr(Crete)-s.jpg",
+      "alt": "",
+      "caption": "Marble with Colour (Crete), 1964",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-3SquaresACircles-s.jpg",
+      "alt": "",
+      "caption": "Three Squares and Circles, 1966",
+      "width": "129",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-3UprghtsWCrcls(Mykonos)S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Three Uprights with Circles\n\n(Mykonos), 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-4Rctngls4OblqueCrcls-s.jpg",
+      "alt": "",
+      "caption": "Four Rectangles Four Oblique Circles, 1966",
+      "width": "230",
+      "height": "134",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-4Squares(4Circles)-s.jpg",
+      "alt": "",
+      "caption": "Four Squares (Four Circles), 1966",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66OneEye-s.jpg",
+      "alt": "",
+      "caption": "One Eye, 1966",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/66SingleFrmWCrveAHllw-s.jpg",
+      "alt": "",
+      "caption": "Single Form with Curve and Hollow, 1966",
+      "width": "230",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/67SixFormsOnACircle-s.jpg",
+      "alt": "",
+      "caption": "Six Forms on a Circle, 1967",
+      "width": "230",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/68TwoFigures-s.jpg",
+      "alt": "",
+      "caption": "Two Figures, 1968",
+      "width": "142",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-3Forms(ExtraEye)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Extra Eye), 1969",
+      "width": "180",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Squares(June)-s.jpg",
+      "alt": "",
+      "caption": "Squares (June), 1969",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/barbara-hepworth/70Maquette4Walk-In-s.jpg",
+      "alt": "",
+      "caption": "Maquette for Walk-In, 1970",
+      "width": "230",
+      "height": "169",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/31PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1931",
+      "legacy_src": "31PiercedForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/32Profile-s.jpg",
+      "alt": "",
+      "caption": "Profile, 1932",
+      "legacy_src": "32Profile-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/36HoledPolyhedron-s.jpg",
+      "alt": "",
+      "caption": "Holed Polyhdron, 1936",
+      "legacy_src": "36HoledPolyhedron-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/37PiercedHemisphereII-s.jpg",
+      "alt": "",
+      "caption": "Pierced Hemisphere II, 1937",
+      "legacy_src": "37PiercedHemisphereII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/38-helicoid-in-sphere-s.jpg",
+      "alt": "",
+      "caption": "Helicoid in Sphere, 1938",
+      "legacy_src": "38-helicoid-in-sphere-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/48-49-PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1948/1949",
+      "legacy_src": "48-49-PiercedForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/51FormEnclosed-s.jpg",
+      "alt": "",
+      "caption": "Form Enclosed, 1951",
+      "legacy_src": "51FormEnclosed-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/58Head(Chios)-s.jpg",
+      "alt": "",
+      "caption": "Head (Chios), 1958",
+      "legacy_src": "58Head(Chios)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/58Head(Fetish)-s.jpg",
+      "alt": "",
+      "caption": "Head (Fetish), 1958",
+      "legacy_src": "58Head(Fetish)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59PiercedRoundForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Round Form, 1959",
+      "legacy_src": "59PiercedRoundForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59SmallFormTrink-M.jpg",
+      "alt": "",
+      "caption": "Small Form (Trink), 1959",
+      "legacy_src": "59SmallFormTrink-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Talisman-s.jpg",
+      "alt": "",
+      "caption": "Talisman, 1959",
+      "legacy_src": "59Talisman-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-CurvedForm(Pathmos)-s.jpg",
+      "alt": "",
+      "caption": "Curved Form (Pathmos), 1960",
+      "legacy_src": "60-CurvedForm(Pathmos)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-EpidaurosII-s.jpg",
+      "alt": "",
+      "caption": "Epidauros II, 1960",
+      "legacy_src": "60-EpidaurosII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-IconII-s.jpg",
+      "alt": "",
+      "caption": "Icon II, 1960",
+      "legacy_src": "60-IconII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-ImageII-s.jpg",
+      "alt": "",
+      "caption": "Image II, 1960",
+      "legacy_src": "60-ImageII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-Mandala-s.jpg",
+      "alt": "",
+      "caption": "Mandala, 1960",
+      "legacy_src": "60-Mandala-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-Santorin-s.jpg",
+      "alt": "",
+      "caption": "Santorin, 1960",
+      "legacy_src": "60-Santorin-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-TalismanII-s.jpg",
+      "alt": "",
+      "caption": "Talisman II, 1960",
+      "legacy_src": "60-TalismanII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60HllwFrm(ChuringaIII)-M.jpg",
+      "alt": "",
+      "caption": "Hollow Form (Churinga III), 1960",
+      "legacy_src": "60HllwFrm(ChuringaIII)-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60PiercedForm(Epidauros)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Epidauros), 1960",
+      "legacy_src": "60PiercedForm(Epidauros)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61PiercedFormAmulet-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Amulet), 1961",
+      "legacy_src": "61PiercedFormAmulet-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61ReclSolForm(Amulet)-s.jpg",
+      "alt": "",
+      "caption": "Reclining Solitary Form (Amulet), 1961",
+      "legacy_src": "61ReclSolForm(Amulet)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/62HoledHemisphere.jpg",
+      "alt": "",
+      "caption": "Holed Hemisphere, 1962",
+      "legacy_src": "62HoledHemisphere.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-62-2FormsPierced-M.jpg",
+      "alt": "",
+      "caption": "Two Forms Pierced, 1961/1962",
+      "legacy_src": "61-62-2FormsPierced-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/62UprightForm(Gwithan)-s.jpg",
+      "alt": "",
+      "caption": "Upright Form (Gwithan), 1962",
+      "legacy_src": "62UprightForm(Gwithan)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-3Forms(Porthmeor)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Porthmeor), 1963",
+      "legacy_src": "63-3Forms(Porthmeor)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63PiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form, 1963",
+      "legacy_src": "63PiercedForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63PiercedForm(Santorin)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (Santorin), 1963",
+      "legacy_src": "63PiercedForm(Santorin)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-3FormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1963",
+      "legacy_src": "63-3FormsInEchelon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63TwoForms(TwoCircles)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Two Circles), 1963",
+      "legacy_src": "63TwoForms(TwoCircles)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63TwoFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1963",
+      "legacy_src": "63TwoFormsInEchelon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64CurvedAndPiercedForm-s.jpg",
+      "alt": "",
+      "caption": "Curved and Pierced Form, 1964",
+      "legacy_src": "64CurvedAndPiercedForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64MarbleHead-s.jpg",
+      "alt": "",
+      "caption": "Marble Head, 1964",
+      "legacy_src": "64MarbleHead-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64Sonnet-s.jpg",
+      "alt": "",
+      "caption": "Sonnet, 1964",
+      "legacy_src": "64Sonnet-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64-2Forms(FaceToFace)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Face to Face), 1964",
+      "legacy_src": "64-2Forms(FaceToFace)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64ThreeFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1964",
+      "legacy_src": "64ThreeFormsInEchelon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64ThreeStandingForms-s.jpg",
+      "alt": "",
+      "caption": "Three Standard Forms, 1964",
+      "legacy_src": "64ThreeStandingForms-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoFigures(Menhirs)-s.jpg",
+      "alt": "",
+      "caption": "Two Figures (Menhirs), 1964",
+      "legacy_src": "64TwoFigures(Menhirs)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoForms(Mincarlo)-S.jpg",
+      "alt": "",
+      "caption": "Two Forms (Mincarlo), 1964",
+      "legacy_src": "64TwoForms(Mincarlo)-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoHeads-s.jpg",
+      "alt": "",
+      "caption": "Two Heads, 1964",
+      "legacy_src": "64TwoHeads-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65CntrptualFrms(Mycenae)S.jpg",
+      "alt": "",
+      "caption": "Contraptual Forms (Mycenae), 1965",
+      "legacy_src": "65CntrptualFrms(Mycenae)S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65FourFormsGroup-s.jpg",
+      "alt": "",
+      "caption": "Four Forms, 1965",
+      "legacy_src": "65FourFormsGroup-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65PoisedFormIIWCircle-s.jpg",
+      "alt": "",
+      "caption": "Poised Form with Circle, 1965",
+      "legacy_src": "65PoisedFormIIWCircle-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-Two(Ticino)-s.jpg",
+      "alt": "",
+      "caption": "Two (Ticino), 1966",
+      "legacy_src": "66-Two(Ticino)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66TwoForms(Gemini)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Gemini), 1966",
+      "legacy_src": "66TwoForms(Gemini)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66TwoForms(GeminiII)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Gemini II), 1966",
+      "legacy_src": "66TwoForms(GeminiII)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/67-2Forms(Orkney)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms (Orkney), 1967",
+      "legacy_src": "67-2Forms(Orkney)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/67-3Forms(Tokio)-s.jpg",
+      "alt": "",
+      "caption": "Three forms (Tokio), 1967",
+      "legacy_src": "67-3Forms(Tokio)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/67RitualStone-s.jpg",
+      "alt": "",
+      "caption": "Ritual Stone, 1967",
+      "legacy_src": "67RitualStone-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/67TwoForms-s.jpg",
+      "alt": "",
+      "caption": "Two Forms, 1967",
+      "legacy_src": "67TwoForms-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68-3Forms(FamilyGroup)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Family Group), 1968",
+      "legacy_src": "68-3Forms(FamilyGroup)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68HorizontalForm-s.jpg",
+      "alt": "",
+      "caption": "Horizontal Form, 1968",
+      "legacy_src": "68HorizontalForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68MoonForm-s.jpg",
+      "alt": "",
+      "caption": "Moon Form, 1968",
+      "legacy_src": "68MoonForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68PiercedForm(April)-s.jpg",
+      "alt": "",
+      "caption": "Pierced Form (April), 1968",
+      "legacy_src": "68PiercedForm(April)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68SingleForm(Nocturne)-s.jpg",
+      "alt": "",
+      "caption": "Single Form (Nocturne), 1968",
+      "legacy_src": "68SingleForm(Nocturne)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-4Hemispheres-s.jpg",
+      "alt": "",
+      "caption": "Four Hemispheres, 1969",
+      "legacy_src": "69-4Hemispheres-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Matutu-s.jpg",
+      "alt": "",
+      "caption": "Matutu, 1969",
+      "legacy_src": "69-Matutu-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Touchstone-s.jpg",
+      "alt": "",
+      "caption": "Touchstone, 1969",
+      "legacy_src": "69-Touchstone-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/70-2FormsInEchelonI-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1970",
+      "legacy_src": "70-2FormsInEchelonI-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/70Kyoto-s.jpg",
+      "alt": "",
+      "caption": "Kyoto, 1970",
+      "legacy_src": "70Kyoto-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/71-HeadRa-s.jpg",
+      "alt": "",
+      "caption": "Head (Ra), 1971",
+      "legacy_src": "71-HeadRa-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/71SolitaryForm-s.jpg",
+      "alt": "",
+      "caption": "Solitary Form, 1971",
+      "legacy_src": "71SolitaryForm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/72Impression-s.jpg",
+      "alt": "",
+      "caption": "Impression, 1972",
+      "legacy_src": "72Impression-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/72MinoanHead-s.jpg",
+      "alt": "",
+      "caption": "Minoan Head, 1972",
+      "legacy_src": "72MinoanHead-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/74-NewPenwith-s.jpg",
+      "alt": "",
+      "caption": "New Penwith, 1974",
+      "legacy_src": "74-NewPenwith-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/Hepworth19yy-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Hepworth19yy-2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/Hepworth19yy-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Hepworth19yy-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/36Ball,PlaneAndHoleM.jpg",
+      "alt": "",
+      "caption": "Ball, Plane and Hole, 1936",
+      "legacy_src": "36Ball,PlaneAndHoleM.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/37NestingStones-s.jpg",
+      "alt": "",
+      "caption": "Nesting stones, 1937",
+      "legacy_src": "37NestingStones-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/38TwoForms-s.jpg",
+      "alt": "",
+      "caption": "Two Forms, 1938",
+      "legacy_src": "38TwoForms-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68-2MrblePce(Rangataria)-m.jpg",
+      "alt": "",
+      "caption": "Two marble Piece (Rangataria), 1968",
+      "legacy_src": "68-2MrblePce(Rangataria)-m.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/70-3FormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Three Forms in Echelon, 1970",
+      "legacy_src": "70-3FormsInEchelon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/43SculptureWithColour-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour, 1943",
+      "legacy_src": "43SculptureWithColour-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/46SculptureWColour(Eos)-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour (Eos), 1946",
+      "legacy_src": "46SculptureWColour(Eos)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61SculptureWithColour-s.jpg",
+      "alt": "",
+      "caption": "Sculpture with Colour, 1961",
+      "legacy_src": "61SculptureWithColour-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65OvalFrmWStringsAClr-S.jpg",
+      "alt": "",
+      "caption": "Oval Form with Strings and Colour, 1965",
+      "legacy_src": "65OvalFrmWStringsAClr-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65OvalWBlackAndWhite-S.jpg",
+      "alt": "",
+      "caption": "Oval Black and White, 1965",
+      "legacy_src": "65OvalWBlackAndWhite-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/65PiercedMonolithWClr-s.jpg",
+      "alt": "",
+      "caption": "Pierced Monolith with Colour, 1965",
+      "legacy_src": "65PiercedMonolithWClr-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/43-59-OvalSculpture-s.jpg",
+      "alt": "",
+      "caption": "Oval Sculpture, 1943/1959",
+      "legacy_src": "43-59-OvalSculpture-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/44HandSculpture-s.jpg",
+      "alt": "",
+      "caption": "Hand Sculpture, 1944",
+      "legacy_src": "44HandSculpture-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/46CurvedStoneWithYellow-s.jpg",
+      "alt": "",
+      "caption": "Curved Stone with Yellow, 1946",
+      "legacy_src": "46CurvedStoneWithYellow-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/46InvoluteI-s.jpg",
+      "alt": "",
+      "caption": "Involute I, 1946",
+      "legacy_src": "46InvoluteI-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/47Pendour.jpg",
+      "alt": "",
+      "caption": "Pendour, 1947",
+      "legacy_src": "47Pendour.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/52FgreIALndscpe(Tremcrom)-s.jpg",
+      "alt": "",
+      "caption": "Figure in a Landscape (Tremcrom), 1952",
+      "legacy_src": "52FgreIALndscpe(Tremcrom)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/57-Icon-s.jpg",
+      "alt": "",
+      "caption": "Icon, 1957",
+      "legacy_src": "57-Icon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/62SmallForm(November)-s.jpg",
+      "alt": "",
+      "caption": "Small Form (November), 1962",
+      "legacy_src": "62SmallForm(November)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-69-2FrmsWWhite(Greek)-s.jpg",
+      "alt": "",
+      "caption": "Two Forms with White (Greek), 1963/1969",
+      "legacy_src": "63-69-2FrmsWWhite(Greek)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64-Figure-M.jpg",
+      "alt": "",
+      "caption": "Figure, 1964",
+      "legacy_src": "64-Figure-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68VertcalWoodForm-m.jpg",
+      "alt": "",
+      "caption": "Vertical Wood Form, 1968",
+      "legacy_src": "68VertcalWoodForm-m.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/49Dyad-s.jpg",
+      "alt": "",
+      "caption": "Dyad, 1949",
+      "legacy_src": "49Dyad-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/58SeaFromPorthmeor-s.jpg",
+      "alt": "",
+      "caption": "Sea from Porthmeor, 1958",
+      "legacy_src": "58SeaFromPorthmeor-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Figure(Nyanga)-s.jpg",
+      "alt": "",
+      "caption": "Figure (Nyanga), 1959",
+      "legacy_src": "59Figure(Nyanga)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59RecliningForm(Trewyn)-s.jpg",
+      "alt": "",
+      "caption": "Reclining Form (Trewyn), 1959",
+      "legacy_src": "59RecliningForm(Trewyn)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/60-62-CRF(Rosewall)-s.jpg",
+      "alt": "",
+      "caption": "Curved Rclining Form (Rosewall), 1960/1962",
+      "legacy_src": "60-62-CRF(Rosewall)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-TwoFormsInEchelon-s.jpg",
+      "alt": "",
+      "caption": "Two Forms in Echelon, 1961",
+      "legacy_src": "61-TwoFormsInEchelon-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63-68-SingleForm-M.jpg",
+      "alt": "",
+      "caption": "Single Form, 1963/1968",
+      "legacy_src": "63-68-SingleForm-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64SeaForm(Atlantic)-M.jpg",
+      "alt": "",
+      "caption": "Sea Form (Atlantic), 1964",
+      "legacy_src": "64SeaForm(Atlantic)-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64TwoFigures-M.jpg",
+      "alt": "",
+      "caption": "Two Figures, 1964",
+      "legacy_src": "64TwoFigures-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66SingleFrm(SunAMn)-M.jpg",
+      "alt": "",
+      "caption": "Single Form (Sun and Moon), 1966",
+      "legacy_src": "66SingleFrm(SunAMn)-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59Head(Icon)-s.jpg",
+      "alt": "",
+      "caption": "Head (Icon), 1959",
+      "legacy_src": "59Head(Icon)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/59CrvdFrmWLneAHllw-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59CrvdFrmWLneAHllw-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61MrbleFrm(2Circles)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "61MrbleFrm(2Circles)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/61-64-SngleFrm(DHM)-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "61-64-SngleFrm(DHM)-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66MrbleRectngleW4Crcls-s.jpg",
+      "alt": "",
+      "caption": "Marble Rectangle with Four Circles, 1966",
+      "legacy_src": "66MrbleRectngleW4Crcls-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68RhomboidII-s.jpg",
+      "alt": "",
+      "caption": "Rhomboid II, 1968",
+      "legacy_src": "68RhomboidII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63Maquette4Monolith-s.jpg",
+      "alt": "",
+      "caption": "Maquette for Monolith, 1963",
+      "legacy_src": "63Maquette4Monolith-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/63SquaresWithTwoCircles-s.jpg",
+      "alt": "",
+      "caption": "Squares with Two Circles, 1963",
+      "legacy_src": "63SquaresWithTwoCircles-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/64MarbleWClr(Crete)-s.jpg",
+      "alt": "",
+      "caption": "Marble with Colour (Crete), 1964",
+      "legacy_src": "64MarbleWClr(Crete)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-3SquaresACircles-s.jpg",
+      "alt": "",
+      "caption": "Three Squares and Circles, 1966",
+      "legacy_src": "66-3SquaresACircles-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-3UprghtsWCrcls(Mykonos)S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "66-3UprghtsWCrcls(Mykonos)S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-4Rctngls4OblqueCrcls-s.jpg",
+      "alt": "",
+      "caption": "Four Rectangles Four Oblique Circles, 1966",
+      "legacy_src": "66-4Rctngls4OblqueCrcls-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66-4Squares(4Circles)-s.jpg",
+      "alt": "",
+      "caption": "Four Squares (Four Circles), 1966",
+      "legacy_src": "66-4Squares(4Circles)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66OneEye-s.jpg",
+      "alt": "",
+      "caption": "One Eye, 1966",
+      "legacy_src": "66OneEye-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/66SingleFrmWCrveAHllw-s.jpg",
+      "alt": "",
+      "caption": "Single Form with Curve and Hollow, 1966",
+      "legacy_src": "66SingleFrmWCrveAHllw-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/67SixFormsOnACircle-s.jpg",
+      "alt": "",
+      "caption": "Six Forms on a Circle, 1967",
+      "legacy_src": "67SixFormsOnACircle-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/68TwoFigures-s.jpg",
+      "alt": "",
+      "caption": "Two Figures, 1968",
+      "legacy_src": "68TwoFigures-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-3Forms(ExtraEye)-s.jpg",
+      "alt": "",
+      "caption": "Three Forms (Extra Eye), 1969",
+      "legacy_src": "69-3Forms(ExtraEye)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/69-Squares(June)-s.jpg",
+      "alt": "",
+      "caption": "Squares (June), 1969",
+      "legacy_src": "69-Squares(June)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/barbara-hepworth/70Maquette4Walk-In-s.jpg",
+      "alt": "",
+      "caption": "Maquette for Walk-In, 1970",
+      "legacy_src": "70Maquette4Walk-In-s.jpg"
+    }
+  ],
+  "out_links": []
+}

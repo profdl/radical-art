@@ -1,0 +1,364 @@
+{
+  "slug": "kinetics/turn/mobiles-amain",
+  "legacy_path": "kinetics/Turn/MobilesAMain/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Mobiles à main",
+  "heading": "",
+  "description": "",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "irregular nested rotation: \"mobiles à main\"",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"mobiles\" developed by Alexander Calder since\nthe 1930's, use\norganic-looking shapes, hung in balanced constructions which can\nrotate freely. They are very light; the slightest breeze of air\ncreates (unpredictable) motions. Their official designation is\n\"mobiles à main\", which sets them apart from Calder's earlier\nmotorized kinetic pieces (\"mobiles à moteur\").\n\n\n\nThe \"mobile à main\" has the mechanical structure\nof a planetarium: nested rotary relations. But its movements are different:\nhorizontal pendulums with unpredictable speeds and amplitudes, rather than\nuniform rotations. We are in Arp's world rather than Mondriaan's.\n\n\n\nAn almost readymade version of this idea had been carried out Man Ray in\n1920: a construction of cloth-hangers. (Cf. Duchamp: bottle-rack, coat-racks.\nCf. Arman: accumulations.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder found that a motor forced repetition\non the movement: if the mechanism was not rather complicated\nthere was a danger of the movement becoming monotonous. (...)\nWith his 'mobiles à main' Calder found the simple, perfect\nway of giving his constructions mobility, by the use of equilibrium,\nas fundamental a principle as Duchamp's rotary movement. These\nwires, suspended interdependently and moving their frail elements\nin space, offer an inexhaustible range of possibilities. (...)\nCalder took the history of mobile art a step forward by the\nintroduction of endless variation, the fact that the movement\nof a mobile never repeats itself exactly. It is now possible\nto create endlessly complicated combinations, eternal change.\nAs I see it, everlastingly varied rhythm is one of the assets\nof mobile sculpture, without which it is in danger of becoming\nmore boring than static sculpture.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén 1955, pp. 21-22.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén thus distinguishes:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "the number of configurations that may occur\n(finite or infinite);",
+          "links": []
+        },
+        {
+          "text": "the sequence of configurations (fixed or not);",
+          "links": []
+        },
+        {
+          "text": "the nature of the movement (uniform or varied).",
+          "links": []
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A combination of different of different periodic movements\nyields an infinite, non-cyclic sequence of configurations,\niff the periods of some of the movements are incommensurable;\nbut its a deterministic well-ordered process, and it is experienced\nas such. In Calder's \"mobiles à main\",\nthe sequence is non-deterministic, because the motions are caused\nby unpredictable external influences.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexander Calder: \"Mobiles.\" In:\nMyfanwy Evans (ed.): The Painter's Object, Gerold\nHowe, London, 1937.\n\n\n\nKarl G. Hultén: Den Ställföreträdande\nFriheten eller Om Rörelse i Konsten och Tinguelys Metamekanik. (Substitute\nFreedom or On Movement in Art and Tinguely's Meta-mechanics.)\nSpecial issue of Kasark, October 1955. (English translation\nin: Pontus Hultén, 1975.)\n\n\n\nK.G. Pontus Hultén: Tinguely. 'Méta'. London: Thames\nand Hudson, 1975.\n\n\n\nJean-Paul Sartre: \"Les Mobiles de Calder,\" Carré, 1946. [OnLine\nwith an English translation.]",
+      "links": [
+        {
+          "text": "\"Mobiles.\"",
+          "href": "http://www.calder.org/SETS/life/life.html",
+          "external": true
+        },
+        {
+          "text": "[OnLine with an English translation.]",
+          "href": "http://www.calder.org/SETS_SUB/life/texts/life_texts_sartre46_con1.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Man Ray: Obstruction",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/man-ray-1920-obstruction-s.jpg",
+      "alt": "",
+      "caption": "Man Ray: Obstruction, 1920",
+      "width": "364",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/man-ray-1964-Obstruction-C.jpg",
+      "alt": "",
+      "caption": "Man Ray: Instructions for assembling Obstruction, 1964",
+      "width": "327",
+      "height": "245",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Alexander Calder: Mobiles à Main",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1933-ConeDEbene-s.jpg",
+      "alt": "",
+      "caption": "Cone d'Ébène, 1933",
+      "width": "231",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1934.jpg",
+      "alt": "",
+      "caption": "1934",
+      "width": "212",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1938-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1938",
+      "width": "300",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1941-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1941",
+      "width": "281",
+      "height": "238",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1941-Boomerangs.jpg",
+      "alt": "",
+      "caption": "Boomerangs, 1941",
+      "width": "320",
+      "height": "241",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1942-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1942",
+      "width": "220",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1948Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1948",
+      "width": "243",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1948-SnowFlurry.jpg",
+      "alt": "",
+      "caption": "Snow Flurry, 1948",
+      "width": "300",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1950(ca)-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, ca. 1950",
+      "width": "340",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1952(ca)-PourVilar,60x190cm-s.jpg",
+      "alt": "",
+      "caption": "English Tellurium, 1820",
+      "width": "346",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1953-Myxomatose.jpg",
+      "alt": "",
+      "caption": "Myxomatose, 1953",
+      "width": "220",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1959-1963-RougeTriomphant-S.jpg",
+      "alt": "",
+      "caption": "Rouge Triomphant, 1959-1963",
+      "width": "382",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Bruno Munari",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1939MacchinaInutile.jpg",
+      "alt": "",
+      "caption": "Macchina Inutile, 1939",
+      "width": "200",
+      "height": "146",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1947UselessMachine.jpg",
+      "alt": "",
+      "caption": "Macchina Inutile, 1947",
+      "width": "300",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1949SculturaMobile.jpg",
+      "alt": "",
+      "caption": "Scultura Mobile, 1949",
+      "width": "238",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/man-ray-1920-obstruction-s.jpg",
+      "alt": "",
+      "caption": "Man Ray: Obstruction, 1920",
+      "legacy_src": "ManRay/1920-obstruction-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/man-ray-1964-Obstruction-C.jpg",
+      "alt": "",
+      "caption": "Man Ray: Instructions for assembling Obstruction, 1964",
+      "legacy_src": "ManRay/1964-Obstruction-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1933-ConeDEbene-s.jpg",
+      "alt": "",
+      "caption": "Cone d'Ébène, 1933",
+      "legacy_src": "Calder/1933-ConeDEbene-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1934.jpg",
+      "alt": "",
+      "caption": "1934",
+      "legacy_src": "Calder/1934.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1938-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1938",
+      "legacy_src": "Calder/1938-Unt.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1941-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1941",
+      "legacy_src": "Calder/1941-Unt.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1941-Boomerangs.jpg",
+      "alt": "",
+      "caption": "Boomerangs, 1941",
+      "legacy_src": "Calder/1941-Boomerangs.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1942-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1942",
+      "legacy_src": "Calder/1942-Unt.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1948Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1948",
+      "legacy_src": "Calder/1948Unt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1948-SnowFlurry.jpg",
+      "alt": "",
+      "caption": "Snow Flurry, 1948",
+      "legacy_src": "Calder/1948-SnowFlurry.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1950(ca)-Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, ca. 1950",
+      "legacy_src": "Calder/1950(ca)-Unt.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1952(ca)-PourVilar,60x190cm-s.jpg",
+      "alt": "",
+      "caption": "English Tellurium, 1820",
+      "legacy_src": "Calder/1952(ca)-PourVilar,60x190cm-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1953-Myxomatose.jpg",
+      "alt": "",
+      "caption": "Myxomatose, 1953",
+      "legacy_src": "Calder/1953-Myxomatose.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/calder-1959-1963-RougeTriomphant-S.jpg",
+      "alt": "",
+      "caption": "Rouge Triomphant, 1959-1963",
+      "legacy_src": "Calder/1959-1963-RougeTriomphant-S.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1939MacchinaInutile.jpg",
+      "alt": "",
+      "caption": "Macchina Inutile, 1939",
+      "legacy_src": "Munari/1939MacchinaInutile.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1947UselessMachine.jpg",
+      "alt": "",
+      "caption": "Macchina Inutile, 1947",
+      "legacy_src": "Munari/1947UselessMachine.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amain/munari-1949SculturaMobile.jpg",
+      "alt": "",
+      "caption": "Scultura Mobile, 1949",
+      "legacy_src": "Munari/1949SculturaMobile.jpg"
+    }
+  ],
+  "out_links": []
+}

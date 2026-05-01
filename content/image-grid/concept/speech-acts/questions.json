@@ -1,0 +1,230 @@
+{
+  "slug": "concept/speech-acts/questions",
+  "legacy_path": "concept/SpeechActs/Questions/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Questions",
+  "heading": "Questions",
+  "description": "Concept art: Text pieces: Speech acts: Questions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Questions",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Can we say that a kind of grammatical chasm exists between the form of the proposition and that of the question? Is there a kind of world, as it were, of the question, whose difference, verging on the suspicion of a kind of lack, sets it in perpetual opposition to that other world, that of the statement? [...] And when it comes to actions, are there those that one could designate as interrogative? And what about objects?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Morris: \"Professional Rules.\" Critical Inquiry, 23 (Winter 1997).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/61Ben-QuiVousDit.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Qui vous dit qu'il n'est\n\npas beau ce tableau?\" – 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/BenCEstBeauQ.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "110",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"C'est beau\n\nn'est-ce pas?\"",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/2005Ben-Est-CeBienDeLArtQ-s.jpg",
+      "alt": "",
+      "caption": "\"Est-ce bien de l'art?\" – 2005",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mario Merz",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Che fare?\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1968",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/68MarioMerzCheFare-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jenny Holzer",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/83holzerWhatUrge(TSS)-s.gif",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/83-85-Holzer.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "62",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"What urge will save us\n\nnow that sex won't?\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1983, 1985",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/2004holzerXenonForDC-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"When you place your hand on the Bible,\n\ndo you think about eternal questions:\n\n\nwhy are we here instead of nothing?\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2004",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Barbara Kruger",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1991",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/questions/91kruger[Questions(Flag)]-s.gif",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Look for the moment when pride becomes contempt.\n\nWho is free to choose? Who is beyond the law?\n\nWho is healed? Who is housed?\n\nWho speaks? Who is silenced?\n\nWho salutes longest? Who prays loudest?\n\nWho dies first? Who laughs last?",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/questions/61Ben-QuiVousDit.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "61Ben-QuiVousDit.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/BenCEstBeauQ.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BenCEstBeauQ.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/2005Ben-Est-CeBienDeLArtQ-s.jpg",
+      "alt": "",
+      "caption": "\"Est-ce bien de l'art?\" – 2005",
+      "legacy_src": "2005Ben-Est-CeBienDeLArtQ-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/68MarioMerzCheFare-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "68MarioMerzCheFare-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/83holzerWhatUrge(TSS)-s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "83holzerWhatUrge(TSS)-s.gif"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/83-85-Holzer.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "83-85-Holzer.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/2004holzerXenonForDC-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004holzerXenonForDC-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/questions/91kruger[Questions(Flag)]-s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "91kruger%5BQuestions(Flag)%5D-s.gif"
+    }
+  ],
+  "out_links": []
+}

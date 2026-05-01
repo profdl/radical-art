@@ -1,0 +1,141 @@
+{
+  "slug": "process/burn/aubertin",
+  "legacy_path": "process/burn/aubertin.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Bernard Aubertin",
+  "heading": "",
+  "description": "Bernard Aubertin: Livres Brûlés & Dessins de Feu",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "bernard aubertin: livres brûlés & dessins de\nfeu",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBrule1962-70-S.jpg",
+      "alt": "",
+      "caption": "livre brûlé et à brûler,\n1962-1970",
+      "width": "310",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreABrulet62-70-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "310",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBruleS.gif",
+      "alt": "",
+      "caption": "livre brûlé",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinDessinDeFeuAvec1973.jpg",
+      "alt": "",
+      "caption": "dessin de feu, 1973",
+      "width": "300",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinDessinDeFeu1973.jpg",
+      "alt": "",
+      "caption": "dessin de feu, 1973",
+      "width": "250",
+      "height": "321",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinCirkel.gif",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinCombustion.jpg",
+      "alt": "",
+      "caption": "combustion",
+      "width": "81",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBrule1974.jpg",
+      "alt": "",
+      "caption": "livre brûlé, 1974",
+      "width": "200",
+      "height": "221",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBrule1962-70-S.jpg",
+      "alt": "",
+      "caption": "livre brûlé et à brûler,\n1962-1970",
+      "legacy_src": "../../gif/natuur/FireS/AubertinLivreBrule1962-70-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreABrulet62-70-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/natuur/FireS/AubertinLivreABrulet62-70-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBruleS.gif",
+      "alt": "",
+      "caption": "livre brûlé",
+      "legacy_src": "../../gif/natuur/FireS/AubertinLivreBruleS.gif"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinDessinDeFeuAvec1973.jpg",
+      "alt": "",
+      "caption": "dessin de feu, 1973",
+      "legacy_src": "../../gif/natuur/FireS/AubertinDessinDeFeuAvec1973.jpg"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinDessinDeFeu1973.jpg",
+      "alt": "",
+      "caption": "dessin de feu, 1973",
+      "legacy_src": "../../gif/natuur/FireS/AubertinDessinDeFeu1973.jpg"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinCirkel.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/natuur/FireS/AubertinCirkel.gif"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinCombustion.jpg",
+      "alt": "",
+      "caption": "combustion",
+      "legacy_src": "../../gif/natuur/FireS/AubertinCombustion.jpg"
+    },
+    {
+      "src": "/images/process/burn/aubertin/fire-s-AubertinLivreBrule1974.jpg",
+      "alt": "",
+      "caption": "livre brûlé, 1974",
+      "legacy_src": "../../gif/natuur/FireS/AubertinLivreBrule1974.jpg"
+    }
+  ],
+  "out_links": []
+}

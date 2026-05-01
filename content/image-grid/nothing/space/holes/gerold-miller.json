@@ -1,0 +1,105 @@
+{
+  "slug": "nothing/space/holes/gerold-miller",
+  "legacy_path": "nothing/space/holes/GeroldMiller/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes / Gerold Miller",
+  "heading": "",
+  "description": "Gerold Miller's Instant Vision series (2005).",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Gerold Miller:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Instant Vision,",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2005",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller/GeroldMiller05-IV-1-s.jpg",
+      "alt": "",
+      "caption": "# 1",
+      "width": "169",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision2-s.jpg",
+      "alt": "",
+      "caption": "# 2",
+      "width": "173",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision3-s.jpg",
+      "alt": "",
+      "caption": "# 3",
+      "width": "172",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision4-s.jpg",
+      "alt": "",
+      "caption": "# 4",
+      "width": "187",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision5-s.jpg",
+      "alt": "",
+      "caption": "# 5",
+      "width": "178",
+      "height": "179",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/gerold-miller/GeroldMiller05-IV-1-s.jpg",
+      "alt": "",
+      "caption": "# 1",
+      "legacy_src": "GeroldMiller05-IV-1-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision2-s.jpg",
+      "alt": "",
+      "caption": "# 2",
+      "legacy_src": "Miller05instantvision2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision3-s.jpg",
+      "alt": "",
+      "caption": "# 3",
+      "legacy_src": "Miller05instantvision3-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision4-s.jpg",
+      "alt": "",
+      "caption": "# 4",
+      "legacy_src": "Miller05instantvision4-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/gerold-miller/Miller05instantvision5-s.jpg",
+      "alt": "",
+      "caption": "# 5",
+      "legacy_src": "Miller05instantvision5-s.jpg"
+    }
+  ],
+  "out_links": []
+}

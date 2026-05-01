@@ -1,0 +1,329 @@
+{
+  "slug": "algorithmic-art/algebra/sit",
+  "legacy_path": "AlgorithmicArt/algebra/SIT/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Gestalt Perception",
+  "heading": "Gestalt perception and its formalization",
+  "description": "Computational models of visual gestalt perception. Structural Information Theory.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Image algebras",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Algorithmic line drawing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Algorithmic\nArt",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical Art",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Die Schönheit einer Sternfigur – eines Sechseck-Sterns\netwa – wird beeinträchtigt, wenn man sie symmetrisch bezüglich\neiner bestimmten Achse sieht.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein, 1948. (Vermischte Bemerkungen,\np. 135.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gestalt perception and its formalization",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "The term \"Gestalt\" denotes the\nperceived structure of visual input. (The analogous notion in language\nprocessing would be: the surface structure of utterances\nand texts.) We focus on static images. Their perception is determined\nby: (1) similarity with previously encountered images; (2) interpreting\nan image as a representation of a 3D scene, thereby accounting for\nperspective, lighting effects, etc.; (3) a preference for simplicity\nand regularity.\n\n\n\nWe now narrow our focus once more. We concentrate on abstract patterns\nwhere recognition and 3D-phenomena play no role. This is the domain\nof \"Gestalt perception\" in the more narrow sense of that\nterm. (Note: It has been surmised that this exercise is intrinsically\nuseless, because all perception is completely determined by the\ncognitive faculty of recognition. This \"radical empiricism\" has been tested and refuted. Cf. several papers in Ellis (1938).)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Max Wertheimer's Gestalt Principles",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Wertheimer's thesis: Gestalt perception is determined by several interacting principles, such as:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Proximity: O OO OOO OOO OOOOOO OO\n\n\n\nSimilarity in Color: OOOOOOOOOOOOOOOOOOOO\n\n\n\nSimilarity in Size: OOOooOoOOoooooOOOOOOooO\n\n\n\nSimilarity in Shape: OOOXOOXXOOOOOOXOOXXXOX\n\n\n\nRepetition: AXQAXQAXQAXQAXQAXQAXQAXQ\n\n\n\nSymmetrie: BBBBBAAAXXXQQQXXXAAABBBBB\n\n\n\nExperience: Recognizing previously perceived patterns",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/algebra/sit/proximity.jpg",
+      "alt": "",
+      "caption": "Proximity",
+      "width": "80",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/algebra/sit/continuation.jpg",
+      "alt": "",
+      "caption": "Continuation",
+      "width": "80",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/algebra/sit/similarity.jpg",
+      "alt": "",
+      "caption": "Similarity",
+      "width": "80",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/algebra/sit/closure.jpg",
+      "alt": "",
+      "caption": "Closure",
+      "width": "80",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Max Wertheimer: \"Untersuchungen zur Lehre von\nder Gestalt.\" Psychologische Forschung 4 (1923),\npp. 301-350. [English translation of important parts of this paper: \"Laws\nof Organization in Perceptual Forms.\" In: W. Ellis: A\nsource book of Gestalt psychology. London: Routledge & Kegan Paul,\n1938, pp. 71-88.]\n\n\n\nIrvin Rock and Stephen Palmer: \"The Legacy of Gestalt Psychology.\"\nScientific American, December 1990, pp. 48–61.",
+      "links": [
+        {
+          "text": "Laws of Organization in Perceptual Forms.",
+          "href": "http://psy.ed.asu.edu/%7Eclassics/Wertheimer/Forms/forms.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Emanuel Leeuwenberg: Structural Information Theory (SIT)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Domain: Sequences of symbols. (E.g.: \"XPAPX\", \"LHOOQ\", \"OFHSKHKSHFKSHFKSH\"\n– where the letters stand for atomic elements that have no perceivable\nrelation to each other.)\n\n\n\nThe process of perception translates an input sequence into an expression\nof a \"coding language\". The coding language has the same\nprimitive symbols as the input language, but it has other operations\nbesides mere concatenation. These operations are: Repetition, Symmetry,\nand Alternation. E.g.:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rep3(AB) =\nABABAB\n\nSym(AB, C) = ABCBA\n\nAltright(ABC, K) = AKBKCK",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Any input-pattern has many alternative\ncodings. E.g.:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "ABABAB",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "= Rep3(AB)\n\n= AB Rep2(AB)\n\n= A Rep2(BA) B\n\n= A Sym(BA, B)\n\n= Altright(AAA, B)\n\n= Altright(Rep3(A), B)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Perception is disambiguation. Disambiguation\ncriterion: choose the shortest code. (Other psychologists have\nproposed similar ideas. Cf.: Fred Attneave, Max Clowes.) Note\nthe similarity with the theory of Minimum Description Length (MDL),\nas developed by Kolmogorov, Solomonoff, Rissanen, Li & Vitanyi.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Emanuel L. J. Leeuwenberg: \"A\nPerceptual Coding Language for Visual and Auditory Patterns.\"\nAmerican Journal of Psychology 84, 3 (1971).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The discrete line: \"turtle graphics\"",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Leeuwenberg's coding theory will\nnot be the ultimate account of any domain of human perception.\nThere are no perceptual modalities where one may realistically\nassume an input consisting of discrete, unrelated symbols. The\nvisual domain presents an additional problem: it is intrinsically\ntwo-dimensional rather than linear. Leeuwenberg tries to sidestep\nthe latter problem by focussing on black & white drawings\nconsisting of straight line segments, and representing such drawings\nas discrete symbol sequences, by means of \"turtle graphics\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In \"Turtle Graphics\",\na line consisting of straight segments is described from the perspective\nof a turtle who draws it: the length of segment 1, the angle to\nturn after segment 1, the length of segment 2, the angle to turn\nafter segment 2, and so on. Combined with the commands \"pen\nup\" and \"pen down\", this allows the description\nof all possible drawings consisting of straght line segments.\n\n\n\n(A turtle graphics description specifies a sequence of points.\nNote that such a sequence of points can also be used to define\na quadratic or cubic spline curve.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Abelson and Andrea diSessa:\nTurtle Geometry. The Computer as a Medium for Exploring Mathematics.\nCambridge, MA: MIT Press, 1980.\n\n\n\nSeymour Papert: Mindstorms. Children, Computers, and Powerful\nIdeas. New York: Basic Books, 1980.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Structural Information Theory for discrete line drawings",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Using a turtle-graphics notation,\nthe input-code of a square with edge a is: pi/2\na pi/2 a pi/2 a pi/2 a\n\nThe shortest SIT-coding of this pattern is: rep4(pi/2\na)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A square with edge c\nwith on its corners squares with edge a: rep4(pi/2\nc rep4(pi/2 a))\n\n\n\nThis pattern is also perceived when the square with edge c is not drawn explicitly. To account for such examples, the operations \"lift pen\" and \"lower pen\" are added to the\ncoding language.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The input code of a zigzag line:\nb a c a b a c a b a c a b a c\na b a c a b a c a",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Its shortest coding in the SIT-language: altright(rep6(b\nc), a)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A zigzag line is perceived as \"symmetric\" if c equals –b. The SIT-code does not account\nfor this observation, because it ignores the relation between b and c: the angles are treated as atomic symbols.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jos de Bruin's online SIT-Interpreter\napplet allows you to play with SIT-codes for discrete lines. [Note\nthat this applet uses the SIT-notation defined in Chapter 2 of Dastani\n(1998), which is different than the one used in the examples above.\nUse the button \"Auto\" to see random examples of codes in that\nnotation.]",
+      "links": [
+        {
+          "text": "SIT-Interpreter",
+          "href": "http://www.artificialdesign.nl/Other/SIT/SIT.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mapping arbitrary input-codes onto their shortest\nequivalent SIT-notation is an NP-complete problem. (The computational\ncomplexity is caused by the alternation-operation.) There are two\nimplemented algrithms that try to meet this challenge.\n\nPeter van der Helm's program PISA implements a deterministic\nalgorithm which often (but not always) yields the optimal code. It\nwas written in C and runs under Unix. Robert Voorn (VU) implemented\na genetic algorithm which often (but not always) yields the optimal\ncode. It was written in C++ and runs under Unix. Both programs can\nbe obtained through Mehdi Dastani (mehdi at cs dot uu dot nl).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dastani (1998) discusses some fundamental\nlimitations of Structural Information Theory, and tries to overcome\nsome of them. The most important limitations are:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The assumption that line drawings can\nbe \"linearized\" is not warranted.",
+          "links": []
+        },
+        {
+          "text": "The proximity factor is ignored.",
+          "links": []
+        },
+        {
+          "text": "\"Emergent\" Gestalts (such as Moiré Effects)\nare ignored.",
+          "links": [
+            {
+              "text": "Moiré Effects",
+              "href": "/algorithmic-art/moire",
+              "external": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "References Gestalt Perception.\n\n\n\nR. Collard, P. Vos and E. Leeuwenberg: \"What\nMelody Tells about Metre in Music.\" Zeitschrift für\nPsychologie, 189 (1981).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mohammad\nMehdi Dastani: Languages of Perception.\nPh. D. Thesis University of Amsterdam, 1998. ILLC Dissertation Series\n1998-05.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Emanuel L. J. Leeuwenberg: \"A\nPerceptual Coding Language for Visual and Auditory Patterns.\"\nAmerican Journal of Psychology 84, 3 (1971).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "References Complexity.\n\n\n\nG. Birkhoff: \"A Mathematical Approach to Aesthetics.\"\nScientia 50 (1931), pp. 133-146.\n\n\n\nR. Gunzenhäuser: \"Birkhoff's Anwendungen.\" In: Maß\nund Information als Ästhetische Kategorien. Baden-Baden:\nAgis Verlag, 1975.\n\n\n\nFrans Boselie and Emanuel Leeuwenberg: \"A General Notion of\nBeauty Used to Quantify the Aesthetic Attractiveness of Geometric\nForms.\" In: W. Crozier and A. Chapman (eds.): Cognitive\nProcesses in the Perception of Art. Elsevier Science Publishers,\n1984.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Acknowledgments\n\n\n\nSeveral decades ago, Léon van Noorden drew\nour attention to Leeuwenberg's work.\n\nYuri Engelhardt provided some of the illustrations on this page.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha & Jos de Bruin, 2002",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/algebra/sit/proximity.jpg",
+      "alt": "",
+      "caption": "Proximity",
+      "legacy_src": "proximity.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/algebra/sit/continuation.jpg",
+      "alt": "",
+      "caption": "Continuation",
+      "legacy_src": "continuation.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/algebra/sit/similarity.jpg",
+      "alt": "",
+      "caption": "Similarity",
+      "legacy_src": "similarity.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/algebra/sit/closure.jpg",
+      "alt": "",
+      "caption": "Closure",
+      "legacy_src": "closure.jpg"
+    }
+  ],
+  "out_links": []
+}

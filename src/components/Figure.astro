@@ -1,0 +1,60 @@
+---
+import { unwrap } from "~/lib/text";
+
+interface FigureBlock {
+  type: "figure";
+  src: string;
+  alt: string;
+  caption: string;
+  width?: string | null;
+  height?: string | null;
+  links: { text: string; href: string; external?: boolean }[];
+}
+
+interface Props {
+  block: FigureBlock;
+}
+
+const { block } = Astro.props;
+const caption = unwrap(block.caption);
+const w = block.width ? Number(block.width) : undefined;
+const h = block.height ? Number(block.height) : undefined;
+const ratio = w && h ? `${w} / ${h}` : undefined;
+
+const captionLink = block.links.find(
+  (l) => l.text && caption.toLowerCase().includes(l.text.toLowerCase()),
+);
+---
+
+<figure class="space-y-2">
+  <div
+    class="relative overflow-hidden bg-[color:var(--color-rule-light)]"
+    style={ratio ? `aspect-ratio: ${ratio}` : undefined}
+  >
+    <img
+      src={block.src}
+      alt={block.alt || caption}
+      loading="lazy"
+      decoding="async"
+      class="h-full w-full object-cover"
+    />
+  </div>
+  {
+    caption && (
+      <figcaption class="prose-archive text-[0.9rem] leading-snug text-[color:var(--color-ink)]">
+        {captionLink ? (
+          <a
+            href={captionLink.href}
+            class="hover:underline"
+            target={captionLink.external ? "_blank" : undefined}
+            rel={captionLink.external ? "noreferrer" : undefined}
+          >
+            {caption}
+          </a>
+        ) : (
+          caption
+        )}
+      </figcaption>
+    )
+  }
+</figure>

@@ -1,0 +1,152 @@
+{
+  "slug": "algorithmic-art/moire",
+  "legacy_path": "AlgorithmicArt/moire/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Moire",
+  "heading": "",
+  "description": "Emergence in early algorithmic art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Emergence & Moiré",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Emergence",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "In algorithmic art\nin the true sense of that word, the artwork is the algorithm. The\nartistic value of an algorithm is not necessarily purely conceptual,\nhowever. Algorithmic art often bridges (or short-circuits) the gap\nbetween the conceptual and the \"retinal\", when the observer\nis confronted with a surprising or puzzling relation between the\nalgorithm and its visual output – for instance, when a simple\nprocedure yields a complex result, or when a seemingly random process\ncreates striking regularities. This is the art of \"emergence\":\nto explore the discrepancies between what is programmed and what\nis observed; to initiate the \"spontaneous\" generation\nof form out of iterated local interactions.\n\n\n\nThe phenomenon of \"Moiré patterns\" is an early\ninstance of emergent form: the superposition of two simple\npatterns gives rise to a new, more complex pattern which is unrelated\nto each of its constituents: it is an interference pattern, generated\nby the interaction between the constituents.\n\n\n\nThe earliest computer art (1960's), also often demonstrates emergent\npatterns. For instance, an iteration loop repeats a simple shape\nwhile transforming it by translation, rotation, scaling, etc.; the\nresult is a new Gestalt which is not perceived in terms of the elementary\nshapes that constitute it.\n\n\n\nMore complex algorithms displaying this kind of behaviour are developed\nin the context of recently developed scientific disciplines such\nas Computational Mathematics and Artificial Life.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbert\nBrün (1960's)\n\n\n\nBit-101\nLaboratory: 2002 january 21; december 1.\n\n\n\nCellular Automata",
+      "links": [
+        {
+          "text": "Herbert Brün",
+          "href": "http://www.herbertbrun.org/BrunGalleries.html",
+          "external": true
+        },
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata",
+          "href": "/algorithmic-art/grid/cellular",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Moiré patterns",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/Life/div/moireM.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "452",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "'Moiré' is a French word meaning 'watery' or 'watered silk'\nand has now been adopted in English. Watered silk and mohair fabric\nhave an appearance that is both shimmery and like the grain of wood.\nThat such patterns could be produced with a pair of diffraction gratings\nwas pointed out by Lord Rayleigh in 1874, who also mentioned that\nthe principle could be useful in making accurate measurements. (.\n. .)\n\n\n\nA diffraction grating is a transparency with ruled parallel lines\nso close they cannot be seen with the naked eye. But if two such gratings\nare superimposed, with slightly different rulings, a pattern analogous\nto the beats of sound becomes entirely visible, in fact a good alternative\nname for moiré patterns would be 'visible beats'. One is provoked\nto conjecture that the fundamental nature of matter is based on such\na principle. Perhaps all we can observe in nature are moiré fringes produced by something analogous to diffraction gratings in\nwhich the distances between adjacent lines are so small that there\nis no method known for their direct observation, even with an electron\nmicroscope. This suggestion would fit in well with the theory of 'winding\nspace', where space is assumed not to close in on itself but to just\nmiss, that is, instead of being a hypersphere it is a sort of hyper-helix.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Good (1971)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Bibliography",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "I. Amidror: The\nTheory of the Moiré Phenomenon, Kluwer Academic Publishers\n(1999).\n\n\n\nGregory Bateson: \"The Case of Beats and Moiré Phenomena.\" In: Mind and Nature.\n\n\n\nIrving John Good: \"Science in the Flesh.\" In: Jasia Reichardt (ed.):\nCybernetics, Art and Ideas (London: Studio Vista, 1971), pp. 104-106.\n\n\n\nJ. Guild: Interference Systems of Crossed Diffraction Gratings:\nTheory of Moiré Fringes. London: Oxford University Press,\n1956.\n\n\n\nJ. Guild: Diffraction Gratings as Measuring Scales. London:\nOxford University Press, 1960.\n\n\n\nG. Oster and Yasunovi Nishijama: \"Moiré Patterns.\"\nScientific American May 1963, pp. 54-63.\n\n\n\nLord Rayleigh: \"On the manufacture and theory of diffraction\ngratings.\" Scientific Papers 1, p. 209; Philosophical\nMagazine 47 (1874), pp. 81-93, 193-204.",
+      "links": [
+        {
+          "text": "The Theory of the Moiré Phenomenon",
+          "href": "http://diwww.epfl.ch/w3lsp/books/moire/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Online examples\nand applets.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Circle of Spokes.",
+      "links": [
+        {
+          "text": "Circle of Spokes.",
+          "href": "http://24hours7days.com/Javascript/Moire4/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Spatial\nBeats.",
+      "links": [
+        {
+          "text": "Spatial Beats.",
+          "href": "http://www.exploratorium.edu/xref/phenomena/beats_-_spatial.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Frédéric Durieu: Moiré,\n1997-2001",
+      "links": [
+        {
+          "text": "Moiré",
+          "href": "http://www.lecielestbleu.com/html/moire.htm#",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2003",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "http://radicalart.info/Life/div/moireM.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "http://radicalart.info/Life/div/moireM.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/cellular"
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "slug": "things/wrapped",
+  "legacy_path": "things/wrapped/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Wrappings",
+  "heading": "Wrappings",
+  "description": "Wrappings, empaquetages.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things radical\nart (home page)",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Wrappings",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "\"If you wrap up different kinds of furniture in enough wrapping paper, you can make them all look the same shape.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/DaVinciDrawing-s.jpg",
+      "alt": "",
+      "caption": "Leonardo da Vinci",
+      "width": "230",
+      "height": "243",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/magritte-Les_Amants_1925-S.gif",
+      "alt": "",
+      "caption": "René Magritte: Les Amants, 1925",
+      "width": "230",
+      "height": "170",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/magritte",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/Tapies70ChaiseCvrte-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "182",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Antoni Tàpies:\n\nChaise Couverte, 1970",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray-ManRay20LEnigme-S.jpg",
+      "alt": "",
+      "caption": "Man Ray: L'Énigme d'Isidore Ducasse, 1920",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/Henry36HAPaganini-S.jpg",
+      "alt": "",
+      "caption": "Maurice Henry: Hommage à Paganini, 1936",
+      "width": "324",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/RolandPenrose-1938-M.jpg",
+      "alt": "",
+      "caption": "Roland Penrose, 1938. (From: The Road is Wider than Long.\n\nLondon: London Gallery Editions, 1939.)",
+      "width": "274",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo-58-59-WrppdCnsAndBttls-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Wrapped Cans and Bottles, 1958-1959",
+      "width": "318",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/christo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman-60TableauMalade-s.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: Tableau Malade, 1960",
+      "width": "230",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/manzoni-ManzoniAchr62[Pacco]b-ss.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni: Achromo (Pacco), 1962",
+      "width": "220",
+      "height": "180",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray-ManRay36VenusRestauree-M.gif",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man Ray:\n\nVénus Restaurée, 1936",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/Reuterswaerd60Msktte-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "151",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carl Fredrik Reuterswärd:\n\nMaskotte, 1960",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/70-MichelJourniac-s.jpg",
+      "alt": "",
+      "caption": "Michel Journiac, 1970",
+      "width": "188",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman-6yUnt-S.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: Untitled,\n\n1960's",
+      "width": "125",
+      "height": "209",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/erik-dietman",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/Bs66InfltrtnHmgn4KnzrtflglS.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Infiltration Homogen für Konzertflügel,\n\n1968.",
+      "width": "310",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete-Delete8-s.jpg",
+      "alt": "",
+      "caption": "Christophe Steinbrener & Rainer Dempf:\n\nDelete!\n\n(Neubaugasse, Vienna, 2005)",
+      "width": "207",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/delete",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman-61TheUnwellSaw-SS.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: The Sick Saw, 1961",
+      "width": "317",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman-62BodyArt-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "132",
+      "height": "221",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Erik Dietman:\n\nBody Art, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/BeuysMes1962-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Wenn Du Dich schneidest, verbinde nicht den Finger sondern das Messer. (1962)",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/muehl-Muehl64MANr5-S.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Material-Aktion, 1964",
+      "width": "194",
+      "height": "250",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/muehl",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/64-GUENTER-BRUS-ANA-s.jpg",
+      "alt": "",
+      "caption": "Günter Brus: Ana, 1964",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/65-schwarzkogler-s.jpg",
+      "alt": "",
+      "caption": "Rudolph Schwarzkogler, 1965",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More wrappings by:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Man Ray",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/man-ray",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "René Magritte",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/magritte",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Christo Javacheff",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/christo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Erik Dietman",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/erik-dietman",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "More images of:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Otto Mühl's 1964 Material-Aktion",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/muehl",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Delete!\" (Christophe Steinbrener & Rainer Dempf)",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/delete",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related genres:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Cover-up",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Secrets",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sources",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "The images of pieces by Maurice Henry, Carl Fredrik Reuterswärd and Antoni Tàpies were copied from:\n\nWilly Rotzler: Objektkunst. Von Duchamp bis zur Gegenwart. Köln: DuMont Schauberg, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Wittgenstein quote was taken from John R. Searle: The Rediscovery of the Mind. Cambridge, Mass.: MIT Press, 1992, p. 126.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/DaVinciDrawing-s.jpg",
+      "alt": "",
+      "caption": "Leonardo da Vinci",
+      "legacy_src": "DaVinciDrawing-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/magritte-Les_Amants_1925-S.gif",
+      "alt": "",
+      "caption": "René Magritte: Les Amants, 1925",
+      "legacy_src": "Magritte/Les_Amants_1925-S.gif"
+    },
+    {
+      "src": "/images/things/wrapped/Tapies70ChaiseCvrte-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Tapies70ChaiseCvrte-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/man-ray-ManRay20LEnigme-S.jpg",
+      "alt": "",
+      "caption": "Man Ray: L'Énigme d'Isidore Ducasse, 1920",
+      "legacy_src": "ManRay/ManRay20LEnigme-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/Henry36HAPaganini-S.jpg",
+      "alt": "",
+      "caption": "Maurice Henry: Hommage à Paganini, 1936",
+      "legacy_src": "Henry36HAPaganini-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/RolandPenrose-1938-M.jpg",
+      "alt": "",
+      "caption": "Roland Penrose, 1938. (From: The Road is Wider than Long.\n\nLondon: London Gallery Editions, 1939.)",
+      "legacy_src": "RolandPenrose-1938-M.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo-58-59-WrppdCnsAndBttls-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Wrapped Cans and Bottles, 1958-1959",
+      "legacy_src": "Christo/58-59-WrppdCnsAndBttls-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman-60TableauMalade-s.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: Tableau Malade, 1960",
+      "legacy_src": "ErikDietman/60TableauMalade-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/manzoni-ManzoniAchr62[Pacco]b-ss.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni: Achromo (Pacco), 1962",
+      "legacy_src": "Manzoni/ManzoniAchr62%5BPacco%5Db-ss.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/man-ray-ManRay36VenusRestauree-M.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ManRay/ManRay36VenusRestauree-M.gif"
+    },
+    {
+      "src": "/images/things/wrapped/Reuterswaerd60Msktte-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Reuterswaerd60Msktte-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/70-MichelJourniac-s.jpg",
+      "alt": "",
+      "caption": "Michel Journiac, 1970",
+      "legacy_src": "70-MichelJourniac-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman-6yUnt-S.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: Untitled,\n\n1960's",
+      "legacy_src": "ErikDietman/6yUnt-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/Bs66InfltrtnHmgn4KnzrtflglS.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Infiltration Homogen für Konzertflügel,\n\n1968.",
+      "legacy_src": "Bs66InfltrtnHmgn4KnzrtflglS.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete-Delete8-s.jpg",
+      "alt": "",
+      "caption": "Christophe Steinbrener & Rainer Dempf:\n\nDelete!\n\n(Neubaugasse, Vienna, 2005)",
+      "legacy_src": "Delete/Delete8-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman-61TheUnwellSaw-SS.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: The Sick Saw, 1961",
+      "legacy_src": "ErikDietman/61TheUnwellSaw-SS.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman-62BodyArt-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ErikDietman/62BodyArt-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/BeuysMes1962-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Wenn Du Dich schneidest, verbinde nicht den Finger sondern das Messer. (1962)",
+      "legacy_src": "BeuysMes1962-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/muehl-Muehl64MANr5-S.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Material-Aktion, 1964",
+      "legacy_src": "Muehl/Muehl64MANr5-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/64-GUENTER-BRUS-ANA-s.jpg",
+      "alt": "",
+      "caption": "Günter Brus: Ana, 1964",
+      "legacy_src": "64-GUENTER-BRUS-ANA-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/65-schwarzkogler-s.jpg",
+      "alt": "",
+      "caption": "Rudolph Schwarzkogler, 1965",
+      "legacy_src": "65-schwarzkogler-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/wrapped/christo",
+    "/things/wrapped/delete",
+    "/things/wrapped/erik-dietman",
+    "/things/wrapped/magritte",
+    "/things/wrapped/man-ray",
+    "/things/wrapped/muehl"
+  ]
+}

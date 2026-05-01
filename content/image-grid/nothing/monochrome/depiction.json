@@ -1,0 +1,269 @@
+{
+  "slug": "nothing/monochrome/depiction",
+  "legacy_path": "nothing/monochrome/depiction/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Depicting the monochrome",
+  "heading": "The monochrome as an iconic motif",
+  "description": "Paintings depicting monochromes. (The monochrome as an iconic motif in 20th-century painting.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The monochrome as an iconic motif",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Kazimir Malevich",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-13-23-BlackSquare-S.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-15-peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-15-RedSquare-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "width": "166",
+      "height": "217",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-17-18SuprPntng-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Painting, 1917/1918",
+      "width": "125",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-18-SCWhOnWh-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Composition:\n\nWhite on White, 1918",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-18-19RedSqreOnBlack.jpg",
+      "alt": "",
+      "caption": "Red Square on Black, 1918/1919",
+      "width": "120",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Suprematism",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/malevich-14-SoldierOfTh1stDivision-s.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich: Soldier of the First Division, 1914",
+      "width": "200",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/16-AlexeiMorgunovCompN1-s.jpg",
+      "alt": "",
+      "caption": "Alexej Morgunov: Composition Nr 1, 1916",
+      "width": "200",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "1950's/1960's",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/58-YozoUkitaUnt.jpg",
+      "alt": "",
+      "caption": "Yozo Ukita: Untitled, 1958",
+      "width": "161",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/59ConnerHomage2MinnieMouseS.jpg",
+      "alt": "",
+      "caption": "Bruce Conner: Homage to Minnie Mouse, 1959",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/60-raveel-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel, 1960",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/63-SaburoMurakami-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami, 1963",
+      "width": "189",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/roger-raveel-66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel:\n\nEen Sacraal Vierkant, 1966",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/depiction/67-SaburoMurakami-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami, 1967",
+      "width": "288",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Malevich\nand the Monochrome",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Suprematism",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Roger\nRaveel",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-13-23-BlackSquare-S.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "legacy_src": "malevich/13-23-BlackSquare-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-15-peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "legacy_src": "malevich/15-peasant-woman-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-15-RedSquare-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "legacy_src": "malevich/15-RedSquare-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-17-18SuprPntng-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Painting, 1917/1918",
+      "legacy_src": "malevich/17-18SuprPntng-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-18-SCWhOnWh-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Composition:\n\nWhite on White, 1918",
+      "legacy_src": "malevich/18-SCWhOnWh-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-18-19RedSqreOnBlack.jpg",
+      "alt": "",
+      "caption": "Red Square on Black, 1918/1919",
+      "legacy_src": "malevich/18-19RedSqreOnBlack.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/malevich-14-SoldierOfTh1stDivision-s.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich: Soldier of the First Division, 1914",
+      "legacy_src": "malevich/14-SoldierOfTh1stDivision-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/16-AlexeiMorgunovCompN1-s.jpg",
+      "alt": "",
+      "caption": "Alexej Morgunov: Composition Nr 1, 1916",
+      "legacy_src": "16-AlexeiMorgunovCompN1-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/58-YozoUkitaUnt.jpg",
+      "alt": "",
+      "caption": "Yozo Ukita: Untitled, 1958",
+      "legacy_src": "58-YozoUkitaUnt.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/59ConnerHomage2MinnieMouseS.jpg",
+      "alt": "",
+      "caption": "Bruce Conner: Homage to Minnie Mouse, 1959",
+      "legacy_src": "59ConnerHomage2MinnieMouseS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/60-raveel-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel, 1960",
+      "legacy_src": "60-raveel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/63-SaburoMurakami-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami, 1963",
+      "legacy_src": "63-SaburoMurakami-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/roger-raveel-66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel:\n\nEen Sacraal Vierkant, 1966",
+      "legacy_src": "RogerRaveel/66EenSacraalVierkant-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/depiction/67-SaburoMurakami-s.jpg",
+      "alt": "",
+      "caption": "Saburo Murakami, 1967",
+      "legacy_src": "67-SaburoMurakami-s.jpg"
+    }
+  ],
+  "out_links": []
+}

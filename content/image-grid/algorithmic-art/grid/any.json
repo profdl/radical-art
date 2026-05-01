@@ -1,0 +1,595 @@
+{
+  "slug": "algorithmic-art/grid/any",
+  "legacy_path": "AlgorithmicArt/grid/any/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Any Grid",
+  "heading": "Any Grid",
+  "description": "The grid in algorithmic and interactive art: random grids and pixel paint tools.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Any Grid",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Random\nGrids",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The arbitrary grid, chosen at random\nfrom the set of all grids, functions as a symbol: it represents\nthe whole set of possibilities. But it also demonstrates the equivalence\nof all these possibilities: the image displayed by the randomly\nsampled pixel configuration is noise. (If the resolution\nis high enough, the random grid turns into a grey or brown monochrome.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jean Arp",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/16arp-16-SelonLesLoisDuHasard-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/16arp-1617CollageEtc-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/16arp-arp2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/16arp-17-CarresArrangeesSLLDH-s.jpg",
+      "alt": "",
+      "caption": "Collages arrangées selon\nles lois du hasard, 1916/1917",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The titles of these collages indicate that they were \"arranged according to the laws of chance\". The question\nis what this means. With one single exception, all texts we found\nabout these works suggest that they are \"scatter-pieces\",\nproduced by throwing paper pieces at random on the cardboard, and\nthen fixing them accordingly. (E.g.: Brecht,\nHuelsenbeck, Richter, MoMa,\nMotherwell.) A quick glance on the works themselves is enough to establish\nthat this is extremely implausible. The rectangles are obviously arranged\nin grid-like patterns, and their orientation is aligned with the grid.\nIt is more likely that the paper scraps would have been shuffled like\na deck of cards and then laid out in a grid, one by one, respecting\nthe random order of the pile.\n\n\n\n[Jill Pazereckas, in the 2006 exhibition review \"MoMa\ngoes Dada\", also argues against the usual description of\nthese pieces.]",
+      "links": [
+        {
+          "text": "Brecht",
+          "href": "http://www.ubu.com/historical/gb/brecht_chance.pdf",
+          "external": true
+        },
+        {
+          "text": "MoMa",
+          "href": "http://www.moma.org/collection/depts/drawings/blowups/draw_010.html",
+          "external": true
+        },
+        {
+          "text": "MoMa goes Dada",
+          "href": "http://www.gather.com/viewArticle.jsp?articleId=281474976773051",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ellsworth Kelly",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-Spectrum.jpg",
+      "alt": "",
+      "caption": "Spectrum Colors\n\nArranged by Chance VI, 1951",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-SpectrumVII-S.jpg",
+      "alt": "",
+      "caption": "Spectrum Colors\n\nArranged by Chance VII, 1951",
+      "width": "200",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-64panels-S.jpg",
+      "alt": "",
+      "caption": "Sixty-Four Panels:\n\nColors for a Large Wall, 1951",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Yve-Alain Bois: Ellsworth Kelly: The Early Drawings,\n1948-1955. Cambridge, Mass.: Harvard University Art Museums,\n1999, # 110-116.\n\n\n\nJ. Cowart: \"Method and motif: Ellsworth Kelly's\n'chance' grids and his development of color panel painting, 1948-1951,\" pages 37-45 of Ellsworth Kelly: The Years in France. 1948-1954,\nNational Gallery of Art, Washington, 1992.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ray Johnson",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-RayJohnson51CalmCenter-S.jpg",
+      "alt": "Johnson: Calm Center",
+      "caption": "Calm Center,\n1951",
+      "width": "304",
+      "height": "300",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
+          "external": false
+        },
+        {
+          "text": "Calm Center",
+          "href": "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ray Johnson's early painting \"Calm\nCenter\" is a recursive grid. Its elements are random grids,\nstripes, nested squares, and various combinations of these. The\ncenter is a black square.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid2]-s.jpg",
+      "alt": "",
+      "caption": "[Details]",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "François Morellet",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/58-morellet-morellet-repartitions-S.jpg",
+      "alt": "",
+      "caption": "6 répartitions aléatoires, 1958",
+      "width": "480",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/58-morellet-morellet-58-SSS.jpg",
+      "alt": "",
+      "caption": "Répartition aléatoire de triangles\n\nsuivant les chiffres pairs et impairs\n\nd'un annuaire de téléphone, 1958.",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/58-morellet-Morellet2-D.jpg",
+      "alt": "",
+      "caption": "Répartition aléatoire de 40 000 carrés,\n\n50 % noir, 50 % blanc, 1961\n\n[detail; click for\ncomplete picture]",
+      "width": "197",
+      "height": "186",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg",
+          "external": false
+        },
+        {
+          "text": "click",
+          "href": "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "François Morellet: Exhibition Catalogue\nNationalgalerie Berlin, 1977, pp. 147-150.\n\n\n\nPaul C. Vitz & Arnold B. Glimcher: Modern art and modern\nscience: the parallel analysis of vision. New York: Praeger,\n1984.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Karl-Otto Götz",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/59-goetz-59-60-SMM-11-5-s.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1959/1960",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/59-goetz-59-60-StatMetrModulatn-s.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1959/1960",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/59-goetz-61StatMetrischeMdulatn-D.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1961 (detail)",
+      "width": "218",
+      "height": "194",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.O. Götz: \"Elektronische Malerei und ihre Programmierung.\" Das Kunstwerk, Juni 1961.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.O. Götz: \"Das manipulierte Bild.\" Magnum, April 1963.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.O. Götz: \"Was ist am Bild meßbar? Möglichkeiten und Grenzen der Informationstheorie.\" Syn, 1965.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.O. Götz: Erinnerungen und Werk, Vol. II. Düsseldorf: Concept-Verlag, 1983.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Heinz Ohff: Kunst ist Utopie. Gütersloh:\nBertelsmann, 1972, pp. 132-134, 217.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "herman de vries",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/hdevries-63RandomObjectivation-s.jpg",
+      "alt": "",
+      "caption": "random objectivation, 1963",
+      "width": "480",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO(zufallscoll)-S.jpg",
+      "alt": "",
+      "caption": "random objectivation (chance collage), 1970\n\n[33 x 33 squares with colors, chosen\n\nat random from a set of 8]",
+      "width": "251",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-TerreProvencale1991.jpg",
+      "alt": "",
+      "caption": "terre provençale, 1991\n\n\n\n[rubbings with earth from different\n\nlocations in the provence]",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ryszard Winiarski",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-66Kompozycja.jpg",
+      "alt": "",
+      "caption": "Kompozycja, 1966",
+      "width": "179",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-68Kompozycja.jpg",
+      "alt": "",
+      "caption": "Kompozycja, 1968",
+      "width": "230",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-73-Area156-D.jpg",
+      "alt": "",
+      "caption": "Area 156, 1973 (Detail)",
+      "width": "198",
+      "height": "232",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gerhard Richter",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/73-richter-73_1024-Farben.jpg",
+      "alt": "",
+      "caption": "1024 Farben, 1973",
+      "width": "371",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/73-richter-192Farben-s.jpg",
+      "alt": "",
+      "caption": "192 Farben",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/73-richter-74---Farben-s.jpg",
+      "alt": "",
+      "caption": "256 Farben, 1974",
+      "width": "372",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/any/73-richter-1024Farben-s.jpg",
+      "alt": "",
+      "caption": "1024 Farben",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Online program generating random pixel grids",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Andreas Fünderich: Squares,\n2000.",
+      "links": [
+        {
+          "text": "Squares",
+          "href": "http://www.localghost.de/projects/sl/index.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Interactive programs",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2002,\nAaron Neugebauer submitted the JavaScript-program PixelPaint\nto the <5k internet-software-contest. PixelPaint is an\ninteractive program which enables its user to specify an image by\nchoosing the colours of the individual cells in a grid.\n\nA pixel-paint program is obviously\nnot the ideal image-construction tool for most purposes: it is not\nparticularly efficient or convenient, nor does it provide a very\ninteresting \"interactive experience\". And for the rare\noccasions that one actually does want to manipulate individual\npixels, that functionality is readily offered by common graphic\ntools such as PhotoShop. Thus, PixelPaint is probably best\nviewed as a primarily conceptual piece.\n\n\n\nIf we do not try to use PixelPaint to construct\nspecific preconceived images, but reflect on the set of its potential\noutcomes, the program itself becomes a symbol –– representing\na seemingly limitless set of possibilities, while paradoxically\nemphasizing the finite constructability of each element and of the\nsequence of all elements.\n\n\n\n[Cf. also: Blinkenpaint\n(2001) by the Blinkenlights Project Group.]",
+      "links": [
+        {
+          "text": "Blinkenpaint",
+          "href": "http://www.blinkenlights.de/blinkenpaint.en.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2003-2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/any/16arp-16-SelonLesLoisDuHasard-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "16arp/16-SelonLesLoisDuHasard-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/16arp-1617CollageEtc-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "16arp/1617CollageEtc-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/16arp-arp2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "16arp/arp2-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/16arp-17-CarresArrangeesSLLDH-s.jpg",
+      "alt": "",
+      "caption": "Collages arrangées selon\nles lois du hasard, 1916/1917",
+      "legacy_src": "16arp/17-CarresArrangeesSLLDH-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-Spectrum.jpg",
+      "alt": "",
+      "caption": "Spectrum Colors\n\nArranged by Chance VI, 1951",
+      "legacy_src": "51Kelly/51-Spectrum.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-SpectrumVII-S.jpg",
+      "alt": "",
+      "caption": "Spectrum Colors\n\nArranged by Chance VII, 1951",
+      "legacy_src": "51Kelly/51-SpectrumVII-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-kelly-51-64panels-S.jpg",
+      "alt": "",
+      "caption": "Sixty-Four Panels:\n\nColors for a Large Wall, 1951",
+      "legacy_src": "51Kelly/51-64panels-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-RayJohnson51CalmCenter-S.jpg",
+      "alt": "Johnson: Calm Center",
+      "caption": "Calm Center,\n1951",
+      "legacy_src": "51-RayJohnson/RayJohnson51CalmCenter-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "51-RayJohnson/51CalmCenter-D%5Bgrid%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid2]-s.jpg",
+      "alt": "",
+      "caption": "[Details]",
+      "legacy_src": "51-RayJohnson/51CalmCenter-D%5Bgrid2%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/58-morellet-morellet-repartitions-S.jpg",
+      "alt": "",
+      "caption": "6 répartitions aléatoires, 1958",
+      "legacy_src": "58Morellet/morellet-repartitions-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/58-morellet-morellet-58-SSS.jpg",
+      "alt": "",
+      "caption": "Répartition aléatoire de triangles\n\nsuivant les chiffres pairs et impairs\n\nd'un annuaire de téléphone, 1958.",
+      "legacy_src": "58Morellet/morellet-58-SSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/58-morellet-Morellet2-D.jpg",
+      "alt": "",
+      "caption": "Répartition aléatoire de 40 000 carrés,\n\n50 % noir, 50 % blanc, 1961\n\n[detail; click for\ncomplete picture]",
+      "legacy_src": "58Morellet/Morellet2-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/59-goetz-59-60-SMM-11-5-s.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1959/1960",
+      "legacy_src": "59Goetz/59-60-SMM-11-5-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/59-goetz-59-60-StatMetrModulatn-s.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1959/1960",
+      "legacy_src": "59Goetz/59-60-StatMetrModulatn-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/59-goetz-61StatMetrischeMdulatn-D.jpg",
+      "alt": "",
+      "caption": "Statistisch-Metrische Modulation,\n\n1961 (detail)",
+      "legacy_src": "59Goetz/61StatMetrischeMdulatn-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/hdevries-63RandomObjectivation-s.jpg",
+      "alt": "",
+      "caption": "random objectivation, 1963",
+      "legacy_src": "hdevries/63RandomObjectivation-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO(zufallscoll)-S.jpg",
+      "alt": "",
+      "caption": "random objectivation (chance collage), 1970\n\n[33 x 33 squares with colors, chosen\n\nat random from a set of 8]",
+      "legacy_src": "hdevries/hdv-70-RO(zufallscoll)-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-TerreProvencale1991.jpg",
+      "alt": "",
+      "caption": "terre provençale, 1991\n\n\n\n[rubbings with earth from different\n\nlocations in the provence]",
+      "legacy_src": "hdevries/hdv-TerreProvencale1991.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-66Kompozycja.jpg",
+      "alt": "",
+      "caption": "Kompozycja, 1966",
+      "legacy_src": "66Winiarski/66Kompozycja.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-68Kompozycja.jpg",
+      "alt": "",
+      "caption": "Kompozycja, 1968",
+      "legacy_src": "66Winiarski/68Kompozycja.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/66-winiarski-73-Area156-D.jpg",
+      "alt": "",
+      "caption": "Area 156, 1973 (Detail)",
+      "legacy_src": "66Winiarski/73-Area156-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/73-richter-73_1024-Farben.jpg",
+      "alt": "",
+      "caption": "1024 Farben, 1973",
+      "legacy_src": "73Richter/73_1024-Farben.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/73-richter-192Farben-s.jpg",
+      "alt": "",
+      "caption": "192 Farben",
+      "legacy_src": "73Richter/192Farben-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/73-richter-74---Farben-s.jpg",
+      "alt": "",
+      "caption": "256 Farben, 1974",
+      "legacy_src": "73Richter/74---Farben-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/any/73-richter-1024Farben-s.jpg",
+      "alt": "",
+      "caption": "1024 Farben",
+      "legacy_src": "73Richter/1024Farben-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/any/51-ray-johnson/ray-johnson51-calm-center-m-jpg",
+    "/algorithmic-art/grid/any/58-morellet/morellet2-m-jpg"
+  ]
+}

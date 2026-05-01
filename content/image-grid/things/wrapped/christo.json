@@ -1,0 +1,318 @@
+{
+  "slug": "things/wrapped/christo",
+  "legacy_path": "things/wrapped/Christo/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "christo",
+  "heading": "Christo Javacheff: Empaquetages",
+  "description": "Christo's empaquetages.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: wrapping readymades radical\nart",
+      "links": [
+        {
+          "text": "wrapping",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Christo Javacheff: Empaquetages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/58-59-WrppdCnsAndBttls-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans and Bottles, 1958/1959",
+      "width": "318",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/5859Barrels-S.jpg",
+      "alt": "",
+      "caption": "Barrels, 1958/1959",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/58WrappedBottle-M.jpg",
+      "alt": "",
+      "caption": "Wrapped Bottle, 1958",
+      "width": "155",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/5960PackedCans-M.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans, 1959/1960",
+      "width": "187",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/60-WrappedCans1960-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans, 1960",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/61XDocksidePackages-s.jpg",
+      "alt": "",
+      "caption": "Dockside Packages, 1961",
+      "width": "230",
+      "height": "193",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/61-WrappedJerryCan-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Jerrrycan, 1961",
+      "width": "149",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/61-WrappedChair1961.jpg",
+      "alt": "",
+      "caption": "Wrapped Chair, 1961",
+      "width": "139",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/63PackedRoadSign.jpg",
+      "alt": "",
+      "caption": "Wrapped Road Sign, 1963",
+      "width": "128",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/6869X-mocaWrapped-S.jpg",
+      "alt": "",
+      "caption": "MOCA Wrapped, 1968/1969",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/64EmpaqtageSurDiable-s.jpg",
+      "alt": "",
+      "caption": "Empaquetage sur Diable, 1964",
+      "width": "176",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/70XWrMn2LeonardoDaVinci-SS.jpg",
+      "alt": "",
+      "caption": "Wrapped Monument to\n\nLeonardo da Vinci, 1970",
+      "width": "170",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/64-TableEmpaquetee-m.jpg",
+      "alt": "",
+      "caption": "Table Empaquetée, 1964",
+      "width": "159",
+      "height": "450",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/74TXheWall-s.jpg",
+      "alt": "",
+      "caption": "The Wall, 1974",
+      "width": "230",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/95XWrappedReichstag-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Reichstag, 1995",
+      "width": "230",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/christo/9798XWrappedTrees-S.jpg",
+      "alt": "",
+      "caption": "Wrapped Trees, 1997/1998",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More wrappings and cover-ups by Christo in our sections on:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Secrets",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Cover-up",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover/christo",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/christo/58-59-WrppdCnsAndBttls-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans and Bottles, 1958/1959",
+      "legacy_src": "58-59-WrppdCnsAndBttls-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/5859Barrels-S.jpg",
+      "alt": "",
+      "caption": "Barrels, 1958/1959",
+      "legacy_src": "5859Barrels-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/58WrappedBottle-M.jpg",
+      "alt": "",
+      "caption": "Wrapped Bottle, 1958",
+      "legacy_src": "58WrappedBottle-M.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/5960PackedCans-M.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans, 1959/1960",
+      "legacy_src": "5960PackedCans-M.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/60-WrappedCans1960-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Cans, 1960",
+      "legacy_src": "60-WrappedCans1960-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/61XDocksidePackages-s.jpg",
+      "alt": "",
+      "caption": "Dockside Packages, 1961",
+      "legacy_src": "61XDocksidePackages-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/61-WrappedJerryCan-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Jerrrycan, 1961",
+      "legacy_src": "61-WrappedJerryCan-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/61-WrappedChair1961.jpg",
+      "alt": "",
+      "caption": "Wrapped Chair, 1961",
+      "legacy_src": "61-WrappedChair1961.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/63PackedRoadSign.jpg",
+      "alt": "",
+      "caption": "Wrapped Road Sign, 1963",
+      "legacy_src": "63PackedRoadSign.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/6869X-mocaWrapped-S.jpg",
+      "alt": "",
+      "caption": "MOCA Wrapped, 1968/1969",
+      "legacy_src": "6869X-mocaWrapped-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/64EmpaqtageSurDiable-s.jpg",
+      "alt": "",
+      "caption": "Empaquetage sur Diable, 1964",
+      "legacy_src": "64EmpaqtageSurDiable-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/70XWrMn2LeonardoDaVinci-SS.jpg",
+      "alt": "",
+      "caption": "Wrapped Monument to\n\nLeonardo da Vinci, 1970",
+      "legacy_src": "70XWrMn2LeonardoDaVinci-SS.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/64-TableEmpaquetee-m.jpg",
+      "alt": "",
+      "caption": "Table Empaquetée, 1964",
+      "legacy_src": "64-TableEmpaquetee-m.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/74TXheWall-s.jpg",
+      "alt": "",
+      "caption": "The Wall, 1974",
+      "legacy_src": "74TXheWall-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/95XWrappedReichstag-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Reichstag, 1995",
+      "legacy_src": "95XWrappedReichstag-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/christo/9798XWrappedTrees-S.jpg",
+      "alt": "",
+      "caption": "Wrapped Trees, 1997/1998",
+      "legacy_src": "9798XWrappedTrees-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover/christo",
+    "/things",
+    "/things/wrapped"
+  ]
+}

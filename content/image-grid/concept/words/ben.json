@@ -1,0 +1,648 @@
+{
+  "slug": "concept/words/ben",
+  "legacy_path": "concept/Words/Ben/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Ben Vautier",
+  "heading": "Word paintings by Ben Vautier",
+  "description": "Word pieces by Ben Vautier",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Word paintings by Ben Vautier",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/58-[signature]-S.jpg",
+      "alt": "",
+      "caption": "\"Ben\" – 1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/58-art-ss.jpg",
+      "alt": "",
+      "caption": "\"ART\" – 1958",
+      "width": "177",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/58-rouge-SS.jpg",
+      "alt": "",
+      "caption": "\"rouge\" – 1958",
+      "width": "200",
+      "height": "77",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/59Mais-s.jpg",
+      "alt": "",
+      "caption": "\"mais\" – 1959",
+      "width": "230",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/59Hier-s.jpg",
+      "alt": "",
+      "caption": "\"hier\" – 1959",
+      "width": "230",
+      "height": "134",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/59Liberte-s.jpg",
+      "alt": "",
+      "caption": "\"liberté\" – 1959",
+      "width": "230",
+      "height": "86",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/59-moi-S.jpg",
+      "alt": "",
+      "caption": "\"moi\" – 1959",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/61Dieu-s.jpg",
+      "alt": "",
+      "caption": "\"Dieu\" – 1961",
+      "width": "230",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/64-rien-s.jpg",
+      "alt": "",
+      "caption": "\"rien\" – 1964",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/65-Je-s.jpg",
+      "alt": "",
+      "caption": "\"Je\" – 1965",
+      "width": "223",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/65-suis-s.jpg",
+      "alt": "",
+      "caption": "\"suis\" – 1965",
+      "width": "230",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/65-Seul-s.jpg",
+      "alt": "",
+      "caption": "\"seul\" – 1965",
+      "width": "224",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/65-toile-SS.jpg",
+      "alt": "",
+      "caption": "\"toile\" – 1965",
+      "width": "200",
+      "height": "128",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/71-Kunst-ss.jpg",
+      "alt": "",
+      "caption": "\"Kunst\" – 1971",
+      "width": "180",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/events-vautier-71-memoire-s.jpg",
+      "alt": "",
+      "caption": "\"perdre sa mémoire\" – 1971",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/activities-vautier-73-truth2-s.jpg",
+      "alt": "",
+      "caption": "\"to tell the truth\" – 1973",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/75Art-S.jpg",
+      "alt": "",
+      "caption": "\"art\" – 1975",
+      "width": "214",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/states-77angoisse-s.jpg",
+      "alt": "",
+      "caption": "\"mon angoisse de laisser indifférent\" – 1977",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/states-77plaire-s.jpg",
+      "alt": "",
+      "caption": "\"ma lâcheté de vouloir plaire\" – 1977",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/89-AsUglyAs-s.jpg",
+      "alt": "",
+      "caption": "\"as ugly as possible\" – 1989",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/90Improvisation.jpg",
+      "alt": "",
+      "caption": "\"improvisation\" – 1990",
+      "width": "178",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/states-benEtreLibre1991.jpg",
+      "alt": "",
+      "caption": "\"être libre\" – 1991",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/things-Ben92Loup-s.jpg",
+      "alt": "",
+      "caption": "\"un loup déguisé en brébis\" – 1992",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/activities-vautier-92-precher-s.jpg",
+      "alt": "",
+      "caption": "\"prêcher dans le désert\" – 1992",
+      "width": "211",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/things-vautier93UnMondeFou.jpg",
+      "alt": "",
+      "caption": "\"un monde fou\" – 1993",
+      "width": "180",
+      "height": "147",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/99Noire-S.jpg",
+      "alt": "",
+      "caption": "\"noire\" – 1999",
+      "width": "200",
+      "height": "137",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/2001Jamais.jpg",
+      "alt": "",
+      "caption": "\"Jamais\" – 2001",
+      "width": "185",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/2002nichts-S.jpg",
+      "alt": "",
+      "caption": "\"Nichts!\" – 2002",
+      "width": "143",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/actions-vautier-se-tuer-s.jpg",
+      "alt": "",
+      "caption": "se tuer",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/events-vautier-amoureux-s.jpg",
+      "alt": "",
+      "caption": "tomber amoureux",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/events-vautier-anonyme-s.jpg",
+      "alt": "",
+      "caption": "devenir anonyme",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/activities-vautier-antidater-s.jpg",
+      "alt": "",
+      "caption": "anti-dater",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/states-vautier-naturel-s.jpg",
+      "alt": "",
+      "caption": "être naturel",
+      "width": "230",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/words/ben/states-Ben-Rate-s.jpg",
+      "alt": "",
+      "caption": "être un raté",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "more text pieces by ben vautier:",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "tautology",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/Words/tautology/ben/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "paradox",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/Words/paradox/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "nothing",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/nothing/concept/rien/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "anything",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/anything/NImporteQuoi/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "everything",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/everything/all.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "art = ben",
+      "links": [
+        {
+          "text": "",
+          "href": "/ego/ben",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "speech acts",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "art against art",
+      "links": [
+        {
+          "text": "",
+          "href": "http://radicalart.info/concept/Words/ArtAgainstArt/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "theatre",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/fluxus-theatre",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/words/ben/58-[signature]-S.jpg",
+      "alt": "",
+      "caption": "\"Ben\" – 1958",
+      "legacy_src": "58-%5Bsignature%5D-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/58-art-ss.jpg",
+      "alt": "",
+      "caption": "\"ART\" – 1958",
+      "legacy_src": "58-art-ss.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/58-rouge-SS.jpg",
+      "alt": "",
+      "caption": "\"rouge\" – 1958",
+      "legacy_src": "58-rouge-SS.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/59Mais-s.jpg",
+      "alt": "",
+      "caption": "\"mais\" – 1959",
+      "legacy_src": "59Mais-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/59Hier-s.jpg",
+      "alt": "",
+      "caption": "\"hier\" – 1959",
+      "legacy_src": "59Hier-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/59Liberte-s.jpg",
+      "alt": "",
+      "caption": "\"liberté\" – 1959",
+      "legacy_src": "59Liberte-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/59-moi-S.jpg",
+      "alt": "",
+      "caption": "\"moi\" – 1959",
+      "legacy_src": "59-moi-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/61Dieu-s.jpg",
+      "alt": "",
+      "caption": "\"Dieu\" – 1961",
+      "legacy_src": "61Dieu-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/64-rien-s.jpg",
+      "alt": "",
+      "caption": "\"rien\" – 1964",
+      "legacy_src": "64-rien-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/65-Je-s.jpg",
+      "alt": "",
+      "caption": "\"Je\" – 1965",
+      "legacy_src": "65-Je-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/65-suis-s.jpg",
+      "alt": "",
+      "caption": "\"suis\" – 1965",
+      "legacy_src": "65-suis-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/65-Seul-s.jpg",
+      "alt": "",
+      "caption": "\"seul\" – 1965",
+      "legacy_src": "65-Seul-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/65-toile-SS.jpg",
+      "alt": "",
+      "caption": "\"toile\" – 1965",
+      "legacy_src": "65-toile-SS.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/71-Kunst-ss.jpg",
+      "alt": "",
+      "caption": "\"Kunst\" – 1971",
+      "legacy_src": "71-Kunst-ss.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/events-vautier-71-memoire-s.jpg",
+      "alt": "",
+      "caption": "\"perdre sa mémoire\" – 1971",
+      "legacy_src": "events/vautier-71-memoire-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/activities-vautier-73-truth2-s.jpg",
+      "alt": "",
+      "caption": "\"to tell the truth\" – 1973",
+      "legacy_src": "activities/vautier-73-truth2-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/75Art-S.jpg",
+      "alt": "",
+      "caption": "\"art\" – 1975",
+      "legacy_src": "75Art-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/states-77angoisse-s.jpg",
+      "alt": "",
+      "caption": "\"mon angoisse de laisser indifférent\" – 1977",
+      "legacy_src": "States/77angoisse-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/states-77plaire-s.jpg",
+      "alt": "",
+      "caption": "\"ma lâcheté de vouloir plaire\" – 1977",
+      "legacy_src": "States/77plaire-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/89-AsUglyAs-s.jpg",
+      "alt": "",
+      "caption": "\"as ugly as possible\" – 1989",
+      "legacy_src": "89-AsUglyAs-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/90Improvisation.jpg",
+      "alt": "",
+      "caption": "\"improvisation\" – 1990",
+      "legacy_src": "90Improvisation.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/states-benEtreLibre1991.jpg",
+      "alt": "",
+      "caption": "\"être libre\" – 1991",
+      "legacy_src": "States/benEtreLibre1991.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/things-Ben92Loup-s.jpg",
+      "alt": "",
+      "caption": "\"un loup déguisé en brébis\" – 1992",
+      "legacy_src": "things/Ben92Loup-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/activities-vautier-92-precher-s.jpg",
+      "alt": "",
+      "caption": "\"prêcher dans le désert\" – 1992",
+      "legacy_src": "activities/vautier-92-precher-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/things-vautier93UnMondeFou.jpg",
+      "alt": "",
+      "caption": "\"un monde fou\" – 1993",
+      "legacy_src": "things/vautier93UnMondeFou.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/99Noire-S.jpg",
+      "alt": "",
+      "caption": "\"noire\" – 1999",
+      "legacy_src": "99Noire-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/2001Jamais.jpg",
+      "alt": "",
+      "caption": "\"Jamais\" – 2001",
+      "legacy_src": "2001Jamais.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/2002nichts-S.jpg",
+      "alt": "",
+      "caption": "\"Nichts!\" – 2002",
+      "legacy_src": "2002nichts-S.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/actions-vautier-se-tuer-s.jpg",
+      "alt": "",
+      "caption": "se tuer",
+      "legacy_src": "actions/vautier-se-tuer-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/events-vautier-amoureux-s.jpg",
+      "alt": "",
+      "caption": "tomber amoureux",
+      "legacy_src": "events/vautier-amoureux-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/events-vautier-anonyme-s.jpg",
+      "alt": "",
+      "caption": "devenir anonyme",
+      "legacy_src": "events/vautier-anonyme-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/activities-vautier-antidater-s.jpg",
+      "alt": "",
+      "caption": "anti-dater",
+      "legacy_src": "activities/vautier-antidater-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/states-vautier-naturel-s.jpg",
+      "alt": "",
+      "caption": "être naturel",
+      "legacy_src": "States/vautier-naturel-s.jpg"
+    },
+    {
+      "src": "/images/concept/words/ben/states-Ben-Rate-s.jpg",
+      "alt": "",
+      "caption": "être un raté",
+      "legacy_src": "States/Ben-Rate-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/fluxus-theatre",
+    "/concept/speech-acts",
+    "/ego/ben"
+  ]
+}

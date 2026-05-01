@@ -1,0 +1,286 @@
+{
+  "slug": "things/enlarged",
+  "legacy_path": "things/enlarged/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "enlargements",
+  "heading": "Blow-Up",
+  "description": "Transformed objects as art: Enlargement.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things process\nart radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Blow-Up",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "René Magritte",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/magritte-58-ChambreDEcouteIII.jpg",
+      "alt": "",
+      "caption": "Chambre d'Écoute III, 1958",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/magritte-59-LAnniversaire-s.jpg",
+      "alt": "",
+      "caption": "L'Anniversaire, 1959",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/magritte-LeTombeauDesLutteurs.jpg",
+      "alt": "",
+      "caption": "Le Tombeau des Lutteurs",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Claes Oldenburg",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-62FloorBurger-s.jpg",
+      "alt": "",
+      "caption": "Floor Burger, 1962",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-64LightSwitchesHrdVrsn.jpg",
+      "alt": "",
+      "caption": "Light Switches, 1964",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-8588SpnbridgeAndChrrie.jpg",
+      "alt": "",
+      "caption": "Spoon Bridge and Cherry, 1988",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-94Shuttlecocks.jpg",
+      "alt": "",
+      "caption": "Shuttlecock, 1994",
+      "width": "217",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-99CorridorPin.jpg",
+      "alt": "",
+      "caption": "Corridor Pin, 1999",
+      "width": "181",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/oldenburg-2001-Eistuete.jpg",
+      "alt": "",
+      "caption": "Eistüte, 2001",
+      "width": "132",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reiner Ruthenbeck",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/RuthenbeckLeckerli1993-S.jpg",
+      "alt": "",
+      "caption": "Leckerli, 1993",
+      "width": "276",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jeff Koons",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/koons-94-BalloonDog(Orange)-S.jpg",
+      "alt": "",
+      "caption": "Balloon Dog, 1994",
+      "width": "134",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/koons-94-BalloonDog.jpg",
+      "alt": "",
+      "caption": "Balloon Dog, 1994",
+      "width": "159",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/koons-2004Tulips-S.jpg",
+      "alt": "",
+      "caption": "Tulips, 2004",
+      "width": "200",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Damien Hirst",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/enlarged/Damien.Hirst-Hymn-1996-s.jpg",
+      "alt": "",
+      "caption": "Hymn, 1996",
+      "width": "156",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/enlarged/magritte-58-ChambreDEcouteIII.jpg",
+      "alt": "",
+      "caption": "Chambre d'Écoute III, 1958",
+      "legacy_src": "magritte/58-ChambreDEcouteIII.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/magritte-59-LAnniversaire-s.jpg",
+      "alt": "",
+      "caption": "L'Anniversaire, 1959",
+      "legacy_src": "magritte/59-LAnniversaire-s.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/magritte-LeTombeauDesLutteurs.jpg",
+      "alt": "",
+      "caption": "Le Tombeau des Lutteurs",
+      "legacy_src": "magritte/LeTombeauDesLutteurs.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-62FloorBurger-s.jpg",
+      "alt": "",
+      "caption": "Floor Burger, 1962",
+      "legacy_src": "oldenburg/62FloorBurger-s.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-64LightSwitchesHrdVrsn.jpg",
+      "alt": "",
+      "caption": "Light Switches, 1964",
+      "legacy_src": "oldenburg/64LightSwitchesHrdVrsn.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-8588SpnbridgeAndChrrie.jpg",
+      "alt": "",
+      "caption": "Spoon Bridge and Cherry, 1988",
+      "legacy_src": "oldenburg/8588SpnbridgeAndChrrie.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-94Shuttlecocks.jpg",
+      "alt": "",
+      "caption": "Shuttlecock, 1994",
+      "legacy_src": "oldenburg/94Shuttlecocks.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-99CorridorPin.jpg",
+      "alt": "",
+      "caption": "Corridor Pin, 1999",
+      "legacy_src": "oldenburg/99CorridorPin.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/oldenburg-2001-Eistuete.jpg",
+      "alt": "",
+      "caption": "Eistüte, 2001",
+      "legacy_src": "oldenburg/2001-Eistuete.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/RuthenbeckLeckerli1993-S.jpg",
+      "alt": "",
+      "caption": "Leckerli, 1993",
+      "legacy_src": "RuthenbeckLeckerli1993-S.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/koons-94-BalloonDog(Orange)-S.jpg",
+      "alt": "",
+      "caption": "Balloon Dog, 1994",
+      "legacy_src": "koons/94-BalloonDog(Orange)-S.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/koons-94-BalloonDog.jpg",
+      "alt": "",
+      "caption": "Balloon Dog, 1994",
+      "legacy_src": "koons/94-BalloonDog.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/koons-2004Tulips-S.jpg",
+      "alt": "",
+      "caption": "Tulips, 2004",
+      "legacy_src": "koons/2004Tulips-S.jpg"
+    },
+    {
+      "src": "/images/things/enlarged/Damien.Hirst-Hymn-1996-s.jpg",
+      "alt": "",
+      "caption": "Hymn, 1996",
+      "legacy_src": "Damien.Hirst-Hymn-1996-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process",
+    "/things"
+  ]
+}

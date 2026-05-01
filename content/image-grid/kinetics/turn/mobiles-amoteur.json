@@ -1,0 +1,243 @@
+{
+  "slug": "kinetics/turn/mobiles-amoteur",
+  "legacy_path": "kinetics/Turn/MobilesAMoteur/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Mobiles à moteur",
+  "heading": "",
+  "description": "",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "motion as a compository element:\n\nalexander calder's\n\"mobiles à moteur\"",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder (...) says that during a visit to Mondrian's studio, in the rue du Départ\nin Paris, he received a vision of a new art form (...). Mondrian's studio was\nan extraordinary room, with small, movable red, blue and yellow rectangles\non the white walls, and a large, red, cylindrical gramophone in the middle\nof the floor (..). Calder writes: \"... the light coming from two facing\nwindows met in the room, and I thought how beautiful it would have been if\neverything had started to move, but Mondrian didn't like the idea.\" (...)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén 1955, p. 19. [Cf. also: Calder,\n1937.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Calder did not heed Mondriaan's advice, and developed\na form of \"kinetic constructivism\" in his \"Mobiles à moteur\" (since\n1931): different elementary shapes: line, spiral, circle, ball;\ndifferent elementary colors and black/white/grey; different elementary\nmovements: rotation, pendulum, virtual translation; rotation-axis\nin the picture-plane or orthogonal to it.\n\n\n\nCalder describes one of these works as follows:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– Dimensions: 2 x 2.50\nm.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– Frame, 8 cm., neutral\nred.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– The two white balls\nrotate at a high speed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– The black spiral\nrotates at a lower speed and appears to be constantly climbing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– The tin disc\nturns even more slowly, the two black lines appear to be constantly\nclimbing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "– The black pendulum,\nwhich is 40 cm. in diameter, climbs to 45 degrees on each side\nwith 25 strokes a minute and swings outside the frame.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Alexander Calder: \"Mobiles.\" In:\nMyfanwy Evans (ed.): The Painter's Object, Gerold\nHowe, London, 1937.\n\n\n\nKarl G. Hultén: Den Ställföreträdande\nFriheten eller Om Rörelse i Konsten och Tinguelys Metamekanik. (Substitute\nFreedom or On Movement in Art and Tinguely's Meta-mechanics.)\nSpecial issue of Kasark, October 1955. (English translation\nin: Pontus Hultén, 1975.)\n\n\n\nK.G. Pontus Hultén: Tinguely. 'Méta'. London: Thames\nand Hudson, 1975.",
+      "links": [
+        {
+          "text": "\"Mobiles.\"",
+          "href": "http://www.calder.org/SETS/life/life.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-RedFrame.jpg",
+      "alt": "",
+      "caption": "Red Frame, 1931",
+      "width": "192",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1934-BlackFrame.jpg",
+      "alt": "",
+      "caption": "Black Frame, 1934",
+      "width": "200",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1936-TheOrangePanel1936.jpg",
+      "alt": "",
+      "caption": "The Orange Panel, 1936",
+      "width": "300",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1937-Unt1937.jpg",
+      "alt": "",
+      "caption": "Untitled, 1937",
+      "width": "289",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1940-41DsqueBlanc,DsqNr.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "169",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Disque Blanc, Disque Noir\n\n1940-1941",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n1931",
+      "width": "298",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-Unt1931B.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n1931",
+      "width": "159",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1932-HalfCircle,QuarterCircleAndSphere-s.jpg",
+      "alt": "",
+      "caption": "Half Circle, Quarter Circle and Sphere\n\n1932",
+      "width": "241",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1934-AUniverse1934.jpg",
+      "alt": "",
+      "caption": "A Universe, 1934",
+      "width": "233",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1938NYWorldFair-1938.jpg",
+      "alt": "",
+      "caption": "New York World Fair, 1938",
+      "width": "275",
+      "height": "227",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-RedFrame.jpg",
+      "alt": "",
+      "caption": "Red Frame, 1931",
+      "legacy_src": "Calder/1931-RedFrame.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1934-BlackFrame.jpg",
+      "alt": "",
+      "caption": "Black Frame, 1934",
+      "legacy_src": "Calder/1934-BlackFrame.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1936-TheOrangePanel1936.jpg",
+      "alt": "",
+      "caption": "The Orange Panel, 1936",
+      "legacy_src": "Calder/1936-TheOrangePanel1936.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1937-Unt1937.jpg",
+      "alt": "",
+      "caption": "Untitled, 1937",
+      "legacy_src": "Calder/1937-Unt1937.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1940-41DsqueBlanc,DsqNr.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Calder/1940-41DsqueBlanc,DsqNr.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n1931",
+      "legacy_src": "Calder/1931-Unt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1931-Unt1931B.jpg",
+      "alt": "",
+      "caption": "Untitled\n\n1931",
+      "legacy_src": "Calder/1931-Unt1931B.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1932-HalfCircle,QuarterCircleAndSphere-s.jpg",
+      "alt": "",
+      "caption": "Half Circle, Quarter Circle and Sphere\n\n1932",
+      "legacy_src": "Calder/1932-HalfCircle,QuarterCircleAndSphere-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1934-AUniverse1934.jpg",
+      "alt": "",
+      "caption": "A Universe, 1934",
+      "legacy_src": "Calder/1934-AUniverse1934.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/mobiles-amoteur/calder-1938NYWorldFair-1938.jpg",
+      "alt": "",
+      "caption": "New York World Fair, 1938",
+      "legacy_src": "Calder/1938NYWorldFair-1938.jpg"
+    }
+  ],
+  "out_links": []
+}

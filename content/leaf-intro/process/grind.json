@@ -1,0 +1,81 @@
+{
+  "slug": "process/grind",
+  "legacy_path": "process/grind/index.html",
+  "section": "process",
+  "archetype": "leaf-intro",
+  "title": "to grind",
+  "heading": "to grind",
+  "description": "Process Art: Grinding",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to grind",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/grind/Roth67Literaturwurst-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "217",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieter Roth:\n\nLiteraturwurst,\n\n1967",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/grind/RothGWFHegelWrkeIn20Bnden74.jpg",
+      "alt": "",
+      "caption": "Dieter Roth:\n\n\"Georg Wilhelm Friedrich Hegel: Werke in 20 Bänden\",\n\n1974",
+      "width": "369",
+      "height": "398",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/grind/Roth67Literaturwurst-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Roth67Literaturwurst-s.jpg"
+    },
+    {
+      "src": "/images/process/grind/RothGWFHegelWrkeIn20Bnden74.jpg",
+      "alt": "",
+      "caption": "Dieter Roth:\n\n\"Georg Wilhelm Friedrich Hegel: Werke in 20 Bänden\",\n\n1974",
+      "legacy_src": "RothGWFHegelWrkeIn20Bnden74.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
+}

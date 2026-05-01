@@ -1,0 +1,111 @@
+{
+  "slug": "nothing/mirrors/heinz-mack",
+  "legacy_path": "nothing/mirrors/HeinzMack/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Heinz Mack",
+  "heading": "Reflection Pieces by Heinz Mack",
+  "description": "Reflection Pieces by Heinz Mack",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Reflection Pieces by Heinz Mack",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/57-HeinzMackOT-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1957",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/58-HeinzMackLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Lichtrelief, 1958",
+      "width": "230",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/65-Mack1Becomes2-s.jpg",
+      "alt": "",
+      "caption": "One Becomes Two,\n\n1965",
+      "width": "133",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/61-HeinzMackLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Lichtrelief, 1961",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/69-MackSkulptur-BW-S.jpg",
+      "alt": "",
+      "caption": "Skulptur, 1965",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/heinz-mack/68-HeinzMackFahne-S.jpg",
+      "alt": "",
+      "caption": "Fahne, 1968",
+      "width": "343",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/57-HeinzMackOT-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1957",
+      "legacy_src": "57-HeinzMackOT-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/58-HeinzMackLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Lichtrelief, 1958",
+      "legacy_src": "58-HeinzMackLichtrelief-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/65-Mack1Becomes2-s.jpg",
+      "alt": "",
+      "caption": "One Becomes Two,\n\n1965",
+      "legacy_src": "65-Mack1Becomes2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/61-HeinzMackLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Lichtrelief, 1961",
+      "legacy_src": "61-HeinzMackLichtrelief-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/69-MackSkulptur-BW-S.jpg",
+      "alt": "",
+      "caption": "Skulptur, 1965",
+      "legacy_src": "69-MackSkulptur-BW-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/heinz-mack/68-HeinzMackFahne-S.jpg",
+      "alt": "",
+      "caption": "Fahne, 1968",
+      "legacy_src": "68-HeinzMackFahne-S.jpg"
+    }
+  ],
+  "out_links": []
+}

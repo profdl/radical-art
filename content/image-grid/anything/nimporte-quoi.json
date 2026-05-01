@@ -1,0 +1,515 @@
+{
+  "slug": "anything/nimporte-quoi",
+  "legacy_path": "anything/NImporteQuoi/index.html",
+  "section": "anything",
+  "archetype": "image-grid",
+  "title": "N'Importe Quoi",
+  "heading": "",
+  "description": "Anything as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Any Thing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(N'Importe Quoi)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"All propositions are of equal value. (. . .) If there is any value that does have value, it must lie outside of the whole sphere of what happens and is the case. For all that happens and is the case is accidental.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein, 1922",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"We can ask ourselves what is esthetically relevant to the man of today. The subjective answer can easily be: anything. The observer's range of interest is so wide that almost anything created by either a living being or a machine is fit to become an object of esthetic contemplation for a certain group of observers. We can also ask ourselves whether there is an \"esthetic object\" that is suitable for any observer. No, such an object could only be be a figment of our imagination. We must also realize that the suitability of an esthetic object for a human person depends on time. As time goes on, one gets used to his or her environment and then changes one's sphere of interest.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vladimir Bonacic, 1971",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Marcel Duchamp: Readymades",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "\"A POINT WHICH I WANT VERY MUCH TO ESTABLISH IS THAT THE CHOICE OF THESE \"READYMADES\" WAS NEVER DICTATED BY ESTHETIC DELECTATION.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "THIS CHOICE WAS BASED ON A REACTION OF VISUAL INDIFFERENCE WITH AT THE SAME TIME A TOTAL ABSENCE OF GOOD OR BAD TASTE ... IN FACT A COMPLETE ANESTHESIA.\"",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp, 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/duchamp-Porte-Bouteilles1914-S.jpg",
+      "alt": "Bottlerack",
+      "caption": "Porte-Bouteilles, 1914",
+      "width": "150",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ". .\n. le readymade, c'est n'importe quoi. Ou encore: le readymade est\nabsolument quelconque. C'est mon droit démocratique de juger\nen profane qui m'autorise à dire que, malgré leur\nqualités – ou leur absence de qualités – plastiques,\nle sèche-bouteilles, l'urinoir ou la pelle à neige\nsont des objets quelconques. Mais, direz-vous, rien ne m'autorise\nà les juger absolument quelconques. En effet, rien ne m'y\nautorise. Mais tout m'y oblige. Duchamp ayant anticipé l'auteur\ndu readymade dans la position du regardeur profane qui juge que\nl'art moderne, au moins depuis le dadaïsme, c'est n'importe\nquoi, oblige en retour ce regardeur, surtout s'il est \"expert\",\nà se projeter rétrospectivement dans la position même\nde cet auteur et à se soumettre à la même loi\nque lui. C'est la loi de la modernité et elle ne dit qu'une\nchose: fais n'importe quoi.\n\n\n\nLa loi ne fait pas qu'interdire, elle oblige. J' appelle donc moderne l'artiste dont le devoir est (était, fut, a été?) de faire n'importe quoi. C'est un devoir et non un droit. C'est un commendement que l'artiste moderne reçoit et non une autorisation qu'il se donne. Comme tel, ce n'est même pas une loi au sens ordinaire ou juridique. La phrase \"fais n'importe quoi\" n'énonce pas une règle à laquelle des cas peuvent être soumis, elle prescrit au contraire d'agir sans règle.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thierry de Duve, 1989",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Cage: 4'33\", 1952",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "This piece (for any instrument or instruments) consists of\n3 parts, whose total duration is 4 minutes and 33 seconds; each\npart is completely silent. Though Cage has consistently displayed\na profound interest in silence and \"nothing\", he has explained\nexplicitly that 4'33\" is meant as a vehicle to get the concert\naudience to listen with a serious \"aesthetic attitude\" to the inevitable environmental sounds, squeaks, coughs, air-conditioners,\netc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I have spent many pleasant hours in the\nwoods conducting performances of my silent piece, transcriptions,\nthat is, for an audience of myself, since they were much longer\nthan the popular length which I have had published. At one performance,\nI passed the first movement by attempting the identification of\na mushroom which remained successfully unidentified. The second\nmovement was extremely dramatic, beginning with the sounds of a\nbuck and doe leaping up to within ten feet of my rocky podium...\nThe third movement was a return to the theme of the first, but with\nall those profound, so-well-known alterations of world feeling associated\nby German tradition with the A-B-A.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: Music Lovers' Field Companion",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "See\nalso: Silence.",
+      "links": [
+        {
+          "text": "Silence",
+          "href": "/nothing/music/silence",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "La\nMonte Young: Compositions 1960",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Composition 1960\n# 3",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Announce to the audience when\nthe piece will begin and end if there is a limit on duration.\nIt may be of any duration.\n\nThen announce that everyone may do whatever he wishes for\nthe duration of the composition.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "5 - 14 - 60",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Composition 1960 # 4",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Announce to the audience that\nthe lights will be turned off for the duration of the composition\n(it may be any length) and tell them\nwhen the composition will begin and end.\n\nTurn off all the lights for the announced duration.\n\nWhen the lights are turned back on, the announcer may tell\nthe audience that their activities have been the composition,\nalthough this is not at all necessary.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "6 - 3 - 60",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Composition 1960 # 13\n\nto Richard Huelsenbeck",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The performer should prepare any composition\nand then perform it as well as he can.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "November 9, 1960.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Walter de Maria, 1960",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Tony Conrad, 1961",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Surprise Box",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The surprise box has a top with a hole in it large enough to put your hand through it. One person puts something into the box, anything. A second person comes when the box has been left alone, and reaches into the box to find what has ben left inside. He may feel around fast or slow, depending on how much suspense he wants to feel. Pretty soon he will find what's in the box. He can then do whatever he likes with what he found. He then can put something else in the box for the next person to find.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the piece",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "that is any piece.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tony Conrad, Summer 1961",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jackson Mac Low, 1960/1961",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "THANKS",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A simultaneity for people.\n\n\n\nAny person in a room may begin the action by making any vocal utterance. Other people in the room may make utterances or be silent at any time after the beginning.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Utterances may be in any language or none. They may be: (1) sentences, (2) clauses, (3) phrases, (4) phrase fragments, (5) groups of unrelated words, (6) single words (among which may be names of letters), (7) polysyllabic word fragments, (8) syllables, (9) minimal speech sounds (i.e., phones, included or not within phonemes of any languages), or (10) any other sounds produced in the mouth, throat, or chest.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Any utterance may be repreated any number of times or not at all. After a person makes an utterance and repeats it or not he should become silent and remain so for any duration. After the silence he may make any utterance, repeat it or not, again become silent, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "People may continue to make utterances or not until no one wants to make an utterance or until a predetermined time limit is reached.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "All utterances are free in all respects.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-vocal sounds may be produced and repeated or not in place of utterances.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyone may submit any or all elements of this simultaneity to chance regulations by any method(s).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jackson Mac Low December 1960 – February 1961 New York City",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Piero Manzoni: Base Magica, 1961",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/manzoni-Manzoni_1961_Magic_Base-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/manzoni-ManzoniBaseMagica61[Feet].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/manzoni-Manzoni61MagicSocle[Child].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "116",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Piero Manzoni: Merda d'Artista, 1961",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/manzoni-manzoniMerdaDArtista1961b-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "374",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/manzoni-manzoniMerdaDArtista1961-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "251",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/ben-ben-1962-ArtTotal-S-Cr.jpg",
+      "alt": "",
+      "caption": "Art Total, 1962",
+      "width": "180",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/ben-vautier-nimportequoi-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "275",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/ben-ben-1981-duchamp-S.jpg",
+      "alt": "",
+      "caption": "1981",
+      "width": "212",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/ben-BenToutA10F-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "246",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/ben-vautier-pas-juger-SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "220",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Giulio Paolini, 1969",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/nimporte-quoi/paolini-1969-s.jpg",
+      "alt": "",
+      "caption": "\"Nullus Enim Locus Sine Genio Est\"",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Any vs. Every",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Minos:\nIn predicate (2), you speak of 'any transversal': a little\nwhile ago, you spoke of 'every exterior angle.' Do you make\nany distinction between 'any' and 'every'?\n\nEuclid: Where the things spoken of are limited in number, I\nuse 'every'; where infinite, I use 'any' in order to bring the idea\nwithin the grasp of our finite intellects. For instance, you may talk\nof 'every grain of sand in the world': there are, no doubt,\nwhat country-folk would call 'a good few' of them, but still the number\nis limited, and the mind can just grasp the idea. But if you tell\nme that 'every cubic inch of Space contains eight cubic half-inches,'\nmy mind is unable to form a distinct conception of the subject of\nyour Proposition: you would convey the same truth, and in a form I\ncould grasp, by saying 'any cubic inch.'",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles L. Dodgson: Euclid and his modern rivals. London: Macmillan, 1879. [Second\nedition, 1885, p. 25.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "N'importe quoi",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "An extensive exhibition entitled \"N'importe quoi\" took place in 2009 in the Musée d'art contemporain de Lyon. This exhibition indeed showed \"anything\". It did, however, not deal with the extremely demanding challenge articulated above by Thierry de Duve; it showed mostly artists employing the idea of \"n'importe quoi\" as a licence to show haphazardly chosen readymade objects.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The exhibition included works by Richard Artschwager, B. Wurtz, Olivier Babin, John Baldessari, Iain Baxter, Philippe Cazal, Claude Closky, Gérard Collin-Thiébaut, Martin Creed, François Curlet, Eric Duyckaerts, Hans Peter Feldmann, Fischli & Weiss, Mark Handforth, Rachel Harrison, Bertrand Lavier, Tony Matelli, Paul McCarthy, Matthew McCaslin, Mathieu Mercier, John Miller, Olivier Mosset, Olaf Nicolai, Bruno Peinado, Mick Peter, Henrik Plenge Jakobsen, Torbjørn Rødland, Ugo Rondinone, Sylvain Rousseau, Peter Saul, Alain Séchas, Haim Steinbach, Jessica Stockholder, Joanne Tatham & Tom O’Sullivan, Wolfgang Tillmans, John Tremblay, Ida Tursic & Wilfried Mille, Lily van der Stokker, Xavier Veilhan, Fabio Viscogliosi, Kelley Walker, Lawrence Weiner, Franz West.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Link: Triple-V photo pages of this exhibition.",
+      "links": [
+        {
+          "text": "Triple-V photo pages of this exhibition",
+          "href": "http://www.triple-v.fr/a-venir/nimporte-quoi/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Vladimir Bonacic: \"Umjetnost kao funkcija subjekta, spoznaje i vremena.\" (\"Art as function of subject, cognition and time.\") In: Boris Kelemen & Radoslav Putar: Dijalog sa Strojem / Dialog with the Machine. Zagreb: Galerije Grada Zagreba, 1971, p.131.\n\n\n\nMarcel Duchamp: Apropos of 'Readymades'. (Lecture at the Museum of Modern Art, New York, October 19, 1961.) Art and Artists, 1, 4 (July 1966).\n\n\n\nThierry de Duve: Au nom de l'art. Pour une archéologie de la modernité. Paris: Les Éditions de Minuit, 1989, pp. 118-119.\n\n\n\nJackson Mac Low: Story, Music, Chance Operations, Poetry, Essays, Indeterminacy. In: La Monte Young & Jackson Mac Low (eds.): An Anthology. New York, 1963.\n\n\n\nWalter de Maria: Compositions, Essays, Meaningless Work, Natural Disasters. In: La Monte Young & Jackson Mac Low (eds.): An Anthology. New York, 1963.\n\n\n\nDieter Roth (ed.): ZEITSCHRIFT FÜR ALLES / REVIEW FOR EVERYTHING / TíMARIT FYRIR ALLT. Numbers 1-10A & 10B (1975-1987). Stuttgart/Mols/Basel: edition hansjörg mayer, Dieter Roth Verlag. The review \"... will not only accept & print everything but will accept & print everything by everybody\". Contributions by Dieter Roth, J. Furnival, Dom Sylvestre Houédard, K.B. Schäuffelen, Friedrich Achleitner, H. Cibulka, D. Steiger, H. Eisendle, K. Renner, Günther Brus, K. Riha, Konrad Bayer, B. Mattheus and others. Covers designed by Uwe Lohrer.\n\n\n\nLarry J. Solomon: The Sounds of Silence. John Cage and 4'33\". 1998/2002.\n\n\n\nLudwig Wittgenstein: Tractatus Logico-Philosophicus, 1922, § 6.4.\n\n\n\nLa Monte Young : Compositions. In: La Monte Young & Jackson Mac Low (eds.): An Anthology. New York, 1963.",
+      "links": [
+        {
+          "text": "The Sounds of Silence. John Cage and 4'33\".",
+          "href": "http://solomonsmusic.net/4min33se.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/nimporte-quoi/duchamp-Porte-Bouteilles1914-S.jpg",
+      "alt": "Bottlerack",
+      "caption": "Porte-Bouteilles, 1914",
+      "legacy_src": "../../things/readymade/duchamp/Porte-Bouteilles1914-S.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/manzoni-Manzoni_1961_Magic_Base-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni/Manzoni_1961_Magic_Base-S.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/manzoni-ManzoniBaseMagica61[Feet].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni/ManzoniBaseMagica61%5BFeet%5D.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/manzoni-Manzoni61MagicSocle[Child].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni/Manzoni61MagicSocle%5BChild%5D.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/manzoni-manzoniMerdaDArtista1961b-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni/manzoniMerdaDArtista1961b-S.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/manzoni-manzoniMerdaDArtista1961-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni/manzoniMerdaDArtista1961-S.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/ben-ben-1962-ArtTotal-S-Cr.jpg",
+      "alt": "",
+      "caption": "Art Total, 1962",
+      "legacy_src": "Ben/ben-1962-ArtTotal-S-Cr.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/ben-vautier-nimportequoi-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/vautier-nimportequoi-M.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/ben-ben-1981-duchamp-S.jpg",
+      "alt": "",
+      "caption": "1981",
+      "legacy_src": "Ben/ben-1981-duchamp-S.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/ben-BenToutA10F-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/BenToutA10F-M.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/ben-vautier-pas-juger-SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/vautier-pas-juger-SS.jpg"
+    },
+    {
+      "src": "/images/anything/nimporte-quoi/paolini-1969-s.jpg",
+      "alt": "",
+      "caption": "\"Nullus Enim Locus Sine Genio Est\"",
+      "legacy_src": "paolini-1969-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/music/silence"
+  ]
+}

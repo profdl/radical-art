@@ -1,0 +1,315 @@
+{
+  "slug": "algorithmic-art/grid/repetition",
+  "legacy_path": "AlgorithmicArt/grid/repetition/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Repetition",
+  "heading": "",
+  "description": "The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Repetition\n\n\n\nIdentical or similar images or objects, arranged in grids.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/13KandinskyFarbstudieQuad-s.jpg",
+      "alt": "",
+      "caption": "Wassily Kandinsky:\n\nFarbstudie Quadrate, 1913",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/51-Kelly-Cite.jpg",
+      "alt": "",
+      "caption": "Ellsworth Kelly: Cité, 1951",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/becher-fachwerk-59-61-Fachwerkhaeuser-s.jpg",
+      "alt": "",
+      "caption": "Bernd & Hilla Becher:\n\nFachwerkhäuser, 1959-1961",
+      "width": "195",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/61-manzoni-61Achr[Pane]-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome (Pane), 1961",
+      "width": "230",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/61-KlausStaudtSeriellBetont.jpg",
+      "alt": "",
+      "caption": "Klaus Staudt:\n\nSeriell Betont, 1961",
+      "width": "185",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/61-oskar-holweck-61-Reibflaechen-V-61.jpg",
+      "alt": "",
+      "caption": "Oskar Holweck:\n\nReibflächen V, 1961",
+      "width": "177",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/61-judd-61-75-Unt-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1961",
+      "width": "230",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol-62-GreenCoca-ColaBottles-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\nGreen Coca Cola Bottles, 1962",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol-62-25ColoredMarilyns-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\n25 Colored Marilyns, 1962",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-GeneDavisUnt[hor2].jpg",
+      "alt": "",
+      "caption": "Gene Davis, Untitled, 1962",
+      "width": "640",
+      "height": "56",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/66Parmentier7BandesEtc-s.jpg",
+      "alt": "",
+      "caption": "Parmentier: 7 Bandes, 1966",
+      "width": "149",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/66NevelsonHomage2TWorld-s.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson: Homage to the World, 1966",
+      "width": "428",
+      "height": "126",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/61-judd-66Untitled.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1966",
+      "width": "480",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/66-morris-66VariantArrangement-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nVariant Arrangement, 1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/66andre-66-EquivalentVIII-B-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Equivalent VIII, 1966",
+      "width": "479",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More repetitive paintings by Andy Warhol",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/repetition/62-warhol",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "About Andy Warhol's Grid Paintings",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems that the salient metaphysical question lately is: \"Why does Andy Warhol paint Campbell Soup cans?\" The only available answer is \"Why not?\" (...) Actually it is not very interesting to think about the reasons, since it is easy to imagine Warhol's paintings without such subject matter, simply as \"overall\" paintings of repated elements. The novelty and the absurdity of the repeated images of Marilyn Monroe, Troy Donahue, and Coca-Cola bottles is not great. Although Warhol thought of using these subjects, he certainly did not think of the format. (...) The gist of this is that Warhol's work is able but general. It certainly has possibilities, but it is so far not exceptional.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Donald Judd: \"Andy Warhol,\" Arts Magazine 37 (January 1963), p. 49.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ". . . in concentrating on this boundless monotony, we find the sudden illumination of multiplicity itself – with nothing at its center, at its highest point, or beyond it – a flickering of light that travels even faster than the eyes and successively lights up the moving labels and the captive snapshots that refer to each other to eternity, without ever saying anything: suddenly, arising from the old inertia of equivalence, the striped form of the event tears through the darkness, and the eternal phantasm informs that soup can, that singular and depthless face.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Foucault: \"Theatrum Philosophicum\", Language Counter-Memory Practice ,\n\ntrans. Donald F. Bouchard and Sherry Simon (Ithaca, 1977), p. 189.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A day will come when, by means of similitude relayed along the length of a series, the image itself, along with the name it bears, will lose its identity. Campbell, Campbell, Campbell, Campbell.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Foucault: This is Not a Pipe, trans. James Harkness (Los Angeles, 1983), p. 54.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sources",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Donald Judd's review is entirely reprinted in: Alan R. Pratt (ed.): The Critical Response to Andy Warhol. Westport, CT: Greenwood Press, 1997, pp. 2-3.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foucault quotes are from Gary Shapiro: \"Art and its Doubles: Danto, Foucault, and their Simulacra\" In: Mark Rollins (ed.): Danto and his critics (Oxford: Blackwell, 1993), pp. 134-135 and p. 129.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "RS, 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/repetition/13KandinskyFarbstudieQuad-s.jpg",
+      "alt": "",
+      "caption": "Wassily Kandinsky:\n\nFarbstudie Quadrate, 1913",
+      "legacy_src": "13KandinskyFarbstudieQuad-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/51-Kelly-Cite.jpg",
+      "alt": "",
+      "caption": "Ellsworth Kelly: Cité, 1951",
+      "legacy_src": "51-Kelly-Cite.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/becher-fachwerk-59-61-Fachwerkhaeuser-s.jpg",
+      "alt": "",
+      "caption": "Bernd & Hilla Becher:\n\nFachwerkhäuser, 1959-1961",
+      "legacy_src": "BecherFachwerk/59-61-Fachwerkhaeuser-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/61-manzoni-61Achr[Pane]-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome (Pane), 1961",
+      "legacy_src": "61Manzoni/61Achr%5BPane%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/61-KlausStaudtSeriellBetont.jpg",
+      "alt": "",
+      "caption": "Klaus Staudt:\n\nSeriell Betont, 1961",
+      "legacy_src": "61-KlausStaudtSeriellBetont.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/61-oskar-holweck-61-Reibflaechen-V-61.jpg",
+      "alt": "",
+      "caption": "Oskar Holweck:\n\nReibflächen V, 1961",
+      "legacy_src": "61-OskarHolweck/61-Reibflaechen-V-61.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/61-judd-61-75-Unt-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1961",
+      "legacy_src": "61Judd/61-75-Unt-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol-62-GreenCoca-ColaBottles-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\nGreen Coca Cola Bottles, 1962",
+      "legacy_src": "62Warhol/62-GreenCoca-ColaBottles-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol-62-25ColoredMarilyns-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\n25 Colored Marilyns, 1962",
+      "legacy_src": "62Warhol/62-25ColoredMarilyns-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-GeneDavisUnt[hor2].jpg",
+      "alt": "",
+      "caption": "Gene Davis, Untitled, 1962",
+      "legacy_src": "62-GeneDavisUnt%5Bhor2%5D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/66Parmentier7BandesEtc-s.jpg",
+      "alt": "",
+      "caption": "Parmentier: 7 Bandes, 1966",
+      "legacy_src": "66Parmentier7BandesEtc-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/66NevelsonHomage2TWorld-s.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson: Homage to the World, 1966",
+      "legacy_src": "66NevelsonHomage2TWorld-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/61-judd-66Untitled.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1966",
+      "legacy_src": "61Judd/66Untitled.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/66-morris-66VariantArrangement-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nVariant Arrangement, 1966",
+      "legacy_src": "66Morris/66VariantArrangement-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/66andre-66-EquivalentVIII-B-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Equivalent VIII, 1966",
+      "legacy_src": "66andre/66-EquivalentVIII-B-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/repetition/62-warhol"
+  ]
+}

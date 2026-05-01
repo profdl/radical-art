@@ -1,0 +1,291 @@
+{
+  "slug": "nothing/mirrors/pistoletto",
+  "legacy_path": "nothing/mirrors/Pistoletto/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Pistoletto",
+  "heading": "",
+  "description": "Mirror Pieces by Michelangelo Pistoletto",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirror Pieces by Michelangelo Pistoletto",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/62Autoritratto-S.jpg",
+      "alt": "",
+      "caption": "Autoritratto,\n\n1962",
+      "width": "150",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/62FiguraUmana.jpg",
+      "alt": "",
+      "caption": "Figura Umana,\n\n1962",
+      "width": "150",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/62PersonSeenFromTheBack-S.jpg",
+      "alt": "",
+      "caption": "Person seen from the back,\n\n1962",
+      "width": "161",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/6263UomoSeduto-s.jpg",
+      "alt": "",
+      "caption": "Uomo Seduto,\n\n1962/1963",
+      "width": "165",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/6264-3RagzzeAllaBalconata-s.jpg",
+      "alt": "",
+      "caption": "Tre Ragazza alla Balconata,\n\n1962/1964",
+      "width": "230",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/6264MarziaConBambina-s.jpg",
+      "alt": "",
+      "caption": "Marzia con Bambina,\n\n1962/1964",
+      "width": "142",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/65VietNam-S.jpg",
+      "alt": "",
+      "caption": "Vietnam, 1965",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/68Visitatori-S.jpg",
+      "alt": "",
+      "caption": "Visitatori, 1968",
+      "width": "230",
+      "height": "235",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/pistoletto-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "128",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Metrocubo d'Infinito, 1965/1966",
+      "width": "198",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/75-78-Divisione-S.jpg",
+      "alt": "",
+      "caption": "Divisione, 1975-1978",
+      "width": "212",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/75-79-Divisone-s.jpg",
+      "alt": "",
+      "caption": "Divisione, 1975-1979",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/78BrokenMirror-S.jpg",
+      "alt": "",
+      "caption": "Broken Mirror, 1978",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/SpecchioParlante-s.jpg",
+      "alt": "",
+      "caption": "Specchio Parlante",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/79DrawingOTMirror.jpg",
+      "alt": "",
+      "caption": "Drawing on the Mirror, 1979",
+      "width": "150",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/SpecchioRiflesso-s.jpg",
+      "alt": "",
+      "caption": "Specchio Riflesso",
+      "width": "221",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/91Unt(Pozzi)-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Pozzi), 1991",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/pistoletto/Frattali-s.jpg",
+      "alt": "",
+      "caption": "Frattali",
+      "width": "145",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/pistoletto/62Autoritratto-S.jpg",
+      "alt": "",
+      "caption": "Autoritratto,\n\n1962",
+      "legacy_src": "62Autoritratto-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/62FiguraUmana.jpg",
+      "alt": "",
+      "caption": "Figura Umana,\n\n1962",
+      "legacy_src": "62FiguraUmana.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/62PersonSeenFromTheBack-S.jpg",
+      "alt": "",
+      "caption": "Person seen from the back,\n\n1962",
+      "legacy_src": "62PersonSeenFromTheBack-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/6263UomoSeduto-s.jpg",
+      "alt": "",
+      "caption": "Uomo Seduto,\n\n1962/1963",
+      "legacy_src": "6263UomoSeduto-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/6264-3RagzzeAllaBalconata-s.jpg",
+      "alt": "",
+      "caption": "Tre Ragazza alla Balconata,\n\n1962/1964",
+      "legacy_src": "6264-3RagzzeAllaBalconata-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/6264MarziaConBambina-s.jpg",
+      "alt": "",
+      "caption": "Marzia con Bambina,\n\n1962/1964",
+      "legacy_src": "6264MarziaConBambina-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/65VietNam-S.jpg",
+      "alt": "",
+      "caption": "Vietnam, 1965",
+      "legacy_src": "65VietNam-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/68Visitatori-S.jpg",
+      "alt": "",
+      "caption": "Visitatori, 1968",
+      "legacy_src": "68Visitatori-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/pistoletto-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "pistoletto-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Metrocubo d'Infinito, 1965/1966",
+      "legacy_src": "65-66PistolettoMetrocuboDIS.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/75-78-Divisione-S.jpg",
+      "alt": "",
+      "caption": "Divisione, 1975-1978",
+      "legacy_src": "75-78-Divisione-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/75-79-Divisone-s.jpg",
+      "alt": "",
+      "caption": "Divisione, 1975-1979",
+      "legacy_src": "75-79-Divisone-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/78BrokenMirror-S.jpg",
+      "alt": "",
+      "caption": "Broken Mirror, 1978",
+      "legacy_src": "78BrokenMirror-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/SpecchioParlante-s.jpg",
+      "alt": "",
+      "caption": "Specchio Parlante",
+      "legacy_src": "SpecchioParlante-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/79DrawingOTMirror.jpg",
+      "alt": "",
+      "caption": "Drawing on the Mirror, 1979",
+      "legacy_src": "79DrawingOTMirror.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/SpecchioRiflesso-s.jpg",
+      "alt": "",
+      "caption": "Specchio Riflesso",
+      "legacy_src": "SpecchioRiflesso-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/91Unt(Pozzi)-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Pozzi), 1991",
+      "legacy_src": "91Unt(Pozzi)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/pistoletto/Frattali-s.jpg",
+      "alt": "",
+      "caption": "Frattali",
+      "legacy_src": "Frattali-s.jpg"
+    }
+  ],
+  "out_links": []
+}

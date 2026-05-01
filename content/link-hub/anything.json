@@ -1,0 +1,70 @@
+{
+  "slug": "anything",
+  "legacy_path": "anything/index.html",
+  "section": "anything",
+  "archetype": "link-hub",
+  "title": "Indeterminacy",
+  "heading": "",
+  "description": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "anything",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "[arbitrariness & indeterminacy]",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "n'importe\nquoi\n\n\n\nphysical\nprocesses\n\n\n\nchance\n\n\n\nbugs,\nmistakes & system breakdown\n\n\n\nopen\nform & interactivity\n\n\n\nl'informe",
+      "links": [
+        {
+          "text": "",
+          "href": "/anything/nimporte-quoi",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/anything/bugs",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/anything/open-form",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/informe",
+          "external": false
+        }
+      ],
+      "level": 5
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/chance",
+    "/anything/bugs",
+    "/anything/nimporte-quoi",
+    "/anything/open-form",
+    "/informe",
+    "/process"
+  ]
+}

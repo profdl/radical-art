@@ -1,0 +1,112 @@
+{
+  "slug": "process/smash/luther",
+  "legacy_path": "process/smash/luther/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "smashed glass",
+  "heading": "adolf luther & werner ruhnau, 1982: smashed \n      glass",
+  "description": "smashed glass by adolf luther and werner ruhnau",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: smash process process\nart radical\nart",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        },
+        {
+          "text": "process",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "adolf luther & werner ruhnau, 1982: smashed\nglass",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/luther/LutherRuhnau1982.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "220",
+      "height": "292",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/luther/LutherRuhnau1982B.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "223",
+      "height": "287",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/luther/LutherRuhnau1982C.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "206",
+      "height": "272",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/luther/LutherRuhnau1982D.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "207",
+      "height": "267",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/smash/luther/LutherRuhnau1982.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LutherRuhnau1982.jpg"
+    },
+    {
+      "src": "/images/process/smash/luther/LutherRuhnau1982B.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LutherRuhnau1982B.jpg"
+    },
+    {
+      "src": "/images/process/smash/luther/LutherRuhnau1982C.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LutherRuhnau1982C.jpg"
+    },
+    {
+      "src": "/images/process/smash/luther/LutherRuhnau1982D.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LutherRuhnau1982D.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/smash"
+  ]
+}

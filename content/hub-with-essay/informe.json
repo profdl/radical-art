@@ -1,0 +1,332 @@
+{
+  "slug": "informe",
+  "legacy_path": "informe/index.html",
+  "section": "informe",
+  "archetype": "hub-with-essay",
+  "title": "informe",
+  "heading": "\"informe\" (formless)",
+  "description": "What forms does the formless take?",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "\"informe\" (formless)",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Art is concerned with form. (Visual\nshape is a metaphor for conceptual form.) But in the course of\nthe twentieth century, this very notion (form) has become\nsuspect. This situation creates an interesting challenge for the\nvisual arts: to find a form for formlessness, to show the form\nthat has no form. Below we list some of the forms of formlessness\nthat have been explored.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Note that one may plausibly try to find the form of formlessness at the level of methods and procedures rather than at the level of individual objects. Then it gives rise to process art and chance art. Or one may give up altogether, and embrace nothing or destruction.]",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "chance art",
+          "href": "/anything",
+          "external": false
+        },
+        {
+          "text": "nothing",
+          "href": "/nothing",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "forms of formlessness",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "dangle",
+      "links": [
+        {
+          "text": "dangle",
+          "href": "/informe/hang",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "tangle",
+      "links": [
+        {
+          "text": "tangle",
+          "href": "/informe/tangle",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "jumble",
+      "links": [
+        {
+          "text": "jumble",
+          "href": "/informe/jumble",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "litter",
+      "links": [
+        {
+          "text": "litter",
+          "href": "/informe/litter",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "mound",
+      "links": [
+        {
+          "text": "mound",
+          "href": "/informe/mound",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "heap",
+      "links": [
+        {
+          "text": "heap",
+          "href": "/informe/heap",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "junk",
+      "links": [
+        {
+          "text": "junk",
+          "href": "/informe/junk",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "foam",
+      "links": [
+        {
+          "text": "foam",
+          "href": "/informe/foam",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "fluff",
+      "links": [
+        {
+          "text": "fluff",
+          "href": "/informe/fluff",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "mud",
+      "links": [
+        {
+          "text": "mud",
+          "href": "/informe/mud",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "dirt",
+      "links": [
+        {
+          "text": "dirt",
+          "href": "/informe/dirt",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "fat",
+      "links": [
+        {
+          "text": "fat",
+          "href": "/informe/fat",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "trash",
+      "links": [
+        {
+          "text": "trash",
+          "href": "/informe/junk/trash",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "goo/ooze/putty",
+      "links": [
+        {
+          "text": "goo/ooze/putty",
+          "href": "/informe/viscosity",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "mess",
+      "links": [
+        {
+          "text": "mess",
+          "href": "/informe/mess",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "georges bataille: \"l'informe\"",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "\". . . un terme servant à déclasser, exigeant\ngénéralement que chaque chose ait sa forme. Ce qu'il\ndésigne n'a ses droits dans acucun sens et se fait écraser\npartout comme une araignée ou un ver de terre. Il faudrait\nen effet, pour que les hommes académiques soient contents,\nque l'univers prenne forme. La philosophie entière n'a\npas d'autre but: il s'agit de donner un redingote à ce\nqui est, une redingote mathématique. Par contre affirmer\nque l' univers ne ressemble à rien et n'est qu' informe revient à dire que l'univers est quelque chose comme une\naraignée ou un crachat.\"",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Georges Bataille: \"Informe.\"\nDocuments 7 (December 1929), p. 382.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bataille's\ndefinition posits the formlessness of the world as implying its\nintrinsic worthlessness as well as the unredeemable futility of\nour thinking about it. He uses the notion\nof \"form\" in an abstract, philosophical sense\nwhich is at best obliquely related to the notion of visual form\n–– but his evocative visual metaphors resonate strongly\nwith a certain strand in the art of Dada and Surrealism which is\nexemplified in works by Francis Picabia, Man Ray, Raoul Ubac, and\nJacques-André Boiffard.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "An important contribution to the psychology of\nformlessness which relates directly to Bataille's suggestions, is\nSartre's discussion of viscosity in the penultimate chapter\nof L'Être et le Néant (pp. 690 ff.).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Georges Bataille: \"Informe.\" Documents\n7 (December 1929), p. 382. [Reprinted/translated in: Bataille\n1970, p. 217; Bataille 1985, p. 217; Bois & Krauss 1996, p.\n6.]\n\n\n\nGeorges Bataille: Oeuvres Complètes\nI. Paris: Gallimard, 1970.\n\n\n\nGeorges Bataille: Visions of Excess. Selected Writings, 1927-1939.\nMinneapolis: University of Minnesota Press, 1985.\n\n\n\nYve-Alain Bois & Rosalind Krauss: L'Informe. Mode d'Emploi.\nParis: Centre Georges Pompidou, 1996.\n\n\n\nRosalind Krauss & Jane Livingston: L'Amour Fou. Photography & Surrealism. Washington, DC: The Corcoran Gallery of Art.\nNew York, NY: Abbeville Press, 1985.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "physics",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "In many cosmologies (from the ancient Greek \"Kaos\" through\nKant to the current \"big bang\"), formless stuff constitutes\nthe primordial beginning of the world, and thus carries no negative\nconnotations at all. Nevertheless, sentiments of futility and\nmeaninglessness do not have to spring from anti-scientific preconceptions\nsuch as Bataille's. One can easily find scientific propositions\nwhich imply the ultimate uselessness of everything. A good example\nis the second law of thermodynamics, which states that all isolated\nphysical systems evolve toward a statistically uniform state.\nThis seems to predict that complete boringness is the fate of\nthe universe. This part of modern physics constitutes the background\nfor many pieces by Robert Smithson in the 1960's.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "research projects about formlessness",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "(1) [Systematic Art History.]\nAbove we classified the forms of formlessness in terms of some\nexisting notions of natural English, and we identified prominent\nart-historical instantiations of these notions. Investigate\nthe conceptual dimensions which underly this classification.\nAlso include categories that we did not mention so far (e.g.:\nsoup,\ngoo, jelly, pudding). If possible, find significant examples\nof these categories.\n\n\n\n(2) [Algorithmic Art.] Based on the results of (1), write a\nstochastic generative grammar for descriptions of \"formless\nart\" pieces, and implement it. Stochastic parameters should\ninclude\nrandomness, diversity and fluidity. Note that formal regularities\nare excluded at the topmost level of structure, but not at embedded\nlevels.\n\n\n\n(3) [Theory of Algorithmic Art.] Discuss the idea of a formlessness-grammar\nand its relation with the idea of a \"grammar for everything\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Order implies restriction; from all possible materials, a limited selection has been made and from all possible relations a limited set has been used. So disorder by implication is unlimited, no pattern has been realised in it, but its potential for patterning is indefinite. This is why, though we seek to create order, we do not simply condemn disorder. We recognise that it is destructive to existing patterns; also that it has potentiality. It symbolises both danger and power.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mary Douglas: Purity and Danger. An Analysis of Concepts of Pollution and Taboo. London: Routledge & Kegan Paul, 1966, p. 94.\n\nQuoted in: Joseph Kosuth: The Play of the Unmentionable. London: Thames and Hudson, 1992.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "remko scha 2005/2006",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/anything",
+    "/destruction",
+    "/informe/dirt",
+    "/informe/fat",
+    "/informe/fluff",
+    "/informe/foam",
+    "/informe/hang",
+    "/informe/heap",
+    "/informe/jumble",
+    "/informe/junk",
+    "/informe/junk/trash",
+    "/informe/litter",
+    "/informe/mess",
+    "/informe/mound",
+    "/informe/mud",
+    "/informe/tangle",
+    "/informe/viscosity",
+    "/nothing",
+    "/process"
+  ]
+}

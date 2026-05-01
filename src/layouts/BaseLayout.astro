@@ -1,0 +1,75 @@
+---
+import "~/styles/global.css";
+import Sidebar from "~/components/Sidebar.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  current?: string;
+}
+
+const { title, description, current } = Astro.props;
+const siteTitle = "Radical Art";
+const fullTitle = title === siteTitle ? title : `${title} — ${siteTitle}`;
+
+const topNav = [
+  { label: "Algorithm", href: "/algorithmic-art" },
+  { label: "Concept", href: "/concept" },
+  { label: "Process", href: "/process" },
+  { label: "Mechanics", href: "/kinetics" },
+  { label: "Life", href: "/life" },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="mx-auto max-w-[88rem] px-6 md:px-10">
+      <header class="flex items-baseline justify-between pt-7 pb-5">
+        <nav class="flex items-baseline gap-x-10">
+          <a href="/" class="font-sans text-[1.0625rem] font-medium">Radical Art</a>
+          <ul class="hidden md:flex items-baseline gap-x-8">
+            {
+              topNav.map((n) => (
+                <li>
+                  <a href={n.href} class="nav-link">
+                    {n.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+        <a href="/about" class="nav-link">About</a>
+      </header>
+      <hr class="rule" />
+
+      <div class="grid grid-cols-12 gap-x-10 pt-10 pb-20">
+        <div class="col-span-12 md:col-span-3 lg:col-span-2 mb-10 md:mb-0">
+          <Sidebar current={current} />
+        </div>
+        <main class="col-span-12 md:col-span-9 lg:col-span-10">
+          <slot />
+        </main>
+      </div>
+
+      <hr class="rule-light" />
+      <footer class="py-6 flex justify-between section-label">
+        <span>Institute of Artificial Art Amsterdam · Department of Art History</span>
+        <a href="/about" class="hover:underline">About</a>
+      </footer>
+    </div>
+  </body>
+</html>

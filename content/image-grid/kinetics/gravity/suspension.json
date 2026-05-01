@@ -1,0 +1,101 @@
+{
+  "slug": "kinetics/gravity/suspension",
+  "legacy_path": "kinetics/gravity/Suspension/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "suspension",
+  "heading": "to suspend",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to suspend",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/suspension/1638-Galileo-DueNuove Scienze-Fig.1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "121",
+      "height": "286",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Galileo Galilei:\n\nDue Nuove Scienze,\n\n1638 (Fig. 1)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/suspension/1969-Giovanni_Anselmo_1969_Unt-S.jpg",
+      "alt": "",
+      "caption": "Giovanni_Anselmo:\n\nSenza Titolo, 1969",
+      "width": "174",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/suspension/1987-BruceNauman-Unt(SuspendedChair,Vertical-III).jpg",
+      "alt": "",
+      "caption": "Bruce Nauman: Untitled\n\n(Suspended Chair, Vertical III), 1987",
+      "width": "324",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/suspension/1973-ChrisBurden-MovieOnTheWayDown-m.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Movie on the\nWay Down, 1973",
+      "width": "250",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/suspension/1976-Stelarc_E4SS-sjpg.jpg",
+      "alt": "",
+      "caption": "Stelarc: Event for Stretched Skin, 1976",
+      "width": "365",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/suspension/1638-Galileo-DueNuove Scienze-Fig.1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1638-Galileo-DueNuove%20Scienze-Fig.1.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/suspension/1969-Giovanni_Anselmo_1969_Unt-S.jpg",
+      "alt": "",
+      "caption": "Giovanni_Anselmo:\n\nSenza Titolo, 1969",
+      "legacy_src": "1969-Giovanni_Anselmo_1969_Unt-S.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/suspension/1987-BruceNauman-Unt(SuspendedChair,Vertical-III).jpg",
+      "alt": "",
+      "caption": "Bruce Nauman: Untitled\n\n(Suspended Chair, Vertical III), 1987",
+      "legacy_src": "1987-BruceNauman-Unt(SuspendedChair,Vertical-III).jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/suspension/1973-ChrisBurden-MovieOnTheWayDown-m.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Movie on the\nWay Down, 1973",
+      "legacy_src": "1973-ChrisBurden-MovieOnTheWayDown-m.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/suspension/1976-Stelarc_E4SS-sjpg.jpg",
+      "alt": "",
+      "caption": "Stelarc: Event for Stretched Skin, 1976",
+      "legacy_src": "1976-Stelarc_E4SS-sjpg.jpg"
+    }
+  ],
+  "out_links": []
+}

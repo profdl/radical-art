@@ -1,0 +1,124 @@
+{
+  "slug": "nothing/web",
+  "legacy_path": "nothing/web.html",
+  "section": "nothing",
+  "archetype": "leaf-intro",
+  "title": "Nothing Online",
+  "heading": "Nothing \n                online",
+  "description": "Empty web-pages.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nothing\nonline",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Red page",
+      "links": [
+        {
+          "text": "Red page",
+          "href": "http://www.e13.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RTV Noord: \"Een lege pagina\"",
+      "links": [
+        {
+          "text": "RTV Noord: \"Een lege pagina\"",
+          "href": "http://www.rtvnoord.nl/html/leegzwart.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory (Browse to find the pages made on September 11, 2001 and on September 11, 2002. )",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/base.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"This Page Intentionally Left Blank\" Project",
+      "links": [
+        {
+          "text": "The \"This Page Intentionally Left Blank\" Project",
+          "href": "http://www.this-page-intentionally-left-blank.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mountain Sanatorium",
+      "links": [
+        {
+          "text": "Mountain Sanatorium",
+          "href": "http://www.mountainsanatorium.net/blank.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "List\nof boring sites",
+      "links": [
+        {
+          "text": "List of boring sites",
+          "href": "http://www.o-o.lt/action/boring/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Auction\nof monochrome pages by Fred Forest",
+      "links": [
+        {
+          "text": "Auction of monochrome pages by Fred Forest",
+          "href": "http://www.fredforest.org/Catalogue/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Frédéric Durieu & Jean-Jacques Birgé: Big Bang.",
+      "links": [
+        {
+          "text": "Big Bang",
+          "href": "http://www.lecielestbleu.com/html/time.htm#",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eldar Karhalev & Ivan Khimin: Screen\nSaver, 2001. [Read_Me 2002 Jury About\nScreen Saver and .scr.]",
+      "links": [
+        {
+          "text": "Screen Saver,",
+          "href": "http://www.macros-center.ru/read_me/inde5.htm#screen",
+          "external": true
+        },
+        {
+          "text": "About Screen Saver and .scr.",
+          "href": "http://www.macros-center.ru/read_me/adden.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

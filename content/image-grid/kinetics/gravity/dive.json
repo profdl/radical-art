@@ -1,0 +1,111 @@
+{
+  "slug": "kinetics/gravity/dive",
+  "legacy_path": "kinetics/gravity/Dive/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Dive",
+  "heading": "to dive",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to dive",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/jacques-henri-lartigue-1910-Plongeur-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue:\n\nPlongeur, 1910",
+      "width": "319",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/jacques-henri-lartigue-1911-MyCousinJeanHaguetDivingIntoTSwimmingPool-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue: My cousin Jean Haguet\n\ndiving Into the swimming\npool, 1911",
+      "width": "327",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/1948-ArthurLeipzig-Divers,EastRiver-s.jpg",
+      "alt": "",
+      "caption": "Arthur Leipzig: Divers, East River. 1948",
+      "width": "325",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/1951-NinoMigliori-il_Tuffatore-s.jpg",
+      "alt": "",
+      "caption": "Nino Migliori: il Tuffatore, 1951",
+      "width": "324",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/aaron-siskind-pleasures-and-terrors-of-levitation-1953-nr37-s.jpg",
+      "alt": "",
+      "caption": "Aaron Siskind: Pleasures and Terrors of Levitation, # 37 (1953) and #\n474 (1954)",
+      "width": "285",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/dive/aaron-siskind-pleasures-and-terrors-of-levitation-1954-nr474-s.jpg",
+      "alt": "",
+      "caption": "RS, July 2012",
+      "width": "284",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/dive/jacques-henri-lartigue-1910-Plongeur-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue:\n\nPlongeur, 1910",
+      "legacy_src": "JacquesHenriLartigue/1910-Plongeur-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/dive/jacques-henri-lartigue-1911-MyCousinJeanHaguetDivingIntoTSwimmingPool-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue: My cousin Jean Haguet\n\ndiving Into the swimming\npool, 1911",
+      "legacy_src": "JacquesHenriLartigue/1911-MyCousinJeanHaguetDivingIntoTSwimmingPool-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/dive/1948-ArthurLeipzig-Divers,EastRiver-s.jpg",
+      "alt": "",
+      "caption": "Arthur Leipzig: Divers, East River. 1948",
+      "legacy_src": "1948-ArthurLeipzig-Divers,EastRiver-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/dive/1951-NinoMigliori-il_Tuffatore-s.jpg",
+      "alt": "",
+      "caption": "Nino Migliori: il Tuffatore, 1951",
+      "legacy_src": "1951-NinoMigliori-il_Tuffatore-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/dive/aaron-siskind-pleasures-and-terrors-of-levitation-1953-nr37-s.jpg",
+      "alt": "",
+      "caption": "Aaron Siskind: Pleasures and Terrors of Levitation, # 37 (1953) and #\n474 (1954)",
+      "legacy_src": "AaronSiskindPleasures%20AndTerrorsOfLevitation/1953-nr37-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/dive/aaron-siskind-pleasures-and-terrors-of-levitation-1954-nr474-s.jpg",
+      "alt": "",
+      "caption": "RS, July 2012",
+      "legacy_src": "AaronSiskindPleasures%20AndTerrorsOfLevitation/1954-nr474-s.jpg"
+    }
+  ],
+  "out_links": []
+}

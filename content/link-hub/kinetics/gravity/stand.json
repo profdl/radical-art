@@ -1,0 +1,86 @@
+{
+  "slug": "kinetics/gravity/stand",
+  "legacy_path": "kinetics/gravity/Stand/index.html",
+  "section": "kinetics",
+  "archetype": "link-hub",
+  "title": "Stand",
+  "heading": "to stand",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to stand",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "towers",
+      "links": [
+        {
+          "text": "towers",
+          "href": "/kinetics/gravity/stand/build/buildings",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "high pedestals",
+      "links": [
+        {
+          "text": "high pedestals",
+          "href": "/kinetics/gravity/stand/high-pedestals",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "obelisks",
+      "links": [
+        {
+          "text": "obelisks",
+          "href": "/kinetics/gravity/stand/obelisk",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "columns",
+      "links": [
+        {
+          "text": "columns",
+          "href": "/kinetics/gravity/stand/column",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "planes (free-standing monochromes)",
+      "links": [
+        {
+          "text": "planes (free-standing monochromes)",
+          "href": "/kinetics/gravity/stand/plane",
+          "external": false
+        }
+      ],
+      "level": 4
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/kinetics/gravity/stand/build/buildings",
+    "/kinetics/gravity/stand/column",
+    "/kinetics/gravity/stand/high-pedestals",
+    "/kinetics/gravity/stand/obelisk",
+    "/kinetics/gravity/stand/plane"
+  ]
+}

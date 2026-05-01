@@ -1,0 +1,145 @@
+{
+  "slug": "things/painted",
+  "legacy_path": "things/painted/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Painted",
+  "heading": "Painted Things",
+  "description": "Painted things.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Painted Things",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/ManRay58PainPeint-M.jpg",
+      "alt": "",
+      "caption": "Man Ray: Pain Peint, 1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/bertrand-lavier-81-MademoiselleGauducheau.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nMademoiselle Gauducheau, 1981",
+      "width": "146",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/bertrand-lavier-81GabrielGaveau-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Gabriel Gaveau, 1981",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/bertrand-lavier-89Desk-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Desk, 1989",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/bertrand-lavier-2005Tubutu-M.gif",
+      "alt": "",
+      "caption": "Bertrand Lavier: Tubutu, 2005",
+      "width": "134",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/bertrand-lavier-91CharlesEamesPeinte-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nCharles Eames Peinte, 1991",
+      "width": "191",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/painted/Rentmeister-99-OT-S.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister:\n\nOhne Titel, 1999",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/painted/ManRay58PainPeint-M.jpg",
+      "alt": "",
+      "caption": "Man Ray: Pain Peint, 1958",
+      "legacy_src": "ManRay58PainPeint-M.jpg"
+    },
+    {
+      "src": "/images/things/painted/bertrand-lavier-81-MademoiselleGauducheau.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nMademoiselle Gauducheau, 1981",
+      "legacy_src": "BertrandLavier/81-MademoiselleGauducheau.jpg"
+    },
+    {
+      "src": "/images/things/painted/bertrand-lavier-81GabrielGaveau-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Gabriel Gaveau, 1981",
+      "legacy_src": "BertrandLavier/81GabrielGaveau-S.jpg"
+    },
+    {
+      "src": "/images/things/painted/bertrand-lavier-89Desk-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier: Desk, 1989",
+      "legacy_src": "BertrandLavier/89Desk-S.jpg"
+    },
+    {
+      "src": "/images/things/painted/bertrand-lavier-2005Tubutu-M.gif",
+      "alt": "",
+      "caption": "Bertrand Lavier: Tubutu, 2005",
+      "legacy_src": "BertrandLavier/2005Tubutu-M.gif"
+    },
+    {
+      "src": "/images/things/painted/bertrand-lavier-91CharlesEamesPeinte-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nCharles Eames Peinte, 1991",
+      "legacy_src": "BertrandLavier/91CharlesEamesPeinte-S.jpg"
+    },
+    {
+      "src": "/images/things/painted/Rentmeister-99-OT-S.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister:\n\nOhne Titel, 1999",
+      "legacy_src": "Rentmeister-99-OT-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things"
+  ]
+}

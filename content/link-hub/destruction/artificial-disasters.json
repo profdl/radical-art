@@ -1,0 +1,65 @@
+{
+  "slug": "destruction/artificial-disasters",
+  "legacy_path": "destruction/ArtificialDisasters/index.html",
+  "section": "destruction",
+  "archetype": "link-hub",
+  "title": "artificial disasters",
+  "heading": "artificial \n      disasters",
+  "description": "Artificial disasters in art. Artificial disasters as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "artificial\ndisasters",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "atom bomb",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "gulf war",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "9-11",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Lee Allyn Davis:\nManmade Catastrophes: From the Burning of Rome to the Lockerbie Crash.\nNew York, NY: Facts on File, 1993.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/destruction",
+    "/index"
+  ]
+}

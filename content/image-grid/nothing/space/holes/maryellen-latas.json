@@ -1,0 +1,126 @@
+{
+  "slug": "nothing/space/holes/maryellen-latas",
+  "legacy_path": "nothing/space/holes/MaryellenLatas/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Maryellen Latas",
+  "heading": "Maryellen Latas",
+  "description": "Maryellen Latas.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Maryellen Latas",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/97-Unt1997-18-s.jpg",
+      "alt": "",
+      "caption": "Untitled 1997-18, 1997",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/00-Unt2000-125-105-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2000-125/105, 2000",
+      "width": "138",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/01-Unt2001-159-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2001-159, 2001",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/03-Unt2003-176-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-176, 2003",
+      "width": "187",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/03Unt2003-174-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-174, 2003",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/06-Unt2003-194-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-194, 2006",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/maryellen-latas/06Unt2003-196-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-196, 2006",
+      "width": "199",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/97-Unt1997-18-s.jpg",
+      "alt": "",
+      "caption": "Untitled 1997-18, 1997",
+      "legacy_src": "97-Unt1997-18-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/00-Unt2000-125-105-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2000-125/105, 2000",
+      "legacy_src": "00-Unt2000-125-105-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/01-Unt2001-159-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2001-159, 2001",
+      "legacy_src": "01-Unt2001-159-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/03-Unt2003-176-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-176, 2003",
+      "legacy_src": "03-Unt2003-176-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/03Unt2003-174-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-174, 2003",
+      "legacy_src": "03Unt2003-174-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/06-Unt2003-194-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-194, 2006",
+      "legacy_src": "06-Unt2003-194-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/maryellen-latas/06Unt2003-196-s.jpg",
+      "alt": "",
+      "caption": "Untitled 2003-196, 2006",
+      "legacy_src": "06Unt2003-196-s.jpg"
+    }
+  ],
+  "out_links": []
+}

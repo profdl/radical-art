@@ -1,0 +1,172 @@
+{
+  "slug": "things/wrapped/delete",
+  "legacy_path": "things/wrapped/Delete/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "wrappings",
+  "heading": "",
+  "description": "Wrappings, empaquetages, etc.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: secrets cover-up wrapping radical\nart",
+      "links": [
+        {
+          "text": "secrets",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "wrapping",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Christophe Steinbrener & Rainer Dempf:\n\nDelete! (Neubaugasse, Vienna, 2005)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete10-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "229",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete11-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "225",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete5-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete3-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete4-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete7-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "229",
+      "height": "194",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/delete/Delete8-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "207",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/delete/Delete10-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete10-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete11-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete11-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete5-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete5-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete3-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete3-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete4-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete4-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete6-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete6-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete7-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete7-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/delete/Delete8-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Delete8-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover",
+    "/things/wrapped"
+  ]
+}

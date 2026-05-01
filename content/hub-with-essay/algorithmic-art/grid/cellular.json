@@ -1,0 +1,218 @@
+{
+  "slug": "algorithmic-art/grid/cellular",
+  "legacy_path": "AlgorithmicArt/grid/cellular/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "hub-with-essay",
+  "title": "Cellular Automata",
+  "heading": "Cellular Automata",
+  "description": "Cellular automata in algorithmic art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Cellular Automata",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Our page on grids discusses why one might want to describe an image as a discrete grid\nof color values. If such a description is taken as \"realistic\" (rather than as an arbitrary representation), it implies an image\ngeneration strategy: to specify classes of images by means of local\nprocesses on color grids. The mathematical articulation of this idea\nis the cellular automaton.",
+      "links": [
+        {
+          "text": "grids",
+          "href": "/algorithmic-art/grid",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A cellular\nautomaton is a grid of cells whose \"color\" changes in time.\nTime moves in discrete steps, and at every step, every cell assumes\na new color. An update rule specifies how the new state of a cell\ndepends on its old state and on the old states of its neighboring\ncells.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Different\ncellular automata can be specified, varying in the geometry of the\ngrid, the number of states of the cells, the definition of \"neighborhood\",\nand the nature of the update rule. For instance, the grid can be one-dimensional,\ntwo-dimensional or three-dimensional. The cells in a two-dimensional\ngrid are usually square, but they may also be triangular or hexagonal.\nThe state of every cell may be a Boolean (black and white), a scalar\n(grey-tones), or a three-tuple of scalars (colors). The neighborhood\nis often the area within one cell distance, but it can also be larger;\ndiagonal neighbors may be included or excluded. The update rule can\nbe deterministic or probabilistic. Often it is a \"voting rule\",\nwhich only counts the number of occurrences of the states of the neighbors,\nwithout taking into account their positions.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Because\nof the local nature of the update rules, the behaviour of cellular\nautomata may be reminiscent of physical, biological or social processes.\nThe structures observed in visualizations of the resulting configurations\nare typical examples of \"emergent phenomena\": they are not\npre-programmed, but arise out of an unforeseen interaction between\nthe update rule and the initial conditions. Often,\nthe emerging shapes have a natural, organic look. Cellular Automata\nthus demonstrate that constructivism may be process art, and vice\nversa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1-Dimensional\nCellular Automata",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/1-d",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "2-Dimensional\nCellular Automata",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/2-d",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3-Dimensional\nCellular Automata",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/3-d",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "General overviews:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "A.W. Burks (ed.): Essays on Cellular\nAutomata. Chicago: University of Illinois Press, 1970.\n\n\n\nGary W. Flake: \"Cellular Automata.\"\nIn: The Computational\nBeauty of Nature. Cambridge, MA: MIT Press, 1998.\n\n\n\nHerbert W. Franke: Zellulare\nAutomaten - Modelle für die physikalische Welt. In: Naturwissenschaftliche\nRundschau nr. 9, 1996.\n\n\n\nTommaso Toffoli and Norman Margolus: Cellular\nAutomata Machines. A New Environment for Modeling. Cambridge,\nMA: MIT Press, 1987.\n\n\n\nStephen\nWolfram's Articles on Cellular Automata (1983-1988).",
+      "links": [
+        {
+          "text": "The Computational Beauty of Nature",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/",
+          "external": true
+        },
+        {
+          "text": "Zellulare Automaten - Modelle für die physikalische Welt.",
+          "href": "http://www.zi.biologie.uni-muenchen.de/%7Efranke/ZellAuto.htm",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata Machines. A New Environment for Modeling.",
+          "href": "http://www.amazon.com/exec/obidos/tg/detail/-/0262200600/ref=lib_dp_TFCV/103-4265190-4038224?v=glance&s=books&vi=reader#reader-link",
+          "external": true
+        },
+        {
+          "text": "Stephen Wolfram's Articles on Cellular Automata (1983-1988).",
+          "href": "http://www.stephenwolfram.com/publications/articles/ca/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Stephen\nWolfram: Cellular\nAutomata and Complexity. Collected Papers, 1994.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Stephen\nWolfram: \"Computer Software in Science and Mathematics.\"\nScientific American 251, 3 (September 1984), pp.\n188 - 203.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Stephen\nWolfram: A New Kind\nof Science, 2002.",
+      "links": [
+        {
+          "text": "A New Kind of Science",
+          "href": "http://www.wolframscience.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Applications (Physics):",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Dale\nP. Bentz, Peter V. Coveney, Edward J. Garboczi, Michael F. Kleyn\nand Paul E. Stutzman: \"Cellular\nAutomaton Simulations of Cement Hydration and Microstructure Development,\" Modelling and Simulation in Materials Science\nand Engineering, 2, (1994), pp. 783-808.\n\n\n\nMichael Creutz: \"Deterministic\nIsing Dynamics,\" Annals of Physics 167 (1986), pp.\n62-76.\n\n\n\nMichael Creutz, \"Xtoys:\ncellular automata on xwindows,\" Nuclear Physics B (Proc. Suppl.) 47 (1996), pp. 846-849.\n\n\n\nYoshiaki Takai: Graphics\nApplications of Cellular Automata, 1994-2000",
+      "links": [
+        {
+          "text": "\"Cellular Automaton Simulations of Cement Hydration and Microstructure Development,\"",
+          "href": "http://ciks.cbt.nist.gov/garbocz/cell1994/cellauto.htm",
+          "external": true
+        },
+        {
+          "text": "Deterministic Ising Dynamics",
+          "href": "http://thy.phy.bnl.gov/%7Ecreutz/mypubs/pub088.pdf",
+          "external": true
+        },
+        {
+          "text": "Xtoys: cellular automata on xwindows",
+          "href": "http://thy.phy.bnl.gov/%7Ecreutz/mypubs/pub137.pdf",
+          "external": true
+        },
+        {
+          "text": "Graphics Applications of Cellular Automata",
+          "href": "http://madeira.cc.hokudai.ac.jp/RD/takai/automa.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Applications (Social Sciences):",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Edwin\nDethlefsen and Carlisle Moody: \"Simulating Neighborhood Segregation.\nA BASIC program gives surprising insights into some of the forces\nthat hamper integration.\" BYTE, July 1982, pp. 178–206.\n\n\n\n\nGarret Wilson: The\nComplex World: Nonlinear Dynamical Systems as a Paradigm for International\nRelations Theory. University of London, School of Oriental and\nAfrican Studies. MA Thesis International Studies and Diplomacy,\n1999.",
+      "links": [
+        {
+          "text": "The Complex World: Nonlinear Dynamical Systems as a Paradigm for International Relations Theory",
+          "href": "http://www.garretwilson.com/essays/internationalrelations/complexworld.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Links:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Mirek's\nJava Cellebration\n\n\n\nCSprings\n\n\n\n\nTim\nTyler's Cellular Automata\nLinks\n\n\n\nMirek Wójtowicz's Cellular\nAutomata Links",
+      "links": [
+        {
+          "text": "Mirek's Java Cellebration",
+          "href": "http://psoup.math.wisc.edu/mcell/mjcell/mjcell.html",
+          "external": true
+        },
+        {
+          "text": "CSprings",
+          "href": "http://jmge.net/java/csprings/",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata Links",
+          "href": "http://cell-auto.com/links/",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata Links",
+          "href": "http://psoup.math.wisc.edu/mcell/ca_links.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grid",
+    "/algorithmic-art/grid/cellular/1-d",
+    "/algorithmic-art/grid/cellular/2-d",
+    "/algorithmic-art/grid/cellular/3-d"
+  ]
+}

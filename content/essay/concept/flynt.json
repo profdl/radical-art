@@ -1,0 +1,133 @@
+{
+  "slug": "concept/flynt",
+  "legacy_path": "concept/flynt.html",
+  "section": "concept",
+  "archetype": "essay",
+  "title": "Henry Flynt",
+  "heading": "Henry Flynt 's Concept Art",
+  "description": "Concept-art and Henry Flynt",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Henry Flynt's Concept Art",
+      "links": [
+        {
+          "text": "Henry Flynt",
+          "href": "http://www.henryflynt.org/index.html",
+          "external": true
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Concept art is first of all an art of which the material is concepts,\nas the material of e.g. music is sound. Since concepts\nare closely bound up with language, concept art is a kind of\nart of which the material is language.\"",
+      "links": [
+        {
+          "text": "\"Concept art",
+          "href": "http://www.henryflynt.org/meta_tech/crystal.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt: \"Essay: Concept Art.\" (1961) In: La Monte Young (ed.): An Anthology, 1963.",
+      "links": [
+        {
+          "text": "\"Essay: Concept Art.\"",
+          "href": "http://www.henryflynt.org/aesthetics/conart.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt originated the notion of concept art and practices the\nmost austere version of it. Other conceptual artists dealt with\ntheatrical events (Brecht, Vautier), with generic visual descriptions\n(LeWitt, Weiner), or with the philosophy of art (Kosuth, Art\n& Language). Flynt's work, however, is concerned with a\nnew, non-deterministic form of mathematics.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/flynt/flynt.JPEG",
+      "alt": "",
+      "caption": "",
+      "width": "602",
+      "height": "229",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Quotes from:",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "The Crystallization of Concept Art in 1961",
+      "links": [
+        {
+          "text": "The Crystallization of Concept Art in 1961",
+          "href": "http://www.henryflynt.org/meta_tech/crystal.html",
+          "external": true
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Henry Flynt © 1994",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept art was meant to replace all of mathematics with an\nendeavor which involved a Rorschach-blot semantics; and which\ndid not claim to be cognitive, at least not in the inherited sense.\nMathematics had already been disconnected from claims of realism;\nand I was extending that disavowal to a disconnection from claims\nof a priori truth. Concept art's value consisted in beauty, a\nbeauty which was non-sentimental. Later I would say that its value\nconsisted in \"the invention of new mental abilities.\" Popularity\nhad nothing to do with whether this avenue was worth taking. With\nthat background, it was easy for people to object that concept\nart had nothing to do with art. At the end of the original concept\nart essay, I offered that thought myself. My observation was quoted\nby the reviewer of An Anthology in the Times Literary Supplement\nof August 6, 1964.[1] Admittedly, concept art does not belong\nto a traditional artistic branch or medium (e.g. painting), and\nit is not pictorially sentimental. On the other hand, there is\na very strong tradition in mathematics which claims artistic value\nfor mathematics (in effect). What is more, there was a period\nin which \"serious music\" became intellectually pretentious and\nnonsentimental--and the serious music establishment backed this\ndevelopment.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept art was meant to replace all of mathematics with an\nendeavor which involved a Rorschach-blot semantics; and which\ndid not claim to be cognitive, at least not in the inherited sense.\nMathematics had already been disconnected from claims of realism;\nand I was extending that disavowal to a disconnection from claims\nof a priori truth. Concept art's value consisted in beauty, a\nbeauty which was non-sentimental. Later I would say that its value\nconsisted in \"the invention of new mental abilities.\" Popularity\nhad nothing to do with whether this avenue was worth taking.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tristan Tzara's recipe for composing a dadaist poem, written\nbefore 1920.\n\n(In: The Dada Painters and Poets, ed. Robert Motherwell.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To make a dadaist poem\n\n\nTake a newspaper.\n\nTake a pair of scissors.\n\nChoose an article as long as you are planning to make your poem.\n\n\nCut out the article.\n\nThen cut out each of the words that make up this article and\nput them in a bag.\n\nShake it gently.\n\nThen take out the scraps one after the other in the order in\nwhich they left the bag.\n\nCopy conscientiously.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dutch mathematician L.E.J. Brouwer in \"Consciousness, Philosophy,\nand Mathematics\": \"... the fullest constructional beauty\nis the introspective beauty of mathematics, where instead of elements\nof playful causal acting, the basic intuition of mathematics is\nleft to free unfolding. This unfolding is not bound to the exterior\nworld, and thereby to finiteness and responsibility; consequently\nits introspective harmonies can attain any degree of richness\nand clearness.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "I saw an analogy between the syntax which metamathematics arrived\nat, and the computational character, or derivational process character,\nof much new music. It was also evident that Young's word pieces\nconcerned the metasyntax of music. [Not using the rules that define\nmusic, but twisting the rules.] The original concept art was a\ngenre which used visual displays or process objects or text. It\nwas a genre of syntax, or of derivational process. The notion\nthat the sort of structure which subtended mathematics could have\naesthetic value was already established from ancient times for\nmathematics; and it had been proclaimed for new music.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Concept art was meant to exhibit syntactical structures which\nbroke the framework of objectification. We find that for the first\ntime ever, I used a perceptual illusion as a logical notation.\nI relativized the existence of a derivation to the perceptual\nagility of the \"knowing subject\" or \"viewer.\"\n\n\n\nMathematics had to have been projected onto its logical tree-structure\nso that this tree-structure could then be manipulated in a blind\nand cruel way –– à la Tzara and Cage. I have\ncited Tzara's recipe for making a Dadaist poem. One may pass directly\nfrom that to my exposition of \"Haphazard System\" in Blueprint\nfor a Higher Civilization, pp. 97-99.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "My positioning of the concept-art venture in the Sixties took\nsome peculiar turns. As I said, as of 1961, I had no hesitation\nabout committing to art. Mathematical cognition had been replaced\nby the search for uncanny structure, for ideas such that the possibility\nof thinking them at all was amazing. The defensible value of the\nenterprise, I thought, was aesthetic. Thus it was that all of\nmathematics and all of art (mainly music) which had syntactical\npretensions were to be collapsed to a new genre of art. It was\nright to call it art, not \"science.\" Even so, at the end of the\nconcept art essay, I noted that concept art was entirely unsentimental,\nand I forthrightly acknowledged that that cast doubt on the appropriateness\nof classifying it as art. (. . .) Then, around 1966, there began\na long period in which I revisited concept art; and reworked it\ndiscursively. (As investigations in formal language and in models\nof inconsistent theories –– to put it in the jargon\nwhich my work seeks to supplant.)",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/flynt/flynt.JPEG",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../gif/concept/flynt.JPEG"
+    }
+  ],
+  "out_links": []
+}

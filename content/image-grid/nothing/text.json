@@ -1,0 +1,635 @@
+{
+  "slug": "nothing/text",
+  "legacy_path": "nothing/text/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Empty Texts",
+  "heading": "Nothing to read",
+  "description": "Empty texts.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Nothing to read",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Empty texts [abstract]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Laurence Sterne:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Two black pages (Vol. I, Chapter XII);",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "two marbled pages without text (Volume III, Chapter XXXVI);",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "blank page (Volume VI, Chapter XXXVIII);",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "two empty chapters (Vol. IX, Chapter XVIII and Chapter XIX).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In: The life and opinions of Tristram Shandy, Gentleman.\n\nLondon, 1759-1767.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/tristram-shandy-Vol.1-Ed2-p56-s.jpg",
+      "alt": "",
+      "caption": "Vol. I, p. 73",
+      "width": "149",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/tristram-shandy-Vol.IX-p69-s.jpg",
+      "alt": "",
+      "caption": "Vol. IX, p. 69",
+      "width": "153",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Fra Elbertus [Elbert Hubbard]: Essay on Silence. East Aurora, NY: Roycroft, 1905. (56 pp.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vasilisk Gnedov: Untitled poem. In: Smert' iskusstvu [The Death of Art], Petersburg, 1913.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The cycle Smert' iskusstvu consists of 15 one-page poems. The last one, labelled \"Poema Kontsa (15)\" [\"Final Poem (15)\"], is untitled and empty. The other poems, labelled \"Poem 1\", \"Poem 2\", etc., have one-word titles (except for \"Poem 14\", which is untitled), and consist of one line, one word, one syllable, or one letter.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A narrative interpretation of Smert' iskusstvu is proposed by Crispin Brooks in: The Futurism of Vasilisk Gnedov. (University of Birmingham, Department of Russian, 2000.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On several occasions, Gnedov presented live \"readings\" of his empty poem.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"His hand drew a line: from left to right and vice-versa (the second cancelled out the first, as plus and minus equals zero). The 'Final Poem' is indeed a poem of nothing, graphically represented – a zero. The future ultimate road of LITERATURE is – SILENCE, where the WORD, I say, will be replaced by the BOOK OF REVELATIONS – the BIG INTUITION. – the death of ART!\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ivan Ignat'ev in his Introduction to Smert' iskusstvu",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"He came out gloomy, stony-faced, exactly in the 'Khlebnikov manner', was silent for a long time, then slowly raised a heavy fist – and said in a low voice 'That's all!' ['Vse!']\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Adamovich: \"Nevozhmosnost' poezii.\" In: Kriticheskaya proza. Moscow, 1996 [p. 335].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret Anderson (ed.): The Little Review, Vol. III, No. 6 (September 1916). [Thirteen text pages, all empty]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "I loathe compromise, and yet I have been compromising in every issue by putting in things that were “almost good” or “interesting enough” or “important.” There will be no more of it. If there is only one beautiful thing for the September number it shall go in and the other pages will be left blank. Come on all of you!” [Margaret Anderson: \"A Real Magazine\" The Little Review, Vol. III, No. 5 (August 1916), p. 2]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/GnedovPoemaKontsa-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "210",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vasilisk Gnedov: Untitled poem\n\n[\"Poema Kontsa\"], 1915",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/ManRay----s.jpg",
+      "alt": "",
+      "caption": "Man Ray: \"–– –– –––––\"\n\nIn: Francis Picabia (ed.): 391,\n\n# 17 (June 1924), p. 3.",
+      "width": "195",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/ManRay-Ca1935-CrossWord-s.jpg",
+      "alt": "",
+      "caption": "Man Ray: Mots Croisés (1930's?)",
+      "width": "327",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/PascalClaude54-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "209",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/PascalClaude54-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "213",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/VanSchagen-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "223",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pascal Claude: \"Préface.\" In: Yves – Peintures.\n\nMadrid: Fernando Franco de Sarabia Maître Imprimeur, 1954.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "j.c. van schagen: \"introduction.\"\n\nIn: herman de vries: wit / weiss, 1962.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "herman de vries: untitled (wit is overdaad / white is superabundant). arnhem: herman de vries, 1961. (22 pp.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "herman de vries: wit / weiss. arnhem: m.j. israel, 1962. (200 pp.; with an empty introduction by j.c. van schagen.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[paperback reprint: stuttgart: edition hansjörg mayer, 1967; third revised edition: bern: artists press, 1980.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Christine Kozlov: 271 Blank Sheets of Paper Corresponding to 271 Days of Concepts Rejected. February-October, 1968.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Displayed in: Number 7. Paula Cooper Gallery, New York, May 18 - June 15, 1969. (Group show organized by Lucy R. Lippard).]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Idries Shah: The Book of the Book. London: Octagon Press, 1969.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jirí Valoch: Book about Nothing. (55 pp.) Brno, 1970.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "bpNichol: A Condensed History of Nothing. (8 pp.) Toronto: Ganglia Press, 1970.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ian Wilson: Art and Project Bulletin 30 (November 30, 1970).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Fred Forest: \"Titre de l'œuvre 150 cm2 de papier journal\". Le Monde, January 12, 1972. Reprinted in Tribune de Lausanne (Switzerland), Jornal do Brasil, Jornal da Tarde, O Estado Sao-Paulo, Fohla de Sao Paulo, O Globo Rio de Janeiro, Jornal do Bahia, Diaro de Parana, Zero Hora Allegré, Ultima Hora (Brasil), Clarin (Argentina), Eksit (Belgium), Sydsvenska Dagbladet (Sweden), Télérama, Ouest-France (France).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Kostelanetz: Tabula Rasa (1000 pp.) New York, NY: Archae Editions, 1978.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Kostelanetz: Inexistences (666 pp.) New York, NY: Archae Editions, 1978.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"If Kostelanetz's stance seems rather self-consciously art historical and self-justifying, it may be that he is only interested in the already established idea of blank books. For artists like Manzoni and de vries it was more a question of fulfilling a personal obsession, while Kostelanetz seems to be just carrying out a whim, adding an academic footnote to his adoptions of older art forms, making a wilful noise rather than a respectful silence.\" [Michael Gibbs: All or nothing. An anthology of blank books. Cromford, Derbyshire: RGAP, 2005, pp. 34/35.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans Bossmann (ed.): Dagblad Zonder Nieuws. Empty newspaper, published from March 22 until December 4, 1998. (Amsterdam, Stichting Stilte!)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "German edition: Zeitung Ohne Nachrichten (published from April 28 until December 4, 1998).\n\nEnglish edition: Daily Without News.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans Bossmann (ed.): Tijdschrift Zonder Nieuws. Quarterly magazine, 36 pages. Amsterdam: Stichting Stilte! 1998.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anne Lydiat: Lost for Words... 09-09-1999.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/SophieCalle2000LeLivre-Vierge.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "163",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sophie Calle:\n\nLe Livre Vierge, 2000",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Empty space in books and magazines",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/Agnetti[Boek]-s.jpg",
+      "alt": "",
+      "caption": "Vincenzo Agnetti: Libro dimenticato a memoria, 1969.",
+      "width": "300",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Barry: The Space between pages 29 & 30. In: Vito Accconci & Rosemary Meyer (eds): 0-9, 6 (July 1969).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Barry: The space between pages 74 & 75. In: Vito Accconci & Rosemary Meyer (eds): 0-9, 6 (July 1969).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Asher: Pages 42 and 43 [glued together]. In: Vision, 1 (1975).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Empty texts [denotational]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/text/fisches-nachtgesang-1905-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Christian Morgenstern:\n\n\"Fisches Nachtgesang\"\n\nIn: Galgenlieder, 1905.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pierre de Massot: The Wonderful Book. Réflections on Rrose Sélavy. Paris, 1924.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Reprinted in: Étant donné Marcel Duchamp, n° 2, (February 2000), pp. 97-120.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Len Shackleton: \"The average director's knowledge of football.\" Chapter 9 in: David R. Jack (ed.): Len Shackleton, Clown Prince of Soccer. His autobiography. 1955.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jes Petersen: Piero Manzoni. Life and Works. Flensburg/Glücksburg: Petersen Presse, 1963. (102 pp.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Available online through the Issuu page of Gian Paolo Guerini.\n\nReprint: Berlin: Petersen Press, 1969.",
+      "links": [
+        {
+          "text": "Available online",
+          "href": "http://issuu.com/guerini/docs/manzoni",
+          "external": true
+        },
+        {
+          "text": "Gian Paolo Guerini",
+          "href": "http://issuu.com/guerini",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "George Lincoln Rockwell: Great Achievements of the Negro Race. Arlington, Virginia: The American Nazi Party, 1967. (16 pp.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems that different versions of this book exist. The author is sometimes specified as J. Watts Turnbull, and the publisher as Sons of Liberty in Metairy, Louisiana or in Hollywood, California.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Victor David Dinnerstein: \"The Wit and Wisdom of Spiro T. Agnew\" Los Angeles, CA: Price Stern Sloan, 1969.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: The Official Government Nuclear Survivors Manual. Everything that is known about Effective Procedures in Case of Nuclear Attack. (192 pp.) Bill Adler Books, 1982.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Enzo Apicella: Memorie di uno sinemorato [Memories of an Amnesiac], 1983.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Margaret Turner: Joshua Sofaer. A Biography. London, 1997.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Voss: Dieter Roth in Greenland. Amsterdam: Boekie Woekie, 2005.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "James Wright: \"In Memory of the Horse David, Who Ate One of My Poems.\" Collected Poems. Middletown, CT: Wesleyan University Press, 1971 (p.197)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Don Paterson: \"On Going to Meet a Zen Master in the Kyushu Mountains and Not Finding Him.\" God’s Gift to Women, 1997.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Related work",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans Reimann: \"Bedrucktes Papier.\" In: Kobolz. Leipzig: Kurt Wolff Verlag, 1917, pp. 1-2.",
+      "links": [
+        {
+          "text": "Bedrucktes Papier.",
+          "href": "/nothing/text/reimann",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: \"Lecture on Nothing\" (1950) In: Silence. Middletown, Conn.: Wesleyan University Press, 1961.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Anthology",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "MIchael Gibbs: All or nothing. An anthology of blank books. Cromford, Derbyshire: RGAP, 2005.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Recommended! This anthology was the most important single resource that we used in putting together this web-page. But its perspective is somewhat broader, and it describes many books that are not mentioned here. Gibbs' anthology can be ordered from Boekie Woekie (books by artists), Amsterdam.",
+      "links": [
+        {
+          "text": "Boekie Woekie",
+          "href": "http://www.xs4all.nl/%7Eboewoe/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Quotes",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Write\nnothing! Read nothing! Say nothing! Print nothing!\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"O nichevokakh v poezzi.\" In: Sobachii iashchik.\nMoscow: Hobo, 1921, p. 8.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Wovon man nicht sprechen kann, darüber muß man schweigen.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein: Tractatus Logico-Philosophicus. London: Routledge and Kegan Paul, 1922, Statement # 7.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"In der\nKunst ist es schwer etwas zu sagen, was so gut ist wie: nichts zu\nsagen.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein, ca. 1932-1934.\nVermischte Bemerkungen, p. 50.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"To love, to admire, to adore, have as expressions of their truth the negative signs of the power to express oneself. Everything that is strong in feeling and everything that excites a sudden reaction from a remote source immediately dislocates the complex mechanism of language: silence, the exclamation, or the cliché are the eloquence of the moment.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Valéry: Mauvaises pensées. Paris: Gallimard, 1943, p. 83.\n\n[In: The Poetics of Paul Valéry, trans. Jean Hytier. New York: Anchor Books, 1966.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The most beautiful and perfect book in the world is a book with only blank pages, in the same way that the most complete language is that which lies beyond all that the words of a man can say. Every book of the new art is searching after that book of absolute whiteness, in the same way that every poem searches for silence.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulises Carrión: “The New Art of Making Books” Kontexts no. 6-7, 1975.",
+      "links": [
+        {
+          "text": "The New Art of Making Books",
+          "href": "http://www.arts.ucsb.edu/faculty/reese/classes/artistsbooks/Ulises%20Carrion,%20The%20New%20Art%20of%20Making%20Books.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Theaterstück, in dem schweigend auf völlig leerer, lebloser Bühne der Vorhang zwei Stunden lang aufbleibt, um das Nichts, die Stille \"aufzuführen\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Willy Hochkeppel: \"Transformation der Kunst und die Ästhetik der analytischen Philosophie.\"\n\nKunstforum International 100 (April/May 1989), p. 215.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I\nhave no idea what to write. That box full of words is there somewhere\nof course. And the regulations of how one is to chain those words\nare in reach. But I lack the idea of what I would want to paraphrase.\nCan that be a problem? If so, can it be solved? Should it be solved?\nIs a white sheet of paper not better than one with typographical\nstains? Dirty paper! A matter for librarians to hold in trust a\nlot of it. Poor people! I feel like reading books with blank pages.\nThere Boekie\nWoekie, books by artists, comes in handy, because we have for\nsale, thanks to Cornelia who makes them, something we call empty\nbook by BW, various sizes, differently many pages EUR 4.- to EUR\n11,50.\"",
+      "links": [
+        {
+          "text": "Boekie Woekie",
+          "href": "http://www.xs4all.nl/%7Eboewoe/frame2.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Voss: Diary,\nJune 20, 2002.",
+      "links": [
+        {
+          "text": "Diary,",
+          "href": "http://www.xs4all.nl/%7Eboewoe/frame2.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/text/tristram-shandy-Vol.1-Ed2-p56-s.jpg",
+      "alt": "",
+      "caption": "Vol. I, p. 73",
+      "legacy_src": "Tristram%20Shandy/Vol.1-Ed2-p56-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/tristram-shandy-Vol.IX-p69-s.jpg",
+      "alt": "",
+      "caption": "Vol. IX, p. 69",
+      "legacy_src": "Tristram%20Shandy/Vol.IX-p69-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/GnedovPoemaKontsa-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "GnedovPoemaKontsa-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/ManRay----s.jpg",
+      "alt": "",
+      "caption": "Man Ray: \"–– –– –––––\"\n\nIn: Francis Picabia (ed.): 391,\n\n# 17 (June 1924), p. 3.",
+      "legacy_src": "ManRay----s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/ManRay-Ca1935-CrossWord-s.jpg",
+      "alt": "",
+      "caption": "Man Ray: Mots Croisés (1930's?)",
+      "legacy_src": "ManRay-Ca1935-CrossWord-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/PascalClaude54-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "PascalClaude54-1-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/PascalClaude54-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "PascalClaude54-2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/VanSchagen-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "VanSchagen-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/SophieCalle2000LeLivre-Vierge.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "SophieCalle2000LeLivre-Vierge.jpg"
+    },
+    {
+      "src": "/images/nothing/text/Agnetti[Boek]-s.jpg",
+      "alt": "",
+      "caption": "Vincenzo Agnetti: Libro dimenticato a memoria, 1969.",
+      "legacy_src": "Agnetti%5BBoek%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/text/fisches-nachtgesang-1905-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "fisches-nachtgesang-1905-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/text/reimann"
+  ]
+}

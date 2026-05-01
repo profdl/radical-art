@@ -1,0 +1,145 @@
+{
+  "slug": "concept/tautology/99-stefan-brueggemann",
+  "legacy_path": "concept/tautology/99StefanBrueggemann/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Stefan Brüggemann",
+  "heading": "",
+  "description": "Tautological worksby Stefan Brüggemann",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Stefan Brüggemann 's Tautologies",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/99[conceptual]-s.jpg",
+      "alt": "",
+      "caption": "\"Looks Conceptual\", 1999",
+      "width": "193",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004NoContent-s.jpg",
+      "alt": "",
+      "caption": "\"(No Content)\", 2004",
+      "width": "230",
+      "height": "226",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004(Rubbish)-s.jpg",
+      "alt": "",
+      "caption": "\"(Rubbish)\", 2004",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004(Superficial)-s.jpg",
+      "alt": "",
+      "caption": "\"(Superficial)\", 2004",
+      "width": "480",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2008-ICanTExplain-s.jpg",
+      "alt": "",
+      "caption": "\"I can't explain\", 2008",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2001TextInstallation-s.jpg",
+      "alt": "",
+      "caption": "\"Text Installation\", 2001",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004NoteNr2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Note # 2 (\"Not very interesting\"),\n\n2004",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2003-AllMyIdeas-s.jpg",
+      "alt": "",
+      "caption": "\"All my ideas are imported\", 2003",
+      "width": "477",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/99[conceptual]-s.jpg",
+      "alt": "",
+      "caption": "\"Looks Conceptual\", 1999",
+      "legacy_src": "99%5Bconceptual%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004NoContent-s.jpg",
+      "alt": "",
+      "caption": "\"(No Content)\", 2004",
+      "legacy_src": "2004NoContent-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004(Rubbish)-s.jpg",
+      "alt": "",
+      "caption": "\"(Rubbish)\", 2004",
+      "legacy_src": "2004(Rubbish)-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004(Superficial)-s.jpg",
+      "alt": "",
+      "caption": "\"(Superficial)\", 2004",
+      "legacy_src": "2004(Superficial)-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2008-ICanTExplain-s.jpg",
+      "alt": "",
+      "caption": "\"I can't explain\", 2008",
+      "legacy_src": "2008-ICanTExplain-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2001TextInstallation-s.jpg",
+      "alt": "",
+      "caption": "\"Text Installation\", 2001",
+      "legacy_src": "2001TextInstallation-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2004NoteNr2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004NoteNr2-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann/2003-AllMyIdeas-s.jpg",
+      "alt": "",
+      "caption": "\"All my ideas are imported\", 2003",
+      "legacy_src": "2003-AllMyIdeas-s.jpg"
+    }
+  ],
+  "out_links": []
+}

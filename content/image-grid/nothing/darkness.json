@@ -1,0 +1,316 @@
+{
+  "slug": "nothing/darkness",
+  "legacy_path": "nothing/darkness/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Darkness",
+  "heading": "Darkness",
+  "description": "Darkness in art: From 19th century landscape gardens to Anish Kapoor.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Darkness",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "The Egyptian Philosophers have stated the hidden truth of their Theology; they found that according to certain Egyptian writings there is One Principle of all things, which is praised under the name of the Unknown Darkness, thrice repeated.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Damascius: De Principiis, Vol. 3.\n\n(Early Sixth Century CE.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Paris, 1991, p. 167]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/Smithson69TMusOTVoid-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "298",
+      "height": "390",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Smithson:\n\n\"The Museum of the Void\", 1969",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Comme tu me plairait, ô nuit ! sans ces étoiles\n\nDont la lumière parle un langage connu !\n\nCar je cherche le vide, et le noir et le nu !",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Mais les ténèbres sont elles-mêmes des toiles\n\nOù vivent, jaillissant de mon oeil par milliers,\n\nDes êtres disparus aux regards familiers.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles Baudelaire: \"Obsession.\"\n\nLes fleurs du mal (2nd ed.), 1861.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/ypeij-grot-ingang-zoom-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "227",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/ypeij-grot-zwart-220.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "220",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/ypeij-grot-uitgang-zoom-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "213",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lucas Pietersz. Roodbaard: Cave in Bos Ypeij, Tytsjerk (the Netherlands), 1850\n\n[entrance, inside, exit]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/14-HM-Porte-FenetreAColliou.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "390",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henri Matisse:\n\nPorte-Fenêtre à Colllioure,\n\n1914",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/30-ManRay-PhotoNoire-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "390",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man Ray: Photo Noire, 1930.\n\n(\"À Robert Desnos – plein des\n\nchoses qui absorbent la lumière\")",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/55FontanaUntitled-S.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Untitled, 1955",
+      "width": "165",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/59-60FontanaCSNatura-s.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spatiale Natura,\n\n1959/1960",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor-Kapoor87AtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: At the hub of things,\n\n1987",
+      "width": "237",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nMetro Cubo de Infinito, 1965/1966\n\n[Inverted mirrors]",
+      "width": "198",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/89Rentmeister-OT-ZwartGlasS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "240",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas Rentmeister: Ohne Titel, 1989\n\n[Black glass]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "Michael Heizer: North East South West, 1967",
+      "width": "176",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor-kapoor92DescentIntoLimbo.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Descent into limbo, 1992",
+      "width": "191",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More dark voids by Anish Kapoor",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/darkness/kapoor",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Darkness as performance. (Blindfolds, black glasses, closed eyes.)",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/blindness",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Black monochrome painting – from Paul Bilhaud (1882) until Eric Doeringer (2006)",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/black",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha. Most recent update: October 2011.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/darkness/Smithson69TMusOTVoid-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Smithson69TMusOTVoid-s.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/ypeij-grot-ingang-zoom-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ypeij/grot-ingang-zoom-s.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/ypeij-grot-zwart-220.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ypeij/grot-zwart-220.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/ypeij-grot-uitgang-zoom-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ypeij/grot-uitgang-zoom-s.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/14-HM-Porte-FenetreAColliou.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "14-HM-Porte-FenetreAColliou.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/30-ManRay-PhotoNoire-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "30-ManRay-PhotoNoire-s.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/55FontanaUntitled-S.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Untitled, 1955",
+      "legacy_src": "55FontanaUntitled-S.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/59-60FontanaCSNatura-s.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spatiale Natura,\n\n1959/1960",
+      "legacy_src": "59-60FontanaCSNatura-s.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor-Kapoor87AtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: At the hub of things,\n\n1987",
+      "legacy_src": "Kapoor/Kapoor87AtTheHubOfThings.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/65-66PistolettoMetrocuboDIS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nMetro Cubo de Infinito, 1965/1966\n\n[Inverted mirrors]",
+      "legacy_src": "65-66PistolettoMetrocuboDIS.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/89Rentmeister-OT-ZwartGlasS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "89Rentmeister-OT-ZwartGlasS.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/67HeizerNorthEastSouthWestS.jpg",
+      "alt": "",
+      "caption": "Michael Heizer: North East South West, 1967",
+      "legacy_src": "67HeizerNorthEastSouthWestS.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor-kapoor92DescentIntoLimbo.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Descent into limbo, 1992",
+      "legacy_src": "Kapoor/kapoor92DescentIntoLimbo.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/blindness",
+    "/nothing/darkness/kapoor",
+    "/nothing/monochrome/black"
+  ]
+}

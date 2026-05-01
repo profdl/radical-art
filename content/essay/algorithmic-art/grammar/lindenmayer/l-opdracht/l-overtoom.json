@@ -1,0 +1,86 @@
+{
+  "slug": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom",
+  "legacy_path": "AlgorithmicArt/grammar/Lindenmayer/L-Opdracht/L-Overtoom.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Opdracht 4 – L-system",
+  "heading": "Experiment met een \n  Mondriaan",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Overtoom\n\n\n\nOpdracht 4 — L-system",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Experiment met een\nMondriaan",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom/MondriaanLO.Color-JPEG",
+      "alt": "",
+      "caption": "Ik\nheb een willekeurige Mondriaans raamwerk gekozen, waarmee ik via de java-applet\neen klein beetje te gaan experimenteren. Ik heb een formule om gesteld die bij\nbenadering een beeld geeft van het raamwerk van Mondriaan.",
+      "width": "300",
+      "height": "353",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Formule: f = fffff+ffffffff+fffff+ffffffff+ff+ffffffff-f-ffffffff+f+ffffffff-f-f-fffff+ff+fffff-f-fffff+ff+fffff+f+ff-fff-ff",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dit is een simpele formule\ndie als een doorgetrokken lijn het raamwerk tekent. Nu is het tijd om hiermee\nte experimenteren.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wanneer het Axiom F is en\nde formule is de bovenstaande is het meest voor het handliggende experiment,\neen verhoging van de diepte (n). In het geval n=1 zie je het Mondriaans raamwerk,\nn=2 en n=3 maak van raamwerk een fractal aandoende rechthoek van het raamwerk.\nEen idee is misschien om de formule als axiom te noteren en juist te experimenteren\nmet de regels. Wanneer je de formule in als axiom noteert en je n (diepte) gelijk\nstelt aan nul, zul je altijd het Mondriaans raamwerk zien (mits de delta angel\n90 graden is).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ik wil experimenteren met\ntwee simpele regels, die opvallende resultaten opleveren.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Default waardes: Depth =\n0, Initial angel = 90 graden, Delta angel = 90 graden, Delta step size = 1.0,\nuniform noise = 0.0.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In het experiment blijkt\ndat de regels ‘f = f+f’ of ‘f = f-f’ een stabiele situatie\nopleveren wanneer je de diepte verhoogt. Bij een diepte van 1 geven ze nog wel\neen afwijkend figuur, maar van n = 2 leveren deze voorwaarden een stabiel kader\nmet kruis op. Dit nodigt weer uit om te experimenteren met verschillende Delta\nangels bij deze voorwaarden. Het lijkt erom dat het alleen werkt bij een Default\ndelta angel-waarde van 90 graden. Maar na even experimenteren kom je erachter\ndat de delta angel 45 graden vanaf n = 3 een ander stabiel symmetrisch figuur\noplevert. Na even zoeken kom je er achter dat alle veelvouden van 45 graden\nnaar een in een rust situatie komen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Delta angels 90 en 270 bij\nn = 2, terwijl 45, 135, 225 en 315 bij n= 3 (180 en 360 al vanaf n=0 te weten\neen streep). Waarbij 45 en 315, 90 en 270, 135 en 225 precies dezelfde figuren\nbrengen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bij de delta angel 60 graden\ngebeurt er ook iets interessants. De figuur heeft twee stabiel situatie een\nvoor de even dieptes n = 2, n =4 etc. en een voor de oneven n = 3 etc. Het begint\nbij n = 2. Ook delta angels 120, 240 en 300 hebben dit. De figuren van 240 en\n300 zijn respectievelijk een spiegeling van de figuren van 60 en 120.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Zover voor het kleine experiment\nmet een Mondriaans kader en stabiele figuren. De jpg is het schilderij van Mondriaan\ndat als inspiratie voor dit experiment heeft gefungeerd.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom/MondriaanLO.Color-JPEG",
+      "alt": "",
+      "caption": "Ik\nheb een willekeurige Mondriaans raamwerk gekozen, waarmee ik via de java-applet\neen klein beetje te gaan experimenteren. Ik heb een formule om gesteld die bij\nbenadering een beeld geeft van het raamwerk van Mondriaan.",
+      "legacy_src": "MondriaanLO.Color-JPEG"
+    }
+  ],
+  "out_links": []
+}

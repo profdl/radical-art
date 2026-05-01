@@ -1,0 +1,311 @@
+{
+  "slug": "process/gravity-liquid/pour",
+  "legacy_path": "process/gravity-liquid/Pour/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "pour",
+  "heading": "pour",
+  "description": "Process Art: Pour.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "pour",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "César Baldaccini: Expansions",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1967-expansion-300.jpg",
+      "alt": "",
+      "caption": "César pouring polyurethane, 1967",
+      "width": "209",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1967-expansion-jaune-250.jpg",
+      "alt": "",
+      "caption": "Expansion Jaune, 1967",
+      "width": "402",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-domus-big_342592___250.jpg",
+      "alt": "",
+      "caption": "1968",
+      "width": "261",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1971-ExpNo35_Rose-C-200.jpg",
+      "alt": "",
+      "caption": "Expansion No. 35 (Rose), 1971",
+      "width": "332",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lynda Benglis",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1968-Night_Sherbet_A-C2-200.jpg",
+      "alt": "",
+      "caption": "Night Sherbet A, 1968",
+      "width": "285",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1970-Unt--200.jpg",
+      "alt": "",
+      "caption": "Untitled, 1970",
+      "width": "249",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-Latex-600x399-C-200.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "261",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1969-Contraband-200.jpg",
+      "alt": "",
+      "caption": "Contraband, 1969",
+      "width": "220",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1970-LyndaBenglisAction-250.jpg",
+      "alt": "",
+      "caption": "Benglis pouring latex, 1970",
+      "width": "201",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-Latex02-C-250.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "179",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Thomas Rentmeister",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/2000-rentmeister-2000-OT-Nutella-C-copy.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Nutella), 2000",
+      "width": "464",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Kristof Kintera",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/2009-kristof-kintera-2009-all-my-bad-thoughts1-s.jpg",
+      "alt": "",
+      "caption": "All My Bad Thoughts, 2009",
+      "width": "346",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/2009-kristof-kintera-2011-Lida-s.jpg",
+      "alt": "",
+      "caption": "Lida, 2011",
+      "width": "159",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\\",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Holton Rower: Tall Paintings (Poured)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/2011-holton-rower-holton_rower_01-s.jpg",
+      "alt": "",
+      "caption": "2011",
+      "width": "409",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/pour/2011-holton-rower-2011-Unt-s.jpg",
+      "alt": "",
+      "caption": "2011",
+      "width": "234",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Pierre Restany: \"César and the\npoetry of industrial chemistry.\" Domus 462\n(August 1968).",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1967-expansion-300.jpg",
+      "alt": "",
+      "caption": "César pouring polyurethane, 1967",
+      "legacy_src": "1967-cesar/1967-expansion-300.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1967-expansion-jaune-250.jpg",
+      "alt": "",
+      "caption": "Expansion Jaune, 1967",
+      "legacy_src": "1967-cesar/1967-expansion-jaune-250.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-domus-big_342592___250.jpg",
+      "alt": "",
+      "caption": "1968",
+      "legacy_src": "1967-cesar/1968-Domus/big_342592___250.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1967-cesar-1971-ExpNo35_Rose-C-200.jpg",
+      "alt": "",
+      "caption": "Expansion No. 35 (Rose), 1971",
+      "legacy_src": "1967-cesar/1971-ExpNo35_Rose-C-200.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1968-Night_Sherbet_A-C2-200.jpg",
+      "alt": "",
+      "caption": "Night Sherbet A, 1968",
+      "legacy_src": "1968-LyndaBenglis/1968-Night_Sherbet_A-C2-200.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1970-Unt--200.jpg",
+      "alt": "",
+      "caption": "Untitled, 1970",
+      "legacy_src": "1968-LyndaBenglis/1970-Unt--200.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-Latex-600x399-C-200.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1968-LyndaBenglis/Latex-600x399-C-200.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1969-Contraband-200.jpg",
+      "alt": "",
+      "caption": "Contraband, 1969",
+      "legacy_src": "1968-LyndaBenglis/1969-Contraband-200.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-1970-LyndaBenglisAction-250.jpg",
+      "alt": "",
+      "caption": "Benglis pouring latex, 1970",
+      "legacy_src": "1968-LyndaBenglis/1970-LyndaBenglisAction-250.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/1968-lynda-benglis-Latex02-C-250.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1968-LyndaBenglis/Latex02-C-250.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/2000-rentmeister-2000-OT-Nutella-C-copy.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Nutella), 2000",
+      "legacy_src": "2000-rentmeister/2000-OT-Nutella-C-copy.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/2009-kristof-kintera-2009-all-my-bad-thoughts1-s.jpg",
+      "alt": "",
+      "caption": "All My Bad Thoughts, 2009",
+      "legacy_src": "2009-KristofKintera/2009-all-my-bad-thoughts1-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/2009-kristof-kintera-2011-Lida-s.jpg",
+      "alt": "",
+      "caption": "Lida, 2011",
+      "legacy_src": "2009-KristofKintera/2011-Lida-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/2011-holton-rower-holton_rower_01-s.jpg",
+      "alt": "",
+      "caption": "2011",
+      "legacy_src": "2011-Holton%20Rower/holton_rower_01-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/pour/2011-holton-rower-2011-Unt-s.jpg",
+      "alt": "",
+      "caption": "2011",
+      "legacy_src": "2011-Holton%20Rower/2011-Unt-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

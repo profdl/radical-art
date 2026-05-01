@@ -1,0 +1,126 @@
+{
+  "slug": "informe/viscosity/lynda-benglis",
+  "legacy_path": "informe/Viscosity/LyndaBenglis/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "Lynda Benglis: Viscosity Pieces",
+  "heading": "Lynda Benglis",
+  "description": "Formlessness through viscosity.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Lynda Benglis",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/Late1960s-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, late 1960's",
+      "width": "278",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/1970-Untitled(VW)-ss.jpg",
+      "alt": "",
+      "caption": "Untitled (VW), 1970",
+      "width": "243",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/69-QuarteredMeteor-s.jpg",
+      "alt": "",
+      "caption": "Quartered Meteor, 1969",
+      "width": "315",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/1970-ForCarlAndre-M.jpg",
+      "alt": "",
+      "caption": "For Carl Andre, 1970",
+      "width": "247",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/70-Wing-s.jpg",
+      "alt": "",
+      "caption": "Wing, 1970",
+      "width": "261",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/74-Come_lynda-benglis-s.jpg",
+      "alt": "",
+      "caption": "Come, 1974",
+      "width": "294",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis/1975[1969]-eat_meat_s.jpg",
+      "alt": "",
+      "caption": "Eat Meat (1975 bronze cast of 1969 polyurethane expansion)",
+      "width": "428",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/Late1960s-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, late 1960's",
+      "legacy_src": "Late1960s-Unt-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/1970-Untitled(VW)-ss.jpg",
+      "alt": "",
+      "caption": "Untitled (VW), 1970",
+      "legacy_src": "1970-Untitled(VW)-ss.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/69-QuarteredMeteor-s.jpg",
+      "alt": "",
+      "caption": "Quartered Meteor, 1969",
+      "legacy_src": "69-QuarteredMeteor-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/1970-ForCarlAndre-M.jpg",
+      "alt": "",
+      "caption": "For Carl Andre, 1970",
+      "legacy_src": "1970-ForCarlAndre-M.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/70-Wing-s.jpg",
+      "alt": "",
+      "caption": "Wing, 1970",
+      "legacy_src": "70-Wing-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/74-Come_lynda-benglis-s.jpg",
+      "alt": "",
+      "caption": "Come, 1974",
+      "legacy_src": "74-Come_lynda-benglis-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis/1975[1969]-eat_meat_s.jpg",
+      "alt": "",
+      "caption": "Eat Meat (1975 bronze cast of 1969 polyurethane expansion)",
+      "legacy_src": "1975%5B1969%5D-eat_meat_s.jpg"
+    }
+  ],
+  "out_links": []
+}

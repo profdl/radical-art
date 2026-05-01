@@ -1,0 +1,87 @@
+{
+  "slug": "informe/junk",
+  "legacy_path": "informe/junk/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "junk",
+  "heading": "junk",
+  "description": "Disorganized distributions of solid objects in twentieth-century art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "junk",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "[disorganized distributions of solid objects]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/AllanKaprow61Yard.jpg",
+      "alt": "",
+      "caption": "Allan Kaprow: Yard, 1961",
+      "width": "182",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/Morris69CntProj,AltDaily-B.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nContinuous Project, Altered Daily,\n\n1969",
+      "width": "267",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/sherman87UntNr168-S.jpg",
+      "alt": "",
+      "caption": "Cindy Sherman: Untitled # 168, 1987",
+      "width": "177",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/ThomasDemand95Room.jpg",
+      "alt": "",
+      "caption": "Thomas Demand: Room, 1995",
+      "width": "294",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/junk/AllanKaprow61Yard.jpg",
+      "alt": "",
+      "caption": "Allan Kaprow: Yard, 1961",
+      "legacy_src": "AllanKaprow61Yard.jpg"
+    },
+    {
+      "src": "/images/informe/junk/Morris69CntProj,AltDaily-B.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nContinuous Project, Altered Daily,\n\n1969",
+      "legacy_src": "Morris69CntProj,AltDaily-B.jpg"
+    },
+    {
+      "src": "/images/informe/junk/sherman87UntNr168-S.jpg",
+      "alt": "",
+      "caption": "Cindy Sherman: Untitled # 168, 1987",
+      "legacy_src": "sherman87UntNr168-S.jpg"
+    },
+    {
+      "src": "/images/informe/junk/ThomasDemand95Room.jpg",
+      "alt": "",
+      "caption": "Thomas Demand: Room, 1995",
+      "legacy_src": "ThomasDemand95Room.jpg"
+    }
+  ],
+  "out_links": []
+}

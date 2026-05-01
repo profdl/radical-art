@@ -1,0 +1,380 @@
+{
+  "slug": "algorithmic-art/grid/abstract/2-d",
+  "legacy_path": "AlgorithmicArt/grid/abstract/2D/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Abstract Grids",
+  "heading": "",
+  "description": "The grid in classical twentieth-century painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Grids in early twentieth-century art",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpTaueberDuo-Collage-s.jpg",
+      "alt": "",
+      "caption": "Jean Arp & Sophie Taeuber:\n\nDuo-Collage, 1918",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpTaeuberUnt(Duo-Coll).jpg",
+      "alt": "",
+      "caption": "Jean Arp & Sophie Taeuber:\n\nDuo-Collage, 1918",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpCollage-s.jpg",
+      "alt": "",
+      "caption": "Jean Arp: Collage, 1918",
+      "width": "155",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-huszar-18Composition-ss.jpg",
+      "alt": "",
+      "caption": "Vilmos Huszar: Compositie, 1918",
+      "width": "149",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-georges-vantongerloo-18Study.jpg",
+      "alt": "",
+      "caption": "Georges Vantongerloo:\n\nÉtude, 1918",
+      "width": "206",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/19mondriaan-pm-ckbdlc.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Compositie 'dambord'\n\nmet lichte kleuren, 1919",
+      "width": "219",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/19mondriaan-PM-19-CompEnLosange-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Composition\n\nen Losenge, 1919",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/20-van-doesburg-25CompositieXV-s.jpg",
+      "alt": "",
+      "caption": "Theo van Doesburg:\n\nCompositie XV, 1925",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/20-van-doesburg-25Counter-CompVI-s.jpg",
+      "alt": "",
+      "caption": "Theo van Doesburg:\n\nCounter-Composition VI, 1925",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-25AbstractionSrFondNoir-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee:\n\nAbstraction sur Fond Noir, 1925",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/26-anni-albers-27Wandbehang-s.jpg",
+      "alt": "",
+      "caption": "Anni Albers: Wandbehang, 1927",
+      "width": "187",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-30CarresAuRhythmeTernaire-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee: Carrés au Rhythme Ternaire, 1930",
+      "width": "180",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-36NewHarmony-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee: New Harmony, 1936",
+      "width": "141",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "To add:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Sophie Taeuber: Sans titre,\nca. 1916-1917; Composition verticale horizontale, ca. 1916-1918.\n\nJean Arp: Papiers coupés au massicot, 1918.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arp 1886-1966. Exhibition Catalogue\nWürttembergischer Kunstverein, Stuttgart, 1986, pp. 52-55.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Klee: Einst dem Grau der Nacht enttaucht\n..., 1918; Alter Klang, 1925; Farbtafel auf maiorem\nGrau, 1930; Individualisierte Höhenmessung der Lagen,\n1930; Paneelschildering QU I, 1930; Polyphonie, 1932.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jürg Spiller: Paul Klee. Utrecht:\nBruna, 1962, pp. 61/83. Norbert Lynton: Klee. London: Hamlyn, 1964.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mondriaan about Vantongerloo",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Hij zet nu met zijn Belgisch intellect\neen hulpstelsel op touw dat volgens mij op de natuur gebaseerd\nis. (...) Met zijn gewone bewustzijn zit hij alles uit te rekenen.\n(...) Hij gaat te werk als een (gewone) theosoof.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Mondriaan\nwriting to Van Doesburg, September 5, 1920.] Cf. Nicolette Gast: \"Georges Vantongerloo.\" In: De beginjaren van De\nStijl 1917-1922. Utrecht: Reflex, 1982, pp. 233-261.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mondriaan about the machine",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"De machine houdt niet\nde nieuwe cultuur in. (. . .) De machine veralgemeent, zoals\nhet militarisme veralgemeent. Het kan het individueele verminderen\n-- het kan het ook dooden.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Piet Mondriaan: \"De Jazz en\nde Neo-plastiek.\" In: Yve-Alain Bois: Arthur Lehning en Mondriaan.\n\nAmsterdam: Van Gennep, 1984, pp. 89/90.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gombrich about order",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\" Order can serve as a metaphor for order.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gombrich: The Sense of Order, p. 247.\n\n\n\n\nNote that for Gombrich the notion of \"order\" has\na positive charge: harmony, equilibrium, everything in its\nproper place. Since Ludwig Boltzmann, however, this Aristotelean\nnotion has lost its validity. Today, order is forced, authoritarian,\nmilitaristic.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Rosalind\nKrauss: \"Grids\"",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"In the early part of this century there began\nto appear, first in France and then in Russia and in Holland,\na structure that has remained emblematic of the modernist ambition\nin the visual arts ever since. Surfacing in pre-War cubist painting\nand subsequently becoming ever more stringent and manifest, the\ngrid announces, among other things, modern art's will to silence,\nits hostility to literature, to narrative, to discourse.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"It is not just the sheer number of careers that\nhave been devoted to the exploration of the grid that is impressive,\nbut the fact that never could exploration have chosen less fertile\nground. As the experience of Mondrian amply demonstrates, development\nis precisely what the grid resists. But no one seems to have been\ndeterred by that example, and modernist practice continues to\ngenerate ever more instances of grids.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"In the spatial sense, the grid states the\nautonomy of the realm of art. Flattened, geometricized, ordered,\nit is antinatural, antimimetic, antireal. It is what art looks\nlike when it turns its back to nature. In the flatness that results\nfrom its coordinates, the grid is the means of crowding out the\ndimensions of the real and replacing them with the lateral result\nnot of imitation, but of aesthetic decree. Insofar as its order\nis that of pure relationship, the grid is a way of abrogating\nthe claims of natural objects to have an order particular to themselves;\nthe relationships in the aesthetic field are shown by the grid\nto be in a world apart and, with respect to natural objects, to\nbe both prior and final.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\". . . the bottom line of the grid is a\nnaked and determined materialism. But (. . .) that is not the\nway that artists have ever discussed it. (. . .) Mondrian and\nMalevich are not discussing canvas or pigment or graphite or any\nother form of matter. They are talking about Being or Mind or\nSpirit.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The grid's mythic power is that it makes\nus able to think we are dealing with materialism (or sometimes\nscience, or logic) while at the same time it provides us with\na release into belief (or illusion, or fiction).\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "From: Rosalind Krauss: \"Grids\" October 9,\nSummer 1979. [Eduardo Navas put a cut-up\nversion of this essay online in his project \"Grids\".]",
+      "links": [
+        {
+          "text": "\"Grids\"",
+          "href": "http://www.rhizome.org/artbase/3019/grids/Rosalind.swf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Patrick Ireland (1998)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"It's supposed to be indexical of all that\nis rational, but I think it's as mad as many logical things turn\nout to be – artificial, hysterical, subsuming its own version\nof chaos. It's rigid but flexible, a measure of scale but scaleless,\nit's flat with imitations of depth, democratic about space but\nreally absolutist, stamped with rigidity but alert with permutational\nvirtuosity. It's a container that contains itself, that is both\nform and content.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links & References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The Centrifugal\nGrid versus the Centripetal\nGrid.\n\n\n\nJohn Elderfield: \"Grids,\" Artforum 10 (May 1972),\npp. 52-59.\n\n\n\nRosalind Krauss: \"Grids,\" October 9 (Summer 1979).\n\n\n\n\nLev Manovich:\nThe Engineering of Vision from Constructivism to Computers, Chapter I (\"Visual Atomism\").",
+      "links": [
+        {
+          "text": "Centrifugal Grid",
+          "href": "http://www.rice.edu/%7Elda/Staging/Ladders/Playbook/Play3.html#screen",
+          "external": true
+        },
+        {
+          "text": "Centripetal Grid",
+          "href": "http://www.rice.edu/%7Elda/Staging/Ladders/Playbook/Play4.html#screen",
+          "external": true
+        },
+        {
+          "text": "The Engineering of Vision from Constructivism to Computers,",
+          "href": "http://www.manovich.net/EV/ev.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "David Sylvester: \"Mondrian\nin London,\" Studio International, December 1966.",
+      "links": [
+        {
+          "text": "\"Mondrian in London,\"",
+          "href": "http://www.artchive.com/artchive/M/mondrian.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpTaueberDuo-Collage-s.jpg",
+      "alt": "",
+      "caption": "Jean Arp & Sophie Taeuber:\n\nDuo-Collage, 1918",
+      "legacy_src": "18Arp/18ArpTaueberDuo-Collage-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpTaeuberUnt(Duo-Coll).jpg",
+      "alt": "",
+      "caption": "Jean Arp & Sophie Taeuber:\n\nDuo-Collage, 1918",
+      "legacy_src": "18Arp/18ArpTaeuberUnt(Duo-Coll).jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-arp-18ArpCollage-s.jpg",
+      "alt": "",
+      "caption": "Jean Arp: Collage, 1918",
+      "legacy_src": "18Arp/18ArpCollage-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-huszar-18Composition-ss.jpg",
+      "alt": "",
+      "caption": "Vilmos Huszar: Compositie, 1918",
+      "legacy_src": "18Huszar/18Composition-ss.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/18-georges-vantongerloo-18Study.jpg",
+      "alt": "",
+      "caption": "Georges Vantongerloo:\n\nÉtude, 1918",
+      "legacy_src": "18GeorgesVantongerloo/18Study.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/19mondriaan-pm-ckbdlc.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Compositie 'dambord'\n\nmet lichte kleuren, 1919",
+      "legacy_src": "19mondriaan/pm-ckbdlc.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/19mondriaan-PM-19-CompEnLosange-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Composition\n\nen Losenge, 1919",
+      "legacy_src": "19mondriaan/PM-19-CompEnLosange-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/20-van-doesburg-25CompositieXV-s.jpg",
+      "alt": "",
+      "caption": "Theo van Doesburg:\n\nCompositie XV, 1925",
+      "legacy_src": "20VanDoesburg/25CompositieXV-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/20-van-doesburg-25Counter-CompVI-s.jpg",
+      "alt": "",
+      "caption": "Theo van Doesburg:\n\nCounter-Composition VI, 1925",
+      "legacy_src": "20VanDoesburg/25Counter-CompVI-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-25AbstractionSrFondNoir-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee:\n\nAbstraction sur Fond Noir, 1925",
+      "legacy_src": "25Klee/25AbstractionSrFondNoir-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/26-anni-albers-27Wandbehang-s.jpg",
+      "alt": "",
+      "caption": "Anni Albers: Wandbehang, 1927",
+      "legacy_src": "26AnniAlbers/27Wandbehang-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-30CarresAuRhythmeTernaire-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee: Carrés au Rhythme Ternaire, 1930",
+      "legacy_src": "25Klee/30CarresAuRhythmeTernaire-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/abstract/2-d/25-klee-36NewHarmony-s.jpg",
+      "alt": "",
+      "caption": "Paul Klee: New Harmony, 1936",
+      "legacy_src": "25Klee/36NewHarmony-s.jpg"
+    }
+  ],
+  "out_links": []
+}

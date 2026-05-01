@@ -1,0 +1,304 @@
+{
+  "slug": "process/gravity-liquid/drip",
+  "legacy_path": "process/gravity-liquid/drip/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "dripping",
+  "heading": "dripping",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "dripping",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Max Ernst",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1942-max-ernst-42TheBewilderedPlanet-s.jpg",
+      "alt": "",
+      "caption": "The Bewildered Planet, 1942",
+      "width": "386",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1942-max-ernst-42-47NonEuclideanFly-s.jpg",
+      "alt": "",
+      "caption": "Young Man Intrigued by the Flight of\n\na Non-Euclidean Fly, 1942-1947",
+      "width": "238",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hans Hofmann",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1942-hans-hofmann-42-TheWind-s.jpg",
+      "alt": "",
+      "caption": "The Wind, 1942",
+      "width": "190",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1942-hans-hofmann-44-Spring-s.jpg",
+      "alt": "",
+      "caption": "Spring, 1944",
+      "width": "374",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jackson Pollock",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/43-selection-43-CompositionWithPouring-s.jpg",
+      "alt": "",
+      "caption": "Composition with Pouring, 1943",
+      "width": "249",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/43-selection-49-Number13.jpg",
+      "alt": "",
+      "caption": "Number 13, 1949",
+      "width": "400",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/43-selection-50-action(Nr.32)-s.jpg",
+      "alt": "",
+      "caption": "Pollock working on Number 32, 1950",
+      "width": "377",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/43-selection-51-drawing-s.jpg",
+      "alt": "",
+      "caption": "Drawing, 1951",
+      "width": "355",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Herbert Zangs",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1952-Zangs[Dripping]-s.jpg",
+      "alt": "",
+      "caption": "1952",
+      "width": "243",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "André Masson",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1955-masson-55-Sowing-s.jpg",
+      "alt": "",
+      "caption": "Sowing, 1955",
+      "width": "234",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1955-masson-56-Meteors-s.jpg",
+      "alt": "",
+      "caption": "Meteors, 1956",
+      "width": "416",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Marcel Duchamp",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1978-squirt-Duchamp-1946-PaysageFautif-s.jpg",
+      "alt": "",
+      "caption": "Paysage Fautif, 1946",
+      "width": "245",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/drip/1978-squirt-Warhol1978CumPainting-s.jpg",
+      "alt": "",
+      "caption": "Cum Paintings, 1978",
+      "width": "230",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "To Do",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Cum Paintings by Anselm Kiefer and photographs by Andres\nSerrano",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Goodnough:\"Pollock Paints a Picture.\" Art News,\nMay 1951.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Taylor, Adam Micolich & David\nJonas: \"Fractal expressionism.\" Physics\nWorld, 12, 10 (October 1999).",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/drip/1942-max-ernst-42TheBewilderedPlanet-s.jpg",
+      "alt": "",
+      "caption": "The Bewildered Planet, 1942",
+      "legacy_src": "1942-MaxErnst/42TheBewilderedPlanet-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1942-max-ernst-42-47NonEuclideanFly-s.jpg",
+      "alt": "",
+      "caption": "Young Man Intrigued by the Flight of\n\na Non-Euclidean Fly, 1942-1947",
+      "legacy_src": "1942-MaxErnst/42-47NonEuclideanFly-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1942-hans-hofmann-42-TheWind-s.jpg",
+      "alt": "",
+      "caption": "The Wind, 1942",
+      "legacy_src": "1942-HansHofmann/42-TheWind-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1942-hans-hofmann-44-Spring-s.jpg",
+      "alt": "",
+      "caption": "Spring, 1944",
+      "legacy_src": "1942-HansHofmann/44-Spring-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/43-selection-43-CompositionWithPouring-s.jpg",
+      "alt": "",
+      "caption": "Composition with Pouring, 1943",
+      "legacy_src": "1943-Pollock/43-Selection/43-CompositionWithPouring-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/43-selection-49-Number13.jpg",
+      "alt": "",
+      "caption": "Number 13, 1949",
+      "legacy_src": "1943-Pollock/43-Selection/49-Number13.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/43-selection-50-action(Nr.32)-s.jpg",
+      "alt": "",
+      "caption": "Pollock working on Number 32, 1950",
+      "legacy_src": "1943-Pollock/43-Selection/50-action(Nr.32)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/43-selection-51-drawing-s.jpg",
+      "alt": "",
+      "caption": "Drawing, 1951",
+      "legacy_src": "1943-Pollock/43-Selection/51-drawing-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1952-Zangs[Dripping]-s.jpg",
+      "alt": "",
+      "caption": "1952",
+      "legacy_src": "1952-Zangs%5BDripping%5D-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1955-masson-55-Sowing-s.jpg",
+      "alt": "",
+      "caption": "Sowing, 1955",
+      "legacy_src": "1955-Masson/55-Sowing-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1955-masson-56-Meteors-s.jpg",
+      "alt": "",
+      "caption": "Meteors, 1956",
+      "legacy_src": "1955-Masson/56-Meteors-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1978-squirt-Duchamp-1946-PaysageFautif-s.jpg",
+      "alt": "",
+      "caption": "Paysage Fautif, 1946",
+      "legacy_src": "1978-Squirt/Duchamp-1946-PaysageFautif-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/drip/1978-squirt-Warhol1978CumPainting-s.jpg",
+      "alt": "",
+      "caption": "Cum Paintings, 1978",
+      "legacy_src": "1978-Squirt/Warhol1978CumPainting-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

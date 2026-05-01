@@ -1,0 +1,141 @@
+{
+  "slug": "informe/mound",
+  "legacy_path": "informe/mound/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "mounds",
+  "heading": "",
+  "description": "elementary non-shape: a raised mass of solid, flexible, continuous stuff. as employed in modern art since the early 1960's.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "mounds",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/louise-bourgeois-1963_Lair-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Lair – 1963",
+      "width": "279",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/louise-bourgeois-1967-soft-landscape-I-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Soft Landscape I – 1967",
+      "width": "277",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/roth-1968-Insel-S.jpg",
+      "alt": "",
+      "caption": "Dieter Roth: Insel – 1968",
+      "width": "300",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/roth-1969-DR-InsMeer,Schimmelberg.jpg",
+      "alt": "",
+      "caption": "Dieter Roth: Ins Meer, Schimmelberg – 1969",
+      "width": "261",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/louise-bourgeois-Lair[]-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Lair – 1960's (?)",
+      "width": "221",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/1971-SmithsonAsphaltSpiral-s.jpg",
+      "alt": "",
+      "caption": "Robert Smithson: Asphalt Spiral – 1971",
+      "width": "248",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/Late1960s-Unt-s.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis: Untitled – Late 1960's",
+      "width": "278",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mound/tony-cragg-1990-1990-BiggerPiece-s.jpg",
+      "alt": "",
+      "caption": "Tony Cragg: Bigger Piece – 1990",
+      "width": "195",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/mound/louise-bourgeois-1963_Lair-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Lair – 1963",
+      "legacy_src": "LouiseBourgeois/1963_Lair-s.jpg"
+    },
+    {
+      "src": "/images/informe/mound/louise-bourgeois-1967-soft-landscape-I-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Soft Landscape I – 1967",
+      "legacy_src": "LouiseBourgeois/1967-soft-landscape-I-s.jpg"
+    },
+    {
+      "src": "/images/informe/mound/roth-1968-Insel-S.jpg",
+      "alt": "",
+      "caption": "Dieter Roth: Insel – 1968",
+      "legacy_src": "Roth/1968-Insel-S.jpg"
+    },
+    {
+      "src": "/images/informe/mound/roth-1969-DR-InsMeer,Schimmelberg.jpg",
+      "alt": "",
+      "caption": "Dieter Roth: Ins Meer, Schimmelberg – 1969",
+      "legacy_src": "Roth/1969-DR-InsMeer,Schimmelberg.jpg"
+    },
+    {
+      "src": "/images/informe/mound/louise-bourgeois-Lair[]-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Lair – 1960's (?)",
+      "legacy_src": "LouiseBourgeois/Lair%5B%5D-s.jpg"
+    },
+    {
+      "src": "/images/informe/mound/1971-SmithsonAsphaltSpiral-s.jpg",
+      "alt": "",
+      "caption": "Robert Smithson: Asphalt Spiral – 1971",
+      "legacy_src": "1971-SmithsonAsphaltSpiral-s.jpg"
+    },
+    {
+      "src": "/images/informe/mound/Late1960s-Unt-s.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis: Untitled – Late 1960's",
+      "legacy_src": "Late1960s-Unt-s.jpg"
+    },
+    {
+      "src": "/images/informe/mound/tony-cragg-1990-1990-BiggerPiece-s.jpg",
+      "alt": "",
+      "caption": "Tony Cragg: Bigger Piece – 1990",
+      "legacy_src": "TonyCragg-1990/1990-BiggerPiece-s.jpg"
+    }
+  ],
+  "out_links": []
+}

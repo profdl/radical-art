@@ -1,0 +1,560 @@
+{
+  "slug": "nothing/monochrome/malevich-rodchenko/suprematism",
+  "legacy_path": "nothing/monochrome/MalevichRodchenko/suprematism.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Suprematism",
+  "heading": "",
+  "description": "The algebra of Suprematism (Kazimir Malevich, 1915-1920).",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Kazimir Malevich: Suprematism (1915-1920)",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichBlackSq1913-23-S.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-Malevich1915-0-10-.jpg",
+      "alt": "",
+      "caption": "Exhibition 0-10, 1915",
+      "width": "279",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The suprematist paintings by Kazimir Malevich and his disciples depict constellations of shapes in a white space. The shapes and their constellations are defined by an algebra with only one elementary term: the black square. The black square is the icon of Suprematism. It is the initial symbol of a generative system which generates all suprematist shapes and constellations by means of a repertoire of distortions, displacements, multiplications, alignments and superpositions. Malevich never articulated this combinatoric system explicitly; but it is suggested unmistakeably by the didactic arrangement of the drawings in his booklet \"Suprematism: 34 Drawings\" (1920). A very similar sequence appears in the Bauhaus-book Die Gegenstandslose Welt, that Malevich wrote in 1923. The square is introduced there as \"the fundamental suprematist element\" (fig. 67), and the circular disk as \"the first shape originating from the square\" (fig. 68); the vertical (rectangular) bar is described as \"the lengthened suprematist square\" (fig. 71). The role of the black square in Suprematism is thus analogous to the role of the number zero in Peano arithmetic, or the role of the empty set in the set-theoretical construction of mathematics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Das Schwarze Quadrat auf dem weißen Feld war die erste Ausdrucksform der Gegenstandslosen Empfindung:\n\ndas Quadrat = die Empfindung, das weiße Feld = das \"Nichts\" außerhalb dieser Empfindung.\"\n\n\"Das Quadrat verändert sich und bildet neue Formen, deren Elemente nach Maßgabe der veranlassenden Empfindung auf diese oder jene Weise geordnet werden.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kasimir Malewitsch: Die Gegenstandslose Welt. Bauhausbuch 11. München, 1927, p. 74. [Russian original written in 1923.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Our number system (called the 'position system') has used the zero for a long time, but only in the 16th century (Cardano, Tartaglia) is the zero for the first time not considered as nothing, but as a number, as numerical reality. And only now in the 20th century, the Square is recognized as a plastic value, as the zero in the complex body of art. This fullcolored Square, stamped out completely continuously with color in a white plane, has now started to build a new space.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El Lissitzky: \"Kunst und Pangeometrie.\"\n\nIn: C. Einstein & P. Westheim (eds.): Europa Almanach. Potsdam: Gustav Kiepenheuer, 1925.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"For art should not proceed towards reduction or simplification, but towards complexity.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kazimir Malevich: Ot kubizma i futurizma do suprematizma. Novy zhivopisny realizm. Third edition. Moscow, 1916.\n\nEnglish translation: \"From Cubism and Futurism to Suprematism. The New Realism in Painting.\" In: K.S. Malevich: Essays on Art, Vol.1. 1915-1928. Copenhagen: Borgen, 1971, pp. 19-41 [p.22].",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "An Algebraic\nPerspective on Suprematism",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Transformations\nof the black square:\n\ncolor, position, extrusion.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevich.peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Painterly Realism of a Peasant Woman in Two Dimensions (Red Square), 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-Malevich1915RedSquare-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "width": "166",
+      "height": "217",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-MalevichBlackRectangle-S.jpg",
+      "alt": "",
+      "caption": "Black Rectangle",
+      "width": "200",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Transformations\nof the square:\n\nrotation, \"evolution\", 3D-perspective.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevich.black-circle1913-S.jpg",
+      "alt": "",
+      "caption": "Plane in Rotation (Black Circle),\n\n1915",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichSupr55(SEOAP)17-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 55\n\n(spherical evolution of a plane),\n\n1917",
+      "width": "141",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichSuprPntng1917-18-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Painting,\n\n1917/1918",
+      "width": "125",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Relations between two shapes: attraction & penetration.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-malevichBlackARedSquare15-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "width": "126",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-MalevichSP-1915-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "width": "139",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-malevichSupr(WBT-BR)1915-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "width": "174",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Relations between two shapes: crossing.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-suprem4.gif",
+      "alt": "",
+      "caption": "1921/1927",
+      "width": "162",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-MalevichSC1919-20-S.gif",
+      "alt": "",
+      "caption": "1919/1920",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-black_cross-192z-s.jpg",
+      "alt": "",
+      "caption": "Black Cross, 1920's",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Alignments of shapes: parallel or independent (recursive).",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-MalewitschSC1915-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-malevichSP(8RR)-1915-S.jpg",
+      "alt": "",
+      "caption": "Eight Red Rectangles",
+      "width": "171",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevichSupr-SPIn2Dim-15-S.jpg",
+      "alt": "",
+      "caption": "Selfportrait in Two Dimensions",
+      "width": "155",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-SC-1915-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "132",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Suprematism1915[FallingStac.jpg",
+      "alt": "",
+      "caption": "1915",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-MalevichAeroplane-S.jpg",
+      "alt": "",
+      "caption": "Aeroplane",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Constellations of shapes: superposition (recursive).",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-S.gif",
+      "alt": "",
+      "caption": "",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-Suprematism-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "144",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich02-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-SC-S.gif",
+      "alt": "",
+      "caption": "",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevichSupremus50-1915-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 50, 1915",
+      "width": "136",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-MalevichSuprematism1916-S.jpg",
+      "alt": "",
+      "caption": "1916",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-SC-1916-S.jpg",
+      "alt": "",
+      "caption": "1916",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-MalevichDynSup(Sprs57)16S.jpg",
+      "alt": "",
+      "caption": "Supremus # 57, 1916",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-supremus-58-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 58",
+      "width": "178",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Student\nProject",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Describe\nthe algebra of Suprematism in explicit mathematical terms, and implement\nit as a generative system.\n\n\n\nA pilot version of this system, incorporating the most obvious operations\nin a somewhat crude way, is suitable as an MA thesis project for students\nin Artificial Intelligence or New Media.\n\n\n\nA serious version of this system will require a Ph.D. project. Two\nequally worthwhile variants should be carefully distinguished:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(1)\nAn art-historically oriented project which tries to approximate Malevich's\noutput as closely as possible, aiming to discover the \"suprematist\nspace\" he had in mind, as well as the boundaries of his systematicity.\n\n(2) An artistically oriented project, which takes Malevich's ideas\nand paintings as a point of departure for a program generating all\npossible images.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2005/2010",
+      "links": [
+        {
+          "text": "Remko Scha",
+          "href": "http://iaaa.nl/rs/cv.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichBlackSq1913-23-S.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "legacy_src": "malevitch/malevichBlackSq1913-23-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-Malevich1915-0-10-.jpg",
+      "alt": "",
+      "caption": "Exhibition 0-10, 1915",
+      "legacy_src": "malevitch/Malevich1915-0-10-.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevich.peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Painterly Realism of a Peasant Woman in Two Dimensions (Red Square), 1915",
+      "legacy_src": "malevitch/malevich.peasant-woman-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-Malevich1915RedSquare-S.jpg",
+      "alt": "",
+      "caption": "Red Square, 1915",
+      "legacy_src": "malevitch/Malevich1915RedSquare-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-MalevichBlackRectangle-S.jpg",
+      "alt": "",
+      "caption": "Black Rectangle",
+      "legacy_src": "malevitch/MalevichBlackRectangle-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevich.black-circle1913-S.jpg",
+      "alt": "",
+      "caption": "Plane in Rotation (Black Circle),\n\n1915",
+      "legacy_src": "malevitch/malevich.black-circle1913-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichSupr55(SEOAP)17-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 55\n\n(spherical evolution of a plane),\n\n1917",
+      "legacy_src": "malevitch/malevichSupr55(SEOAP)17-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/malevitch-malevichSuprPntng1917-18-S.jpg",
+      "alt": "",
+      "caption": "Suprematist Painting,\n\n1917/1918",
+      "legacy_src": "malevitch/malevichSuprPntng1917-18-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-malevichBlackARedSquare15-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "legacy_src": "malevitch/two/malevichBlackARedSquare15-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-MalevichSP-1915-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "legacy_src": "malevitch/two/MalevichSP-1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-malevichSupr(WBT-BR)1915-S.jpg",
+      "alt": "",
+      "caption": "1915",
+      "legacy_src": "malevitch/two/malevichSupr(WBT-BR)1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-suprem4.gif",
+      "alt": "",
+      "caption": "1921/1927",
+      "legacy_src": "malevitch/two/suprem4.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-MalevichSC1919-20-S.gif",
+      "alt": "",
+      "caption": "1919/1920",
+      "legacy_src": "malevitch/two/MalevichSC1919-20-S.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/two-black_cross-192z-s.jpg",
+      "alt": "",
+      "caption": "Black Cross, 1920's",
+      "legacy_src": "malevitch/two/black_cross-192z-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-MalewitschSC1915-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/non-overlap/MalewitschSC1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-malevichSP(8RR)-1915-S.jpg",
+      "alt": "",
+      "caption": "Eight Red Rectangles",
+      "legacy_src": "malevitch/non-overlap/malevichSP(8RR)-1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevichSupr-SPIn2Dim-15-S.jpg",
+      "alt": "",
+      "caption": "Selfportrait in Two Dimensions",
+      "legacy_src": "malevitch/complex/malevichSupr-SPIn2Dim-15-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-SC-1915-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/complex/Malevich-SC-1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Suprematism1915[FallingStac.jpg",
+      "alt": "",
+      "caption": "1915",
+      "legacy_src": "malevitch/complex/Suprematism1915%5BFallingStac.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/non-overlap-MalevichAeroplane-S.jpg",
+      "alt": "",
+      "caption": "Aeroplane",
+      "legacy_src": "malevitch/non-overlap/MalevichAeroplane-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-S.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/complex/malevich-S.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-Suprematism-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/complex/Malevich-Suprematism-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich02-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/complex/malevich02-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-Malevich-SC-S.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/complex/Malevich-SC-S.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevichSupremus50-1915-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 50, 1915",
+      "legacy_src": "malevitch/complex/malevichSupremus50-1915-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-MalevichSuprematism1916-S.jpg",
+      "alt": "",
+      "caption": "1916",
+      "legacy_src": "malevitch/complex/MalevichSuprematism1916-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-SC-1916-S.jpg",
+      "alt": "",
+      "caption": "1916",
+      "legacy_src": "malevitch/complex/malevich-SC-1916-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-MalevichDynSup(Sprs57)16S.jpg",
+      "alt": "",
+      "caption": "Supremus # 57, 1916",
+      "legacy_src": "malevitch/complex/MalevichDynSup(Sprs57)16S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/suprematism/complex-malevich-supremus-58-S.jpg",
+      "alt": "",
+      "caption": "Supremus # 58",
+      "legacy_src": "malevitch/complex/malevich-supremus-58-S.jpg"
+    }
+  ],
+  "out_links": []
+}

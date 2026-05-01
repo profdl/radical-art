@@ -1,0 +1,81 @@
+{
+  "slug": "kinetics/gravity/swing",
+  "legacy_path": "kinetics/gravity/swing/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Swing",
+  "heading": "to swing",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to swing",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/swing/1836-TheScientificClass-Book-s.jpg",
+      "alt": "",
+      "caption": "The Scientific Class-Book, 1836",
+      "width": "362",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/swing/1851-Foucault-Pendule.jpg",
+      "alt": "",
+      "caption": "Léon Foucault: Pendule, 1851",
+      "width": "221",
+      "height": "228",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/swing/1971-FaustoMelottiScA(IPend.jpg",
+      "alt": "",
+      "caption": "Fausto Melotti: I Pendoli, 1971",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/swing/1999-2000-MonaHatoum-BalanCoiresEnFer-s.jpg",
+      "alt": "",
+      "caption": "Mona Hatoum: Balançoires en Fer, 1999-2000",
+      "width": "199",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/swing/1836-TheScientificClass-Book-s.jpg",
+      "alt": "",
+      "caption": "The Scientific Class-Book, 1836",
+      "legacy_src": "1836-TheScientificClass-Book-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/swing/1851-Foucault-Pendule.jpg",
+      "alt": "",
+      "caption": "Léon Foucault: Pendule, 1851",
+      "legacy_src": "1851-Foucault-Pendule.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/swing/1971-FaustoMelottiScA(IPend.jpg",
+      "alt": "",
+      "caption": "Fausto Melotti: I Pendoli, 1971",
+      "legacy_src": "1971-FaustoMelottiScA(IPend.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/swing/1999-2000-MonaHatoum-BalanCoiresEnFer-s.jpg",
+      "alt": "",
+      "caption": "Mona Hatoum: Balançoires en Fer, 1999-2000",
+      "legacy_src": "1999-2000-MonaHatoum-BalanCoiresEnFer-s.jpg"
+    }
+  ],
+  "out_links": []
+}

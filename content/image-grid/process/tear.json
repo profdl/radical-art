@@ -1,0 +1,333 @@
+{
+  "slug": "process/tear",
+  "legacy_path": "process/tear/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "decollage",
+  "heading": "to tear",
+  "description": "Process Art: Décollage.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to tear",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "[décollage: mimmo rotella, jacques de la villeglé, raymond hains, françois dufrêne]",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella-49ImpronteRicavate.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Impronte Ricavate, 1949",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle-49VillegleHains-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "107",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Raymond Hains & Jacques de la Villeglé,\n\n1949",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle-49ABC-s.jpg",
+      "alt": "",
+      "caption": "Jacques de la Villeglé: ABC, 1949",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella-54ST-c-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "140",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mimmo Rotella:\n\nSenza Titolo, 1954",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains-57CetHomme.gif",
+      "alt": "",
+      "caption": "",
+      "width": "159",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Raymond Hains:\n\nCet Homme Est Dangereux, 1957",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene-58MaPalissade-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "172",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "François Dufrêne:\n\nMa Palissade, 1958",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle-65BlvdDLChapelle-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacques de la Villeglé:\n\nBoulevard de la Chapelle, 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains-57RueDuBac-S.jpg",
+      "alt": "",
+      "caption": "Raymond Hains: Rue du Bac, 1957",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella-61-IlGiuramento-S.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Il Giuramento, 1961",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella-62ChiVa...ChiViene-S.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Chi Va... Chi Viene, 1962",
+      "width": "286",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "not to tear",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/Vautier58DefenseDAfficher-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nDéfense d'Afficher, 1958",
+      "width": "153",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella-copertura-Rotella80CoperturaArancione.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella:\n\nCopertura Arancione, 1980",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "more",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "More décollages:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Mimmo Rotella",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/tear/rotella",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jacques de la Villeglé",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/tear/villegle",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Raymond Hains",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/tear/hains",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "François Dufrêne",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/tear/dufrene",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cf. also: Jean Arp: Papiers déchirés (1932-1934)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Yves-Alain Bois: \"Water\nCloset.\" Bois & Krauss, pp.194-200.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/tear/rotella-49ImpronteRicavate.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Impronte Ricavate, 1949",
+      "legacy_src": "Rotella/49ImpronteRicavate.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle-49VillegleHains-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Villegle/49VillegleHains-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle-49ABC-s.jpg",
+      "alt": "",
+      "caption": "Jacques de la Villeglé: ABC, 1949",
+      "legacy_src": "Villegle/49ABC-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella-54ST-c-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Rotella/54ST-c-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains-57CetHomme.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Hains/57CetHomme.gif"
+    },
+    {
+      "src": "/images/process/tear/dufrene-58MaPalissade-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Dufrene/58MaPalissade-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle-65BlvdDLChapelle-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Villegle/65BlvdDLChapelle-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains-57RueDuBac-S.jpg",
+      "alt": "",
+      "caption": "Raymond Hains: Rue du Bac, 1957",
+      "legacy_src": "Hains/57RueDuBac-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella-61-IlGiuramento-S.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Il Giuramento, 1961",
+      "legacy_src": "Rotella/61-IlGiuramento-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella-62ChiVa...ChiViene-S.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella: Chi Va... Chi Viene, 1962",
+      "legacy_src": "Rotella/62ChiVa...ChiViene-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/Vautier58DefenseDAfficher-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nDéfense d'Afficher, 1958",
+      "legacy_src": "Vautier58DefenseDAfficher-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella-copertura-Rotella80CoperturaArancione.jpg",
+      "alt": "",
+      "caption": "Mimmo Rotella:\n\nCopertura Arancione, 1980",
+      "legacy_src": "RotellaCopertura/Rotella80CoperturaArancione.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/tear/dufrene",
+    "/process/tear/hains",
+    "/process/tear/rotella",
+    "/process/tear/villegle"
+  ]
+}

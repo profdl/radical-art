@@ -1,0 +1,184 @@
+{
+  "slug": "algorithmic-art/grid",
+  "legacy_path": "AlgorithmicArt/grid/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "link-hub",
+  "title": "Grids",
+  "heading": "",
+  "description": "The grid in modern painting and algorithmic art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "the grid in modern painting",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "color\ngrids",
+      "links": [
+        {
+          "text": "color grids",
+          "href": "/algorithmic-art/grid/abstract/2-d",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "checkerboards",
+      "links": [
+        {
+          "text": "checkerboards",
+          "href": "/algorithmic-art/grid/minimal/checkerboard",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "empty\ngrids",
+      "links": [
+        {
+          "text": "empty grids",
+          "href": "/algorithmic-art/grid/minimal/empty",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "repetition\n\n\n\nvariation",
+      "links": [
+        {
+          "text": "repetition",
+          "href": "/algorithmic-art/grid/repetition",
+          "external": false
+        },
+        {
+          "text": "variation",
+          "href": "/algorithmic-art/grid/variation",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "the grid in algorithmic art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "any grid\n\n\n\nevery grid",
+      "links": [
+        {
+          "text": "any grid",
+          "href": "/algorithmic-art/grid/any",
+          "external": false
+        },
+        {
+          "text": "every grid",
+          "href": "/algorithmic-art/grid/every",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "digitization",
+      "links": [
+        {
+          "text": "digitization",
+          "href": "/algorithmic-art/grid/discretization",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "modular\ncells\n\n\n\ncellular automata",
+      "links": [
+        {
+          "text": "modular cells",
+          "href": "/algorithmic-art/grid/modular",
+          "external": false
+        },
+        {
+          "text": "cellular automata",
+          "href": "/algorithmic-art/grid/cellular",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "about the grid",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "In modern mathematics, the two-dimensional plane is usually defined\nas the set of pairs of real numbers; lines and regions are subsets\nof this set. The plane is thus treated as an (infinitely dense)\ngrid of locations. This mathematical point of view does not translate\ninto a practical convention for finite computational representations,\nhowever. The mathematical correlate of any non-empty shape or line-segment\nis a set of uncountably many points, and the coordinates of most\nof these points are irrational numbers which cannot be represented\nin a finite way.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The conception of an image as a uniform m\nx n grid of colored squares is derived from the mathematical\nimage definition in a simple, direct way. It is the discrete\nversion of the mathematical model, which makes the image representations\nfinite, and makes the set of image representations enumerable (if\nwe also assume a similar discretization of the colour space). The\ngrid therefore inherits the feel of \"objectivity\" of the\nmathematical research tradition. It is also technologically convenient,\nsince monitors and printers are based on the same idea: m\nx n \"pixels\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Note, however, that the grid does not inherit\nthe mathematical properties of the mathematical image definition.\nDiscretization is not an innocent operation. The maxim that \"all\ndirections have equal rights\", which is characteristic for\nEuclidean space, is no longer valid: two orthogonal directions (\"horizontal\"\nand \"vertical\") get preferential treatment. As a result,\nthe notions of distance and neighborhood change beyond recognition,\nand the Euclidean notions of translation and rotation get largely\nlost.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The grid does not instantiate the mathematical\nimage conception –– it denotes it.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2003",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "links & references",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "John Elderfield: \"Grids,\" Artforum 10 (May\n1972), pp. 52-59.\n\n\n\nRosalind Krauss: \"Grids,\" October 9 (Summer 1979).\n\n\n\n\nLev Manovich:\nThe Engineering of Vision from Constructivism to Computers, Chapter I (\"Visual Atomism\").",
+      "links": [
+        {
+          "text": "The Engineering of Vision from Constructivism to Computers,",
+          "href": "http://www.manovich.net/EV/ev.pdf",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grid/abstract/2-d",
+    "/algorithmic-art/grid/any",
+    "/algorithmic-art/grid/cellular",
+    "/algorithmic-art/grid/discretization",
+    "/algorithmic-art/grid/every",
+    "/algorithmic-art/grid/minimal/checkerboard",
+    "/algorithmic-art/grid/minimal/empty",
+    "/algorithmic-art/grid/modular",
+    "/algorithmic-art/grid/repetition",
+    "/algorithmic-art/grid/variation"
+  ]
+}

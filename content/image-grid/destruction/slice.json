@@ -1,0 +1,259 @@
+{
+  "slug": "destruction/slice",
+  "legacy_path": "destruction/slice/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "slice",
+  "heading": "",
+  "description": "process art: slicing",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "slice",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "arman",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-61LeBeauSabreur.jpg",
+      "alt": "",
+      "caption": "le beau sabreur, 1961",
+      "width": "167",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-61Virtuosite.jpg",
+      "alt": "",
+      "caption": "virtuosité, 1961",
+      "width": "180",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-62Barbacole.jpg",
+      "alt": "",
+      "caption": "barbacole, 1962",
+      "width": "182",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-62SansTitre.jpg",
+      "alt": "",
+      "caption": "sans titre,\n\n1962",
+      "width": "198",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-63[BB].jpg",
+      "alt": "",
+      "caption": "les bons bons voeux d'arman,\n\n1963",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-Arman67ST[SlicedViolin]-s.jpg",
+      "alt": "",
+      "caption": "sans titre,\n\n1967",
+      "width": "102",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-85-SliceOf-Liberty.jpg",
+      "alt": "",
+      "caption": "slice of liberty,\n\n1985",
+      "width": "183",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-98SansTitre.jpg",
+      "alt": "",
+      "caption": "sans titre, 1998",
+      "width": "412",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/arman-Arman2004ST[SlicedCello]-s.jpg",
+      "alt": "",
+      "caption": "sans\ntitre, 2004",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "michelangelo\npistoletto",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/pistoletto-PistolettoDivisione75-78-S.jpg",
+      "alt": "",
+      "caption": "Divisione e Moltiplicatione dello Specchio, 1975-1979",
+      "width": "212",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/pistoletto-PistolettoDivisone75-79-s.jpg",
+      "alt": "",
+      "caption": "christian\neckart: \"white paintings\"",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr614.jpg",
+      "alt": "",
+      "caption": "nr. 614, 1990",
+      "width": "164",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr620.jpg",
+      "alt": "",
+      "caption": "nr. 620, 1990",
+      "width": "299",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr619.jpg",
+      "alt": "",
+      "caption": "nr. 619, 1990",
+      "width": "315",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/slice/arman-61LeBeauSabreur.jpg",
+      "alt": "",
+      "caption": "le beau sabreur, 1961",
+      "legacy_src": "Arman/61LeBeauSabreur.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-61Virtuosite.jpg",
+      "alt": "",
+      "caption": "virtuosité, 1961",
+      "legacy_src": "Arman/61Virtuosite.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-62Barbacole.jpg",
+      "alt": "",
+      "caption": "barbacole, 1962",
+      "legacy_src": "Arman/62Barbacole.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-62SansTitre.jpg",
+      "alt": "",
+      "caption": "sans titre,\n\n1962",
+      "legacy_src": "Arman/62SansTitre.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-63[BB].jpg",
+      "alt": "",
+      "caption": "les bons bons voeux d'arman,\n\n1963",
+      "legacy_src": "Arman/63%5BBB%5D.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-Arman67ST[SlicedViolin]-s.jpg",
+      "alt": "",
+      "caption": "sans titre,\n\n1967",
+      "legacy_src": "Arman/Arman67ST%5BSlicedViolin%5D-s.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-85-SliceOf-Liberty.jpg",
+      "alt": "",
+      "caption": "slice of liberty,\n\n1985",
+      "legacy_src": "Arman/85-SliceOf-Liberty.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-98SansTitre.jpg",
+      "alt": "",
+      "caption": "sans titre, 1998",
+      "legacy_src": "Arman/98SansTitre.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/arman-Arman2004ST[SlicedCello]-s.jpg",
+      "alt": "",
+      "caption": "sans\ntitre, 2004",
+      "legacy_src": "Arman/Arman2004ST%5BSlicedCello%5D-s.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/pistoletto-PistolettoDivisione75-78-S.jpg",
+      "alt": "",
+      "caption": "Divisione e Moltiplicatione dello Specchio, 1975-1979",
+      "legacy_src": "Pistoletto/PistolettoDivisione75-78-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/pistoletto-PistolettoDivisone75-79-s.jpg",
+      "alt": "",
+      "caption": "christian\neckart: \"white paintings\"",
+      "legacy_src": "Pistoletto/PistolettoDivisone75-79-s.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr614.jpg",
+      "alt": "",
+      "caption": "nr. 614, 1990",
+      "legacy_src": "ChristianEckart/90WhitePaintingNr614.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr620.jpg",
+      "alt": "",
+      "caption": "nr. 620, 1990",
+      "legacy_src": "ChristianEckart/90WhitePaintingNr620.jpg"
+    },
+    {
+      "src": "/images/destruction/slice/christian-eckart-90WhitePaintingNr619.jpg",
+      "alt": "",
+      "caption": "nr. 619, 1990",
+      "legacy_src": "ChristianEckart/90WhitePaintingNr619.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index"
+  ]
+}

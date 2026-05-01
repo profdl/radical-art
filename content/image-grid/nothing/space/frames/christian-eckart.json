@@ -1,0 +1,81 @@
+{
+  "slug": "nothing/space/frames/christian-eckart",
+  "legacy_path": "nothing/space/frames/ChristianEckart/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Eidolon",
+  "heading": "",
+  "description": "Empty Frames: Christian Eckart's \"Eidolon\" Series (1989)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Christian Eckart's Eidolon Series",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1103-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1103, 1989",
+      "width": "193",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1105-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1105, 1989",
+      "width": "159",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1106-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1106, 1989",
+      "width": "183",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1108-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1108, 1989",
+      "width": "164",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1103-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1103, 1989",
+      "legacy_src": "Eckart89EidolonNr1103-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1105-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1105, 1989",
+      "legacy_src": "Eckart89EidolonNr1105-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1106-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1106, 1989",
+      "legacy_src": "Eckart89EidolonNr1106-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/christian-eckart/Eckart89EidolonNr1108-M.jpg",
+      "alt": "",
+      "caption": "Eidolon # 1108, 1989",
+      "legacy_src": "Eckart89EidolonNr1108-M.jpg"
+    }
+  ],
+  "out_links": []
+}

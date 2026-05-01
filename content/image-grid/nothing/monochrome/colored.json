@@ -1,0 +1,396 @@
+{
+  "slug": "nothing/monochrome/colored",
+  "legacy_path": "nothing/monochrome/colored/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Color",
+  "heading": "Colored Monochromes",
+  "description": "Colored monochrome paintings.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Colored Monochromes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/AllaisMediterranee-S.jpg",
+      "alt": "",
+      "caption": "Alphonse\nAllais: \"Stupeur de jeunes recrues en apercevant pour la première\nfois ton azur, ô Méditerranée,\" 1887",
+      "width": "200",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/15-malevich.peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nPainterly Realism of a Peasant Woman\n\nin Two Dimensions (Red Square), 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/21-RodchenkoYellow.jpg",
+      "alt": "",
+      "caption": "Aleksandr Rodchenko:\n\nPure Yellow Color, 1921",
+      "width": "166",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/23-kljunRedLight-SpherComp.jpg",
+      "alt": "",
+      "caption": "Ivan Kljun:\n\nRed Light (Spherical Composition), 1923",
+      "width": "179",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/55AtsukoTanakaUnt-S.jpg",
+      "alt": "",
+      "caption": "Atsuko Tanaka: Untitled, 1955",
+      "width": "319",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/55Klein(IKB46).jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nMonochrome Bleu (IKB 46), 1955",
+      "width": "148",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/57-ueckerDasGelbeBild.jpg",
+      "alt": "",
+      "caption": "Günther Uecker: Das Gelbe Bild, 1957",
+      "width": "228",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/58PieneEinFestFuerDasLicht.jpg",
+      "alt": "",
+      "caption": "Otto Piene: Ein Fest für das Licht, 1958",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/63VerheyenEspace(Vert)S.jpg",
+      "alt": "",
+      "caption": "Jef Verheyen: Espace (Vert), 1963",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/63GotthardGraubnerFarbraum.jpg",
+      "alt": "",
+      "caption": "Gotthard Graubner: Farbraum, 1963",
+      "width": "170",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/67JohnMcCracken1967.jpg",
+      "alt": "",
+      "caption": "John McCracken: Untitled, 1967",
+      "width": "87",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/70MiltonResnickRoswell-IIIs.jpg",
+      "alt": "",
+      "caption": "Milton Resnick: Roswell III, 1970",
+      "width": "162",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/73AubertinToileRougeFlamme.jpg",
+      "alt": "",
+      "caption": "Bernard Aubertin:\n\nToile Rouge Flammée, 1973",
+      "width": "151",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/80-RotellaCoperturaArancion.jpg",
+      "alt": "",
+      "caption": "Mimo Rotella: Copertura Arancion, 1980",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/81BerdBerner1981.jpg",
+      "alt": "",
+      "caption": "Berd Berner, 1981",
+      "width": "172",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/86JosephMarioniPaintingNr2.jpg",
+      "alt": "",
+      "caption": "Joseph Marioni: Painting Nr. 2, 1986",
+      "width": "189",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/86LotharQuinteFarbraumRot-S.jpg",
+      "alt": "",
+      "caption": "Lothar Quinte: Farbraum Rot, 1986",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/9804ZurierToFailingsMild-S.jpg",
+      "alt": "",
+      "caption": "John Zurier:\n\nTo Failings Mild, 1998/2004",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/98richard_mueller-S.jpg",
+      "alt": "",
+      "caption": "Richard Müller, 1998",
+      "width": "264",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/00-kapoor2000BloodCinema.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Blood Cinema, 2000",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/00-01NishikawaClrAsShdwS.jpg",
+      "alt": "",
+      "caption": "Nishikawa: Color As Shadow,\n\n2000/2001",
+      "width": "170",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/99-OlivierMossetUnttld-S.jpg",
+      "alt": "",
+      "caption": "Olivier Mosset: Untitled, 1999",
+      "width": "334",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/04BurenLaCouleurEncadree.jpg",
+      "alt": "",
+      "caption": "Daniel Buren: La Couleur Encadrée, 2004",
+      "width": "294",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg=PntdBrwnS.jpg",
+      "alt": "",
+      "caption": "John Miller:\n\nEverything Is Painted Brown, 2004",
+      "width": "141",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/colored/05KnoebelAnMneGrueneSeite6S.jpg",
+      "alt": "",
+      "caption": "Imi Knoebel:\n\nAn meine grüne Seite, 2005",
+      "width": "161",
+      "height": "225",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/colored/AllaisMediterranee-S.jpg",
+      "alt": "",
+      "caption": "Alphonse\nAllais: \"Stupeur de jeunes recrues en apercevant pour la première\nfois ton azur, ô Méditerranée,\" 1887",
+      "legacy_src": "AllaisMediterranee-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/15-malevich.peasant-woman-S.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nPainterly Realism of a Peasant Woman\n\nin Two Dimensions (Red Square), 1915",
+      "legacy_src": "15-malevich.peasant-woman-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/21-RodchenkoYellow.jpg",
+      "alt": "",
+      "caption": "Aleksandr Rodchenko:\n\nPure Yellow Color, 1921",
+      "legacy_src": "21-RodchenkoYellow.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/23-kljunRedLight-SpherComp.jpg",
+      "alt": "",
+      "caption": "Ivan Kljun:\n\nRed Light (Spherical Composition), 1923",
+      "legacy_src": "23-kljunRedLight-SpherComp.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/55AtsukoTanakaUnt-S.jpg",
+      "alt": "",
+      "caption": "Atsuko Tanaka: Untitled, 1955",
+      "legacy_src": "55AtsukoTanakaUnt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/55Klein(IKB46).jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nMonochrome Bleu (IKB 46), 1955",
+      "legacy_src": "55Klein(IKB46).jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/57-ueckerDasGelbeBild.jpg",
+      "alt": "",
+      "caption": "Günther Uecker: Das Gelbe Bild, 1957",
+      "legacy_src": "57-ueckerDasGelbeBild.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/58PieneEinFestFuerDasLicht.jpg",
+      "alt": "",
+      "caption": "Otto Piene: Ein Fest für das Licht, 1958",
+      "legacy_src": "58PieneEinFestFuerDasLicht.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/63VerheyenEspace(Vert)S.jpg",
+      "alt": "",
+      "caption": "Jef Verheyen: Espace (Vert), 1963",
+      "legacy_src": "63VerheyenEspace(Vert)S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/63GotthardGraubnerFarbraum.jpg",
+      "alt": "",
+      "caption": "Gotthard Graubner: Farbraum, 1963",
+      "legacy_src": "63GotthardGraubnerFarbraum.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/67JohnMcCracken1967.jpg",
+      "alt": "",
+      "caption": "John McCracken: Untitled, 1967",
+      "legacy_src": "67JohnMcCracken1967.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/70MiltonResnickRoswell-IIIs.jpg",
+      "alt": "",
+      "caption": "Milton Resnick: Roswell III, 1970",
+      "legacy_src": "70MiltonResnickRoswell-IIIs.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/73AubertinToileRougeFlamme.jpg",
+      "alt": "",
+      "caption": "Bernard Aubertin:\n\nToile Rouge Flammée, 1973",
+      "legacy_src": "73AubertinToileRougeFlamme.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/80-RotellaCoperturaArancion.jpg",
+      "alt": "",
+      "caption": "Mimo Rotella: Copertura Arancion, 1980",
+      "legacy_src": "80-RotellaCoperturaArancion.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/81BerdBerner1981.jpg",
+      "alt": "",
+      "caption": "Berd Berner, 1981",
+      "legacy_src": "81BerdBerner1981.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/86JosephMarioniPaintingNr2.jpg",
+      "alt": "",
+      "caption": "Joseph Marioni: Painting Nr. 2, 1986",
+      "legacy_src": "86JosephMarioniPaintingNr2.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/86LotharQuinteFarbraumRot-S.jpg",
+      "alt": "",
+      "caption": "Lothar Quinte: Farbraum Rot, 1986",
+      "legacy_src": "86LotharQuinteFarbraumRot-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/9804ZurierToFailingsMild-S.jpg",
+      "alt": "",
+      "caption": "John Zurier:\n\nTo Failings Mild, 1998/2004",
+      "legacy_src": "9804ZurierToFailingsMild-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/98richard_mueller-S.jpg",
+      "alt": "",
+      "caption": "Richard Müller, 1998",
+      "legacy_src": "98richard_mueller-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/00-kapoor2000BloodCinema.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Blood Cinema, 2000",
+      "legacy_src": "00-kapoor2000BloodCinema.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/00-01NishikawaClrAsShdwS.jpg",
+      "alt": "",
+      "caption": "Nishikawa: Color As Shadow,\n\n2000/2001",
+      "legacy_src": "00-01NishikawaClrAsShdwS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/99-OlivierMossetUnttld-S.jpg",
+      "alt": "",
+      "caption": "Olivier Mosset: Untitled, 1999",
+      "legacy_src": "99-OlivierMossetUnttld-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/04BurenLaCouleurEncadree.jpg",
+      "alt": "",
+      "caption": "Daniel Buren: La Couleur Encadrée, 2004",
+      "legacy_src": "04BurenLaCouleurEncadree.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg=PntdBrwnS.jpg",
+      "alt": "",
+      "caption": "John Miller:\n\nEverything Is Painted Brown, 2004",
+      "legacy_src": "04JohnMillerEvrtg=PntdBrwnS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/colored/05KnoebelAnMneGrueneSeite6S.jpg",
+      "alt": "",
+      "caption": "Imi Knoebel:\n\nAn meine grüne Seite, 2005",
+      "legacy_src": "05KnoebelAnMneGrueneSeite6S.jpg"
+    }
+  ],
+  "out_links": []
+}

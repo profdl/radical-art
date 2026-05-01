@@ -1,0 +1,144 @@
+{
+  "slug": "algorithmic-art/optimization",
+  "legacy_path": "AlgorithmicArt/optimization.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Artificial Intelligence",
+  "heading": "Automatic art generation as an optimization problem",
+  "description": "Artificial Intelligence and image generation",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Automatic art generation as an optimization problem",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "In most approaches to algorithmic art, a (possibly very large or infinite)\nset of images is specified by means of a constructive mathematical definition\n(a grammar, an algebra,\nor a cellular automaton), and\nan algorithm is implemented which computes and displays the visual appearance\nof the resulting images –– either enumerating\nthem all, or drawing random samples,\nor allowing the spectator to explore\nthe space of possibilities. The constructive definition is the artwork.\nIt is concept art made visible: the output refers back to the abstract\nstructures that underly its generation.\n\n\n\nNote that this kind of \"art generation\" has nothing in common\nwith human art production. There is no distinction between a \"mental\nimage\" and the detailed description of its concrete realization;\nthere is no incremental process of beginning, addition, judgment and\nimprovement. The artificial artist is blind: when he perceives his output,\nhe merely remembers how he produced it.\n\n\n\nThere have been proposals, however, to construe artificial art more\nalong the lines of simulating human art production. A historically important\nexample is the following statement by Frieder Nake (1974), pp. 34-40:",
+      "links": [
+        {
+          "text": "grammar",
+          "href": "/algorithmic-art/grammar",
+          "external": false
+        },
+        {
+          "text": "algebra",
+          "href": "/algorithmic-art/algebra",
+          "external": false
+        },
+        {
+          "text": "cellular automaton",
+          "href": "/algorithmic-art/grid/cellular",
+          "external": false
+        },
+        {
+          "text": "enumerating",
+          "href": "/algorithmic-art/enumeration",
+          "external": false
+        },
+        {
+          "text": "random samples",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        },
+        {
+          "text": "explore",
+          "href": "/algorithmic-art/interactivity",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Die\n5 Dinge, die [. . .] ein ästhetisches Programm bestimmen,\nsind: das \"Zeichenrepertoire\" Z, die \"Transformationsmenge\"\nT, die \"Ablauffunktion\" a,\ndie \"Bewertungsfunktion\" b und \"Zielmenge\" K.\n[. . .] Wir haben es demnach bei dem ästhetischen Programm\nmit einem Modell folgender Art zu tun: ein Künstler ist sich\nseiner Mittel (Z, T) und Ziele (K)\nbewußt: er kennt operationale Definitionen seiner Kriterien\n(b) und weiß a priori auf welche Art er sein\nZiel erreichen will oder welche Konstruktionsschritte er sich\nselbst zugesteht (a). [. . .]\n\nWir machen einen Unterschied zwischen\nden von einem ästhetischen Programm P erzeugbaren ästhetischen Objekten und den bezüglich P akzeptablen Objekten, die eine Untermenge der erzeugbaren sind.\nEin vorliegendes ästhetisches Objekt ist also nicht notwendig\n\"akzeptabel\" (der Begriff \"akzeptabel\" ist rein operational, obwohl\ner natürlich auf das traditionelle \"schön\" reflektiert).\n[. . .]\n\nHätten wir aber vielleicht\nbesser getan, eine generative Grammatik für die Beschreibung\ndes ästhetischen Programms zu wählen? Der Generationsprozeß\nformaler Grammatiken läuft in der Regel \"blind\", \"zufällig\",\nnicht zielgerichtet ab. Das soll heißen, das nicht versucht\nwird, ein vorgegebenes Ziel zu erreichen [. . .]. Da wir aber\nausdrücklich die Zielgerichtetheit des ästhetischen\nRealisationsprozesses im Auge behalten wollen, scheint der eingeschlagene\nWeg der bessere zu sein.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nake defines automatic art generation as an optimization\nproblem: find, within the set of all images, the ones that\nbest satisfy one's aesthetic criteria (the most \"beautiful\" ones). To implement this approach, one must make two conceptual\ndecisions and solve one technical problem:\n\n(1) Define the set of all possible images.\n\n(2) Define the aesthetic evaluation criterion.\n\n(3) Develop an effective method to search the\nspace of possible images.\n\n\n\nDecision (1) is crucial. It determines how the program thinks\nabout images, how it describes them. If we define the set of images\nin a broad but mindlessly reductionist way (as pixel grids, for\ninstance), the formulation of evaluation criteria and search strategies\nbecomes impossibly difficult. But if we define them by means of\na specific style grammar, we impose arbitrary boundaries which\nmay turn out to be too narrow. The ideal definition would avoid\narbitrary reductionisms as well as arbitrary styles; it would\ndefine images in terms of the elements and constructions that\nare actually employed by the human cognitive system in its perception\nof images.\n\n\n\nDecision (2) is supposed to be the artistically interesting one:\nit articulates the system's values, its criteria for success or\nfailure. If these criteria are to resemble those employed by a\nhuman artist, the system must be able to \"see\" its output,\ni.e., it must handle representations of the Gestalt structures\nthat a human person would perceive in the output. (Note that this\nis beyond the state of the art; cf. our page on Gestalt\nperception.) A more impersonal version of this approach might\ntry to implement a general notion of \"beauty\"; it could\nlean on proposals to formalize the notion of beauty that were\nput forth by Birkhoff (1950), Gunzenhäuser (1975) and others.\nNote, however, that the scope of these proposals is extremely\nlimited, and that the notion of \"beauty\" which they\ntry to capture is somewhat boring. (Cf. Scha & Bod, 1993.)\n\n\n\nProblem (3) gets us into a particular area within the field of\nArtificial Intelligence: heuristic search. When the set of data\nto be considered is large, and the evaluation criteria are complex,\nfinding optimal solutions is a matter of trial an error; one may\ntry to detect properties of the search space which can be exploited\nto enhance the success rate of this search process. Many techniques\nexploit the local coherence of the search space (hill-climbing,\nsimulated annealing). When the number of dimensions is very large,\none often resorts to \"simulated evolution\": genetic\nalgorithms.\n\n\n\nSo far, the conceptual difficulties haunting the project of the \"simulated artist\" seem to be unsurmountable. I do not\nknow of any serious efforts to carry it out on a non-trivial scale.\n(This includes Nake's own work, which is much closer to the \"grammar-based\" approach than his theory seems to demand.)\n\n\n\nSeveral art generation systems exist which technically fall under\nthe optimization approach: they use genetic\nalgorithms to search a\nlarge space. And their aesthetic ideal is to simulate a very conventional artist: they search for the most \"beautiful\" images in their search space, appreciated by the largest number\nof human observers. Nevertheless, these systems do not constitute bona fide realizations of Nake's research program, because\nthey do not implement any formal evaluation criteria, using\nan \"oracle\" instead: human persons vote for what they\nlike best (\"supervised learning\").",
+      "links": [
+        {
+          "text": "Gestalt perception",
+          "href": "/algorithmic-art/algebra/sit",
+          "external": false
+        },
+        {
+          "text": "Scha & Bod, 1993",
+          "href": "http://iaaa.nl/rs/compestE.html",
+          "external": true
+        },
+        {
+          "text": "genetic algorithms",
+          "href": "/algorithmic-art/evolutie",
+          "external": false
+        },
+        {
+          "text": "genetic algorithms",
+          "href": "/algorithmic-art/evolutie",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "G.D. Birkhoff: Collected Mathematical Papers, New York:\nAmerican Mathematical Society, 1950.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "D. Boekee & J. van der Lubbe: \"Discrete Informatie.\" In: Informatietheorie. Delft: Delftse Uitgeversmaatschappij, 1988. [In Reader 1991]\n\n\n\nR. Gunzenhäuser: \"Die Theorie Birkhoff's unter Informationsästhetischem\nAspekt.\" In: Maß und Information als ästhetische\nKategorien. Baden-Baden: Agis Verlag, 1975.\n\n\n\nR. Gunzenhäuser: \"Superzeichenredundanz.\" In: Maß\nund Information als ästhetische Kategorien. Baden-Baden:\nAgis Verlag, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lev Manovich: Thinking Beyond Information, 1997.",
+      "links": [
+        {
+          "text": "Thinking Beyond Information",
+          "href": "http://www.ixmagazin.de/tp/english/inhalt/sa/3115/1.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik als Informationsverarbeitung. Grundlagen und Anwendungen der Informatik im Bereich ästhetischer Produktion und Kritik. Vienna / New York: Springer Verlag, 1974.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Pierce: \"Information Theory\nand Art.\" In: Symbols, Signals and Noise. London:\nHutchinson and Co., 1962. [In Reader 1991]\n\n\n\nRemko Scha & Rens Bod: \"Computational\nEsthetics.\" Informatie en Informatiebeleid 11,\n1 (1993), pp. 54-63.",
+      "links": [
+        {
+          "text": "Computational Esthetics",
+          "href": "http://iaaa.nl/rs/compestE.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, April 1, 2007",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/algebra",
+    "/algorithmic-art/algebra/sit",
+    "/algorithmic-art/chance",
+    "/algorithmic-art/enumeration",
+    "/algorithmic-art/evolutie",
+    "/algorithmic-art/grammar",
+    "/algorithmic-art/grid/cellular",
+    "/algorithmic-art/interactivity"
+  ]
+}

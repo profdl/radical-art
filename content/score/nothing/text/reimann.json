@@ -1,0 +1,151 @@
+{
+  "slug": "nothing/text/reimann",
+  "legacy_path": "nothing/text/reimann.html",
+  "section": "nothing",
+  "archetype": "score",
+  "title": "Empty Texts",
+  "heading": "Bedrucktes Papier",
+  "description": "Empty texts.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hans Reimann: \"Bedrucktes Papier.\" In: Kobolz.\n\nLeipzig: Kurt Wolff Verlag, 1917, pp. 1-2.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hans Reimann",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Bedrucktes Papier",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Vor mir liegt ein weißes Blatt Papier. ~",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "O du weißes Blatt Papier!",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Du liegst unter meinen Augen ~ wehrlos, unschuldig, schön. Glatt bist du und ohne Makel. Wie sollt' ich dich beschreiben?",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Ich beschreibe dich nicht.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Ich wage nicht, dich zu beschreiben.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Du bist so weiß!",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "O du weißes Papier!",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Was ist dir?",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Und was ist mir??",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "~ ~ Ich starre auf das leere Blatt und lese Sätze ~ wie von meiner Hand geschrieben.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Bin ich irre? Spukt es mir an?",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Ich lese Sätze, die ich nie geschrieben; ich lese Sätze, die ich nie gedacht.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Hier stehen sie gedruckt, wie ich sie sah.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Das Blatt jedoch ist weiß wie Schnee.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Vor meinen Augen flirrt's.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Der grause Schrecken faßt mich an, mich schüttelt's wie im Fieber:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Mit langen Beinen, ekel angehaarten, stolziert ein giftig grünes Hirngespinst quer über meinen weißen Bogen.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Und er, der eben leer, ist vollgekrakelt.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Mir bleibt es, in die Druckerei zu schicken, was drauf steht.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Ich tu's.",
+      "links": [],
+      "level": 5
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

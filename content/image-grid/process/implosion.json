@@ -1,0 +1,127 @@
+{
+  "slug": "process/implosion",
+  "legacy_path": "process/implosion/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "implosions",
+  "heading": "",
+  "description": "Process art: implosion.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: vacuum destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "vacuum",
+          "href": "/physics/vacuum",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ewerdt\nHilgemann: Implosions",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/implosion/94EH-ImplodedPyramid-94.jpg",
+      "alt": "",
+      "caption": "Imploded Pyramid, 1994",
+      "width": "177",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/implosion/97-99ImplodedVolumeS.jpg",
+      "alt": "",
+      "caption": "Imploded Volume, 1997-1999",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/implosion/03EHTripleImplosionS.jpg",
+      "alt": "",
+      "caption": "Triple Implosion, 2003",
+      "width": "173",
+      "height": "272",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/implosion/02EHImplodedColumn.jpg",
+      "alt": "",
+      "caption": "Imploded Column, 2002",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/implosion/03EHSiameseImplosionS.jpg",
+      "alt": "",
+      "caption": "Siamese Implosion, 2003",
+      "width": "189",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/implosion/94EH-ImplodedPyramid-94.jpg",
+      "alt": "",
+      "caption": "Imploded Pyramid, 1994",
+      "legacy_src": "94EH-ImplodedPyramid-94.jpg"
+    },
+    {
+      "src": "/images/process/implosion/97-99ImplodedVolumeS.jpg",
+      "alt": "",
+      "caption": "Imploded Volume, 1997-1999",
+      "legacy_src": "97-99ImplodedVolumeS.jpg"
+    },
+    {
+      "src": "/images/process/implosion/03EHTripleImplosionS.jpg",
+      "alt": "",
+      "caption": "Triple Implosion, 2003",
+      "legacy_src": "03EHTripleImplosionS.jpg"
+    },
+    {
+      "src": "/images/process/implosion/02EHImplodedColumn.jpg",
+      "alt": "",
+      "caption": "Imploded Column, 2002",
+      "legacy_src": "02EHImplodedColumn.jpg"
+    },
+    {
+      "src": "/images/process/implosion/03EHSiameseImplosionS.jpg",
+      "alt": "",
+      "caption": "Siamese Implosion, 2003",
+      "legacy_src": "03EHSiameseImplosionS.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/physics/vacuum",
+    "/process"
+  ]
+}

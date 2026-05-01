@@ -1,0 +1,66 @@
+{
+  "slug": "concept/art-about-art",
+  "legacy_path": "concept/ArtAboutArt/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Art About Art",
+  "heading": "Art About Art",
+  "description": "Art against art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Art About Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-about-art/nauman67window.JPG",
+      "alt": "",
+      "caption": "Bruce Nauman: \"The true artist helps the world\n\nby revealing mystic truths\" – 1967",
+      "width": "241",
+      "height": "243",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-about-art/Polke85-s.jpg",
+      "alt": "",
+      "caption": "Sigmar Polke: \"Ein Bild sollte nicht\n\ngrößer sein als ein Bett\" – 1985",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-about-art/Ben93[LArte]-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"L'arte è la cosa\n\npiù importante\" - 1993",
+      "width": "193",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/art-about-art/nauman67window.JPG",
+      "alt": "",
+      "caption": "Bruce Nauman: \"The true artist helps the world\n\nby revealing mystic truths\" – 1967",
+      "legacy_src": "nauman67window.JPG"
+    },
+    {
+      "src": "/images/concept/art-about-art/Polke85-s.jpg",
+      "alt": "",
+      "caption": "Sigmar Polke: \"Ein Bild sollte nicht\n\ngrößer sein als ein Bett\" – 1985",
+      "legacy_src": "Polke85-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-about-art/Ben93[LArte]-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"L'arte è la cosa\n\npiù importante\" - 1993",
+      "legacy_src": "Ben93%5BLArte%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

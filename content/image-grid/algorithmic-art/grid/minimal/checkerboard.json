@@ -1,0 +1,346 @@
+{
+  "slug": "algorithmic-art/grid/minimal/checkerboard",
+  "legacy_path": "AlgorithmicArt/grid/minimal/checkerboard/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Checkerboards",
+  "heading": "Checkerboards",
+  "description": "Checkerboards in modern painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Checkerboards",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/15-malevich_4Squares-s.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nFour Squares, 1915",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/17-73ManRayBoardwalk-s.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nBoardwalk, 1917",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/27KandinskyCarres-s.jpg",
+      "alt": "",
+      "caption": "Wassily Kandinsky: Carrés, 1927",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/30CarresAuRhythmeTernaire.jpg",
+      "alt": "",
+      "caption": "Paul Klee: Carrés au Rhythme Ternaire, 1930",
+      "width": "180",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J.C.J. van der Heijden",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-62-77-4Maal4-s.jpg",
+      "alt": "",
+      "caption": "4 maal 4, 1962",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-64-5x5-s.jpg",
+      "alt": "",
+      "caption": "5 maal 5, 1964",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-90LargeCheckerboard-s.jpg",
+      "alt": "",
+      "caption": "Large Checkerboard, 1990",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-WhiteAndBlackInPoint-s.jpg",
+      "alt": "",
+      "caption": "White and Black in Point",
+      "width": "132",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-96-4Quartets-S.jpg",
+      "alt": "",
+      "caption": "Four Quartets, 1996",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-2000CheckerboardOnMonitor-s.jpg",
+      "alt": "",
+      "caption": "Checkerboard on Monitor, 2000",
+      "width": "166",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ[3checkerboards].jpg",
+      "alt": "",
+      "caption": "Carl Andre",
+      "width": "444",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/70AndreZincMagnesiumPlane-s.jpg",
+      "alt": "",
+      "caption": "Zinc Magnesium Plane, 1970",
+      "width": "230",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe(TheNewHephEtc)s.jpg",
+      "alt": "",
+      "caption": "Cu Fe (The New Hephaestus), 1981",
+      "width": "480",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/70-BlinkyPalermoFlipper-s.jpg",
+      "alt": "",
+      "caption": "Blinky Palermo:\n\nFlipper, 1970",
+      "width": "230",
+      "height": "146",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/82GeneDavisUnt-s.jpg",
+      "alt": "",
+      "caption": "Gene Davis: Untitled, 1982",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/86-JohnArmlederUnt-s.jpg",
+      "alt": "",
+      "caption": "John Armleder: Untitled, 1986",
+      "width": "121",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sean Scully",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-92HeartOfDarknessNr3-s.jpg",
+      "alt": "",
+      "caption": "Heart of Darkness # 3. 1992",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-B-s.jpg",
+      "alt": "",
+      "caption": "Untitled (from: Five Unions), 1996",
+      "width": "224",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-C-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours",
+      "width": "224",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/95-nemours-AN-95-I-s.jpg",
+      "alt": "",
+      "caption": "1995",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/95-nemours-AN-95-J-s.jpg",
+      "alt": "",
+      "caption": "Compiled by Remko Scha, 2006",
+      "width": "199",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/15-malevich_4Squares-s.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nFour Squares, 1915",
+      "legacy_src": "15-malevich_4Squares-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/17-73ManRayBoardwalk-s.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nBoardwalk, 1917",
+      "legacy_src": "17-73ManRayBoardwalk-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/27KandinskyCarres-s.jpg",
+      "alt": "",
+      "caption": "Wassily Kandinsky: Carrés, 1927",
+      "legacy_src": "27KandinskyCarres-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/30CarresAuRhythmeTernaire.jpg",
+      "alt": "",
+      "caption": "Paul Klee: Carrés au Rhythme Ternaire, 1930",
+      "legacy_src": "30CarresAuRhythmeTernaire.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-62-77-4Maal4-s.jpg",
+      "alt": "",
+      "caption": "4 maal 4, 1962",
+      "legacy_src": "62JCJ/62-77-4Maal4-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-64-5x5-s.jpg",
+      "alt": "",
+      "caption": "5 maal 5, 1964",
+      "legacy_src": "62JCJ/64-5x5-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-90LargeCheckerboard-s.jpg",
+      "alt": "",
+      "caption": "Large Checkerboard, 1990",
+      "legacy_src": "62JCJ/90LargeCheckerboard-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-WhiteAndBlackInPoint-s.jpg",
+      "alt": "",
+      "caption": "White and Black in Point",
+      "legacy_src": "62JCJ/WhiteAndBlackInPoint-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-96-4Quartets-S.jpg",
+      "alt": "",
+      "caption": "Four Quartets, 1996",
+      "legacy_src": "62JCJ/96-4Quartets-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-2000CheckerboardOnMonitor-s.jpg",
+      "alt": "",
+      "caption": "Checkerboard on Monitor, 2000",
+      "legacy_src": "62JCJ/2000CheckerboardOnMonitor-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ[3checkerboards].jpg",
+      "alt": "",
+      "caption": "Carl Andre",
+      "legacy_src": "62JCJ/JCJ%5B3checkerboards%5D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/70AndreZincMagnesiumPlane-s.jpg",
+      "alt": "",
+      "caption": "Zinc Magnesium Plane, 1970",
+      "legacy_src": "70AndreZincMagnesiumPlane-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe(TheNewHephEtc)s.jpg",
+      "alt": "",
+      "caption": "Cu Fe (The New Hephaestus), 1981",
+      "legacy_src": "81AndreCuFe(TheNewHephEtc)s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/70-BlinkyPalermoFlipper-s.jpg",
+      "alt": "",
+      "caption": "Blinky Palermo:\n\nFlipper, 1970",
+      "legacy_src": "70-BlinkyPalermoFlipper-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/82GeneDavisUnt-s.jpg",
+      "alt": "",
+      "caption": "Gene Davis: Untitled, 1982",
+      "legacy_src": "82GeneDavisUnt-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/86-JohnArmlederUnt-s.jpg",
+      "alt": "",
+      "caption": "John Armleder: Untitled, 1986",
+      "legacy_src": "86-JohnArmlederUnt-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-92HeartOfDarknessNr3-s.jpg",
+      "alt": "",
+      "caption": "Heart of Darkness # 3. 1992",
+      "legacy_src": "92Scully/92HeartOfDarknessNr3-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-B-s.jpg",
+      "alt": "",
+      "caption": "Untitled (from: Five Unions), 1996",
+      "legacy_src": "92Scully/96Unt%5Bfrom5Unions%5D-B-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-C-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours",
+      "legacy_src": "92Scully/96Unt%5Bfrom5Unions%5D-C-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/95-nemours-AN-95-I-s.jpg",
+      "alt": "",
+      "caption": "1995",
+      "legacy_src": "95Nemours/AN-95-I-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/95-nemours-AN-95-J-s.jpg",
+      "alt": "",
+      "caption": "Compiled by Remko Scha, 2006",
+      "legacy_src": "95Nemours/AN-95-J-s.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,416 @@
+{
+  "slug": "kinetics/gravity/stand/column",
+  "legacy_path": "kinetics/gravity/Stand/column/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Column",
+  "heading": "columns",
+  "description": "",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "columns",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/round-3c25yBC-Alexandria_Pompey-M.jpg",
+      "alt": "",
+      "caption": "Pompey Column, Alexandria, 325 B.C.\n\n[Photo: Felix Bonfils]",
+      "width": "199",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/round-50AD-JupitersaeuleMainz-M.jpg",
+      "alt": "",
+      "caption": "Jupitersäule, Mainz\n\n50 C.E..",
+      "width": "184",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano[1895]-M.jpg",
+      "alt": "",
+      "caption": "Colonna di Foca, Foro Romano\n\n608 C.E. [Photo 1895]",
+      "width": "187",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/india-400AD-IronPillar-QutubMinar-Delhi-M.jpg",
+      "alt": "",
+      "caption": "Iron Pillar, Qutub Minar\n\nDelhi, 400 C.E.",
+      "width": "186",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/india-ashokan_pillar-Lumbini-M.jpg",
+      "alt": "",
+      "caption": "Ashokan Pillar, Lumbini",
+      "width": "164",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-FaragottCifraFejfa-M.jpg",
+      "alt": "",
+      "caption": "Kopjafa (wooden grave-posts). Hungary, Slovakia, and\nTransylania (Romania); since 16th century.",
+      "width": "96",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-GravePosts-Romania-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "152",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-Szekely-C-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/brancusi-Brancusi-1918-M.jpg",
+      "alt": "",
+      "caption": "Constantin Brancusi:\n\nColonne de l'Infini, 1918",
+      "width": "107",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/brancusi-37-38-BrancusiEndlessCol-M.jpg",
+      "alt": "",
+      "caption": "Constantin Brancusi:\n\nColonne de la reconnaissance sans fin (Târgu Jiu Memorial), 1937/1938",
+      "width": "175",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/brancusi-BrancusiStudio-M.jpg",
+      "alt": "",
+      "caption": "Brancusi's studio",
+      "width": "159",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/brancusi-Pettibone-Ca2000-Brancusi-D_M.jpg",
+      "alt": "",
+      "caption": "Richard Pettibone:",
+      "width": "155",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Endless Column\" copies,",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "ca. 2000",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959_last_ladder_C-300.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\nLast Ladder, 1959",
+      "width": "115",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-Andre-Studio-1959-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre's studio, 1959.\n\n[Photo: Holly Frampton]",
+      "width": "182",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple+PlasticEx-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\nMaple and Plastic Exercise, 1959",
+      "width": "160",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/straight-1964-Andre-TimberSpindleExercise-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "153",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carl Andre: Timber\n\nSpindle Exercise, 1964",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1960",
+      "width": "146",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/hdv-1961_untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1961",
+      "width": "150",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt[column]-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\n\nUntitled, 1969",
+      "width": "127",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/hdv-1961_paal-M.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\npaal, 1961",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/straight-1961-Morris-Column-M.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nColumn, 1961",
+      "width": "127",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/straight-1961-DeMaria-4x8_Box-s.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n2 x 4 Box, 1961",
+      "width": "197",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1969-Pith-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nPith, 1969",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1971-Sunflower-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nSunflower, 1971",
+      "width": "207",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1971-TwilightFold-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nTwilight Fold, 1971",
+      "width": "213",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha – October, 2010 / June, 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stand/column/round-3c25yBC-Alexandria_Pompey-M.jpg",
+      "alt": "",
+      "caption": "Pompey Column, Alexandria, 325 B.C.\n\n[Photo: Felix Bonfils]",
+      "legacy_src": "round/3c25yBC-Alexandria_Pompey-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/round-50AD-JupitersaeuleMainz-M.jpg",
+      "alt": "",
+      "caption": "Jupitersäule, Mainz\n\n50 C.E..",
+      "legacy_src": "round/50AD-JupitersaeuleMainz-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano[1895]-M.jpg",
+      "alt": "",
+      "caption": "Colonna di Foca, Foro Romano\n\n608 C.E. [Photo 1895]",
+      "legacy_src": "round/608AD-CDiFoca-ForoRomano%5B1895%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/india-400AD-IronPillar-QutubMinar-Delhi-M.jpg",
+      "alt": "",
+      "caption": "Iron Pillar, Qutub Minar\n\nDelhi, 400 C.E.",
+      "legacy_src": "round/India/400AD-IronPillar-QutubMinar-Delhi-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/india-ashokan_pillar-Lumbini-M.jpg",
+      "alt": "",
+      "caption": "Ashokan Pillar, Lumbini",
+      "legacy_src": "round/India/ashokan_pillar-Lumbini-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-FaragottCifraFejfa-M.jpg",
+      "alt": "",
+      "caption": "Kopjafa (wooden grave-posts). Hungary, Slovakia, and\nTransylania (Romania); since 16th century.",
+      "legacy_src": "../Kopjafa/Trad-Selection/FaragottCifraFejfa-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-GravePosts-Romania-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Kopjafa/Trad-Selection/GravePosts-Romania-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/trad-selection-Szekely-C-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Kopjafa/Trad-Selection/Szekely-C-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/brancusi-Brancusi-1918-M.jpg",
+      "alt": "",
+      "caption": "Constantin Brancusi:\n\nColonne de l'Infini, 1918",
+      "legacy_src": "../Kopjafa/Brancusi/Brancusi-1918-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/brancusi-37-38-BrancusiEndlessCol-M.jpg",
+      "alt": "",
+      "caption": "Constantin Brancusi:\n\nColonne de la reconnaissance sans fin (Târgu Jiu Memorial), 1937/1938",
+      "legacy_src": "../Kopjafa/Brancusi/37-38-BrancusiEndlessCol-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/brancusi-BrancusiStudio-M.jpg",
+      "alt": "",
+      "caption": "Brancusi's studio",
+      "legacy_src": "../Kopjafa/Brancusi/BrancusiStudio-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/brancusi-Pettibone-Ca2000-Brancusi-D_M.jpg",
+      "alt": "",
+      "caption": "Richard Pettibone:",
+      "legacy_src": "../Kopjafa/Brancusi/Pettibone-Ca2000-Brancusi-D_M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959_last_ladder_C-300.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\nLast Ladder, 1959",
+      "legacy_src": "../Kopjafa/CarlAndre/1959_last_ladder_C-300.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-Andre-Studio-1959-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre's studio, 1959.\n\n[Photo: Holly Frampton]",
+      "legacy_src": "../Kopjafa/CarlAndre/Andre-Studio-1959-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple+PlasticEx-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\nMaple and Plastic Exercise, 1959",
+      "legacy_src": "../Kopjafa/CarlAndre/1959-Maple+PlasticEx-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/straight-1964-Andre-TimberSpindleExercise-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "straight/1964-Andre-TimberSpindleExercise-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1960",
+      "legacy_src": "hdv/1960-Unt(WhiteStick)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/hdv-1961_untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1961",
+      "legacy_src": "hdv/1961_untitled-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt[column]-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\n\nUntitled, 1969",
+      "legacy_src": "MathiasGoeritz/1969-Unt%5Bcolumn%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/hdv-1961_paal-M.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\npaal, 1961",
+      "legacy_src": "hdv/1961_paal-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/straight-1961-Morris-Column-M.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nColumn, 1961",
+      "legacy_src": "straight/1961-Morris-Column-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/straight-1961-DeMaria-4x8_Box-s.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n2 x 4 Box, 1961",
+      "legacy_src": "straight/1961-DeMaria-4x8_Box-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1969-Pith-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nPith, 1969",
+      "legacy_src": "straight/AnneTruitt/1969-Pith-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1971-Sunflower-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nSunflower, 1971",
+      "legacy_src": "straight/AnneTruitt/1971-Sunflower-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/column/anne-truitt-1971-TwilightFold-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt:\n\nTwilight Fold, 1971",
+      "legacy_src": "straight/AnneTruitt/1971-TwilightFold-s.jpg"
+    }
+  ],
+  "out_links": []
+}

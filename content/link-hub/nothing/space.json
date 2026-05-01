@@ -1,0 +1,55 @@
+{
+  "slug": "nothing/space",
+  "legacy_path": "nothing/space/index.html",
+  "section": "nothing",
+  "archetype": "link-hub",
+  "title": "void",
+  "heading": "no thing [empty \n        space]",
+  "description": "the aesthetics of empty space",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "no thing [empty\nspace]",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "empty room",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "empty spot",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "empty container",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "empty frame",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "hole",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "darkness",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "vacuum",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

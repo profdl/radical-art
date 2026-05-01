@@ -1,0 +1,159 @@
+{
+  "slug": "algorithmic-art/nake",
+  "legacy_path": "AlgorithmicArt/Nake.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Nake Quotes",
+  "heading": "",
+  "description": "Quotes about the formal approach to art production.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Quotes from: Frieder Nake: Ästhetik als Informationsverarbeitung.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Grundlagen und Anwendungen der Informatik im Bereich ästhetischer Produktion und Kritik. (Vienna/New York: Springer Verlag, 1974).",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Einzug des Computers in ästhetische Produktion und Kritik bedeutet nichts anderes als den Beginn der Industrialisierung in diesem Bereich.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. VI.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Produktionsmethoden und -verhältnisse der Ästhetik beginnen erst in den letzten Jahre, sich den Verhältnissen der übrichen Bereiche der Produktion anzupassen. Bis dahin - und auch heute noch weitgehend - waren sie auf das Individuum abgestellt, das sich nicht organisierte, sondern gegen andere Individuen eine besonderen Stil, eine Mach -Art durchzusetzen versuchte.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. 1.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Eindringen der elektronischen Maschinen in die Welt der Kunstdinge gibt uns die Chance, die Rolle der Ästhetik als Teil des Produktionsprozesses zu erkennen. Das bedeutet in der Praxis eine Zerstörung aller abgehobenen Reden und Spekulationen über Kunst und damit eine Zerstörung des bürgerlichen Kunstbetriebes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "pp. 2-3.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mit Computern Kunstgegenstände produzieren oder kritisieren zu wollen, kann kein Ziel an sich sein - nur ein Teilziel im Versuch, die technische Welt bewohnbar zu machen. Warum es dabei höchstens gehen kann, ist, die Hilfe der maschine in Anspruch zu nehmen - also etwas mit Computern zu tun und nicht etwas von ihnen (als quasi selbständige Wesen) tun zu lassen. Dem Gerede von der Künstlichen Intelligenz ist ein großer Teil der Schuld an der Vernebelung dieses Unterschieds zuzuschieben. In diesem Buch soll zu keiner Zeit der Eindruck entstehen, die Maschine tue etwas aus sich heraus, ohne von uns kontrolliert zu sein. Selbst wenn wir von der modellhaften Simulation menschlicher Tätigkeiten in formalen Begriffen reden, so reden wir doch nur von deren Simulation. Der Computer ist ein Produktionsinstrument, kein Gehirn.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. 5.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Während der Künstler bisher direkt am Material arbeitete (wenigstens in der Regel) und deswegen eine ständige sinnliche Kontrolle die Datenverarbeitung seines Gehirns begleitete, wird bei der Verwendung von Maschinen eine Schicht zwischen sinnliche Wahrnehmung und Datenverarbeitung geschoben. Der Künstler entfernt sich vom Sinnlich-Stofflichen und wird so als einer der letzten Arbeiter von der Entfremdung in der Arbeitswelt eingeholt. Man versucht, diesem Trend durch Verwendung interaktiver Ein- und Ausgabegeräte zu begegnen (Bildschirme). Dies ist jedoch für den ans Handwerkliche Gewöhnten nur ein Notbehelf. Denn zumindest gehen ihm die taktilen Erfahrungen verloren. Mann sollte sich wegen dieser Entfremdungsgefahr also vor allzu begeisterter Aufnahme ästhetischer Datenverarbeitung hüten. Für Produzenten, die keine handwerkliche Erfahrung haben, mag die Automatisierung frei von solchen Einflüssen sein. Denn sie können nicht von etwas entfremdet werden, das sie gar nicht kennen. Das zu verallgemeinern scheint ein kluger Schachzug der Technokraten zu sein.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. 32.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die 5 Dinge, die [. . .] ein ästhetisches Programm bestimmen, sind: das \"Zeichenrepertoire\" Z, die \"Transformationsmenge\" T, die \"Ablauffunktion\" a, die \"Bewertungsfunktion\" b und \"Zielmenge\" K. [. . .] Wir haben es demnachbei dem ästhetischen Programm mit einem Modell folgender Art zu tun: ein Künstler ist sich seiner Mittel (Z, T ) und Ziele (K ) bewußt: er kennt operationale Definitionen seiner Kriterien (b) und weiß a priori auf welche Art er sein Ziel erreichen will oder welche Konstruktionsschritte er sich selbst zugesteht (a). [. . .]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir machen einen Unterschied zwischen den von einem ästhetischen Programm P erzeugbaren ästhetischen Objekten und den bezüglich P akzeptablen Objekten, die eine Untermenge der erzeugbaren sind. Ein vorliegendes ästhetisches Objekt ist also nicht notwendig \"akzeptabel\" (der Begriff \"akzeptabel\" ist rein operational, obwohl er natürlich auf das traditionelle \"schön\" reflektiert). [. . .]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hätten wir aber vielleicht besser getan, eine generative Grammatik für die Beschreibung des ästhetischen Programms zu wählen? Der Generationsprozeß formaler Grammatiken läuft in der Regel \"blind\", \"zufällig\", nicht zielgerichtet ab. Das soll heißen, das nicht versucht wird, ein vorgegebenes Ziel zu erreichen [. . .]. Da wir aber ausdrücklich die Zielgerichtetheit des ästhetischen Realisationsprozesses im Auge behalten wollen, scheint der eingeschlagene Weg der bessere zu sein.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Allerdings sei angemerkt, daß der Begriff der Grammatik explizit in einigen Veröffentlichungen über Computerkunst auftritt (z. B. Lansdown 1970ab, Stiny & Gips 1971, Camarero 1972). Allerdings erscheinen an diesen Stellen keine Definitionen von Grammatiken im Sinne des formalen Begriffs, oder doch nur vage Andeutungen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "pp. 34-40.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The articles referred to here are:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ernesto Garcia Camarero: \"Computer Art.\" In: G. Mazzotta (ed.): La Scienzia e l'Arte (Milano: Edition Mazzotta, 1972).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R. John Lansdown: \"Would you believe 'Woaagang Amazeus Mezart'?\" In: Computers in the creative arts (Manchester: The National Computing Centre Ltd, 1970), pp. 12-32.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R. John Lansdown: \"The use of computers in art.\" Proc. Int. Symp. Computer Graphics 70, Brunel University, Uxbridge, England, 1970.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George Stiny and James Gips: \"Shape grammars and the generative specification of painting and sculpture.\" Proc. IFIP Congress 1971. TA-7, pp. 62-67.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man kann soweit gehen, große Teile des ästhetischen Produktionsprozesses unter dem Anzahlaspekt zu betrachten: Künstler wechseln den ästhetischen Raum, wenn eine genügend große Anzahl von Objekten darin realisiert worden ist - vom Künstler selbst oder von anderen; wenn sie herausfinden, daß ein solcher Raum schon besetzt ist; Künstler suchen sich \"große\", \"offene\" Räume. Die Definition der ästhetischen Räume selbst ist natürlich das eigentliche Problem. Die zwei extremfälle sind der Raum aller überhaupt möglicher Bilder, der alle anderen ästhetischen Räume enthält, sowie die durch jedes einzelne realisierte Bild definierten Räume, die keinen anderen Raum enthalten.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. 104.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Zum Schluß dieses Abschnitts sei darauf hingewiesen, das wir zwar ständig\nvon Räumen von Bildern gesprochen haben [. . .] - daß die Betrachtungsweise\naber tatsächlich die von Zahlenfolgen war, insbesondere von binären\nZahlenfolgen. Wir haben angenommen, daß es eine Methode gibt, solche Folgen\nin die Ebene des Bildes zu übertragen. [. . .] Selbstverständlich\nist das nicht die Art und Weise, nach der ein Künstler arbeiten würde.\nDennoch sei erwähnt, daß wir im Prinzip einen simplen Algorithmus\naufstellen können, der alle Objekte einer Klasse erzeugt, indem er alle\nmöglichen Kombinationen durchspielt. So einfach ein solcher Algorithmus\nwäre, so unbrauchbar wäre er andererseits. Denn er würde ja angesichts\ndes riesigen Umfangs dieser Klassen Jahrtausende benötigen, bevor ein erstes\n\"interessantes\" Objekt erzeugt wäre.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "p. 104.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Einmaliges und Beliebiges; Künstliche Kunst im Strom der Zeit, 1995.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/intro",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/intro"
+  ]
+}

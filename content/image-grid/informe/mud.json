@@ -1,0 +1,81 @@
+{
+  "slug": "informe/mud",
+  "legacy_path": "informe/mud/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "mud",
+  "heading": "mud",
+  "description": "Mud in twentieth-century art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "mud",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mud/MoholyNagy29FtprintsInTMud.jpg",
+      "alt": "",
+      "caption": "Laszlo Moholy-Nagy: Footprints in the Mud, 1929",
+      "width": "244",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mud/KazuoShiraga_boue-1956.jpg",
+      "alt": "",
+      "caption": "Kazuo Shiraga, 1956",
+      "width": "225",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mud/Boyle78-79TheSwissSite.jpg",
+      "alt": "",
+      "caption": "Mark Boyle: The Swiss Site, 1978-1979",
+      "width": "305",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mud/SantiagoSierra2005-s.jpg",
+      "alt": "",
+      "caption": "Santiago Sierra: Haus im Schlamm, 2005",
+      "width": "315",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/mud/MoholyNagy29FtprintsInTMud.jpg",
+      "alt": "",
+      "caption": "Laszlo Moholy-Nagy: Footprints in the Mud, 1929",
+      "legacy_src": "MoholyNagy29FtprintsInTMud.jpg"
+    },
+    {
+      "src": "/images/informe/mud/KazuoShiraga_boue-1956.jpg",
+      "alt": "",
+      "caption": "Kazuo Shiraga, 1956",
+      "legacy_src": "KazuoShiraga_boue-1956.jpg"
+    },
+    {
+      "src": "/images/informe/mud/Boyle78-79TheSwissSite.jpg",
+      "alt": "",
+      "caption": "Mark Boyle: The Swiss Site, 1978-1979",
+      "legacy_src": "Boyle78-79TheSwissSite.jpg"
+    },
+    {
+      "src": "/images/informe/mud/SantiagoSierra2005-s.jpg",
+      "alt": "",
+      "caption": "Santiago Sierra: Haus im Schlamm, 2005",
+      "legacy_src": "SantiagoSierra2005-s.jpg"
+    }
+  ],
+  "out_links": []
+}

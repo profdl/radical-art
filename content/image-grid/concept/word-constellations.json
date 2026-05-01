@@ -1,0 +1,162 @@
+{
+  "slug": "concept/word-constellations",
+  "legacy_path": "concept/WordConstellations/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Word Constellations",
+  "heading": "Word Constellations",
+  "description": "Word constellations as visual art. René Magritte and conceptual art.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Word Constellations",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "René Magritte",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-27LUsageDeLaParole-s.jpg",
+      "alt": "",
+      "caption": "L'usage de la parole, 1927",
+      "width": "300",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-27RM-LivingMirror-s.jpg",
+      "alt": "",
+      "caption": "The living mirror, 1927",
+      "width": "300",
+      "height": "223",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-28RM-lostworld1-s.jpg",
+      "alt": "",
+      "caption": "The lost world, 1928",
+      "width": "300",
+      "height": "215",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-28RM-lostworld2-s.jpg",
+      "alt": "",
+      "caption": "The lost world, 1928",
+      "width": "300",
+      "height": "216",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-28TheEmptyMask-M.jpg",
+      "alt": "",
+      "caption": "The empty mask, 1928",
+      "width": "300",
+      "height": "243",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/magritte-29TheLiteralMeaning-s.jpg",
+      "alt": "",
+      "caption": "The literal meaning, 1929",
+      "width": "300",
+      "height": "223",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/54-ruehm_jetzt-zuerst-s.jpg",
+      "alt": "",
+      "caption": "Gerhard Rühm, 1954",
+      "width": "250",
+      "height": "361",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/92HamishFultonCS-s.jpg",
+      "alt": "",
+      "caption": "Hamish Fulton, 1992",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/word-constellations/RobertBarry2003Unt.jpg",
+      "alt": "",
+      "caption": "Robert Barry: Untitled, 2003",
+      "width": "500",
+      "height": "181",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/word-constellations/magritte-27LUsageDeLaParole-s.jpg",
+      "alt": "",
+      "caption": "L'usage de la parole, 1927",
+      "legacy_src": "magritte/27LUsageDeLaParole-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/magritte-27RM-LivingMirror-s.jpg",
+      "alt": "",
+      "caption": "The living mirror, 1927",
+      "legacy_src": "magritte/27RM-LivingMirror-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/magritte-28RM-lostworld1-s.jpg",
+      "alt": "",
+      "caption": "The lost world, 1928",
+      "legacy_src": "magritte/28RM-lostworld1-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/magritte-28RM-lostworld2-s.jpg",
+      "alt": "",
+      "caption": "The lost world, 1928",
+      "legacy_src": "magritte/28RM-lostworld2-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/magritte-28TheEmptyMask-M.jpg",
+      "alt": "",
+      "caption": "The empty mask, 1928",
+      "legacy_src": "magritte/28TheEmptyMask-M.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/magritte-29TheLiteralMeaning-s.jpg",
+      "alt": "",
+      "caption": "The literal meaning, 1929",
+      "legacy_src": "magritte/29TheLiteralMeaning-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/54-ruehm_jetzt-zuerst-s.jpg",
+      "alt": "",
+      "caption": "Gerhard Rühm, 1954",
+      "legacy_src": "54-ruehm_jetzt-zuerst-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/92HamishFultonCS-s.jpg",
+      "alt": "",
+      "caption": "Hamish Fulton, 1992",
+      "legacy_src": "92HamishFultonCS-s.jpg"
+    },
+    {
+      "src": "/images/concept/word-constellations/RobertBarry2003Unt.jpg",
+      "alt": "",
+      "caption": "Robert Barry: Untitled, 2003",
+      "legacy_src": "RobertBarry2003Unt.jpg"
+    }
+  ],
+  "out_links": []
+}

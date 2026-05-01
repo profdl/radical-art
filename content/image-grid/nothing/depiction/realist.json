@@ -1,0 +1,302 @@
+{
+  "slug": "nothing/depiction/realist",
+  "legacy_path": "nothing/depiction/realist/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Paintings of absence",
+  "heading": "Paintings of absence",
+  "description": "Depictions of nothing in 20th-century painting: Magritte, Lichtenstein, Gnoli, etc.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Paintings of absence",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "René Magritte",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-27RMLHommeAuJournal-s.jpg",
+      "alt": "",
+      "caption": "L'Homme au Journal, 1927\n\n\n\n\n\n\n\n\n\nPersonnage Méditant sur la Folie, 1928",
+      "width": "198",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-RM28PrsnngeMeditntSrLFolieM.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "270",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-28-LImageParfaite-s.jpg",
+      "alt": "",
+      "caption": "L'Image Parfaite, 1928",
+      "width": "268",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-29RMLesCharmesDuPaysageS.jpg",
+      "alt": "",
+      "caption": "Les Charmes dy Paysage, 1929",
+      "width": "269",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-33-LaReponseImprevue-s.jpg",
+      "alt": "",
+      "caption": "La Réponse Imprévue, 1933",
+      "width": "160",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/magritte-37RM-ThMptPctrFrame-s.jpg",
+      "alt": "",
+      "caption": "The Empty Picture Frame, 1937",
+      "width": "233",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Roy Lichtenstein",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/61LichtensteinNobodyInIt-S.jpg",
+      "alt": "",
+      "caption": "\"I can see the whole room! ...\n\nand there's nobody in it!\",\n1961",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/68StrtchrFrWCrossBarsIII-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Cross Bars, 1968",
+      "width": "230",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Mirror #1, 1969",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Domenico Gnoli",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/Gnoli66WithoutAStillLife.jpg",
+      "alt": "",
+      "caption": "Without a Still Life, 1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/DomenicoGnoli67Oreiller-M.jpg",
+      "alt": "",
+      "caption": "Pillow, 1967",
+      "width": "291",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Others",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/roger-raveel-66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel:\n\nEen Sacraal Vierkant, 1966",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/MichaelMorris66TPrbONothing.jpg",
+      "alt": "",
+      "caption": "Michael Morris:\n\nThe Problem of Nothing, 1966",
+      "width": "230",
+      "height": "213",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/78Guston.jpg",
+      "alt": "",
+      "caption": "Philip Guston, 1978",
+      "width": "194",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/realist/0304MorrisCanvasBack.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nCanvas Back, 2003/2004",
+      "width": "283",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More depictions of absence:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Roger\nRaveel: Adventures of the Empty Square (1963-2004)\n\n\n\n\nRoy\nLichtenstein's Mirrors (1964-1990)\n\n\n\nRoy\nLichtenstein's \"Stretcher Frames\" (1968)",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/depiction/roger-raveel",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors/lichtenstein",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/back/lichtenstein",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/depiction/realist/magritte-27RMLHommeAuJournal-s.jpg",
+      "alt": "",
+      "caption": "L'Homme au Journal, 1927\n\n\n\n\n\n\n\n\n\nPersonnage Méditant sur la Folie, 1928",
+      "legacy_src": "Magritte/27RMLHommeAuJournal-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/magritte-RM28PrsnngeMeditntSrLFolieM.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Magritte/RM28PrsnngeMeditntSrLFolieM.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/magritte-28-LImageParfaite-s.jpg",
+      "alt": "",
+      "caption": "L'Image Parfaite, 1928",
+      "legacy_src": "Magritte/28-LImageParfaite-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/magritte-29RMLesCharmesDuPaysageS.jpg",
+      "alt": "",
+      "caption": "Les Charmes dy Paysage, 1929",
+      "legacy_src": "Magritte/29RMLesCharmesDuPaysageS.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/magritte-33-LaReponseImprevue-s.jpg",
+      "alt": "",
+      "caption": "La Réponse Imprévue, 1933",
+      "legacy_src": "Magritte/33-LaReponseImprevue-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/magritte-37RM-ThMptPctrFrame-s.jpg",
+      "alt": "",
+      "caption": "The Empty Picture Frame, 1937",
+      "legacy_src": "Magritte/37RM-ThMptPctrFrame-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/61LichtensteinNobodyInIt-S.jpg",
+      "alt": "",
+      "caption": "\"I can see the whole room! ...\n\nand there's nobody in it!\",\n1961",
+      "legacy_src": "61LichtensteinNobodyInIt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/68StrtchrFrWCrossBarsIII-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Cross Bars, 1968",
+      "legacy_src": "68StrtchrFrWCrossBarsIII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Mirror #1, 1969",
+      "legacy_src": "69-LsteinMirrorNr1-S.gif"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/Gnoli66WithoutAStillLife.jpg",
+      "alt": "",
+      "caption": "Without a Still Life, 1966",
+      "legacy_src": "Gnoli66WithoutAStillLife.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/DomenicoGnoli67Oreiller-M.jpg",
+      "alt": "",
+      "caption": "Pillow, 1967",
+      "legacy_src": "DomenicoGnoli67Oreiller-M.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/roger-raveel-66EenSacraalVierkant-s.jpg",
+      "alt": "",
+      "caption": "Roger Raveel:\n\nEen Sacraal Vierkant, 1966",
+      "legacy_src": "../../monochrome/depiction/RogerRaveel/66EenSacraalVierkant-s.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/MichaelMorris66TPrbONothing.jpg",
+      "alt": "",
+      "caption": "Michael Morris:\n\nThe Problem of Nothing, 1966",
+      "legacy_src": "MichaelMorris66TPrbONothing.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/78Guston.jpg",
+      "alt": "",
+      "caption": "Philip Guston, 1978",
+      "legacy_src": "78Guston.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/realist/0304MorrisCanvasBack.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nCanvas Back, 2003/2004",
+      "legacy_src": "0304MorrisCanvasBack.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/mirrors/lichtenstein",
+    "/nothing/monochrome/back/lichtenstein",
+    "/nothing/monochrome/depiction/roger-raveel"
+  ]
+}

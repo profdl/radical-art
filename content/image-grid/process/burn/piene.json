@@ -1,0 +1,381 @@
+{
+  "slug": "process/burn/piene",
+  "legacy_path": "process/burn/piene/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Fire",
+  "heading": "",
+  "description": "Natural phenomena as works of visual art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Otto Piene: Rauchbilder & Feuerbilder",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-Otto_Piene_Rauchbild1961.jpg",
+      "alt": "",
+      "caption": "Rauchbild, 1961",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-Piene1961.gif",
+      "alt": "",
+      "caption": "1961",
+      "width": "284",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneOT1961.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1961",
+      "width": "288",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneFire(RABOnW)1962.jpg",
+      "alt": "",
+      "caption": "Fire (Red and Black on White), 1962",
+      "width": "216",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneOhneTitel1962.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1962",
+      "width": "269",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneFGGruenAufRot1963-S.jpg",
+      "alt": "",
+      "caption": "Feuergouache Grün auf Rot, 1963",
+      "width": "247",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneRauchgoldAufGldgrund63.jpg",
+      "alt": "",
+      "caption": "Rauchgold auf Goldgrund, 1963",
+      "width": "285",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneFeuerblumeAufRot63-64S.jpg",
+      "alt": "",
+      "caption": "Feuerblume auf Rot, 1963/1964",
+      "width": "148",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneFeuergouacheInRot1964.jpg",
+      "alt": "",
+      "caption": "Feuergouache in Rot, 1964",
+      "width": "200",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneSchwarzeSonne1965-S.jpg",
+      "alt": "",
+      "caption": "Schwarze Sonne, 1965",
+      "width": "254",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneSchwarzeSonne1965.jpg",
+      "alt": "",
+      "caption": "Schwarze Sonne, 1965",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneOxydationDurchFeuer66.jpg",
+      "alt": "",
+      "caption": "Oxidation durch Feuer, 1966",
+      "width": "247",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/piene1Geist1eBlumeAusF-66-S.jpg",
+      "alt": "",
+      "caption": "Ein Geist - eine Blume aus Feuer, 1966",
+      "width": "130",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneUntitled1972-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1972",
+      "width": "126",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneUnt1972-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1972",
+      "width": "129",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneSesame2-1974.jpg",
+      "alt": "",
+      "caption": "Sesame 2, 1974",
+      "width": "216",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/pieneFloralTarget1974-S.jpg",
+      "alt": "",
+      "caption": "Floral Target, 1974",
+      "width": "286",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneRegenzeit1975-S.jpg",
+      "alt": "",
+      "caption": "Regenzeit, 1975",
+      "width": "138",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/PieneEsWirdDunkel1977-S.jpg",
+      "alt": "",
+      "caption": "Es wird dunkel, 1977",
+      "width": "142",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneSlowMotion1982.jpg",
+      "alt": "",
+      "caption": "Slow Motion, 1982",
+      "width": "277",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneHighNoon1986-87.jpg",
+      "alt": "",
+      "caption": "High Noon, 1986-1987",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/pieneHonigAuge1987.jpg",
+      "alt": "",
+      "caption": "Honig Auge, 1987",
+      "width": "280",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneAetna1988-92.jpg",
+      "alt": "",
+      "caption": "Aetna, 1988-1992",
+      "width": "195",
+      "height": "193",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/piene/fire-s-PieneHoneyMoon2000.jpg",
+      "alt": "",
+      "caption": "Honey Moon, 2000",
+      "width": "286",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/piene/fire-s-Otto_Piene_Rauchbild1961.jpg",
+      "alt": "",
+      "caption": "Rauchbild, 1961",
+      "legacy_src": "../../../gif/natuur/FireS/Otto_Piene_Rauchbild1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-Piene1961.gif",
+      "alt": "",
+      "caption": "1961",
+      "legacy_src": "../../../gif/natuur/FireS/Piene1961.gif"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneOT1961.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1961",
+      "legacy_src": "PieneOT1961.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneFire(RABOnW)1962.jpg",
+      "alt": "",
+      "caption": "Fire (Red and Black on White), 1962",
+      "legacy_src": "../../../gif/natuur/FireS/PieneFire(RABOnW)1962.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneOhneTitel1962.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1962",
+      "legacy_src": "../../../gif/natuur/FireS/PieneOhneTitel1962.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneFGGruenAufRot1963-S.jpg",
+      "alt": "",
+      "caption": "Feuergouache Grün auf Rot, 1963",
+      "legacy_src": "PieneFGGruenAufRot1963-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneRauchgoldAufGldgrund63.jpg",
+      "alt": "",
+      "caption": "Rauchgold auf Goldgrund, 1963",
+      "legacy_src": "../../../gif/natuur/FireS/PieneRauchgoldAufGldgrund63.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneFeuerblumeAufRot63-64S.jpg",
+      "alt": "",
+      "caption": "Feuerblume auf Rot, 1963/1964",
+      "legacy_src": "PieneFeuerblumeAufRot63-64S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneFeuergouacheInRot1964.jpg",
+      "alt": "",
+      "caption": "Feuergouache in Rot, 1964",
+      "legacy_src": "PieneFeuergouacheInRot1964.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneSchwarzeSonne1965-S.jpg",
+      "alt": "",
+      "caption": "Schwarze Sonne, 1965",
+      "legacy_src": "PieneSchwarzeSonne1965-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneSchwarzeSonne1965.jpg",
+      "alt": "",
+      "caption": "Schwarze Sonne, 1965",
+      "legacy_src": "../../../gif/natuur/FireS/PieneSchwarzeSonne1965.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneOxydationDurchFeuer66.jpg",
+      "alt": "",
+      "caption": "Oxidation durch Feuer, 1966",
+      "legacy_src": "PieneOxydationDurchFeuer66.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/piene1Geist1eBlumeAusF-66-S.jpg",
+      "alt": "",
+      "caption": "Ein Geist - eine Blume aus Feuer, 1966",
+      "legacy_src": "piene1Geist1eBlumeAusF-66-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneUntitled1972-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1972",
+      "legacy_src": "PieneUntitled1972-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneUnt1972-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1972",
+      "legacy_src": "PieneUnt1972-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneSesame2-1974.jpg",
+      "alt": "",
+      "caption": "Sesame 2, 1974",
+      "legacy_src": "../../../gif/natuur/FireS/PieneSesame2-1974.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/pieneFloralTarget1974-S.jpg",
+      "alt": "",
+      "caption": "Floral Target, 1974",
+      "legacy_src": "pieneFloralTarget1974-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneRegenzeit1975-S.jpg",
+      "alt": "",
+      "caption": "Regenzeit, 1975",
+      "legacy_src": "PieneRegenzeit1975-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/PieneEsWirdDunkel1977-S.jpg",
+      "alt": "",
+      "caption": "Es wird dunkel, 1977",
+      "legacy_src": "PieneEsWirdDunkel1977-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneSlowMotion1982.jpg",
+      "alt": "",
+      "caption": "Slow Motion, 1982",
+      "legacy_src": "../../../gif/natuur/FireS/PieneSlowMotion1982.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneHighNoon1986-87.jpg",
+      "alt": "",
+      "caption": "High Noon, 1986-1987",
+      "legacy_src": "../../../gif/natuur/FireS/PieneHighNoon1986-87.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/pieneHonigAuge1987.jpg",
+      "alt": "",
+      "caption": "Honig Auge, 1987",
+      "legacy_src": "pieneHonigAuge1987.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneAetna1988-92.jpg",
+      "alt": "",
+      "caption": "Aetna, 1988-1992",
+      "legacy_src": "../../../gif/natuur/FireS/PieneAetna1988-92.jpg"
+    },
+    {
+      "src": "/images/process/burn/piene/fire-s-PieneHoneyMoon2000.jpg",
+      "alt": "",
+      "caption": "Honey Moon, 2000",
+      "legacy_src": "../../../gif/natuur/FireS/PieneHoneyMoon2000.jpg"
+    }
+  ],
+  "out_links": []
+}

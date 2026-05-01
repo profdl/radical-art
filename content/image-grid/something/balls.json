@@ -1,0 +1,191 @@
+{
+  "slug": "something/balls",
+  "legacy_path": "something/balls/index.html",
+  "section": "something",
+  "archetype": "image-grid",
+  "title": "something",
+  "heading": "balls",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "balls",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/1955-AkiraKanayama-s.jpg",
+      "alt": "",
+      "caption": "Akira Kanayama,\n\n1955",
+      "width": "176",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/1960-Manzoni-Pneumatic-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nPneumatic for Light and Gas Ballets, 1960",
+      "width": "265",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/klein-1960-EpongeBleueSE263-S.gif",
+      "alt": "",
+      "caption": "Yves Klein:\n\nÉponge Bleue,\n\n1960",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/1961_hdv-untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel,\n\n1961",
+      "width": "150",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/schippers-1962-AdynSculpt-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nAdynamische Sculptuur,\n\n1962",
+      "width": "109",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/armando-1999ArmandoGestalt-M2.jpg",
+      "alt": "",
+      "caption": "Armando:\n\nGestalt,\n\n1999",
+      "width": "132",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/MathiasGoeritz-1961-Fig.Geom.-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\n\nFigura Geométrica, 1961",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/james-lee-byars-ByarsMonumentToLanguage-S.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nMonument to Language, 1996",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/1961-WdR-PK's-C-C.gif",
+      "alt": "",
+      "caption": "Willem de Ridder:\n\nPapieren Konstellaties, 1961",
+      "width": "178",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/1966-Eva-Hesse-S-30-S.jpg",
+      "alt": "",
+      "caption": "Eva Hesse:\n\nS-30, 1966",
+      "width": "247",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/balls/john-chamberlain-1973-unt[aluminum_foil]-s.jpg",
+      "alt": "",
+      "caption": "John Chamberlain:",
+      "width": "218",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled, 1973",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/balls/1955-AkiraKanayama-s.jpg",
+      "alt": "",
+      "caption": "Akira Kanayama,\n\n1955",
+      "legacy_src": "1955-AkiraKanayama-s.jpg"
+    },
+    {
+      "src": "/images/something/balls/1960-Manzoni-Pneumatic-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nPneumatic for Light and Gas Ballets, 1960",
+      "legacy_src": "1960-Manzoni-Pneumatic-s.jpg"
+    },
+    {
+      "src": "/images/something/balls/klein-1960-EpongeBleueSE263-S.gif",
+      "alt": "",
+      "caption": "Yves Klein:\n\nÉponge Bleue,\n\n1960",
+      "legacy_src": "../Klein/1960-EpongeBleueSE263-S.gif"
+    },
+    {
+      "src": "/images/something/balls/1961_hdv-untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel,\n\n1961",
+      "legacy_src": "1961_hdv-untitled-s.jpg"
+    },
+    {
+      "src": "/images/something/balls/schippers-1962-AdynSculpt-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nAdynamische Sculptuur,\n\n1962",
+      "legacy_src": "../Schippers/1962-AdynSculpt-s.jpg"
+    },
+    {
+      "src": "/images/something/balls/armando-1999ArmandoGestalt-M2.jpg",
+      "alt": "",
+      "caption": "Armando:\n\nGestalt,\n\n1999",
+      "legacy_src": "../Armando/1999ArmandoGestalt-M2.jpg"
+    },
+    {
+      "src": "/images/something/balls/MathiasGoeritz-1961-Fig.Geom.-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\n\nFigura Geométrica, 1961",
+      "legacy_src": "MathiasGoeritz-1961-Fig.Geom.-s.jpg"
+    },
+    {
+      "src": "/images/something/balls/james-lee-byars-ByarsMonumentToLanguage-S.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nMonument to Language, 1996",
+      "legacy_src": "../JamesLeeByars/ByarsMonumentToLanguage-S.jpg"
+    },
+    {
+      "src": "/images/something/balls/1961-WdR-PK's-C-C.gif",
+      "alt": "",
+      "caption": "Willem de Ridder:\n\nPapieren Konstellaties, 1961",
+      "legacy_src": "1961-WdR-PK's-C-C.gif"
+    },
+    {
+      "src": "/images/something/balls/1966-Eva-Hesse-S-30-S.jpg",
+      "alt": "",
+      "caption": "Eva Hesse:\n\nS-30, 1966",
+      "legacy_src": "1966-Eva-Hesse-S-30-S.jpg"
+    },
+    {
+      "src": "/images/something/balls/john-chamberlain-1973-unt[aluminum_foil]-s.jpg",
+      "alt": "",
+      "caption": "John Chamberlain:",
+      "legacy_src": "JohnChamberlain/1973-unt%5Baluminum_foil%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

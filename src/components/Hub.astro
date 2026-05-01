@@ -1,0 +1,159 @@
+---
+import Paragraph from "./Paragraph.astro";
+
+interface Block {
+  type: string;
+  [k: string]: any;
+}
+
+interface Props {
+  blocks: Block[];
+  pageTitle: string;
+  childLinks?: { href: string; label: string; sample?: string }[];
+}
+
+const { blocks, pageTitle, childLinks = [] } = Astro.props;
+
+// Detect blocks that are really a "link group" — text consists mainly of the
+// concatenated link labels separated by line-breaks.
+function isLinkGroup(b: Block): boolean {
+  const links = b.links ?? [];
+  if (links.length < 2) return false;
+  const text = (b.text ?? "").trim();
+  if (!text) return false;
+  // Sum of link-text lengths should be ≥ ~70% of total text length
+  const linkChars = links.reduce(
+    (n: number, l: any) => n + (l.text?.length ?? 0),
+    0,
+  );
+  const textChars = text.replace(/\s+/g, "").length || 1;
+  return linkChars / textChars >= 0.6;
+}
+
+type Group =
+  | { kind: "label"; text: string }
+  | { kind: "intro"; block: Block }
+  | { kind: "links"; items: { href: string; label: string; external?: boolean }[] };
+
+const groups: Group[] = [];
+let pendingLabel: string | null = null;
+
+for (let i = 0; i < blocks.length; i++) {
+  const b = blocks[i];
+  if (!b) continue;
+
+  // Suppress block-level heading that duplicates the page title.
+  const isTopHeading =
+    b.type === "heading" &&
+    (b.level ?? 3) <= 2 &&
+    b.text.trim().toLowerCase() === pageTitle.trim().toLowerCase();
+  if (isTopHeading) continue;
+
+  if (b.type === "heading" && !isLinkGroup(b)) {
+    pendingLabel = b.text;
+    groups.push({ kind: "label", text: b.text });
+    continue;
+  }
+
+  if (isLinkGroup(b)) {
+    const items = (b.links ?? [])
+      .filter((l: any) => l.text && l.href)
+      .map((l: any) => ({
+        href: l.href,
+        label: l.text,
+        external: l.external,
+      }));
+    if (items.length) groups.push({ kind: "links", items });
+    pendingLabel = null;
+    continue;
+  }
+
+  if (b.type === "paragraph") {
+    // A paragraph that wraps a single link with empty text is meaningless;
+    // skip those.
+    const meaningful = b.text && b.text.trim().length > 4;
+    if (meaningful) groups.push({ kind: "intro", block: b });
+    continue;
+  }
+}
+---
+
+<div class="grid grid-cols-12 gap-x-10 gap-y-8">
+  {/* Intro paragraphs across full width on top, if any */}
+  {
+    groups.some((g) => g.kind === "intro") && (
+      <div class="col-span-12 lg:col-span-7">
+        {groups
+          .filter((g) => g.kind === "intro")
+          .map((g) => (
+            <div class="prose-archive max-w-[40rem] mb-4">
+              <Paragraph
+                text={(g as any).block.text}
+                links={(g as any).block.links}
+              />
+            </div>
+          ))}
+      </div>
+    )
+  }
+
+  {/* Sectioned link groups */}
+  <div class="col-span-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10 pt-6">
+      {(() => {
+        // Pair each "label" with the immediately-following "links" block(s).
+        const pairs: { label?: string; items: any[] }[] = [];
+        let cur: { label?: string; items: any[] } | null = null;
+        for (const g of groups) {
+          if (g.kind === "label") {
+            if (cur) pairs.push(cur);
+            cur = { label: g.text, items: [] };
+          } else if (g.kind === "links") {
+            if (!cur) cur = { items: [] };
+            cur.items.push(...(g as any).items);
+          }
+        }
+        if (cur) pairs.push(cur);
+        return pairs
+          .filter((p) => p.items.length > 0)
+          .map((p) => (
+            <div>
+              {p.label && <p class="section-label mb-3">{p.label}</p>}
+              <ul class="space-y-1.5">
+                {p.items.map((it: any) => (
+                  <li>
+                    <a
+                      href={it.href}
+                      class="h-detail hover:underline underline-offset-4"
+                      target={it.external ? "_blank" : undefined}
+                      rel={it.external ? "noreferrer" : undefined}
+                    >
+                      {it.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ));
+      })()}
+    </div>
+  </div>
+
+  {/* Auto-discovered child links from filesystem (passed in via prop). */}
+  {
+    childLinks.length > 0 && (
+      <div class="col-span-12 mt-12">
+        <p class="section-label mb-4">All Subsections</p>
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-2">
+          {childLinks.map((c) => (
+            <li>
+              <a href={c.href} class="hover:underline underline-offset-4">
+                {c.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
+</div>

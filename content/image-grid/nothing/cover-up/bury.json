@@ -1,0 +1,134 @@
+{
+  "slug": "nothing/cover-up/bury",
+  "legacy_path": "nothing/cover-up/bury/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "bury",
+  "heading": "",
+  "description": "Eliminating the object: Burials.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bury",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/1825-29VerschneiteHuette-S.jpg",
+      "alt": "",
+      "caption": "Caspar David Friedrich:\n\nVerschneite Hütte, 1825/1829",
+      "width": "197",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/70SmithsonPrtllybrdWdshd.jpg",
+      "alt": "",
+      "caption": "Roberth Smithson:\n\nPartially Buried Woodshed, 1970",
+      "width": "200",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-Cube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "112",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-LewittAndCube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "80",
+      "height": "116",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-LewittTheBuriedCube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "118",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-Lewitt_BuriedCube2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "116",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: The Buried\nCube (1968)\n\n\n\n[Metal Cube with unknown contents is buried in the garden\nof Martin & Mia Visser, Bergeyk, The\nNetherlands.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Related genres: Übermalung\nSecrets",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/bury/1825-29VerschneiteHuette-S.jpg",
+      "alt": "",
+      "caption": "Caspar David Friedrich:\n\nVerschneite Hütte, 1825/1829",
+      "legacy_src": "1825-29VerschneiteHuette-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/bury/70SmithsonPrtllybrdWdshd.jpg",
+      "alt": "",
+      "caption": "Roberth Smithson:\n\nPartially Buried Woodshed, 1970",
+      "legacy_src": "70SmithsonPrtllybrdWdshd.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-Cube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LeWittCube/Cube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-LewittAndCube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LeWittCube/LewittAndCube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-LewittTheBuriedCube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LeWittCube/LewittTheBuriedCube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/bury/le-witt-cube-Lewitt_BuriedCube2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LeWittCube/Lewitt_BuriedCube2.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/concept/secret",
+    "/nothing/cover-up/uebermalung"
+  ]
+}

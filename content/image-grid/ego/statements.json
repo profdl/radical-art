@@ -1,0 +1,224 @@
+{
+  "slug": "ego/statements",
+  "legacy_path": "ego/statements/index.html",
+  "section": "ego",
+  "archetype": "image-grid",
+  "title": "the signature as artwork",
+  "heading": "",
+  "description": "Signatures and other verbal artworks which directly denote the artist.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "[the artist as artwork:]\n\nsignatures and other verbal self-promotion",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/Picabia-1920-s.jpg",
+      "alt": "",
+      "caption": "Francis Picabia: \"Francis Picabia\", 1920",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/MauriceLemaitrePrtrtOANme50.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Maurice Lemaître:\n\nPortrait of a name, 1950",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/ben-ben-1958-[signature]-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ben\", 1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/EdPaschke79CadmiumSgntre-s.jpg",
+      "alt": "",
+      "caption": "Ed Paschke: Cadmium Signature, 1979",
+      "width": "230",
+      "height": "131",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/MatthieuLaurette98-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "221",
+      "height": "321",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Matthieu Laurette:\n\n\"Je suis un artiste\", 1998",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/GavinTurk97Knob-s.jpg",
+      "alt": "",
+      "caption": "Gavin Turk: Knob, 1997",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/ben-ben-1959-moi-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1959",
+      "width": "230",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/morris62-I-Box-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: I-Box, 1962",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/self-exhibits-KeithArnatt72-s.jpg",
+      "alt": "",
+      "caption": "Keith Arnatt, 1972",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/posters-WangDu2004Billboard-s.jpg",
+      "alt": "",
+      "caption": "Wang Du, 2004",
+      "width": "230",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/ben-BenjaminVautier-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/statements/posters-GavinTurk91-Self-s.jpg",
+      "alt": "",
+      "caption": "Gavin Turk, 1991",
+      "width": "179",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More signatures and egotistic statements by Ben Vautier",
+      "links": [
+        {
+          "text": "",
+          "href": "/ego/ben",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ego/statements/Picabia-1920-s.jpg",
+      "alt": "",
+      "caption": "Francis Picabia: \"Francis Picabia\", 1920",
+      "legacy_src": "Picabia-1920-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/MauriceLemaitrePrtrtOANme50.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MauriceLemaitrePrtrtOANme50.jpg"
+    },
+    {
+      "src": "/images/ego/statements/ben-ben-1958-[signature]-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ben\", 1958",
+      "legacy_src": "Ben/ben-1958-%5Bsignature%5D-S.jpg"
+    },
+    {
+      "src": "/images/ego/statements/EdPaschke79CadmiumSgntre-s.jpg",
+      "alt": "",
+      "caption": "Ed Paschke: Cadmium Signature, 1979",
+      "legacy_src": "EdPaschke79CadmiumSgntre-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/MatthieuLaurette98-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MatthieuLaurette98-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/GavinTurk97Knob-s.jpg",
+      "alt": "",
+      "caption": "Gavin Turk: Knob, 1997",
+      "legacy_src": "GavinTurk97Knob-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/ben-ben-1959-moi-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1959",
+      "legacy_src": "Ben/ben-1959-moi-S.jpg"
+    },
+    {
+      "src": "/images/ego/statements/morris62-I-Box-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: I-Box, 1962",
+      "legacy_src": "morris62-I-Box-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/self-exhibits-KeithArnatt72-s.jpg",
+      "alt": "",
+      "caption": "Keith Arnatt, 1972",
+      "legacy_src": "../self-exhibits/KeithArnatt72-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/posters-WangDu2004Billboard-s.jpg",
+      "alt": "",
+      "caption": "Wang Du, 2004",
+      "legacy_src": "../posters/WangDu2004Billboard-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/ben-BenjaminVautier-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier",
+      "legacy_src": "Ben/BenjaminVautier-s.jpg"
+    },
+    {
+      "src": "/images/ego/statements/posters-GavinTurk91-Self-s.jpg",
+      "alt": "",
+      "caption": "Gavin Turk, 1991",
+      "legacy_src": "../posters/GavinTurk91-Self-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/ego/ben"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "index",
+  "legacy_path": "index.html",
+  "section": "(root)",
+  "archetype": "site-home",
+  "title": "Radical Art",
+  "heading": "radical art",
+  "description": "A site about radical strands in modern art. It includes algorithmic art and its art-historical and conceptual context.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "institute of artificial art\namsterdam, department of art history",
+      "links": [
+        {
+          "text": "institute of artificial art amsterdam",
+          "href": "http://iaaa.nl",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "radical art",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "an analytical anthology of anti-art and meta-art",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "concept",
+      "links": [
+        {
+          "text": "concept",
+          "href": "/concept",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "life",
+      "links": [
+        {
+          "text": "life",
+          "href": "/life",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "everything",
+      "links": [
+        {
+          "text": "everything",
+          "href": "/everything",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "algorithm",
+      "links": [
+        {
+          "text": "algorithm",
+          "href": "/algorithmic-art",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "anything",
+      "links": [
+        {
+          "text": "anything",
+          "href": "/anything",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "mechanics",
+      "links": [
+        {
+          "text": "mechanics",
+          "href": "/kinetics",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "something",
+      "links": [
+        {
+          "text": "something",
+          "href": "/something",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "process",
+      "links": [
+        {
+          "text": "process",
+          "href": "/process",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "destruction",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "nothing",
+      "links": [
+        {
+          "text": "nothing",
+          "href": "/nothing",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "an introductory essay the end of art",
+      "links": [
+        {
+          "text": "",
+          "href": "/meta",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/qend-art",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art",
+    "/anything",
+    "/concept",
+    "/destruction",
+    "/everything",
+    "/kinetics",
+    "/life",
+    "/meta",
+    "/nothing",
+    "/process",
+    "/qend-art",
+    "/something"
+  ]
+}

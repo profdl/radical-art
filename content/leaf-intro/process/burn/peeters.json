@@ -1,0 +1,51 @@
+{
+  "slug": "process/burn/peeters",
+  "legacy_path": "process/burn/peeters/index.html",
+  "section": "process",
+  "archetype": "leaf-intro",
+  "title": "Henk Peeters: Pyrographies",
+  "heading": "",
+  "description": "Henk Peeters: Pyrographies",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Henk Peeters: Pyrografieën",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/peeters/Pyrografie1959.jpg",
+      "alt": "",
+      "caption": "Pyrography, 1959",
+      "width": "239",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/peeters/HenkPeetersPyrografie1962-S.jpg",
+      "alt": "",
+      "caption": "Pyrography, 1962",
+      "width": "237",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/peeters/Pyrografie1959.jpg",
+      "alt": "",
+      "caption": "Pyrography, 1959",
+      "legacy_src": "Pyrografie1959.jpg"
+    },
+    {
+      "src": "/images/process/burn/peeters/HenkPeetersPyrografie1962-S.jpg",
+      "alt": "",
+      "caption": "Pyrography, 1962",
+      "legacy_src": "HenkPeetersPyrografie1962-S.jpg"
+    }
+  ],
+  "out_links": []
+}

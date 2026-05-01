@@ -1,0 +1,66 @@
+{
+  "slug": "kinetics/gravity/tether",
+  "legacy_path": "kinetics/gravity/tether/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "tether",
+  "heading": "to tether",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to tether",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/tether/1968-Snelson-NeedleTower-II-K.jpg",
+      "alt": "",
+      "caption": "Kenneth Snelson: Needle Tower\nII, 1968",
+      "width": "185",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/tether/1981-82-Snelson-Mozart-s.jpg",
+      "alt": "",
+      "caption": "Kenneth Snelson: Mozart, 1981-1982",
+      "width": "396",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/tether/1985-BeuysScalaNapoletana--s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Scala Napoletana, 1985",
+      "width": "261",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/tether/1968-Snelson-NeedleTower-II-K.jpg",
+      "alt": "",
+      "caption": "Kenneth Snelson: Needle Tower\nII, 1968",
+      "legacy_src": "1968-Snelson-NeedleTower-II-K.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/tether/1981-82-Snelson-Mozart-s.jpg",
+      "alt": "",
+      "caption": "Kenneth Snelson: Mozart, 1981-1982",
+      "legacy_src": "1981-82-Snelson-Mozart-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/tether/1985-BeuysScalaNapoletana--s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Scala Napoletana, 1985",
+      "legacy_src": "1985-BeuysScalaNapoletana--s.jpg"
+    }
+  ],
+  "out_links": []
+}

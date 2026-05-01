@@ -1,0 +1,228 @@
+{
+  "slug": "things/art-copied",
+  "legacy_path": "things/art-copied/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "CopyArt",
+  "heading": "Copy Art",
+  "description": "Copies of art as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: readymades radical\nart",
+      "links": [
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Copy Art",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone-65MonaLisa-S.jpg",
+      "alt": "",
+      "caption": "Richard Pettibone:\n\n\"Andy Warhol. Mona Lisa. 1963\",\n\n1965",
+      "width": "197",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/pettibone",
+          "external": false
+        },
+        {
+          "text": "Richard Pettibone",
+          "href": "/things/art-copied/pettibone",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant-65-66LichtensteinHotDog-S.jpg",
+      "alt": "",
+      "caption": "Elaine Sturtevant:\n\n\"Roy Lichtenstein: Hot Dog\",\n\n1965/1966",
+      "width": "230",
+      "height": "139",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/sturtevant",
+          "external": false
+        },
+        {
+          "text": "Elaine Sturtevant",
+          "href": "/things/art-copied/sturtevant",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/levine-79AfterWalkerEvans-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine:\n\nAfter Walker Evans,\n\n1979",
+      "width": "156",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/levine",
+          "external": false
+        },
+        {
+          "text": "Sherry Levine",
+          "href": "/things/art-copied/levine",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo-84bidlo_NotPicasso-s.jpg",
+      "alt": "",
+      "caption": "Mike Bidlo:\n\nBidlo Not Picasso, 1984",
+      "width": "191",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/bidlo",
+          "external": false
+        },
+        {
+          "text": "Mike Bidlo",
+          "href": "/things/art-copied/bidlo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer-01BarbaraKruger-S.jpg",
+      "alt": "",
+      "caption": "Eric Doeringer:\n\nBarbara Kruger, 2001",
+      "width": "138",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/eric-doeringer",
+          "external": false
+        },
+        {
+          "text": "Eric Doeringer",
+          "href": "/things/art-copied/eric-doeringer",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/SylvieFleury2005Vasarely-S.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury:\n\nVasarély, 2005",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More Copy-Art by:",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Mike Bidlo\n\n\n\nEric Doeringer\n\n\n\nSherry Levine\n\n\n\nRichard Pettibone\n\n\n\nElaine Sturtevant",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/art-copied/bidlo",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/art-copied/eric-doeringer",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/art-copied/levine",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/art-copied/pettibone",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/art-copied/sturtevant",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/pettibone-65MonaLisa-S.jpg",
+      "alt": "",
+      "caption": "Richard Pettibone:\n\n\"Andy Warhol. Mona Lisa. 1963\",\n\n1965",
+      "legacy_src": "Pettibone/65MonaLisa-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant-65-66LichtensteinHotDog-S.jpg",
+      "alt": "",
+      "caption": "Elaine Sturtevant:\n\n\"Roy Lichtenstein: Hot Dog\",\n\n1965/1966",
+      "legacy_src": "sturtevant/65-66LichtensteinHotDog-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/levine-79AfterWalkerEvans-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine:\n\nAfter Walker Evans,\n\n1979",
+      "legacy_src": "levine/79AfterWalkerEvans-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo-84bidlo_NotPicasso-s.jpg",
+      "alt": "",
+      "caption": "Mike Bidlo:\n\nBidlo Not Picasso, 1984",
+      "legacy_src": "bidlo/84bidlo_NotPicasso-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer-01BarbaraKruger-S.jpg",
+      "alt": "",
+      "caption": "Eric Doeringer:\n\nBarbara Kruger, 2001",
+      "legacy_src": "EricDoeringer/01BarbaraKruger-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/SylvieFleury2005Vasarely-S.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury:\n\nVasarély, 2005",
+      "legacy_src": "SylvieFleury2005Vasarely-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied/bidlo",
+    "/things/art-copied/eric-doeringer",
+    "/things/art-copied/levine",
+    "/things/art-copied/pettibone",
+    "/things/art-copied/sturtevant"
+  ]
+}

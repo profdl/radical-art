@@ -1,0 +1,255 @@
+{
+  "slug": "algorithmic-art/evolutie",
+  "legacy_path": "AlgorithmicArt/evolutie.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Artificial Evolution",
+  "heading": "Art generation by simulated evolution (Genetic Algorithms)",
+  "description": "Artificial Evolution and Genetic Algorithms",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Art generation by simulated evolution\n\n(Genetic Algorithms)",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "\"God is really only another artist. He invented the\ngiraffe, the elephant, and\n\nthe cat. He just goes on trying other things. He has no real style.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pablo Picasso",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Several art generation systems use \"genetic\nalgorithms\" to implement an image\nevolution process. Technically, such systems fall under the optimization approach: they search a large space of possibilities to find the\nitems which best fulfill a certain evaluation criterion. Many systems\nof this sort, however, do not implement a formal evaluation criterion,\nbut use an \"oracle\" instead: human spectators are allowed\nto vote for what they like best. Supposedly, this \"supervised\nlearning\" process allows the system to acquire the (complex\nbut ultimately boring) concept of \"conventional beauty\".\n\n\n\nNote that genetic algorithms do not model the process of\nnatural evolution. In natural evolution, there is no given\nevaluation criterion which can be applied to individual organisms.\nThe survival of an organism crucially depends on all the other organisms\n(of the same and other species) in its environment. To model natural\nevolution would be to model a whole environment with interacting\n(and mutating and procreating) organisms.",
+      "links": [
+        {
+          "text": "optimization",
+          "href": "/algorithmic-art/optimization",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Links",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "David Eck: Eaters.",
+      "links": [
+        {
+          "text": "Eaters",
+          "href": "http://math.hws.edu/xJava/GA/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Erwin Driessens & Maria Verstappen: Breed,\n1999.",
+      "links": [
+        {
+          "text": "Breed",
+          "href": "http://www.xs4all.nl/%7Enotnot/breed/Breed.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Craig Reynolds: Evolutionary Computation and its application to art\nand design",
+      "links": [
+        {
+          "text": "Craig Reynolds: Evolutionary Computation and its application to art and design",
+          "href": "http://www.red3d.com/cwr/evolve.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyberdelia",
+      "links": [
+        {
+          "text": "Cyberdelia",
+          "href": "http://www.sharemation.com/%7Ebravedog/cyberdelia3.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Erik Borra's\nAA&AI Links.",
+      "links": [
+        {
+          "text": "AA&AI Links",
+          "href": "http://www.justlol.org/science/aaai/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl Sims:\nSwimming, creeping, jumping and fighting creatures. [VPRO\nvideo-tape. Archives Jochem van der Spek, Eric Vreedenburgh, UvA New\nMedia.]\n\n\n\nStephen Todd and William\nLatham: Evolutionary Art and Computers. London: Academic Press,\n1992.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Shape-grammar algorithms using evolutionary processes",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Cagan and W. J.\nMitchell, \"Optimally directed shape generation by shape annealing,\"\nEnvironment and Planning B: Planning and Design 20 (1993):\n5-12.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Knight, T. W. (1989). Transformations\nof De Stijl art: the paintings of Georges Vantongerloo and Fritz\nGlarner, Environment and Planning B 16: 51-98.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight, \"Languages of\ndesigns: from known to new,\" Environment and Planning B\n8 (1981): 213- 238.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight, \"Transformations\nof languages of designs,\" Environment and Planning B\n10 (1983): Part 1 125-128, Part 2: 129-154, Part 3:155-177;",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight, Transformations in\nDesign. Cambridge University Press, Cambridge, 1994.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Terry Knight's\nShape Grammar Site",
+      "links": [
+        {
+          "text": "Shape Grammar Site",
+          "href": "http://www.mit.edu/%7Etknight/IJDC/frameset_abstract.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Schnier, T. & Gero, J.S. (1996) \"Learning\ngenetic representations as alternative to hand-coded shape grammars,\"\nAI in Design196.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Art generation by majority vote",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Links",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ken Goldberg: TeleActor",
+      "links": [
+        {
+          "text": "TeleActor",
+          "href": "http://teleactor.berkeley.edu",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Discussion",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The fallacy of taking the statistics\nof appreciation as a criterion for art is demonstrated by Komar\nand Melamid: the \"most wanted paintings\" and the \"least\nwanted paintings\" are equally interesting.",
+      "links": [
+        {
+          "text": "Komar and Melamid",
+          "href": "http://www.diacenter.org/km/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "JoAnn Wypijewski (ed.): Painting by Numbers. Komar and Melamid's Scientific Guide to Art. New York: Farrar Straus Giroux, 1997.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Material for further discussion:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ray\nKurzweil's CyberPoet;\n\nA. Michael Noll's Mondriaan simulation.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Related issues: Images vs. Models; the vacuousness\nof the \"Turing Test\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nTuring Test Page\n\nTuring\nTest links\n\nAlan Turing",
+      "links": [
+        {
+          "text": "The Turing Test Page",
+          "href": "http://cogsci.ucsd.edu/%7Easaygin/tt/ttest.html#onlineref",
+          "external": true
+        },
+        {
+          "text": "Turing Test links",
+          "href": "http://www.turing.org.uk/turing/scrapbook/test.html",
+          "external": true
+        },
+        {
+          "text": "Alan Turing",
+          "href": "http://www.turing.org.uk/turing/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, April 1, 2007",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[One of the links was suggested by David de Nood.\n\nPicasso quote from\nBlack+White.]",
+      "links": [
+        {
+          "text": "Black+White",
+          "href": "http://entries.the5k.org/1144/index.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/optimization"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "nothing/cover-up/cover",
+  "legacy_path": "nothing/cover-up/cover/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "coverings",
+  "heading": "Hiding: Screens, Walls & Curtains",
+  "description": "Wrapping (empaquetage) in modern art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Hiding: Screens, Walls & Curtains",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo-62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Rideau de Fer, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo-63ShowCase-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Show Case, 1963",
+      "width": "163",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo-Christo69WrappedCoast-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nWrapped Coast, 1969",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/Ruthenbeck7274VideoUbrdck-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck: Object for the Partial Concealment of a Video Scene, 1972/1974",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/76vautrier-vitre-ss.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Vitre, 1976",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/rotella-copertura-RotellaInvisibile76.gif",
+      "alt": "",
+      "caption": "Mimmo Rotella: Invisibile, 1976",
+      "width": "220",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/delete-Delete5-s.jpg",
+      "alt": "",
+      "caption": "Christophe Steinbrener & Rainer Dempf: Delete! (Neubaugasse, Vienna), 2005",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More screens and curtains by:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Christo Javacheff",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover/christo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mimmo Rotella",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover/rotella-copertura",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "More images of:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Delete!\" (Christophe Steinbrener & Rainer Dempf)",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped/delete",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related genres:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Übermalung",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Secrets",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Empaquetages",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/cover/christo-62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Rideau de Fer, 1962",
+      "legacy_src": "christo/62RideauDeFer.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo-63ShowCase-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Show Case, 1963",
+      "legacy_src": "christo/63ShowCase-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo-Christo69WrappedCoast-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nWrapped Coast, 1969",
+      "legacy_src": "christo/Christo69WrappedCoast-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/Ruthenbeck7274VideoUbrdck-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck: Object for the Partial Concealment of a Video Scene, 1972/1974",
+      "legacy_src": "Ruthenbeck7274VideoUbrdck-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/76vautrier-vitre-ss.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Vitre, 1976",
+      "legacy_src": "76vautrier-vitre-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/rotella-copertura-RotellaInvisibile76.gif",
+      "alt": "",
+      "caption": "Mimmo Rotella: Invisibile, 1976",
+      "legacy_src": "RotellaCopertura/RotellaInvisibile76.gif"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/delete-Delete5-s.jpg",
+      "alt": "",
+      "caption": "Christophe Steinbrener & Rainer Dempf: Delete! (Neubaugasse, Vienna), 2005",
+      "legacy_src": "Delete/Delete5-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover/christo",
+    "/nothing/cover-up/cover/rotella-copertura",
+    "/nothing/cover-up/uebermalung",
+    "/things/wrapped",
+    "/things/wrapped/delete"
+  ]
+}

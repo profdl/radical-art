@@ -1,0 +1,180 @@
+{
+  "slug": "things/immersed",
+  "legacy_path": "things/immersed/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Immersions",
+  "heading": "Immersions",
+  "description": "Things immersed into the canvas.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "related genres: wrap cover-up cast paint",
+      "links": [
+        {
+          "text": "wrap",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "cast",
+          "href": "/things/cast",
+          "external": false
+        },
+        {
+          "text": "paint",
+          "href": "/things/painted",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Immersions",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/Johns61DspprngPntng-RP69.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nDisappearing Painting, 1961\n\n[Copy by Richard Pettibone, 1969]",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/65-WimTSchippersZT.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nZonder Titel, 1965",
+      "width": "192",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/arman-drowning-68DoubleCatch1968-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nDouble Catch, 1968",
+      "width": "166",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/69-JohnsTheCriticSmiles-S.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nThe Critic Smiles, 1969",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/arman-drowning-98EmersionDeTournesol-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nÉmersion de Tournesol, 1998",
+      "width": "170",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/arman-drowning-98-LeVoyageInterrompu-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arman:\n\nLe Voyage Interrompu, 1998",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/immersed/arman-drowning-98Minocipede1998-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nMinocipède, 1998",
+      "width": "230",
+      "height": "150",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/immersed/Johns61DspprngPntng-RP69.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nDisappearing Painting, 1961\n\n[Copy by Richard Pettibone, 1969]",
+      "legacy_src": "Johns61DspprngPntng-RP69.jpg"
+    },
+    {
+      "src": "/images/things/immersed/65-WimTSchippersZT.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nZonder Titel, 1965",
+      "legacy_src": "65-WimTSchippersZT.jpg"
+    },
+    {
+      "src": "/images/things/immersed/arman-drowning-68DoubleCatch1968-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nDouble Catch, 1968",
+      "legacy_src": "arman-drowning/68DoubleCatch1968-S.jpg"
+    },
+    {
+      "src": "/images/things/immersed/69-JohnsTheCriticSmiles-S.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nThe Critic Smiles, 1969",
+      "legacy_src": "69-JohnsTheCriticSmiles-S.jpg"
+    },
+    {
+      "src": "/images/things/immersed/arman-drowning-98EmersionDeTournesol-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nÉmersion de Tournesol, 1998",
+      "legacy_src": "arman-drowning/98EmersionDeTournesol-S.jpg"
+    },
+    {
+      "src": "/images/things/immersed/arman-drowning-98-LeVoyageInterrompu-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "arman-drowning/98-LeVoyageInterrompu-S.jpg"
+    },
+    {
+      "src": "/images/things/immersed/arman-drowning-98Minocipede1998-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nMinocipède, 1998",
+      "legacy_src": "arman-drowning/98Minocipede1998-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/cast",
+    "/things/painted",
+    "/things/wrapped"
+  ]
+}

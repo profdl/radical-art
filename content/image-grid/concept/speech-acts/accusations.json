@@ -1,0 +1,126 @@
+{
+  "slug": "concept/speech-acts/accusations",
+  "legacy_path": "concept/SpeechActs/Accusations/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Accusations",
+  "heading": "Barbara Kruger's Accusations",
+  "description": "Concept art: Text pieces: Accusations.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Barbara Kruger's Accusations",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-80-joy_s.gif",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled (\"Your moments of joy have the\n\nprecision of military strategy\"), 1980",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-81-science-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"Your manias become science\"),\n\n1981",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-81-you_constuct-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"You construct intricate rituals\nwhich allow you to touch the skin of other men\"), 1981",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-URNotYourself-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"You are not yourself\")",
+      "width": "168",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-81-your_comfort-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "179",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled (\"Your comfort is\n\nmy silence\"), 1981",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/accusations/kruger-81-Slice-s.gif",
+      "alt": "",
+      "caption": "",
+      "width": "188",
+      "height": "232",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled (\"I am a slice of your life\"),\n\n1981",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-80-joy_s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kruger/80-joy_s.gif"
+    },
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-81-science-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"Your manias become science\"),\n\n1981",
+      "legacy_src": "kruger/81-science-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-81-you_constuct-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"You construct intricate rituals\nwhich allow you to touch the skin of other men\"), 1981",
+      "legacy_src": "kruger/81-you_constuct-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-URNotYourself-s.jpg",
+      "alt": "",
+      "caption": "Untitled (\"You are not yourself\")",
+      "legacy_src": "kruger/URNotYourself-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-81-your_comfort-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kruger/81-your_comfort-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/accusations/kruger-81-Slice-s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kruger/81-Slice-s.gif"
+    }
+  ],
+  "out_links": []
+}

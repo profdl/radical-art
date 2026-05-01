@@ -1,0 +1,331 @@
+{
+  "slug": "kinetics/gravity/jump",
+  "legacy_path": "kinetics/gravity/Jump/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Jump",
+  "heading": "to jump",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to jump",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "jump up",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Philippe Halsman",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/halsman-47-Dali-Atomicus-s.jpg",
+      "alt": "",
+      "caption": "Dali Atomicus,\n1947",
+      "width": "429",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/halsman-51-BBardot-s.jpg",
+      "alt": "",
+      "caption": "Brigitte\nBardot, 1951",
+      "width": "250",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO'Connor-s.jpg",
+      "alt": "",
+      "caption": "Donald\nO'Connor, 1952",
+      "width": "215",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/halsman-55-AudreyHepburn-s.jpg",
+      "alt": "",
+      "caption": "Audrey\nHepburn, 1955",
+      "width": "206",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/halsman-57_BennyGoodman-s.jpg",
+      "alt": "",
+      "caption": "Benny\nGoodman, 1957",
+      "width": "236",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Denis Darzacq",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/denis-darzacq-2005-2006-la-chute-LaChute-Nr13-s.jpg",
+      "alt": "",
+      "caption": "La Chute # 13, 2005-2006",
+      "width": "267",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/denis-darzacq-2005-2006-la-chute-LaChute-Nr15-s.jpg",
+      "alt": "",
+      "caption": "La Chute # 15, 2005-2006",
+      "width": "267",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: The photos in Darzacq's sequence La\nChute look\nlike snapshots of falling bodies, but in fact they register carefully\nselected moments in breakdance jumps. We mention them\nhere rather than in the page about falling, because\nwe adopt the perspective of performance art rather than mimesis.\n(The signifier prevails over the signified. The anonymous dancer\nprevails over the photographer.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "jump down",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Jacques Henri Lartigue",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-1904_zissou_takes_off-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "346",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "198",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-jhl_saut-s.jpg",
+      "alt": "",
+      "caption": "(1904 and later)",
+      "width": "192",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Philippe Halsman",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/philippe-halsman-50-HaroldLloyd-s.jpg",
+      "alt": "",
+      "caption": "Harold Lloyd, 1950",
+      "width": "233",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/philippe-halsman-51-JanetLeigh-s.jpg",
+      "alt": "",
+      "caption": "Janet Leigh, 1951",
+      "width": "237",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Yves Klein",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/down-1960-KleinLeapIntoTheVoid-s.jpg",
+      "alt": "",
+      "caption": "Le Saut dans le Vide, 1960",
+      "width": "226",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1964-suicide-s.jpg",
+      "alt": "",
+      "caption": "Suicide, 1964",
+      "width": "211",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide(PurpleJumpngMn)-s.jpg",
+      "alt": "",
+      "caption": "Suicide (Purple Jumping Man), 1965",
+      "width": "258",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "jump across",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Buster Keaton",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages[animated].gif",
+      "alt": "",
+      "caption": "The Three Ages, 1923",
+      "width": "380",
+      "height": "274",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "rs, june 2011 / july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/jump/halsman-47-Dali-Atomicus-s.jpg",
+      "alt": "",
+      "caption": "Dali Atomicus,\n1947",
+      "legacy_src": "Up/Halsman/47-Dali-Atomicus-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/halsman-51-BBardot-s.jpg",
+      "alt": "",
+      "caption": "Brigitte\nBardot, 1951",
+      "legacy_src": "Up/Halsman/51-BBardot-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO'Connor-s.jpg",
+      "alt": "",
+      "caption": "Donald\nO'Connor, 1952",
+      "legacy_src": "Up/Halsman/52-DonaldO'Connor-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/halsman-55-AudreyHepburn-s.jpg",
+      "alt": "",
+      "caption": "Audrey\nHepburn, 1955",
+      "legacy_src": "Up/Halsman/55-AudreyHepburn-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/halsman-57_BennyGoodman-s.jpg",
+      "alt": "",
+      "caption": "Benny\nGoodman, 1957",
+      "legacy_src": "Up/Halsman/57_BennyGoodman-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/denis-darzacq-2005-2006-la-chute-LaChute-Nr13-s.jpg",
+      "alt": "",
+      "caption": "La Chute # 13, 2005-2006",
+      "legacy_src": "Up/DenisDarzacq-2005-2006-LaChute/LaChute-Nr13-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/denis-darzacq-2005-2006-la-chute-LaChute-Nr15-s.jpg",
+      "alt": "",
+      "caption": "La Chute # 15, 2005-2006",
+      "legacy_src": "Up/DenisDarzacq-2005-2006-LaChute/LaChute-Nr15-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-1904_zissou_takes_off-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Down/JacquesHenriLartigue/1904_zissou_takes_off-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Down/JacquesHenriLartigue/1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/jacques-henri-lartigue-jhl_saut-s.jpg",
+      "alt": "",
+      "caption": "(1904 and later)",
+      "legacy_src": "Down/JacquesHenriLartigue/jhl_saut-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/philippe-halsman-50-HaroldLloyd-s.jpg",
+      "alt": "",
+      "caption": "Harold Lloyd, 1950",
+      "legacy_src": "Down/PhilippeHalsman/50-HaroldLloyd-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/philippe-halsman-51-JanetLeigh-s.jpg",
+      "alt": "",
+      "caption": "Janet Leigh, 1951",
+      "legacy_src": "Down/PhilippeHalsman/51-JanetLeigh-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/down-1960-KleinLeapIntoTheVoid-s.jpg",
+      "alt": "",
+      "caption": "Le Saut dans le Vide, 1960",
+      "legacy_src": "Down/1960-KleinLeapIntoTheVoid-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1964-suicide-s.jpg",
+      "alt": "",
+      "caption": "Suicide, 1964",
+      "legacy_src": "Down/1964-Warhol/1964-suicide-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide(PurpleJumpngMn)-s.jpg",
+      "alt": "",
+      "caption": "Suicide (Purple Jumping Man), 1965",
+      "legacy_src": "Down/1964-Warhol/1965Suicide(PurpleJumpngMn)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages[animated].gif",
+      "alt": "",
+      "caption": "The Three Ages, 1923",
+      "legacy_src": "Across/Keaton/1923-3Ages%5Banimated%5D.gif"
+    }
+  ],
+  "out_links": []
+}

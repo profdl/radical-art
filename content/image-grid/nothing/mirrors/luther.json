@@ -1,0 +1,321 @@
+{
+  "slug": "nothing/mirrors/luther",
+  "legacy_path": "nothing/mirrors/luther/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Luther",
+  "heading": "Mirror Pieces by Adolphe Luther",
+  "description": "Mirror Pieces by Adolphe Luther",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirror Pieces by Adolphe Luther",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/69-Hohlspiegel-SS.jpg",
+      "alt": "",
+      "caption": "Hohlspiegel, 1969",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/69-Lichtschleuse-S.jpg",
+      "alt": "",
+      "caption": "Lichtschleuse, 1969",
+      "width": "181",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/72-Hohlspiegel-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegel, 1970",
+      "width": "100",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/72-Hohlspiegelobjekt-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1972",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/72-Linsenobjekt-s.jpg",
+      "alt": "",
+      "caption": "Linsenobjekt, 1972",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/74-HohlspiegelObjekt.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt 1974",
+      "width": "185",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/75-HspoSeriell-S.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt Seriell, 1975",
+      "width": "192",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/76-Hohlspiegelobjekt.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1976",
+      "width": "166",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/78-SphaerischesHspo-s.jpg",
+      "alt": "",
+      "caption": "Sphärisches Hohlspiegelobjekt,\n\n1978",
+      "width": "230",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/70s-Atelier.gif",
+      "alt": "",
+      "caption": "Atelier, 1970's",
+      "width": "188",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/82-Hspo.gif",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1982",
+      "width": "186",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/82-Hspo1982B.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1982",
+      "width": "184",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/82-Lichtschleuse-s.jpg",
+      "alt": "",
+      "caption": "Lichtschleuse, 1982",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/82-Spiegelcollage-s.jpg",
+      "alt": "",
+      "caption": "Spiegelcollage, 1982",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/88-SerielleLinsen-s.jpg",
+      "alt": "",
+      "caption": "Serielle Linsen, 1982",
+      "width": "195",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/88-Kullerobjekt-s.jpg",
+      "alt": "",
+      "caption": "Kullerobjekt, 1982",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/83-Hohlspiegelobjekt-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1983",
+      "width": "230",
+      "height": "117",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/84-HspobjektDreizeiler-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt Dreizeiler, 1984",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/85-Hspo1985.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1985",
+      "width": "193",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/luther/88-Hohlspiegelobjekt-S.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1988",
+      "width": "192",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/luther/69-Hohlspiegel-SS.jpg",
+      "alt": "",
+      "caption": "Hohlspiegel, 1969",
+      "legacy_src": "69-Hohlspiegel-SS.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/69-Lichtschleuse-S.jpg",
+      "alt": "",
+      "caption": "Lichtschleuse, 1969",
+      "legacy_src": "69-Lichtschleuse-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/72-Hohlspiegel-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegel, 1970",
+      "legacy_src": "72-Hohlspiegel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/72-Hohlspiegelobjekt-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1972",
+      "legacy_src": "72-Hohlspiegelobjekt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/72-Linsenobjekt-s.jpg",
+      "alt": "",
+      "caption": "Linsenobjekt, 1972",
+      "legacy_src": "72-Linsenobjekt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/74-HohlspiegelObjekt.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt 1974",
+      "legacy_src": "74-HohlspiegelObjekt.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/75-HspoSeriell-S.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt Seriell, 1975",
+      "legacy_src": "75-HspoSeriell-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/76-Hohlspiegelobjekt.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1976",
+      "legacy_src": "76-Hohlspiegelobjekt.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/78-SphaerischesHspo-s.jpg",
+      "alt": "",
+      "caption": "Sphärisches Hohlspiegelobjekt,\n\n1978",
+      "legacy_src": "78-SphaerischesHspo-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/70s-Atelier.gif",
+      "alt": "",
+      "caption": "Atelier, 1970's",
+      "legacy_src": "70s-Atelier.gif"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/82-Hspo.gif",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1982",
+      "legacy_src": "82-Hspo.gif"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/82-Hspo1982B.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1982",
+      "legacy_src": "82-Hspo1982B.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/82-Lichtschleuse-s.jpg",
+      "alt": "",
+      "caption": "Lichtschleuse, 1982",
+      "legacy_src": "82-Lichtschleuse-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/82-Spiegelcollage-s.jpg",
+      "alt": "",
+      "caption": "Spiegelcollage, 1982",
+      "legacy_src": "82-Spiegelcollage-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/88-SerielleLinsen-s.jpg",
+      "alt": "",
+      "caption": "Serielle Linsen, 1982",
+      "legacy_src": "88-SerielleLinsen-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/88-Kullerobjekt-s.jpg",
+      "alt": "",
+      "caption": "Kullerobjekt, 1982",
+      "legacy_src": "88-Kullerobjekt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/83-Hohlspiegelobjekt-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1983",
+      "legacy_src": "83-Hohlspiegelobjekt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/84-HspobjektDreizeiler-s.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt Dreizeiler, 1984",
+      "legacy_src": "84-HspobjektDreizeiler-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/85-Hspo1985.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1985",
+      "legacy_src": "85-Hspo1985.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/luther/88-Hohlspiegelobjekt-S.jpg",
+      "alt": "",
+      "caption": "Hohlspiegelobjekt, 1988",
+      "legacy_src": "88-Hohlspiegelobjekt-S.jpg"
+    }
+  ],
+  "out_links": []
+}

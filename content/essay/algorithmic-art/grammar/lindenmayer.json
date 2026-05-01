@@ -1,0 +1,347 @@
+{
+  "slug": "algorithmic-art/grammar/lindenmayer",
+  "legacy_path": "AlgorithmicArt/grammar/Lindenmayer/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Lindenmayer Systems",
+  "heading": "Growth and Form and Infinity",
+  "description": "The Machines are a group of electric sabre saws who collaborate on the automatic creation of visual art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Growth and Form and Infinity",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Who knows, maybe all our 'abstract forms' are 'forms\nin nature'.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kandinsky (1937)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The perception of a visual shape often involves\nan implicit conjecture about the process that generated it. A plausible\ntheory of perception may thus crucially involve an account of shape-generation\nand shape-transformation processes. (Michael\nLeyton articulates this perspective in his book \"Symmetry,\nCausality, Mind\"; he discusses Euclidean transformations (translation,\nrotation), as well abstractions of physical processes (dent, stretch,\nsqueeze). Cf. also: Benjamin\nKimia: Shapes as \"shock-graphs\".)\n\n\n\nApplying this approach to the description of organic forms, we try\ncharacterize them in terms of the growth processes that produced\nthem. Art generation and Gestalt perception thus meet biological\nmorphology.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I have\ncalled this book a study of Growth and Form, because in the\nmost familiar illustrations of organic form (. . .) these two factors\nare inseparably associated, and because we are here justified in\nthinking of form as the direct resultant and consequence of growth\n(. . .) whose varying rate in one direction or another has produced\n(. . .) the final configuration of the whole material structure.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "D'Arcy Wentworth Thompson (1917)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ernst Haeckel: Monograph of the Challenger Radiolaria. (1887)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ernst Haeckel: Art Forms in Nature. (1904)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wassily Kandinsky: \"Assimilation of Art\" (1937). Complete Writings (Vol. 2, p. 803).Susanne Langer: Mind: An Essay on Human Feeling,\nVol. I. Baltimore: Johns Hopkins University Press, 1967.\nD'Arcy Wentworth Thompson(1917): On Growth and Form, 1917. Second\nedition: Cambridge, UK: Cambridge University Press, 1942 (Vol.\n1, p. 57).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lindenmayer-systems: Growth processes in line\npatterns",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "\"(. . .) not only\nthe leaves repeat each other, but the leaves repeat the flowers,\nand the very stems and branches are like un-unfolded leaves. (.\n. .) To the pattern of the flower there corresponds a further\npattern developed in the placing and grouping of the flowers along\nthe branches, and the branches themselves divide and stand out\nin balanced proportions, under the controlling vital impulse (.\n. .) Musical expression follows the same law.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Basil de Selincourt: \"Music\nand Duration.\" Music and Letters, 1 (1920), p. 288.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A mathematical method to describe plant growth\nprocesses was developed by Aristid Lindenmayer in the period 1968-1990.\nThe most basic version of Lindenmayer's \"L-systems\" resembles\nthe Context-Free Grammars that are often used in Computational Linguistics\nto characterize the constituent structure of natural language sentences.\nThe formalism works differently in two respects: (1) The difference\nbetween terminal symbols and non-terminal symbols is abolished: all symbols can be rewritten, and all symbols can\noccur in output-expressions. (2) Every rewrite step rewrites all\nsymbols simultaneously.\n\n\n\nAnother important difference with language-grammars is that the\nstrings that are generated have a visual interpretation: they are\nstrings of a \"turtle-graphics\" coding language. In \"Turtle\nGraphics\", a line consisting of straight segments is described\nfrom the perspective of a turtle who draws it: the length of segment\n1, the angle to turn after segment 1, the length of segment 2, the\nangle to turn after segment 2, and so on. Combined with the commands\n\"pen up\" and \"pen down\", this allows the description\nof all possible drawings consisting of straght line segments.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References Lindenmayer-Systems",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Przemyslaw Prusinkiewicz & Aristid\nLindenmayer: The Algorithmic Beauty of Plants. New York:\nSpringer-Verlag, 1990.\n\n\n\nGary W. Flake: \"L-Systems and Fractal Growth\". In: The\nComputational Beauty of Nature. Cambridge, MA.: MIT Press, 1998.\n[Online applet: choose \"L-Systems\" in the menu on the Java-Applets\npage. ]",
+      "links": [
+        {
+          "text": "The Computational Beauty of Nature",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/",
+          "external": true
+        },
+        {
+          "text": "Java-Applets",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/javalarge.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References Turtle Graphics",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Abelson and Andrea diSessa: Turtle\nGeometry. The Computer as a Medium for Exploring Mathematics.\nCambridge, Mass.: MIT Press, 1980.\n\n\n\nSeymour Papert: Mindstorms. Children, Computers, and Powerful\nIdeas. New York: Basic Books, 1980.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Przemyslaw Prusinkiewicz: Algorithmic Botany.",
+      "links": [
+        {
+          "text": "Algorithmic Botany",
+          "href": "http://www.cpsc.ucalgary.ca/projects/bmv/papers/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Plant-modelling-software for games, movies and architects:\n\nhttp://www.onyxtree.com/\n\n\nhttp://www.greenworks.de/",
+      "links": [
+        {
+          "text": "http://www.onyxtree.com/",
+          "href": "http://www.onyxtree.com/",
+          "external": true
+        },
+        {
+          "text": "http://www.greenworks.de/",
+          "href": "http://www.greenworks.de/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101 Action-Script Laboratory: 2001 sep 05–08; 2001 nov\n09; 2001 dec 10; 2002 oct 30.",
+      "links": [
+        {
+          "text": "Bit-101 Action-Script Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mondriaan's trees: David Sylvester: \"Mondrian\nin London,\" Studio International, December 1966.",
+      "links": [
+        {
+          "text": "\"Mondrian in London,\"",
+          "href": "http://www.artchive.com/artchive/M/mondrian.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Assigments 2001 (results):",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Puite\nen Roelofs\n\nKooistra\n\nOvertoom",
+      "links": [
+        {
+          "text": "Puite en Roelofs",
+          "href": "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules",
+          "external": false
+        },
+        {
+          "text": "Kooistra",
+          "href": "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra",
+          "external": false
+        },
+        {
+          "text": "Overtoom",
+          "href": "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Infinite recursion.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "If\nwe imagine that the rewrite process is continued forever, Lindenmayer-systems\nmay represent shapes which are fractal and self-similar,\nsuch as Koch-islands and spacefilling curves.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nDroste-picture on a computer screen with a zoom option:\nthe image really has an unlimited degree of detail. Cf. also:\nDriessens & Verstappen: Ima Traveller (discussed on our page\nabout 2D cellular automata). The visual experience of the Droste-demo\nand \"Ima Traveller\" is: to fall. This correlates directly\nwith the dizzying nature of any vivid thought which involves\ninfinite recursion.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "When infinite recursion is mapped onto infinite iteration it becomes a visual structure that can be contemplated: a circle.\nBut to think infinite recursion is to fall into an epileptic\nmental process which is not contained anymore by the rationality\nthat launched it. This occurs if one attempts to think seriously\nabout the liar-paradox. It also occurs if one attempts to seriously\nthink any all-embracing philosophical thought which concerns the\nwhole world with oneself in it. (This is what Wittgenstein called \"das Mystische\": \"die Erfahrung der Welt als begrenztes\nGanzes\". It correlates directly with Kant's notion of \"das\nmathematische Erhabene\".)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George\nBrecht: Vicious Circles and Paradoxes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Applet\nvoor Koch-krommen\n\nBit-101\nLaboratory: 2002 feb 05/11",
+      "links": [
+        {
+          "text": "Applet voor Koch-krommen",
+          "href": "http://www.win.tue.nl/%7Eaeb/ca/frac/koch.html",
+          "external": true
+        },
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fractales sur le Web",
+      "links": [
+        {
+          "text": "Fractales sur le Web",
+          "href": "http://fractals.iut.u-bordeaux1.fr/jpl/jpl4.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fractint\nFractal Geometry PC Freeware.\n\n\n\nThe Radical Art page on paradox.\n\nThe Radical Art page\non tautology.",
+      "links": [
+        {
+          "text": "Fractint",
+          "href": "http://spanky.triumf.ca/www/fractint/fractint.html",
+          "external": true
+        },
+        {
+          "text": "The Radical Art page on paradox.",
+          "href": "/concept/paradox",
+          "external": false
+        },
+        {
+          "text": "The Radical Art page on tautology.",
+          "href": "/concept/tautology",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the countably infinite",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cantor proved that the real numbers constitute\nan uncountable set. (I.e., they can not be conceived as\nthe outcome of an infinitely continued recursive process.)\n\nTuring used the same proof technique (the \"diagonal argument\")\nto establish that the \"halting problem\" for Turing machines\ncannot be solved by a Turing machine.\n\nGödel used a similar proof structure to show that a consistent\nformal system that allows the formalization of arithmetic allows\nthe formulation of propositions which are true but unprovable\nwithin the system.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Gödel's Onvolledigheidsstelling.\n\n\n\nGregory Chaitin: The\nUnknowable. (On Turing, Gödel and Randomness.)",
+      "links": [
+        {
+          "text": "Gödel's Onvolledigheidsstelling.",
+          "href": "http://www.win.tue.nl/%7Eaeb/ca/computers-6.html",
+          "external": true
+        },
+        {
+          "text": "The Unknowable.",
+          "href": "http://www.umcs.maine.edu/%7Echaitin/unknowable/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Assignment",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In the \"Monadologie\"\nLeibniz describes organic systems as \"machines\" which\n(unlike \"machines\" in the narrower sense of that word)\nconsist of infinitely small parts. Find his exact formulation\nof this idea, and discuss it in relation with the present-day\nnotion of fractal structures. Consider the relation between the\nfractal and the biological which is suggested by the literature\non Lindenmayer-systems.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Link",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Gottfried Leibniz:\n\nThe Monadology, 1714.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2001/2006.\n\nSome links suggested\nby Jürgen Sturm and Chuntug Taguba.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules",
+    "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra",
+    "/algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom",
+    "/concept/paradox",
+    "/concept/tautology"
+  ]
+}

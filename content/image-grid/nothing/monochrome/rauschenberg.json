@@ -1,0 +1,170 @@
+{
+  "slug": "nothing/monochrome/rauschenberg",
+  "legacy_path": "nothing/monochrome/Rauschenberg/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Rauschenberg",
+  "heading": "Robert \n        Rauschenberg's Monochromes",
+  "description": "Robert Rauschenberg's monochromes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP(3Pnls)1951.jpg",
+      "alt": "",
+      "caption": "White\nPainting (Three Panels), 1951",
+      "width": "279",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP(7Pnl)51S.jpg",
+      "alt": "",
+      "caption": "White Painting\n(Seven Panels), 1951",
+      "width": "249",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/Rauschenberg51WhtePaintingS.jpg",
+      "alt": "",
+      "caption": "White Painting (Seven Panels), 1951",
+      "width": "314",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt(GlBlP).jpg",
+      "alt": "",
+      "caption": "Untitled (Glossy Black Painting), 1951",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/1953Unt(ShouldLoveCome1st)S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1953\n\nÜbermalung of \"Should Love Come First?\", 1951",
+      "width": "246",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/ErasedDeKooning1953-s.jpg",
+      "alt": "",
+      "caption": "Erased De Kooning drawing, 1953",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenberg_red-1953-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Red), 1953",
+      "width": "125",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/1955GoldPainting-S.jpg",
+      "alt": "",
+      "caption": "Gold Painting, 1955",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/rauschenberg/Rauschenberg76Reef-s.jpg",
+      "alt": "",
+      "caption": "Reef, 1976",
+      "width": "218",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"To Whom It May Concern: The white paintings came first; my silent piece came later.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: Preface to \"On Robert Rauschenberg, artist, and his work.\"\nIn: Silence. Lectures and Writings by John Cage.\n\nMiddletown, Connecticut: Wesleyan University Press, 1973, p. 98.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"[...] do we not already have too much to look at? (Generosity.) Left to myself, I would be perfectly contented with black pictures, providing Rauschenberg had painted them.\n\n(I had one, but unfortunately the new room has a slanting ceiling and besides the wall isn't long enough for it. These are problems that have no solution, such as the suit wearing out.)\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: \"On Robert Rauschenberg, artist, and his work.\"\n\nIn: Metro. Milano, 1961. Reprinted in: Silence. Lectures and Writings by John Cage.\n\nMiddletown, Connecticut: Wesleyan University Press, 1973, pp. 98-107. [p. 107.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP(3Pnls)1951.jpg",
+      "alt": "",
+      "caption": "White\nPainting (Three Panels), 1951",
+      "legacy_src": "rauschenbergWhP(3Pnls)1951.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP(7Pnl)51S.jpg",
+      "alt": "",
+      "caption": "White Painting\n(Seven Panels), 1951",
+      "legacy_src": "RauschenbergWhiteP(7Pnl)51S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/Rauschenberg51WhtePaintingS.jpg",
+      "alt": "",
+      "caption": "White Painting (Seven Panels), 1951",
+      "legacy_src": "Rauschenberg51WhtePaintingS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt(GlBlP).jpg",
+      "alt": "",
+      "caption": "Untitled (Glossy Black Painting), 1951",
+      "legacy_src": "51RauschenbergUnt(GlBlP).jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/1953Unt(ShouldLoveCome1st)S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1953\n\nÜbermalung of \"Should Love Come First?\", 1951",
+      "legacy_src": "1953Unt(ShouldLoveCome1st)S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/ErasedDeKooning1953-s.jpg",
+      "alt": "",
+      "caption": "Erased De Kooning drawing, 1953",
+      "legacy_src": "ErasedDeKooning1953-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenberg_red-1953-s.jpg",
+      "alt": "",
+      "caption": "Untitled (Red), 1953",
+      "legacy_src": "rauschenberg_red-1953-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/1955GoldPainting-S.jpg",
+      "alt": "",
+      "caption": "Gold Painting, 1955",
+      "legacy_src": "1955GoldPainting-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/rauschenberg/Rauschenberg76Reef-s.jpg",
+      "alt": "",
+      "caption": "Reef, 1976",
+      "legacy_src": "Rauschenberg76Reef-s.jpg"
+    }
+  ],
+  "out_links": []
+}

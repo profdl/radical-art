@@ -1,0 +1,176 @@
+{
+  "slug": "kinetics/turn/planetariums",
+  "legacy_path": "kinetics/Turn/Planetariums/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Planetariums",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "uniform nested rotation: planetariums and telluriums",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/17yy-JesseRamsden-s.jpg",
+      "alt": "",
+      "caption": "Jesse Ramsden\n\nmiddle 18th century",
+      "width": "329",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/17..-RoyalObservtryGreenwich-s.jpg",
+      "alt": "",
+      "caption": "Royal Observatory, Greenwich\n\n18th century",
+      "width": "229",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1774-1781-EiseEisingaFraneker.jpg",
+      "alt": "",
+      "caption": "Eise Eisinga:Planetarium, Franeker, 1774-1781",
+      "width": "400",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1780-JamesFerguson-GrandOrrery-s.jpg",
+      "alt": "",
+      "caption": "James Ferguson: Grand Orrery, 1780",
+      "width": "297",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1780PhilippMatthausHahn-s.jpg",
+      "alt": "",
+      "caption": "Philipp Matthäus Hahn, 1780",
+      "width": "405",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1790-GeorgeAdams-Teylers-s.jpg",
+      "alt": "",
+      "caption": "George Adams, 1790\n\nTeylers Museum, Haarlem",
+      "width": "291",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1794-William+SamuelJones-s.jpg",
+      "alt": "",
+      "caption": "William & Samuel Jones, 1794",
+      "width": "393",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1809-27-Gilkerson-Orrery-s.jpg",
+      "alt": "",
+      "caption": "Gilkerson: Orrery, 1809-1827",
+      "width": "348",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/Charles-FrancoisDelamarche-Tellurium-s.jpg",
+      "alt": "",
+      "caption": "Charles-François Delamarche: Tellurium",
+      "width": "265",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/planetariums/1820-England-Tellurium-s.jpg",
+      "alt": "",
+      "caption": "English Tellurium, 1820",
+      "width": "386",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/planetariums/17yy-JesseRamsden-s.jpg",
+      "alt": "",
+      "caption": "Jesse Ramsden\n\nmiddle 18th century",
+      "legacy_src": "17yy-JesseRamsden-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/17..-RoyalObservtryGreenwich-s.jpg",
+      "alt": "",
+      "caption": "Royal Observatory, Greenwich\n\n18th century",
+      "legacy_src": "17..-RoyalObservtryGreenwich-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1774-1781-EiseEisingaFraneker.jpg",
+      "alt": "",
+      "caption": "Eise Eisinga:Planetarium, Franeker, 1774-1781",
+      "legacy_src": "1774-1781-EiseEisingaFraneker.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1780-JamesFerguson-GrandOrrery-s.jpg",
+      "alt": "",
+      "caption": "James Ferguson: Grand Orrery, 1780",
+      "legacy_src": "1780-JamesFerguson-GrandOrrery-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1780PhilippMatthausHahn-s.jpg",
+      "alt": "",
+      "caption": "Philipp Matthäus Hahn, 1780",
+      "legacy_src": "1780PhilippMatthausHahn-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1790-GeorgeAdams-Teylers-s.jpg",
+      "alt": "",
+      "caption": "George Adams, 1790\n\nTeylers Museum, Haarlem",
+      "legacy_src": "1790-GeorgeAdams-Teylers-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1794-William+SamuelJones-s.jpg",
+      "alt": "",
+      "caption": "William & Samuel Jones, 1794",
+      "legacy_src": "1794-William+SamuelJones-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1809-27-Gilkerson-Orrery-s.jpg",
+      "alt": "",
+      "caption": "Gilkerson: Orrery, 1809-1827",
+      "legacy_src": "1809-27-Gilkerson-Orrery-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/Charles-FrancoisDelamarche-Tellurium-s.jpg",
+      "alt": "",
+      "caption": "Charles-François Delamarche: Tellurium",
+      "legacy_src": "Charles-FrancoisDelamarche-Tellurium-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/planetariums/1820-England-Tellurium-s.jpg",
+      "alt": "",
+      "caption": "English Tellurium, 1820",
+      "legacy_src": "1820-England-Tellurium-s.jpg"
+    }
+  ],
+  "out_links": []
+}

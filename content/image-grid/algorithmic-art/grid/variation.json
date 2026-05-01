@@ -1,0 +1,355 @@
+{
+  "slug": "algorithmic-art/grid/variation",
+  "legacy_path": "AlgorithmicArt/grid/variation/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Variation",
+  "heading": "",
+  "description": "The grid as an organizing principle for presenting a parameterized image as a function of two dimensions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Variation",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the grid to present a parameterized image as a function\nof two arguments.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Paul Lohse",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse55-s.jpg",
+      "alt": "",
+      "caption": "15 systematische Farbreihen mit\n\n5 gleichen horizontalen Rhythmen, 1955/1969",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse-10Vertikale-s.jpg",
+      "alt": "",
+      "caption": "Zehn Vertikale",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse82-s.jpg",
+      "alt": "",
+      "caption": "Serielles Reihenthema in 18 Farben A, 1982",
+      "width": "420",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Victor Vasarély",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-56-EridanIII-s.gif",
+      "alt": "",
+      "caption": "Eridan III, 1956",
+      "width": "200",
+      "height": "292",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-57-Vega-s.jpg",
+      "alt": "",
+      "caption": "Vega, 1957",
+      "width": "200",
+      "height": "293",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-57-59VegaII-s.gif",
+      "alt": "",
+      "caption": "Vega II, 1957/1959",
+      "width": "200",
+      "height": "288",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-65-CTA-104-s.jpg",
+      "alt": "",
+      "caption": "CTA 104, 1965",
+      "width": "200",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-65-CTA-105-s.jpg",
+      "alt": "",
+      "caption": "CTA 105, 1965",
+      "width": "200",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-66CTA(gold)-s.jpg",
+      "alt": "",
+      "caption": "CTA (Gold), 1965",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-WhiteSquare-s.jpg",
+      "alt": "",
+      "caption": "White Square",
+      "width": "200",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bridget Riley",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/61-bridget-riley-63Shift-s.jpg",
+      "alt": "",
+      "caption": "Shift, 1963",
+      "width": "230",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/61-bridget-riley-64NineteenGreys-s.jpg",
+      "alt": "",
+      "caption": "Nineteen Greys, 1964",
+      "width": "230",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henryk Stazewski",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/67-stazewski-67-ReliefNo9-s.jpg",
+      "alt": "",
+      "caption": "Relief No 9, 1967",
+      "width": "200",
+      "height": "202",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/67-stazewski-68-Relief6-s.jpg",
+      "alt": "",
+      "caption": "Relief No 6, 1968",
+      "width": "204",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Klaus Staudt",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/6769-klaus-staudt-6769-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1967/1969",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/6769-klaus-staudt-03YellowAura-s.jpg",
+      "alt": "",
+      "caption": "Yellow Aura, 2003",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/67RWKompozycjaWPionowePasy-.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski:\n\nKompozycja w Pionowe Pasy, 1967",
+      "width": "200",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/73HartmutBoehmRaumstrukturS.jpg",
+      "alt": "",
+      "caption": "Hartmut Boehm: Raumstruktur, 1973",
+      "width": "230",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/Nemours-8Fasi-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours: 8 Fasi di un Contrapunto Spaziale",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/variation/86-PeterSchuyffUnt-s.jpg",
+      "alt": "",
+      "caption": "Peter Schuyff: Untitled, 1986",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse55-s.jpg",
+      "alt": "",
+      "caption": "15 systematische Farbreihen mit\n\n5 gleichen horizontalen Rhythmen, 1955/1969",
+      "legacy_src": "55RichardPaulLohse/Lohse55-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse-10Vertikale-s.jpg",
+      "alt": "",
+      "caption": "Zehn Vertikale",
+      "legacy_src": "55RichardPaulLohse/Lohse-10Vertikale-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/55-richard-paul-lohse-Lohse82-s.jpg",
+      "alt": "",
+      "caption": "Serielles Reihenthema in 18 Farben A, 1982",
+      "legacy_src": "55RichardPaulLohse/Lohse82-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-56-EridanIII-s.gif",
+      "alt": "",
+      "caption": "Eridan III, 1956",
+      "legacy_src": "56Vasarely/56-EridanIII-s.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-57-Vega-s.jpg",
+      "alt": "",
+      "caption": "Vega, 1957",
+      "legacy_src": "56Vasarely/57-Vega-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-57-59VegaII-s.gif",
+      "alt": "",
+      "caption": "Vega II, 1957/1959",
+      "legacy_src": "56Vasarely/57-59VegaII-s.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-65-CTA-104-s.jpg",
+      "alt": "",
+      "caption": "CTA 104, 1965",
+      "legacy_src": "56Vasarely/65-CTA-104-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-65-CTA-105-s.jpg",
+      "alt": "",
+      "caption": "CTA 105, 1965",
+      "legacy_src": "56Vasarely/65-CTA-105-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-66CTA(gold)-s.jpg",
+      "alt": "",
+      "caption": "CTA (Gold), 1965",
+      "legacy_src": "56Vasarely/66CTA(gold)-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/56-vasarely-WhiteSquare-s.jpg",
+      "alt": "",
+      "caption": "White Square",
+      "legacy_src": "56Vasarely/WhiteSquare-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/61-bridget-riley-63Shift-s.jpg",
+      "alt": "",
+      "caption": "Shift, 1963",
+      "legacy_src": "61BridgetRiley/63Shift-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/61-bridget-riley-64NineteenGreys-s.jpg",
+      "alt": "",
+      "caption": "Nineteen Greys, 1964",
+      "legacy_src": "61BridgetRiley/64NineteenGreys-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/67-stazewski-67-ReliefNo9-s.jpg",
+      "alt": "",
+      "caption": "Relief No 9, 1967",
+      "legacy_src": "67Stazewski/67-ReliefNo9-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/67-stazewski-68-Relief6-s.jpg",
+      "alt": "",
+      "caption": "Relief No 6, 1968",
+      "legacy_src": "67Stazewski/68-Relief6-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/6769-klaus-staudt-6769-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1967/1969",
+      "legacy_src": "6769KlausStaudt/6769-OT-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/6769-klaus-staudt-03YellowAura-s.jpg",
+      "alt": "",
+      "caption": "Yellow Aura, 2003",
+      "legacy_src": "6769KlausStaudt/03YellowAura-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/67RWKompozycjaWPionowePasy-.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski:\n\nKompozycja w Pionowe Pasy, 1967",
+      "legacy_src": "67RWKompozycjaWPionowePasy-.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/73HartmutBoehmRaumstrukturS.jpg",
+      "alt": "",
+      "caption": "Hartmut Boehm: Raumstruktur, 1973",
+      "legacy_src": "73HartmutBoehmRaumstrukturS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/Nemours-8Fasi-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours: 8 Fasi di un Contrapunto Spaziale",
+      "legacy_src": "Nemours-8Fasi-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/variation/86-PeterSchuyffUnt-s.jpg",
+      "alt": "",
+      "caption": "Peter Schuyff: Untitled, 1986",
+      "legacy_src": "86-PeterSchuyffUnt-s.jpg"
+    }
+  ],
+  "out_links": []
+}

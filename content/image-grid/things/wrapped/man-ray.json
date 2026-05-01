@@ -1,0 +1,106 @@
+{
+  "slug": "things/wrapped/man-ray",
+  "legacy_path": "things/wrapped/ManRay/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Wrappings by Man Ray",
+  "heading": "",
+  "description": "Wrappings by Man Ray.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: wrappings things radical\nart",
+      "links": [
+        {
+          "text": "wrappings",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Wrappings by Man Ray",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray/ManRay20LEnigme-S.jpg",
+      "alt": "",
+      "caption": "L'Énigme d'Isidore Ducasse, 1920",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray/ManRayVenus2-S.gif",
+      "alt": "",
+      "caption": "Vénus 2",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray/ManRay30[Cellophane]-s.jpg",
+      "alt": "",
+      "caption": "1930",
+      "width": "170",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/man-ray/36VenusRestauree.gif",
+      "alt": "",
+      "caption": "Vénus Restaurée, 1936",
+      "width": "153",
+      "height": "269",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/man-ray/ManRay20LEnigme-S.jpg",
+      "alt": "",
+      "caption": "L'Énigme d'Isidore Ducasse, 1920",
+      "legacy_src": "ManRay20LEnigme-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/man-ray/ManRayVenus2-S.gif",
+      "alt": "",
+      "caption": "Vénus 2",
+      "legacy_src": "ManRayVenus2-S.gif"
+    },
+    {
+      "src": "/images/things/wrapped/man-ray/ManRay30[Cellophane]-s.jpg",
+      "alt": "",
+      "caption": "1930",
+      "legacy_src": "ManRay30%5BCellophane%5D-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/man-ray/36VenusRestauree.gif",
+      "alt": "",
+      "caption": "Vénus Restaurée, 1936",
+      "legacy_src": "36VenusRestauree.gif"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/wrapped"
+  ]
+}

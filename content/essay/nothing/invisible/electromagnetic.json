@@ -1,0 +1,160 @@
+{
+  "slug": "nothing/invisible/electromagnetic",
+  "legacy_path": "nothing/invisible/electromagnetic.html",
+  "section": "nothing",
+  "archetype": "essay",
+  "title": "Invisible Things",
+  "heading": "Electromagnetic pieces: waves & circuits",
+  "description": "Invisible phenomena as artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Electromagnetic pieces:\n\nwaves & circuits",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "David Bainbridge and Howard\nHurrell",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Loop (1967).",
+      "links": [
+        {
+          "text": "Loop",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild6.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Electromagnetic field; visitors are equipped\nwith detectors to be able to observe it.\n\nThe description\nof this piece was put online by Thomas Dreher.]",
+      "links": [
+        {
+          "text": "description",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild6.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Lecher System (Realisation 1970)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Description of this piece on Thomas Dreher's website.]",
+      "links": [
+        {
+          "text": "Description",
+          "href": "http://members.tripod.de/ThomasDreher/3_Konzeptkunst_Art_Lang2Bild7.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Robert Barry",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "90 mc Carrier Wave (FM), 1968.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[FM radio\nwave with silence.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "0.5 Microcurie Radiation Installation, 1969.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Small amount of Barium 133 buried in Central Park, New York, on January 5, 1969.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "David Bainbridge",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Untitled (1970)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Description: Art-Language Vol.1, # 2, pp. 5-7.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Fred Forest",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Nombre\nd'Or et Champ de Fréquence 14000 Hz, 1987.",
+      "links": [
+        {
+          "text": "Nombre d'Or et Champ de Fréquence",
+          "href": "http://www.webnetmuseum.org/html/en/expo-retr-fredforest/actions/35_en.htm#text",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Related genres: No\nShow Secrets\nDarkness\nEmpty\nSpace",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/no-show",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/darkness",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/nothing/concept/no-show",
+    "/nothing/concept/secret",
+    "/nothing/darkness",
+    "/nothing/space"
+  ]
+}

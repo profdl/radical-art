@@ -1,0 +1,241 @@
+{
+  "slug": "things/art-copied/eric-doeringer",
+  "legacy_path": "things/art-copied/EricDoeringer/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Doeringer",
+  "heading": "Eric Doeringer's Copy Art",
+  "description": "Eric Doeringer's Copy Art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: copy\nart readymades radical\nart",
+      "links": [
+        {
+          "text": "copy art",
+          "href": "/things/art-copied",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Eric Doeringer's Copy Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01SLvne(WEvns)-s.jpg",
+      "alt": "",
+      "caption": "Sherry Levine\n\n(After Walker Evans), 2001",
+      "width": "141",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01BarbaraKruger-S.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger, 2001",
+      "width": "138",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01ChristopherWool-s.jpg",
+      "alt": "",
+      "caption": "Christopher Wool, 2001",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01DamienHirst-S.jpg",
+      "alt": "",
+      "caption": "Damien Hirst, 2001",
+      "width": "188",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01KeithHaring.jpg",
+      "alt": "",
+      "caption": "Keith Haring, 2001",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01PeterHalley-S.jpg",
+      "alt": "",
+      "caption": "Peter Halley, 2001",
+      "width": "199",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01RichardArtschwager-s.jpg",
+      "alt": "",
+      "caption": "Richard Artschwager, 2001",
+      "width": "131",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01RinekeDijkstra-S.jpg",
+      "alt": "",
+      "caption": "Rineke Dijkstra, 2001",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/01BerndHillaBecher-S.jpg",
+      "alt": "",
+      "caption": "Bernd & Hilla Becher, 2001",
+      "width": "143",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/04MelBochner-S.jpg",
+      "alt": "",
+      "caption": "Mel Bochner, 2004",
+      "width": "209",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/05AllanMcCollum-S.jpg",
+      "alt": "",
+      "caption": "Allan McCollum, 2005",
+      "width": "146",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/05DamienHirst-S.jpg",
+      "alt": "",
+      "caption": "Damien Hirst, 2005",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/eric-doeringer/05JeffKoons-S.jpg",
+      "alt": "",
+      "caption": "Jeff Koons, 2005",
+      "width": "347",
+      "height": "150",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01SLvne(WEvns)-s.jpg",
+      "alt": "",
+      "caption": "Sherry Levine\n\n(After Walker Evans), 2001",
+      "legacy_src": "01SLvne(WEvns)-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01BarbaraKruger-S.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger, 2001",
+      "legacy_src": "01BarbaraKruger-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01ChristopherWool-s.jpg",
+      "alt": "",
+      "caption": "Christopher Wool, 2001",
+      "legacy_src": "01ChristopherWool-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01DamienHirst-S.jpg",
+      "alt": "",
+      "caption": "Damien Hirst, 2001",
+      "legacy_src": "01DamienHirst-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01KeithHaring.jpg",
+      "alt": "",
+      "caption": "Keith Haring, 2001",
+      "legacy_src": "01KeithHaring.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01PeterHalley-S.jpg",
+      "alt": "",
+      "caption": "Peter Halley, 2001",
+      "legacy_src": "01PeterHalley-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01RichardArtschwager-s.jpg",
+      "alt": "",
+      "caption": "Richard Artschwager, 2001",
+      "legacy_src": "01RichardArtschwager-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01RinekeDijkstra-S.jpg",
+      "alt": "",
+      "caption": "Rineke Dijkstra, 2001",
+      "legacy_src": "01RinekeDijkstra-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/01BerndHillaBecher-S.jpg",
+      "alt": "",
+      "caption": "Bernd & Hilla Becher, 2001",
+      "legacy_src": "01BerndHillaBecher-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/04MelBochner-S.jpg",
+      "alt": "",
+      "caption": "Mel Bochner, 2004",
+      "legacy_src": "04MelBochner-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/05AllanMcCollum-S.jpg",
+      "alt": "",
+      "caption": "Allan McCollum, 2005",
+      "legacy_src": "05AllanMcCollum-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/05DamienHirst-S.jpg",
+      "alt": "",
+      "caption": "Damien Hirst, 2005",
+      "legacy_src": "05DamienHirst-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/eric-doeringer/05JeffKoons-S.jpg",
+      "alt": "",
+      "caption": "Jeff Koons, 2005",
+      "legacy_src": "05JeffKoons-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied"
+  ]
+}

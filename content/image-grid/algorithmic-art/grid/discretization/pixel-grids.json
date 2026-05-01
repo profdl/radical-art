@@ -1,0 +1,321 @@
+{
+  "slug": "algorithmic-art/grid/discretization/pixel-grids",
+  "legacy_path": "AlgorithmicArt/grid/discretization/PixelGrids/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "PixelGrids",
+  "heading": "Pixel Grids",
+  "description": "The image as a grid of points.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Pixel Grids",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Images as discrete grids of colored squares (and some antecedents and variations)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-88-LaParade-s.jpg",
+      "alt": "",
+      "caption": "Georges Seurat: La Parade, 1888",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-88-LaParade-Detail-s.jpg",
+      "alt": "",
+      "caption": "Georges Seurat:\n\nLa Parade, 1888 (Detail)",
+      "width": "154",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-89-EiffelTower-ss.jpg",
+      "alt": "",
+      "caption": "Georges Seurat:\n\nLa Tour Eiffel, 1889",
+      "width": "151",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/30-otto-freundlich-30Composition-s.jpg",
+      "alt": "",
+      "caption": "Otto Freundlich:\n\nComposition,\n\n1930",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/30-otto-freundlich-36-38TheUnityOfLifeAndDeath.jpg",
+      "alt": "",
+      "caption": "Otto Freundlich:\n\nThe Unity of Life and Death,\n\n1936-1938",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73HarmonLincoln-s.jpg",
+      "alt": "",
+      "caption": "Leon Harmon:\n\nAbraham Lincoln,\n\n1973",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-73-Area142.14-s.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski: Area 142.14, Area 142.15, Area 142.17 (1973)",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-RW73Area142.15-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-RW73Area142.17-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/75EdManningBlocpixRlphNderS.jpg",
+      "alt": "",
+      "caption": "Ed Manning: Blocpix:\n\nRalph Nader, 1975",
+      "width": "195",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/76-dali-76_gala_lincoln-s.jpg",
+      "alt": "",
+      "caption": "Salvador Dali: \"Gala Contemplating\nthe Mediterranean Sea which at Twenty Metres Becomes the Portrait\nof Abraham Lincoln,\" 1976",
+      "width": "192",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/78TomGeismarGeometricGrid-s.jpg",
+      "alt": "",
+      "caption": "Tom Geismer:\n\nGeometric Grid,\n\n1978",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-83SelfPortrait-s.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nSelf Portrait, 1983",
+      "width": "176",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-87LucasII-s.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nLucas II, 1987",
+      "width": "207",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-96Maggie.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nMaggie, 1996",
+      "width": "230",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links and references:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Artboy:\nThe History of the Pixel.",
+      "links": [
+        {
+          "text": "The History of the Pixel.",
+          "href": "http://www.ioc.net/%7Eartboy/P/P.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Artboy\n\n\n\nLeon Harmon: \"The Recognition of Faces.\" Scientific\nAmerican, November 1973.",
+      "links": [
+        {
+          "text": "Artboy",
+          "href": "http://www.ioc.net/%7Eartboy/P/beth.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko\nScha: \"Computer/Art/Photography.\"\nPerspektief 37 (1989), pp. 4-10.",
+      "links": [
+        {
+          "text": "\"Computer/Art/Photography.\"",
+          "href": "http://iaaa.nl/rs/photo.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Directly related work:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Halftone\nArt (Lichtenstein, Polke, Jacquet)\n\n\n\n\nASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPhoto\nMosaics (Silvers, Blake)",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/half-tone",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/asciiart",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-88-LaParade-s.jpg",
+      "alt": "",
+      "caption": "Georges Seurat: La Parade, 1888",
+      "legacy_src": "1888-Seurat/88-LaParade-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-88-LaParade-Detail-s.jpg",
+      "alt": "",
+      "caption": "Georges Seurat:\n\nLa Parade, 1888 (Detail)",
+      "legacy_src": "1888-Seurat/88-LaParade-Detail-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/1888-seurat-89-EiffelTower-ss.jpg",
+      "alt": "",
+      "caption": "Georges Seurat:\n\nLa Tour Eiffel, 1889",
+      "legacy_src": "1888-Seurat/89-EiffelTower-ss.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/30-otto-freundlich-30Composition-s.jpg",
+      "alt": "",
+      "caption": "Otto Freundlich:\n\nComposition,\n\n1930",
+      "legacy_src": "30-OttoFreundlich/30Composition-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/30-otto-freundlich-36-38TheUnityOfLifeAndDeath.jpg",
+      "alt": "",
+      "caption": "Otto Freundlich:\n\nThe Unity of Life and Death,\n\n1936-1938",
+      "legacy_src": "30-OttoFreundlich/36-38TheUnityOfLifeAndDeath.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73HarmonLincoln-s.jpg",
+      "alt": "",
+      "caption": "Leon Harmon:\n\nAbraham Lincoln,\n\n1973",
+      "legacy_src": "73HarmonLincoln-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-73-Area142.14-s.jpg",
+      "alt": "",
+      "caption": "Ryszard Winiarski: Area 142.14, Area 142.15, Area 142.17 (1973)",
+      "legacy_src": "73Winiarski/73-Area142.14-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-RW73Area142.15-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "73Winiarski/RW73Area142.15-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/73-winiarski-RW73Area142.17-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "73Winiarski/RW73Area142.17-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/75EdManningBlocpixRlphNderS.jpg",
+      "alt": "",
+      "caption": "Ed Manning: Blocpix:\n\nRalph Nader, 1975",
+      "legacy_src": "75EdManningBlocpixRlphNderS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/76-dali-76_gala_lincoln-s.jpg",
+      "alt": "",
+      "caption": "Salvador Dali: \"Gala Contemplating\nthe Mediterranean Sea which at Twenty Metres Becomes the Portrait\nof Abraham Lincoln,\" 1976",
+      "legacy_src": "76-Dali/76_gala_lincoln-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/78TomGeismarGeometricGrid-s.jpg",
+      "alt": "",
+      "caption": "Tom Geismer:\n\nGeometric Grid,\n\n1978",
+      "legacy_src": "78TomGeismarGeometricGrid-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-83SelfPortrait-s.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nSelf Portrait, 1983",
+      "legacy_src": "83Close/83SelfPortrait-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-87LucasII-s.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nLucas II, 1987",
+      "legacy_src": "83Close/87LucasII-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/pixel-grids/83-close-96Maggie.jpg",
+      "alt": "",
+      "caption": "Chuck Close:\n\nMaggie, 1996",
+      "legacy_src": "83Close/96Maggie.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/discretization/asciiart",
+    "/algorithmic-art/grid/discretization/half-tone",
+    "/algorithmic-art/grid/discretization/photo-mosaic"
+  ]
+}

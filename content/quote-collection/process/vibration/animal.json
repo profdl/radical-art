@@ -1,0 +1,97 @@
+{
+  "slug": "process/vibration/animal",
+  "legacy_path": "process/vibration/animal/index.html",
+  "section": "process",
+  "archetype": "quote-collection",
+  "title": "Animal Art",
+  "heading": "",
+  "description": "Mechanical expressionism by animals: donkeys, monkeys, cats, elephants.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The\nMechanics of Expression:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Donkeys, Humans, Monkeys, Cats and Elephants",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The tradition of animal art goes back to 1910,\nwhen the painting \"Et le soleil se coucha sur l'Adriatique\" by the \"excessivist\" artist Joachim-Raphael Boronali\nfrom Genova was exhibited in the Salon des Indépendants\nin Paris. Boronali was in fact the Parisian donkey Lolo, who made\nthe painting with his tail. (Cf. Warnod, 1910; Weiss, 1994, pp.\n149-151, 304.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "An early instance of purely motoric, uncontrolled\nart by humans is found in Ellsworth Kelly's \"Automatic\nDrawings\" (1950). (Cf. Bois 1999, # 30-32, 44-75.) Arnulf\nRainer's \"Blindzeichnungen\" are another case in point.\n\n\n\nIn the 1960's, abstract expressionist drawings and paintings\nby monkeys were fairly popular (cf. Morris, 1962; Whiten, 1976;\nSchretlen, n.d.). In 1979 Arnulf Rainer in fact tried to mimick\na chimpansee's drawing efforts; he has acknowledged this chimpansee\nas a major influence on his subsequent work. Busch & Silver\n(1994) report extensively on cat art. Recently, the Asian elephant\nhas made an impressive appearance on the scene (Komar et al.,\n2000).\n\n\n\nThe movements of tails, paws and trunks may be compared to the\nmovements of Tinguely's\n\nMéta-matics,\nand they yield similar randomized Lissajous figures. (Schretlen has used the Méta-matic owned by the Amsterdam Stedelijk\nMuseum to simulate monkey drawings.)",
+      "links": [
+        {
+          "text": "Méta-matics",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        },
+        {
+          "text": "Schretlen",
+          "href": "/process/vibration/animal/schretlen",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Assignment\n(Art History students)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Compare\nthe Boronali hoax (organised by the art critic Roland Dorgelès)\nwith Marcel Duchamp's submission for the 1917 Salon of the Society\nof Independent Artists in New York.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Assignment\n(A.I. students)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Write\na program simulating monkey art. Also write simulations of cats,\nelephants, Arnulf Rainer, méta-matics. Discuss\ndifferences and commonalities.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Apart from art created by man the artist, and apart from the\nart in the kingdoms of the minerals and the plants that surround him,\nthere exists in nature an art of animals, of primitive man, of the\nchild.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nikolai Kulbin: \"Garmoniia, i dissonans\ni tesnye sochetaniia v iskusstve i zhizni.\" (\"Harmony, dissonance\nand close combinations in art and life.\") Lecture at the All-Russian\nCongress of Artists, 30 December 1911. In: Trudy Vserossiiskogo\nsezda khudozhnikov v Petrograde, 36.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Yve-Alain Bois: Ellsworth Kelly: The Early Drawings,\n1948-1955. Cambridge, Mass.: Harvard University Art Museums, 1999.\n\n\n\nHeather Busch and Burton Silver: Why Cats Paint; A Theory of\nFeline Aesthetics. Berkeley, CA: Ten Speed Press, 1994.\n\n\n\nVitaly Komar, Alex Melamid and Mia Fineman: When Elephants Paint. Harper & Collins, 2000.\n\n\n\nDesmond Morris: The Biology of Art. London: Methuen & Co., 1962.\n\n\n\nArnulf Rainer: Blindzeichnungen. Köln: Wolfgang Hake Verlag, 1973.\n\n\n\nArnulf Rainer: Nachmalungen. Wien: Galerie Ulysses, 1979.\n\n\n\nArnulf Rainer: \"Nachäffungen\". In: Hirndrang. Salzburg: Galerie Welz, 1980.\n\n\n\nArnulf Rainer: \"Gejammer.\" In: Arnulf Rainer: Bilder 1983 – 1985. München: Galerie Fred Jahn, 1986. (Cf. pp. 11/102.)\n\n\n\nIgnace Schretlen: Over de wortels van de creativiteit. Onderzoek naar krabbels van mensapen en peuters: kunstje of oorsprong van kunst?\n\n\n\nAndré Warnod: \"Un âne chef d'école. Il expose aux \"Indépendants\" un tableau peint avec sa queue. Cet âne, il est vrai, est de Montmartre.\" Le Matin, March 28, 1910, p. 4.\n\n\n\nJeffrey Weiss: The popular culture of modern art. Picasso, Duchamp, and avant-gardism. New Haven and London: Yale University Press, 1994.\n\n\n\nAndrew Whiten: \"Primate perception and aesthetics.\" In: Don Brothwell: Beyond Aesthetics. Investigations into the nature of visual art. London: Thames and Hudson, 1976, pp. 18–40.",
+      "links": [
+        {
+          "text": "Over de wortels van de creativiteit. Onderzoek naar krabbels van mensapen en peuters: kunstje of oorsprong van kunst?",
+          "href": "/process/vibration/animal/schretlen",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/process/vibration/animal/schretlen",
+    "/process/vibration/metamatic"
+  ]
+}

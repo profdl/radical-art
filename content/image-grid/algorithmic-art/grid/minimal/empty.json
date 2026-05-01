@@ -1,0 +1,865 @@
+{
+  "slug": "algorithmic-art/grid/minimal/empty",
+  "legacy_path": "AlgorithmicArt/grid/minimal/Empty/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Empty Grids",
+  "heading": "Empty Grids",
+  "description": "Empty grids in modern painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty Grids",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-18-LozengeWithGreyLines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan:\n\nLozenge with Grey Lines, 1918",
+      "width": "146",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-69-R69-19-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R69-19, 1969",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-72-T72-M1-ss.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: T72-M1, 1972",
+      "width": "192",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/23-IvanKudriashovSuprComp-s.jpg",
+      "alt": "",
+      "caption": "Ivan Kudriashov: Suprematist Composition, 1923",
+      "width": "228",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-hilgemann-Hilgemann73Kubusstructuur-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Kubusstruktuur, 1973",
+      "width": "205",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-26LozW4LinesAndGray-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Lozenge with 4 lines and grey, 1926",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-29FoxTrot-LozCW3BlackLines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Foxtrot – Lozenge composition with 3 black lines,\n1929",
+      "width": "200",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-30-CompNo1-LozWith4lines-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Composition No. 1 – Lozenge with 4 lines, 1930",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-31-LozCompW2Lines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan:\n\nLozenge composition with 2 lines, 1931",
+      "width": "150",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/51KellyUntitled-s.jpg",
+      "alt": "",
+      "caption": "Ellsworth Kelly: Untitled, 1951",
+      "width": "209",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-53-16carres-s.jpg",
+      "alt": "",
+      "caption": "François Morellet: 16 Carrés, 1953",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-Dekkers4Bgrnsde4KnIn4K-s.jpg",
+      "alt": "",
+      "caption": "Ad Dekkers: Begrensde vierkanten in vierkant, 1973",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-77RhythmeDuMillimetre-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours: Rhythme du Millimètre, 1977",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-95-C-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours, 1995",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-95-D-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-manzoni-60Achrome-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni: Achrome, 1960",
+      "width": "184",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT(Faltung)-s.jpg",
+      "alt": "",
+      "caption": "Herbert Zangs: Ohne Titel (Faltung)",
+      "width": "174",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-62-R62-13-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R62-13, 1962",
+      "width": "148",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-63BlancoEnFormaDeCruz.jpg",
+      "alt": "",
+      "caption": "Antoni Tápies: Blanco en Forma de Cruz, 1963",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-65-R65-2-s.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R65-2, 1965",
+      "width": "119",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/68RichterSchattenbild-s.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter: Schattenbild, 1968",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-gottfried-honegger-69Paris.jpg",
+      "alt": "",
+      "caption": "Gottfried Honegger: Paris, 1969",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-70-R70-74-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R70-74, 1970",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-70-R70-9-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R70-9, 1970",
+      "width": "103",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-hilgemann-HilgemannLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Lichtrelief",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74[Grid].jpg",
+      "alt": "",
+      "caption": "Antoni Tápies: Relieve blanco con dibujas y letras, 1974",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-75-reliefInWit.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: Relief in Wit, 1975",
+      "width": "108",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/61-75-JuddUntitled-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1961",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/72-agnes-martin-72Praise-s.jpg",
+      "alt": "",
+      "caption": "Agnes Martin: Praise, 1972",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/72-agnes-martin-73OnAClearDay-s.jpg",
+      "alt": "",
+      "caption": "Agnes Martin: On a Clear Day, 1973",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/83GeneDavisUnt-s.jpg",
+      "alt": "",
+      "caption": "Gene Davis: Untitled, 1983",
+      "width": "230",
+      "height": "179",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-62SphereTrame.jpg",
+      "alt": "",
+      "caption": "François Morellet: Sphère Trame, 1962",
+      "width": "224",
+      "height": "243",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt[3D-Grid]-s.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt: Open Modular Cube",
+      "width": "230",
+      "height": "213",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-66OpenModularCube-s.jpg",
+      "alt": "",
+      "caption": "Sol Lewitt: Open Modular Cube, 1966",
+      "width": "230",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69[huis]-s.jpg",
+      "alt": "",
+      "caption": "Jean-Pierre Raynaud: La Maison, 1969",
+      "width": "194",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/99PenoneRespirareLOmbra-s.jpg",
+      "alt": "",
+      "caption": "Giuseppe Penone: Respirare l'Ombre, 1999",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/78-JCJ--BlueViolet-s.jpg",
+      "alt": "",
+      "caption": "J.C.J. van der Heijden:\n\nBlue Violet, 1978",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-8586RasterbildBlau-Gelb.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher:\n\nRasterbild Blau/Gelb, 1985/1986",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-86-12FelderWeiss.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher:\n\n12 Felder Weiss, 1986",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/86-OswaldOberhuberOT-s.jpg",
+      "alt": "",
+      "caption": "Oswald Oberhuber: Ohne Titel, 1986",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT[grid]-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Ohne Titel, 1994",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/98-BernardFrizeNormale-s.jpg",
+      "alt": "",
+      "caption": "Bernard Frize: Normale, 1998",
+      "width": "159",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-00-Standomi94-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Standomi 94, 2000",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-04-OT-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Ohne Titel, 2004",
+      "width": "230",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-87EspaceZero-s.jpg",
+      "alt": "",
+      "caption": "Jean-Pierre Raynaud: Espace Zéro, 1987",
+      "width": "229",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-91-Permanentschwarz-M.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher: Permanentschwarz, 1991",
+      "width": "321",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/87-FlavinUntitled-s.jpg",
+      "alt": "",
+      "caption": "Dan Flavin: Untitled, 1987",
+      "width": "212",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST[Neon]-s.jpg",
+      "alt": "",
+      "caption": "François Morellet",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Distorted grids",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Christoph Brachmann and Romana Walter: \"Rastersturz.\nInteraktive Auseinandersetzung mit einer Grafik von Georg Nees.\" In: Lutz Dickmann, Lars Fehr, Susanne Grabowski, Philipp Kehl, Frieder\nNake, Romana Walter (eds.):\nDer Bericht zum Projekt macS. (Mediating Art in Computational\nSpaces.) Universität Bremen Medieninformatik (B.Sc.) January\n2004.",
+      "links": [
+        {
+          "text": "Der Bericht zum Projekt macS. (Mediating Art in Computational Spaces.)",
+          "href": "http://laurie.informatik.uni-bremen.de/blog/malte/archives/macS%20Projektbericht.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jochem\nvan der Spek No Noise 2001",
+      "links": [
+        {
+          "text": "Jochem van der Spek",
+          "href": "http://www.xs4all.nl/%7Evdspek/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory: 01 sep 01; 01 oct 23/29; 01 nov 04/06-08; 01 dec\n24; 02 jan 30/31; 02 oct 04; 02 mar 02/12; 02 may 11; 02 sep 12/13.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/base.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Projected grids",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/minimal/empty/mc-donough-mcdonough-grid2-S.jpg",
+      "alt": "",
+      "caption": "Michael McDonough: Grid\nHouse, Boston, MA, 1978.",
+      "width": "150",
+      "height": "214",
+      "links": [
+        {
+          "text": "Grid House,",
+          "href": "http://www.michaelmcdonough.com/Gridhouse/gridhouse.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "To add:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "François Morellet:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"2 trames 0°, 90°\",\n1971.\n\n\"2 doubles trames 30°, 60°\", 1971.\n\n\"1 double trames 0°\", 1973.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "François Morellet: Exhibition\nCatalogue Nationalgalerie Berlin, 1977, pp. 138-144.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Also: Man Ray photos?",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "To add:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Ellsworth Kelly: White Panels\non Green (1950), Bathroom Tiles (1951), Two Yellows (1952), Red\nand White (1952), White and Black (1952)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Yve-Alain Bois: Ellsworth Kelly: The Early Drawings,\n1948-1955. Cambridge, Mass.: Harvard University Art Museums, 1999,\n# 37, 117-121.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"You know, what I wanted was really abstract. Can't be about\nnature, or this world. (Pause.) We have a lot of really abstract\nemotions not caused by anything in this world. You can wake up\nin the morning and you are happy. Extraordinarily happy with no\ntraceable cause. That's an abstract experience. There's a whole\nrange of delicate emotions that nobody pays any attention to.\nI hope when people look at my paintings – and they're just horizontal\nlines – but they do respond to my work. Even though it's so simple,\nthey respond emotionally. And they see that it's happy. And there's\na very delicate emotion called tranquility. When you stop, and\nyou rest, and come to an absolute stop. And that's when tranquility\ntakes over.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Agnes Martin. Interview by Tom Collins: AGNES\nMARTIN REFLECTS ON ART & LIFE. Geronimo 2,\n1 (January 1999)",
+      "links": [
+        {
+          "text": "AGNES MARTIN REFLECTS ON ART & LIFE.",
+          "href": "http://taoswebb.com/geronimo/january99/visualart.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-18-LozengeWithGreyLines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan:\n\nLozenge with Grey Lines, 1918",
+      "legacy_src": "18-mondriaan/18-LozengeWithGreyLines.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-69-R69-19-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R69-19, 1969",
+      "legacy_src": "62-Schoonhoven/69-R69-19-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-72-T72-M1-ss.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: T72-M1, 1972",
+      "legacy_src": "62-Schoonhoven/72-T72-M1-ss.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/23-IvanKudriashovSuprComp-s.jpg",
+      "alt": "",
+      "caption": "Ivan Kudriashov: Suprematist Composition, 1923",
+      "legacy_src": "23-IvanKudriashovSuprComp-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-hilgemann-Hilgemann73Kubusstructuur-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Kubusstruktuur, 1973",
+      "legacy_src": "73Hilgemann/Hilgemann73Kubusstructuur-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-26LozW4LinesAndGray-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Lozenge with 4 lines and grey, 1926",
+      "legacy_src": "18-mondriaan/26LozW4LinesAndGray-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-29FoxTrot-LozCW3BlackLines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Foxtrot – Lozenge composition with 3 black lines,\n1929",
+      "legacy_src": "18-mondriaan/29FoxTrot-LozCW3BlackLines.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-30-CompNo1-LozWith4lines-s.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan: Composition No. 1 – Lozenge with 4 lines, 1930",
+      "legacy_src": "18-mondriaan/30-CompNo1-LozWith4lines-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/18-mondriaan-31-LozCompW2Lines.jpg",
+      "alt": "",
+      "caption": "Piet Mondriaan:\n\nLozenge composition with 2 lines, 1931",
+      "legacy_src": "18-mondriaan/31-LozCompW2Lines.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/51KellyUntitled-s.jpg",
+      "alt": "",
+      "caption": "Ellsworth Kelly: Untitled, 1951",
+      "legacy_src": "51KellyUntitled-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-53-16carres-s.jpg",
+      "alt": "",
+      "caption": "François Morellet: 16 Carrés, 1953",
+      "legacy_src": "53-Morellet/53-16carres-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-Dekkers4Bgrnsde4KnIn4K-s.jpg",
+      "alt": "",
+      "caption": "Ad Dekkers: Begrensde vierkanten in vierkant, 1973",
+      "legacy_src": "73-Dekkers4Bgrnsde4KnIn4K-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-77RhythmeDuMillimetre-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours: Rhythme du Millimètre, 1977",
+      "legacy_src": "77Nemours/77RhythmeDuMillimetre-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-95-C-s.jpg",
+      "alt": "",
+      "caption": "Aurélie Nemours, 1995",
+      "legacy_src": "77Nemours/95-C-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/77-nemours-95-D-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "77Nemours/95-D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-manzoni-60Achrome-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni: Achrome, 1960",
+      "legacy_src": "60-Manzoni/60Achrome-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT(Faltung)-s.jpg",
+      "alt": "",
+      "caption": "Herbert Zangs: Ohne Titel (Faltung)",
+      "legacy_src": "60-Zangs/HerbertZangsOT(Faltung)-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-62-R62-13-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R62-13, 1962",
+      "legacy_src": "62-Schoonhoven/62-R62-13-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-63BlancoEnFormaDeCruz.jpg",
+      "alt": "",
+      "caption": "Antoni Tápies: Blanco en Forma de Cruz, 1963",
+      "legacy_src": "63-Tapies/63BlancoEnFormaDeCruz.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-65-R65-2-s.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R65-2, 1965",
+      "legacy_src": "62-Schoonhoven/65-R65-2-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/68RichterSchattenbild-s.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter: Schattenbild, 1968",
+      "legacy_src": "68RichterSchattenbild-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-gottfried-honegger-69Paris.jpg",
+      "alt": "",
+      "caption": "Gottfried Honegger: Paris, 1969",
+      "legacy_src": "69GottfriedHonegger/69Paris.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-70-R70-74-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R70-74, 1970",
+      "legacy_src": "62-Schoonhoven/70-R70-74-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-70-R70-9-S.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: R70-9, 1970",
+      "legacy_src": "62-Schoonhoven/70-R70-9-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/73-hilgemann-HilgemannLichtrelief-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Lichtrelief",
+      "legacy_src": "73Hilgemann/HilgemannLichtrelief-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74[Grid].jpg",
+      "alt": "",
+      "caption": "Antoni Tápies: Relieve blanco con dibujas y letras, 1974",
+      "legacy_src": "63-Tapies/74%5BGrid%5D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/62-schoonhoven-75-reliefInWit.jpg",
+      "alt": "",
+      "caption": "Jan Schoonhoven: Relief in Wit, 1975",
+      "legacy_src": "62-Schoonhoven/75-reliefInWit.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/61-75-JuddUntitled-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1961",
+      "legacy_src": "61-75-JuddUntitled-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/72-agnes-martin-72Praise-s.jpg",
+      "alt": "",
+      "caption": "Agnes Martin: Praise, 1972",
+      "legacy_src": "72-AgnesMartin/72Praise-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/72-agnes-martin-73OnAClearDay-s.jpg",
+      "alt": "",
+      "caption": "Agnes Martin: On a Clear Day, 1973",
+      "legacy_src": "72-AgnesMartin/73OnAClearDay-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/83GeneDavisUnt-s.jpg",
+      "alt": "",
+      "caption": "Gene Davis: Untitled, 1983",
+      "legacy_src": "83GeneDavisUnt-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-62SphereTrame.jpg",
+      "alt": "",
+      "caption": "François Morellet: Sphère Trame, 1962",
+      "legacy_src": "53-Morellet/62SphereTrame.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt[3D-Grid]-s.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt: Open Modular Cube",
+      "legacy_src": "66-LeWitt/LeWitt%5B3D-Grid%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-66OpenModularCube-s.jpg",
+      "alt": "",
+      "caption": "Sol Lewitt: Open Modular Cube, 1966",
+      "legacy_src": "66-LeWitt/66OpenModularCube-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69[huis]-s.jpg",
+      "alt": "",
+      "caption": "Jean-Pierre Raynaud: La Maison, 1969",
+      "legacy_src": "69-Raynaud/69%5Bhuis%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/99PenoneRespirareLOmbra-s.jpg",
+      "alt": "",
+      "caption": "Giuseppe Penone: Respirare l'Ombre, 1999",
+      "legacy_src": "99PenoneRespirareLOmbra-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/78-JCJ--BlueViolet-s.jpg",
+      "alt": "",
+      "caption": "J.C.J. van der Heijden:\n\nBlue Violet, 1978",
+      "legacy_src": "78-JCJ--BlueViolet-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-8586RasterbildBlau-Gelb.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher:\n\nRasterbild Blau/Gelb, 1985/1986",
+      "legacy_src": "8586MargareteDreher/8586RasterbildBlau-Gelb.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-86-12FelderWeiss.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher:\n\n12 Felder Weiss, 1986",
+      "legacy_src": "8586MargareteDreher/86-12FelderWeiss.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/86-OswaldOberhuberOT-s.jpg",
+      "alt": "",
+      "caption": "Oswald Oberhuber: Ohne Titel, 1986",
+      "legacy_src": "86-OswaldOberhuberOT-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT[grid]-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Ohne Titel, 1994",
+      "legacy_src": "94-Foerg/94-OT%5Bgrid%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/98-BernardFrizeNormale-s.jpg",
+      "alt": "",
+      "caption": "Bernard Frize: Normale, 1998",
+      "legacy_src": "98-BernardFrizeNormale-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-00-Standomi94-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Standomi 94, 2000",
+      "legacy_src": "94-Foerg/00-Standomi94-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-04-OT-s.jpg",
+      "alt": "",
+      "caption": "Gunther Förg: Ohne Titel, 2004",
+      "legacy_src": "94-Foerg/04-OT-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-87EspaceZero-s.jpg",
+      "alt": "",
+      "caption": "Jean-Pierre Raynaud: Espace Zéro, 1987",
+      "legacy_src": "69-Raynaud/87EspaceZero-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/8586-margarete-dreher-91-Permanentschwarz-M.jpg",
+      "alt": "",
+      "caption": "Margarete Dreher: Permanentschwarz, 1991",
+      "legacy_src": "8586MargareteDreher/91-Permanentschwarz-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/87-FlavinUntitled-s.jpg",
+      "alt": "",
+      "caption": "Dan Flavin: Untitled, 1987",
+      "legacy_src": "87-FlavinUntitled-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST[Neon]-s.jpg",
+      "alt": "",
+      "caption": "François Morellet",
+      "legacy_src": "53-Morellet/ST%5BNeon%5D-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/minimal/empty/mc-donough-mcdonough-grid2-S.jpg",
+      "alt": "",
+      "caption": "Michael McDonough: Grid\nHouse, Boston, MA, 1978.",
+      "legacy_src": "McDonough/mcdonough-grid2-S.jpg"
+    }
+  ],
+  "out_links": []
+}

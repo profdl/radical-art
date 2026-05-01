@@ -1,0 +1,186 @@
+{
+  "slug": "algorithmic-art/chance/qchance-art",
+  "legacy_path": "AlgorithmicArt/chance/QChanceArt.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Quotes about Chance Art",
+  "heading": "Quotes about Chance Art",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Quotes about Chance Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "For first\nyou write a sentence,\n\nAnd then you chop it small;\n\nThen mix the bits and sort them out\n\nJust as they chance to fall:\n\nThe order of the phrases\n\nmakes no difference at all.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lewis Carroll: \"Poeta fit, non nascitur.\" In: Rhyme? and Reason? London: Macmillan, 1883.\n\nReprinted in: The\nworks of Lewis Carroll (Teltham/Middlesex, 1965), p. 804.",
+      "links": [
+        {
+          "text": "\"Poeta fit, non nascitur.",
+          "href": "http://rpo.library.utoronto.ca/poem/440.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[N.B.: This quote is a small fragment from a fairly long poem. If you read the complete poem, it turns out that the random permutation procedure is merely one of several steps in a more complex method for poetry writing.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour faire un poème dadaïste",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Prenez un journal.\n\nPrenez des ciseaux.\n\nChoisissez dans le journal un article ayant la longeur que vous comptez donner à votre poème.\n\nDécoupez l'article.\n\nDécoupez ensuite avec soin chacun des mots qui forment cet article et mettez-les dans un sac.\n\nAgitez doucement.\n\nSortez ensuite chaque coupière l'une après l'autre.\n\nCopiez consciencieusement dans l'ordre où elles ont quitté le sac.\n\nLe poème vous ressemblera.\n\nEt vous voilà un écrivain infiniment original et d'une sensibilité charmante, encore qu'incomprise du vulgaire.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tristan Tzara: Part VIII of \"Dada manifeste sur l'amour faible et l'amour amer\",\n\nLa Vie des Lettres, 4 (April 1921), 434-443.\nReprinted in: Oeuvres complètes, Vol.1. Paris,\n1975, p. 382.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij wezen\nallles wat kopie of beschrijving was af en lieten het elementaire\nen het spontane in volle vrijheid reageren. Omdat de plaatsing\nvan de vlakken en de kleuren en de verhoudingen van deze vlakken\nlouter op toeval schenen te berusten, verklaarde ik dat deze werken,\nzoals in de natuur, gerangschikt waren \"volgens de wetten van\nhet toeval\", toeval dat voor mij alleen maar een beperkt onderdeel\nvormde van een onpeilbare reden van bestaan, van een orde die\nin zijn totaliteit ontoegankelijk was.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Arp: On my way. (1948).\n[Dutch translation from: Hoos Blotkamp: \"Dada en Toeval\" Tentoonstellingscatalogus Toeval (RUU,\n1972), p. bk.III.6.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to produce some likeness\nto the unpredictable element in human behaviour, he considered\nthe introduction of a roulette wheel into a computing machine.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sara Turing about Alan Turing [ca. 1950]. In:\nSara Turing: Alan M. Turing. W. Heffer & Sons,\n1959.\n\n[Second Edition: Cambridge University Press, 2012, p. 96.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "There is, however, one feature\nthat I would like to suggest should be incorporated in the\nmachines, and that is a 'random element.' Each machine should\nbe supplied with a tape bearing a random series of figures,\ne.g., 0 and 1 in equal quantities, and this series of figures\nshould be used in the choices made by the machine. This would\nresult in the behaviour of the machine not being by any means\ncompletely determined by\nthe experiences to which it was subjected, and would have\nsome valuable uses when one was experimenting with it.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alan M. Turing: \"Intelligent Machinery,\nA Heretical Theory.\" (Notes for a lecture, 1947.) In: Sara\nTuring: Alan M. Turing. W. Heffer & Sons, 1959.\n[Second Edition: Cambridge University Press, 2012 (pp. 128-132).\nQuote from pp. 131/132]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[. . .] daß die Einbeziehung\nvon Zufallsoperationen nur eine schwache Simulation der intuitiv\nassozierenden und analogisierenden Komponente des induktiven\nDenkens im weiteren Sinne darstellt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "H. Stachowiak: Denken und Erkennen im kybernetischen\nModell. (Vienna/New York: Springer Verlag, 1965), p. 87.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das immer\ngegenwärtige Zufallselement im künstlerischen Erzeugungsprozeß\nerfaßt die generative Graphik modellmäßig durch\nden Einbau von Zufallsgeneratoren in die Programme. [. . .] Die\nZufallsgeneratoren beteiligen sich an der Strukturierung der generierten\nInformation, schaffen dabei unvorhersehbar Neues und erweisen\nsich dadurch als die zweite schöpferische Instanz neben dem\nProgrammierer . . .",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Georg Nees: Generative Computergraphik (Berlin/Munich:\nSiemens AG, 1969), p. 49.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The work of art which is the result of random choice does not have any meaning and there is no key to decipher it. Though such a work of art may be esthetically relevant, the spontaneous associations of the observer have no connexion with the author. The observer may attach meaning to the work on the basis of his own imagination, but this meaning would not be inherent in the work of art itself. We could go one step further and assert that there is no link between the author and the work of art if the medium, the method of creating and the content have been chosen at random.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vladimir Bonacic: \"Umjetnost kao funkcija subjekta, spoznaje i vremena.\" (\"Art as function of subject, cognition and time.\") In: Boris Kelemen & Radoslav Putar: Dijalog sa Strojem / Dialog with the Machine. Zagreb: Galerije Grada Zagreba, 1971, p. 140.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Computer art, by its very nature, is part of a \"generative aesthetics\" (Max Bense). We have a speedy random number generator, but we do not have random art. Many definite design decisions are included, whether the programmer is aware of them or not, such as the choice of only horizontal and vertical lines, the dominant directions of our rectangular society; or the limitations of the frame size. These and other constraints impose the unity, the overall or global structure (the \"macro-aesthetics\" in the terminology of Information Aesthics). Were we to repeat the the experiment any number of times, we get a large number of variations – some more interesting than others – but the overall structure remains recognizably the same. The program embodies the generating rules, the algorithm, which, due to the use of random choice, are capable of producing a nearly infinitely large universe of similar pictures. The creativity is in the choice of production rules, of the program, not in the grindiing out of the variations (which, in terms of Information Aesthetics, render the \"micro-aesthetics\" of a picture).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Admittedly, the program may be complex enough so that its creator cannot foretell the kind of pictures it can produce, but after a few are realized on a plotted output, this uncertainty – due really only to unfamiliarity with the medium – disappears.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Leslie Mezei: \"Randomness in Computer Graphics.\" In: Boris Kelemen & Radoslav Putar: Dijalog sa Strojem / Dialog with the Machine. Zagreb: Galerije Grada Zagreba, 1971, pp 87/88.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir haben\nerkannt, daß Intuition jene Gabe, Fähigkeit, Technik\ndes Künstlers ist, die es ihm erlaubt, im Rahmen einer \"inneren\nNotwendigkeit\" freie Entscheidungen zu treffen. Wir haben weiter\ngesehen, daß Zufallsgrößen es uns erlauben, aus\nvorgegebenen Möglichkeiten eine bestimmte mit vorgeschriebener\nWahrscheinlichkeit auszuwahlen. Danach sollte es unmittelbar einleuchten,\ndaß man zumindest in einem ersten operationalen Modell die\nIntuition durch eine endliche Menge von Zufallsvariabelen beschreiben\nkann. [. . . ] Um Mißverständnissen vorzubeugen, muß betont werden, das Intuition und Zufall nicht etwa gleichgesetzt\nwerden. Was vielmehr getan wird, ist etwas von dem Unbestimmten\nund Unbekannten der Intuition zu erfassen, die Intuition aber\ngleichzeitig definierbar und damit kontrollierbar zu machen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[...] Ich bin kein anhänger der Behauptung, daß Maschinen kreativ seien. Jederman, der dies sein sollte, muß jedoch beschreiben, woher die Intuition der Maschinen für eine Kreation kommt. Ich vermute, daß Zufallsgeneratoren dabei eine wichtige Rolle spielen müssen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik als Informationsverarbeitung.\nVienna/New York: Springer Verlag,\n1974, p. 53.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y a-t-il\nplus belle parodie de l'éthique de la valeur que de se\nsoumettre avec toute l'intransigeance de la vertu aux données\ndu hasard ou à l'absurdité d'une règle?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Baudrillard: De la Séduction. Paris: Galilée, 1979, p. 204.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[. . .] le\nreadymade, c'est n'importe quoi. Ou encore: le readymade est\nabsolument quelconque. C'est mon droit démocratique\nde juger en profane qui m'autorise à dire que, malgré leur\nqualités\n- ou leur absence de qualités - plastiques, le sèche-bouteilles,\nl'urinoir ou la pelle à neige sont des objets quelconques.\nMais, direz-vous, rien ne m'autorise à les juger absolument\nquelconques. En effet, rien ne m'y autorise. Mais tout m'y\noblige. Duchamp ayant anticipé l'auteur du readymade\ndans la position du regardeur profane qui juge que l'art\nmoderne, au moins depuis le dadaïsme, c'est n'importe\nquoi, oblige en retour ce regardeur, surtout s'il est \"expert\", à se\nprojeter rétrospectivement\ndans la position même de cet auteur et à se soumettre\nà la même loi que lui. C'est la loi de la modernité et\nelle ne dit qu'une chose: fais n'importe quoi.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La loi\nne fait pas qu'interdire, elle oblige. J' appelle donc moderne\nl'artiste dont le devoir est (était, fut, a été?)\nde faire n'importe quoi. C'est un devoir et non un droit. C'est\nun commendement que l'artiste moderne reçoit et non une\nautorisation qu'il se donne. Comme tel, ce n'est même pas\nune loi au sens ordinaire ou juridique. La phrase \"fais n'importe\nquoi\" n'énonce pas une règle à laquelle des\ncas peuvent être soumis, elle prescrit au contraire d'agir\nsans règle.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thierry de Duve: Au nom de l'art. Pour\nune archéologie de la modernité.\n\nParis:\nLes Éditions de Minuit, 1989, p. 118-119.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "i've been\npuzzling through the idea of chance operations and intentional\nwork and intentionless work and i have a cluster of questions\nabout that it seems that there's some combination of chance and\nchoice in your and you take out the words you don't like and so\non it seems that it's not possible to do anything but by a chance\noperation if somebody had given the most formal lecture on musicology\nin the world that would still be a chance operation because that\nperson would have had very contingent experiences and influences\nand tastes and values and so on everything seems to be a chance\noperation you seem to think that what you're doing is a chance\noperation in a different way you say i'm doing it by chance operation\nas if there's something else and you also seem to be doing it\nintentionally which raises another paradox you're intentionally\ndoing something by chance if you're intentionally doing it it\nseems to be a choice so it's not by chance and you have a very\nelaborate structure to construct your lectures and some of your\nmusic so it seems on the one hand that it can't fail to be by\nchance and on the other hand it can't succeed because when people\ncome to hear you they come to hear john cage when did you decide\nto become john cage or whatever people come and they say i'm going\nto hear john cage i'm going to hear something you know way out\nor avant garde or this that and the other thing so it's not by\nchance (. . .) why not read a phone book or why not invite someone\nelse from the audience to get up and say whatever they like i\nmean how do you go about deciding what",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Audience question after a lecture by John Cage.\nIn: John Cage: I-VI, 1990, pp. 141-151.\n\n(The Charles Eliot Norton\nLectures, given at Harvard University in 1988/1989.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2003",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

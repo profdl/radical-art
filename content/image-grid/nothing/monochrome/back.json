@@ -1,0 +1,190 @@
+{
+  "slug": "nothing/monochrome/back",
+  "legacy_path": "nothing/monochrome/back/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Canvas Back",
+  "heading": "",
+  "description": "The back of the canvas.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "the\nback of the canvas",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/CornelisGijsbrechtsCa1670-S.jpg",
+      "alt": "",
+      "caption": "Cornelis Gijsbrechts,\n\nca. 1670",
+      "width": "242",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/68StretcherFrameWVertBars.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein:\n\nStretcher Frame with Vertical Bars, 1968",
+      "width": "365",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/gnoli69VedutaPosteriore.jpg",
+      "alt": "",
+      "caption": "Domenico Gnoli:\n\nVeduta Posteriori, 1969",
+      "width": "200",
+      "height": "279",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/2003MorrisCanvasBack.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nCanvas Back, 2003",
+      "width": "283",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/Ben62ToileRetournee-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "162",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier:\n\nToile Retournée, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/ClaudeRutaul94CanvasBack.jpg",
+      "alt": "",
+      "caption": "Claude Rutault:\n\nToile contre le mur (d/m 254), 1994",
+      "width": "246",
+      "height": "252",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/GiulioPaoliniMnemosine-S.jpg",
+      "alt": "",
+      "caption": "Giulio Paolini: Mnemosyne",
+      "width": "243",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/84ClaudeRUTAULTdm126bis-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Claude Rutault:\n\nd/m 126 bis, 1984",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/99-AnneKoskinen-Sculptures-s.jpg",
+      "alt": "",
+      "caption": "Anne Koskinen: Sculptures, 1999",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More\nStretcher Frames by Roy Lichtenstein",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/back/lichtenstein",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Related theme: empty frames",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/frames",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/back/CornelisGijsbrechtsCa1670-S.jpg",
+      "alt": "",
+      "caption": "Cornelis Gijsbrechts,\n\nca. 1670",
+      "legacy_src": "CornelisGijsbrechtsCa1670-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/68StretcherFrameWVertBars.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein:\n\nStretcher Frame with Vertical Bars, 1968",
+      "legacy_src": "68StretcherFrameWVertBars.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/gnoli69VedutaPosteriore.jpg",
+      "alt": "",
+      "caption": "Domenico Gnoli:\n\nVeduta Posteriori, 1969",
+      "legacy_src": "gnoli69VedutaPosteriore.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/2003MorrisCanvasBack.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nCanvas Back, 2003",
+      "legacy_src": "2003MorrisCanvasBack.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/Ben62ToileRetournee-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben62ToileRetournee-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/ClaudeRutaul94CanvasBack.jpg",
+      "alt": "",
+      "caption": "Claude Rutault:\n\nToile contre le mur (d/m 254), 1994",
+      "legacy_src": "ClaudeRutaul94CanvasBack.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/GiulioPaoliniMnemosine-S.jpg",
+      "alt": "",
+      "caption": "Giulio Paolini: Mnemosyne",
+      "legacy_src": "GiulioPaoliniMnemosine-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/84ClaudeRUTAULTdm126bis-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "84ClaudeRUTAULTdm126bis-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/99-AnneKoskinen-Sculptures-s.jpg",
+      "alt": "",
+      "caption": "Anne Koskinen: Sculptures, 1999",
+      "legacy_src": "99-AnneKoskinen-Sculptures-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/monochrome/back/lichtenstein",
+    "/nothing/space/frames"
+  ]
+}

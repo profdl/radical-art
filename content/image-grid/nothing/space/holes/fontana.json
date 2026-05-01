@@ -1,0 +1,156 @@
+{
+  "slug": "nothing/space/holes/fontana",
+  "legacy_path": "nothing/space/holes/Fontana/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes / Lucio Fontana",
+  "heading": "Holes by Lucio Fontana",
+  "description": "Holes by Lucio Fontana. (Sculpture and paintings.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holes by Lucio Fontana",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/55Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1955",
+      "width": "146",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/59ConcettoSpaziale-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1960",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/59-60CSNatura-B-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale – Natura, 1959/1960",
+      "width": "214",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/59-60CSNatura-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/59-60CS-Natura-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/62ConcSpaz-S.gif",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/65-66CS-O2-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1965/1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/Fontana65-66-CS-s.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1965/1966",
+      "width": "204",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/fontana/68CS-a-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1968",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/fontana/55Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1955",
+      "legacy_src": "55Untitled-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/59ConcettoSpaziale-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1960",
+      "legacy_src": "59ConcettoSpaziale-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/59-60CSNatura-B-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale – Natura, 1959/1960",
+      "legacy_src": "59-60CSNatura-B-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/59-60CSNatura-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59-60CSNatura-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/59-60CS-Natura-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59-60CS-Natura-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/62ConcSpaz-S.gif",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1962",
+      "legacy_src": "62ConcSpaz-S.gif"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/65-66CS-O2-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1965/1966",
+      "legacy_src": "65-66CS-O2-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/Fontana65-66-CS-s.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1965/1966",
+      "legacy_src": "Fontana65-66-CS-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/fontana/68CS-a-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spaziale, 1968",
+      "legacy_src": "68CS-a-S.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "things/art-copied/bidlo",
+  "legacy_path": "things/art-copied/bidlo/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Bidlo",
+  "heading": "Mike Bidlo's Copy Art",
+  "description": "Mike Bidlo's Copy Art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: copy\nart readymades radical\nart",
+      "links": [
+        {
+          "text": "copy art",
+          "href": "/things/art-copied",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Mike Bidlo's Copy Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/83BidloNotPollock-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Pollock, 1983",
+      "width": "336",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/BidloPollock2-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Pollock",
+      "width": "233",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/84bidlo_NotPicasso-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Picasso, 1984",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/86bidlo_Not_Picasso-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Picasso, 1986",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/BidloNotMagritte-S.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Magritte",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/89Bidlo_NotWarhol-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Warhol, 1989",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/91BidloNotWarhol-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Warhol, 1991",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/bidlo/bidlo-studio-S.jpg",
+      "alt": "",
+      "caption": "Mike Bidlo's studio, with copies of works by Man Ray,\n\nMarcel Duchamp, Giorgio de Chirico,\nHenri\nMatisse, Fernand Léger,\n\nRoy Lichtenstein, Pablo Picasso, and Andy Warhol.",
+      "width": "327",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/bidlo/83BidloNotPollock-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Pollock, 1983",
+      "legacy_src": "83BidloNotPollock-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/BidloPollock2-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Pollock",
+      "legacy_src": "BidloPollock2-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/84bidlo_NotPicasso-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Picasso, 1984",
+      "legacy_src": "84bidlo_NotPicasso-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/86bidlo_Not_Picasso-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Picasso, 1986",
+      "legacy_src": "86bidlo_Not_Picasso-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/BidloNotMagritte-S.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Magritte",
+      "legacy_src": "BidloNotMagritte-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/89Bidlo_NotWarhol-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Warhol, 1989",
+      "legacy_src": "89Bidlo_NotWarhol-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/91BidloNotWarhol-s.jpg",
+      "alt": "",
+      "caption": "Bidlo Not Warhol, 1991",
+      "legacy_src": "91BidloNotWarhol-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/bidlo/bidlo-studio-S.jpg",
+      "alt": "",
+      "caption": "Mike Bidlo's studio, with copies of works by Man Ray,\n\nMarcel Duchamp, Giorgio de Chirico,\nHenri\nMatisse, Fernand Léger,\n\nRoy Lichtenstein, Pablo Picasso, and Andy Warhol.",
+      "legacy_src": "bidlo-studio-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied"
+  ]
+}

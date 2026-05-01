@@ -1,0 +1,182 @@
+{
+  "slug": "anything/open-form/diysculpture",
+  "legacy_path": "anything/OpenForm/DIYSculpture.html",
+  "section": "anything",
+  "archetype": "image-grid",
+  "title": "Do It Yourself Sculpture",
+  "heading": "",
+  "description": "Open Form: Do It Yourself Sculpture",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Open Form: Do It Yourself Sculpture",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[pieces intended to be constructed or rearranged at will\nby the spectator, the collector, or the curator]",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "John McHale:\n\n\n\nConstruction kits for building small\n\nconstructivist sculptures (ca. 1954).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/john-mc-hale-JohnMcHale1954ConstrKit-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "127",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/john-mc-hale-JohnMcHale1954ConstrKit-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "148",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bruno Munari:\n\n\n\nStruttura Continua, 1958 (16 elements);\n\n\n\nStruttura Continua, 1961 (8 elements).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Munari1958-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/MunariStrutturaContinua61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "214",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Tinguely-MAT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "128",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean\nTinguely:\n\n\n\nUndetermined Constant, 1960.\n\n\n\n[Rotating clamp. Arbitrary objects can be attached.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Tinguely60MAT-009s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Tinguely60MAT-010s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "143",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicolas Schöffer:\n\n\n\nLux 14, 1974.\n\n\n\n(Sculpture à Éléments Combinables.)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Schoffer74-lux14sec-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "95",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diysculpture/Schoffer74Lux14(SEC)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "143",
+      "height": "196",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/open-form/diysculpture/john-mc-hale-JohnMcHale1954ConstrKit-1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JohnMcHale/JohnMcHale1954ConstrKit-1-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/john-mc-hale-JohnMcHale1954ConstrKit-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JohnMcHale/JohnMcHale1954ConstrKit-2-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Munari1958-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Munari1958-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/MunariStrutturaContinua61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MunariStrutturaContinua61-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Tinguely-MAT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Tinguely-MAT-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Tinguely60MAT-009s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Tinguely60MAT-009s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Tinguely60MAT-010s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Tinguely60MAT-010s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Schoffer74-lux14sec-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Schoffer74-lux14sec-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diysculpture/Schoffer74Lux14(SEC)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Schoffer74Lux14(SEC)-S.jpg"
+    }
+  ],
+  "out_links": []
+}

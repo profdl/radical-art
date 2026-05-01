@@ -1,0 +1,92 @@
+{
+  "slug": "kinetics/gravity/roll",
+  "legacy_path": "kinetics/gravity/roll/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Roll",
+  "heading": "to roll",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to roll",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "[experiments with rolling balls]",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/roll/GiuseppeBezzuoli-1841-s.jpg",
+      "alt": "",
+      "caption": "Galilieo's experiments with balls rolling down an inclined plane\n(early 17th century).",
+      "width": "399",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Painting by Giuseppe Bezzuoli, 1841.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/roll/VanMusschenbroek[Launch]-s.jpg",
+      "alt": "",
+      "caption": "Demo-device by Jan van Musschenbroek (early 18th century).",
+      "width": "343",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A ball released on the top of the slope on the right will\nroll down and be launched into a parabolic flight trajectory through\nfour brass rings mounted on the left.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Item kept in the Boerhaave Museum, Leyden. Described\nin: Willem Jacob 's Gravesande: Physices\nelementa mathematica, experimentis confirmata, sive introductio ad\nphilosophiam Newtonianam. Leyden, 1720–1721.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/roll/TomShannon1988-BellBall-C.jpg",
+      "alt": "",
+      "caption": "Tom Shannon: Bell Ball (Trajectory Series), 1988.",
+      "width": "370",
+      "height": "217",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic painting: Tossed wet paint ball rolls and bounces on inclined\nplane.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/roll/GiuseppeBezzuoli-1841-s.jpg",
+      "alt": "",
+      "caption": "Galilieo's experiments with balls rolling down an inclined plane\n(early 17th century).",
+      "legacy_src": "GiuseppeBezzuoli-1841-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/roll/VanMusschenbroek[Launch]-s.jpg",
+      "alt": "",
+      "caption": "Demo-device by Jan van Musschenbroek (early 18th century).",
+      "legacy_src": "VanMusschenbroek%5BLaunch%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/roll/TomShannon1988-BellBall-C.jpg",
+      "alt": "",
+      "caption": "Tom Shannon: Bell Ball (Trajectory Series), 1988.",
+      "legacy_src": "TomShannon1988-BellBall-C.jpg"
+    }
+  ],
+  "out_links": []
+}

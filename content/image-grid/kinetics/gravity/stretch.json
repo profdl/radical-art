@@ -1,0 +1,102 @@
+{
+  "slug": "kinetics/gravity/stretch",
+  "legacy_path": "kinetics/gravity/stretch/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Stretch",
+  "heading": "to stretch",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to stretch",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stretch/1918-DuchampSculptDeVoyage.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "210",
+      "height": "313",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp:\n\nSculpture de Voyage, 1918",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stretch/1962-Rosenquist-Bedspring-s.jpg",
+      "alt": "",
+      "caption": "James Rosenquist:\n\nBedspring, 1962",
+      "width": "256",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stretch/1969-bill-bollinger-1969-RopePiece[[Hor)-M.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Rope Piece, 1969",
+      "width": "375",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stretch/1969-bill-bollinger-[RopePiece-vert]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "145",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Duchamp re Sculpture de Voyage:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"C'étaient des\nmorceaux de bonnets de bain, en caoutchouc, que je découpais,\nque je collais ensemble, qui n'avaient aucune forme spéciale.\nAu bout de chaque morceau, il y avait une ficelle qu'on attachait\naux quatre coins de la pièce; on pouvait varier la longueur\ndes ficelles, la forme était ad libitum, c'était ça\nqui m'intéressait.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Pierre Cabanne: Entretiens avec Marcel Duchamp. Belfond,\n1967.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stretch/1918-DuchampSculptDeVoyage.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1918-DuchampSculptDeVoyage.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stretch/1962-Rosenquist-Bedspring-s.jpg",
+      "alt": "",
+      "caption": "James Rosenquist:\n\nBedspring, 1962",
+      "legacy_src": "1962-Rosenquist-Bedspring-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stretch/1969-bill-bollinger-1969-RopePiece[[Hor)-M.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Rope Piece, 1969",
+      "legacy_src": "1969-BillBollinger/1969-RopePiece%5B%5BHor)-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stretch/1969-bill-bollinger-[RopePiece-vert]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1969-BillBollinger/%5BRopePiece-vert%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

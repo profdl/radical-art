@@ -1,0 +1,262 @@
+{
+  "slug": "algorithmic-art/chance/chance",
+  "legacy_path": "AlgorithmicArt/chance/chance.html",
+  "section": "AlgorithmicArt",
+  "archetype": "quote-collection",
+  "title": "Chance",
+  "heading": "",
+  "description": "Chance",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Chance (What\nis it? Does it exist? Can we fake it?)",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Is it possible to design conceptually definite processes with unpredictable\noutcomes? Can indeterminacy be implemented without invoking \"nature\",\nand without shifting artistic decisions to curators, performing artists,\nor the public itself? The obvious answer to this challenge is the\nuse of chance procedures – a method that may\nbe summarized as follows: (1) define a space of possibilities in explicit,\nmathematical terms; (2) define a probability distribution over this\nspace; (3) draw random samples from the space, in accordance with\nthe probability distribution.\n\n\n\nThis probabilistic art generation strategy highlights one artistic\nproblem with relentless clarity: How to define the space of possible\noutcomes (and the concomitant probability distribution)? This problem\nis discussed in our page on chance art. The strategy also raises some slightly esoteric philosophical/physical\nquestions: What is chance, and does it exist?\nFor the practice of chance art, the answers to these questions are\nlargely immaterial, but for an appreciation of its conceptual dimensions,\nthey are indispensible.",
+      "links": [
+        {
+          "text": "chance art",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "What is chance?",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The common-sense notion of chance refers to real-life\nunpredictability. (William Wollaston, 1722: \"Chance seems to\nbe only a term, by which we express our ignorance of the cause of\nany thing.\") For predictions\nabout an ongoing sequence of events that must be based on observations\nof an initial segment, a mathematical correlary of unpredictability\ncan be developed: unpredictablity = the absence of regularity = the\nimpossibility of a gambling strategy. This analysis was first proposed\nby Richard von Mises in 1919. It was perfected by Abraham Wald (1936/1937)\nand Alonzo Church (1940), criticized by Ville (1939), and saved by\nPer Martin-Löf (1966).\n\n\n\n\nA different perspective on this matter, based on Shannon's\ninformation theory, is due\nto Andrey Kolmogorov, who focussed directly on the absence of regularities\nin initial segments of a random sequence. Since any regularity\nin a sequence allows it to be encoded in a more efficient way, randomness\nmay be equated with incompressibility.\nThis idea was further developed\nby Gregory Chaitin. (Cf. Li & Vitanyi, 1993; Calude, 1994; Chaitin,\n2001.)\n\n\n\nRandomness implies various kinds of statistical uniformity –\nand for many practical purposes, that is all one needs from a \"random\" sequence. Effective criteria for statistical uniformity were first\nproposed by Kermack & McKendrick (1936/1937)\nand Kendall & Babington Smith (1938).\nSee Meyer (1956) for a bibliography of early work in this area. The\ncurrent state of the art is the Diehard test-suite (cf. Marsaglia & Tsang, 2002).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Does it exist?",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Unpredictability is often operationalized through uncontrolled physical\nprocesses, such as casting dice, tossing coins, and spinning the roulette\nwheel. For practical purposes, this works fine. We know, however,\nthat events of this sort can in principle be predicted, by\nmeasuring initial conditions and applying the laws of classical mechanics.\nFor roulette wheels this is even practically feasible (Bass, 1985).\nBut prediction becomes increasingly difficult if we look at modern\ndevices for random number generation, which generate fast bit streams\nfrom small-scale physical phenomena such as thermal noise (electric\npotential fluctuations in conducting materials) or atmospheric radio\nnoise (cf. random.org).",
+      "links": [
+        {
+          "text": "random.org",
+          "href": "http://random.org/essay.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical measurements at the quantum\nlevel are not predicted by any known theory; they are thus \"random\" in an unusually strong sense of that word. It is sometimes asserted\nthat they are absolutely random, i.e., that we know that no\nconceivable deterministic theory could predict their outcomes. Von\nNeumann (1932) presented a formal proof to this effect, which was,\nhowever, based on an incorrect assumption (cf. Hermann, 1935; Bell,\n1966). In the meantime, there is experimental evidence about the reality\nof quantum-entanglement, which implies that quantum-measurements cannot\nbe accounted for by local hidden variables. HotBits\nis an online source of random numbers which uses quantum effects:\nradioactive decay.",
+      "links": [
+        {
+          "text": "HotBits",
+          "href": "http://www.fourmilab.ch/hotbits/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Can we fake it?",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "An old challenge in computer\nscience: can a deterministic computer be programmed to yield number\nsequences which are \"random\" in the mathematical sense of\nthat word? In the strict sense demanded by Von Mises and Kolmogorov,\nthis is obviously out of the question: the generating algorithm defines\nboth a perfect gambling strategy and an extremely efficient compressed\ncode. (John von Neumann, 1951: \"Anyone who considers arithmetical\nmethods of producing random digits is, of course, in a state of sin.\") Mere\nstatistical uniformity, on the other hand, is a difficult but not\nimpossible challenge. Divisions between large incommensurable numbers\noften yield sequences with reasonable statistical properties (Knuth,\n1969). Several other methods have been developed over the years; see\nCoddington (1996) for an overview. The current state of the art is\nthe \"Mersenne Twister\" (Matsumoto & Nishimura, 1998).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "General",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas A. Bass: The Eudaemonic Pie. Houghton-Mifflin,\nNew York, 1985.\n\n\n\nJorge Luis Borges: The\nLottery in Babylon. In: El Jard'n de senderos que se bifurcan,\n1941.\n\n\n\nJ. Piaget & B. Inhelder: La Genèse de l'Idée\nde Hasard chez l'Enfant (Paris: PUF, 1951).\n\n\n\nLuke Rhinehart: The Dice Man, 1971.\n\n\n\nWilliam Wollaston: The Religion of Nature Delineated. (1722), V. 83.",
+      "links": [
+        {
+          "text": "The Lottery in Babylon",
+          "href": "http://www.hfac.uh.edu/mcl/faculty/armstrong/cityofdreams/texts/babylon.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Characterizing Randomness: Complexity\nTheory",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cristian Calude:\nInformation and Randomness. An Algorithmic Perspective.\nBerlin: Springer-Verlag, 1994.\n\n\n\nGregory J. Chaitin: Exploring Randomness. London: Springer-Verlag,\n2001.\n\n\n\nAlonzo Church: \"On the concept of a random sequence.\"\nBulletin of the American Mathematical Society 46\n(1940), pp. 130-135.\n\n\n\nMing Li & Paul Vitányi: An Introduction into Kolmogorov\nComplexity and its Applications. New York: Springer-Verlag,\n1993.\n\n\n\nP. Martin-Löf: \"The definition of random sequences.\"\nInformation and Control 9 (1966), pp. 602-619\n\n\n\nRichard von Mises: \"Fundamentalsätze der Wahrscheinlichkeitsrechnung.\"\nMathematische Zeitschrift 4 (1919), p. 1.\n\n\n\nRichard von Mises: \"Grundlagen der Wahrscheinlichkeitsrechnung.\"\nMathematische Zeitschrift 5 (1919), p. 52.\n\n\n\nJ. Ville: Étude Critique de la Notion de Collectif.\nGauthier-Villars, 1939.\n\n\n\nAbraham Wald: \"Sur la notion de collectif dans le calcul\ndes probabilités.\" Comptes Rendus des Séances\nde l'Académie des Sciences, 202 (1936), pp.\n1080-1083.\n\n\n\nAbraham Wald: \"Die Wiederspruchsfreiheit des Kollektivbegriffes\nder Wahrscheinlichkeitsrechnung.\" Ergebnisse eines mathematischen\nKolloquiums 8 (1937), pp. 38-72.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Characterizing Randomness: Statistics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "M.G. Kendall: \"A Theory\nof Randomness.\" Biometrika, 1941.\n\n\n\nM.G. Kendall & B. Babington Smith:\n\"Randomness and Random Sampling Numbers.\" Journal\nof the Royal Statistical Society, Vol. 101, No. 1 (1938),\npp. 147-166.\n\n\n\nW.O. Kermack & A.G. McKendrick: \"Tests for Randomness in a Series\nof Numerical Observations\" Proceedings of the Royal Society,\nEdinburgh, Vol. 57 (1936-1937), Part 3, pp. 228-240.\n\n\n\nG. Marsaglia, W.W. Tsang: \"Some difficult-to-pass tests\nof randomness.\" Journal of Statistical Software,\n2002\n\n\n\nH.A. Meyer: \"The generation and testing of random digits,\nand known sources of random digit tables. (An annotated bibliography.)\" In H. A. Meyer (ed.): Symposium on Monte Carlo Methods,\npp. 323-337. Wiley, 1956.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hidden variables and the Einstein-Podolsky-Rosen\neffect",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cristian S. Calude: \"Algorithmic\nRandomness, Quantum Physics, and Incompleteness.\"\n\n\n\nJ. S. Bell, On\nthe Einstein Podolsky Rosen Paradox, Physics 1, 195 (1964)\n\n\n\nJ. S. Bell, On the problem of hidden variables in quantum mechanics,\nRev. Mod. Phys. 38, 447 (1966)",
+      "links": [
+        {
+          "text": "Algorithmic Randomness, Quantum Physics, and Incompleteness",
+          "href": "http://www.idquantique.com/products/files/quantis-calude.pdf",
+          "external": true
+        },
+        {
+          "text": "On the Einstein Podolsky Rosen Paradox",
+          "href": "http://www.drchinese.com/David/Bell_Compact.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur Fine (1982), Hidden Variables,\nJoint Probability, and the Bell Inequalities, Physical Review Letters\n48, 5, pp. 291-294.\n\n\n\nGrete Hermann (1935), Abhandlungen der Fries'schen Schule 6,\n75.\n\n\n\nWillem de Muynck: Foundations of quantum mechanics, an empiricist\napproach. Dordrecht: Kluwer Academic Publishers, 2002.\n\n\n\nWillem de Muynck: Hidden-variables\nor subquantum theories",
+      "links": [
+        {
+          "text": "Hidden-variables or subquantum theories",
+          "href": "http://www.phys.tue.nl/ktn/Wim/qm4.htm#hv",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "John von Neumann (1932), Mathematische Grundlagen der Quantenmechanic\n(Berlin: Springer)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Fergus Ray-Murray: Bibliography",
+      "links": [
+        {
+          "text": "Bibliography",
+          "href": "http://fergusmurray.members.beeb.net/Bibliography.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[To\nadd: TV program about this (VPRO). Victor Wentink has a tape.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pseudo-Random Numbers",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Coddington:\nRandom\nNumber Generators for Parallel Computers. NHSE Review,\n1996.\n\n\n\nR. Coveyou: \"Random number generation\nis too important to be left to chance.\" Studies in Applied\nMathematics 3 (1969), pp. 70-111.\n\n\n\n\nAndrew Culver: Software\nfor John Cage.\n\n\n\nGardner, M. (1968). \"On the meaning of randomness and some\nways of achieving it.\" Scientific American, July 1968,\n116-121.\n\n\n\nPeter Hellekalek: Bibliography.\n\n\n\n\nDonald Knuth: The Art of\nComputer Programming, Vol.2 (Seminumerical Algorithms), Ch.\n3 (Random Numbers). Reading, MA: Addison-Wesley, 1969.\n\n\n\nM. Matsumoto & T. Nishimura: \"Mersenne Twister: A 623-Dimensionally\nEquidistributed Uniform Pseudo-Random Number Generator\" ACM\nTransactions on Modeling and Computer Simulation, 1998.\n\n\n\nJ. von Neumann: \"Various techniques used in connection with\nrandom digits\" National Bureau of Standards Applied Mathematics\nSeries 12 (1951), 36-38.",
+      "links": [
+        {
+          "text": "Random Number Generators for Parallel Computers",
+          "href": "http://nhse.cs.rice.edu/NHSEreview/RNG/index.html",
+          "external": true
+        },
+        {
+          "text": "Software for John Cage",
+          "href": "http://www.anarchicharmony.org/People/Culver/CagePrograms.html",
+          "external": true
+        },
+        {
+          "text": "Bibliography",
+          "href": "http://random.mat.sbg.ac.at/literature/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RandomNumber.org: Bibliography\nuntil 1984.",
+      "links": [
+        {
+          "text": "Bibliography until 1984.",
+          "href": "http://randomnumber.org/bibliography.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Random\nnumber tables",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/random-number-tables",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardware devices for generating\nrandom numbers",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/hardware",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quotes about chance",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/qchance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Chance Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/chance",
+    "/algorithmic-art/chance/hardware",
+    "/algorithmic-art/chance/qchance",
+    "/algorithmic-art/chance/random-number-tables"
+  ]
+}

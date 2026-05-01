@@ -1,0 +1,610 @@
+{
+  "slug": "things/art-copied/pettibone",
+  "legacy_path": "things/art-copied/Pettibone/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Pettibone",
+  "heading": "Richard Pettibone's Copy Art",
+  "description": "Richard Pettibone's Copy Art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: copy\nart readymades radical\nart",
+      "links": [
+        {
+          "text": "copy art",
+          "href": "/things/art-copied",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Richard Pettibone's Copy Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Larry Bell",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/65Larry-Bell-S.jpg",
+      "alt": "",
+      "caption": "\"Larry Bell. A Whisp of the Girl She Used to Be. 1963.\",\n\n1965",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/65MonaLisa-S.jpg",
+      "alt": "",
+      "caption": "\"Andy Warhol. Mona Lisa. 1963.\",\n\n1965",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/68Orange_marilyn-S.jpg",
+      "alt": "",
+      "caption": "Orange Marilyn, 1968",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/69BrilloBoxes64-S.jpg",
+      "alt": "",
+      "caption": "\"Brillo Boxes, 1964\", 1969",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/70Flowers-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1970",
+      "width": "195",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Flowers-c-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Flowers-d-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Flowers-B-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Flowers-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Warhol_4Flowers-S.jpg",
+      "alt": "",
+      "caption": "Four Flowers, 1971",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71Warhol_Cow-S.jpg",
+      "alt": "",
+      "caption": "Cow, 1971",
+      "width": "156",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/73PinkMarilyn-S.jpg",
+      "alt": "",
+      "caption": "Pink Marilyn, 1973",
+      "width": "163",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/73marilyn-B-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1973",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/73Marilyn-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1973",
+      "width": "164",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/74Marilyn-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1974",
+      "width": "166",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/75Warhol_Mao-S.jpg",
+      "alt": "",
+      "caption": "Mao, 1975",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/75Mao-S.jpg",
+      "alt": "",
+      "caption": "Mao, 1975",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/87SoupCan-S.jpg",
+      "alt": "",
+      "caption": "Soup Can, 1987",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/96TwoJackies-S.jpg",
+      "alt": "",
+      "caption": "Two Jackies, 1996",
+      "width": "230",
+      "height": "146",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Frank Stella",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/67DarabjevdII-s.jpg",
+      "alt": "",
+      "caption": "Darabdjevd II, 1967",
+      "width": "230",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/74StellaChodoro1-1971-S.jpg",
+      "alt": "",
+      "caption": "\"Chodoro I, 1971\", 1974",
+      "width": "185",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/71ProtractionCnfgrtn-S.jpg",
+      "alt": "",
+      "caption": "Protraction Configuration, 1971",
+      "width": "419",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/76Trafalfa-S.jpg",
+      "alt": "",
+      "caption": "Trafalfa, 1976",
+      "width": "230",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/75IleDeLaCrosse69-S.jpg",
+      "alt": "",
+      "caption": "\"Ile de la Crosse, 1969\", 1975",
+      "width": "392",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jasper Johns",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/69DspprngPntngJJohns-S.jpg",
+      "alt": "",
+      "caption": "\"Disappearing Painting, 1961\",\n\n1969",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/ThreeFlags-S.jpg",
+      "alt": "",
+      "caption": "Three Flags",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Roy Lichtenstein",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/75TArtstSStdioTDnce74-S.jpg",
+      "alt": "",
+      "caption": "\"The Artist's Studio (The Dance), 1974\", 1975",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Pablo Picasso",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/76LesDemoisellesDA-S.jpg",
+      "alt": "",
+      "caption": "Les Demoiselles d'Avignon, 1976",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Constantin Brancusi",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/98-99TheRaftOfOdysseus-s.jpg",
+      "alt": "",
+      "caption": "The Raft of the Odyssee,\n\n1998/1999",
+      "width": "137",
+      "height": "359",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/Brancusi-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "346",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Marcel Duchamp",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/BicycleWheel.jpg",
+      "alt": "",
+      "caption": "Bicycle Wheel",
+      "width": "190",
+      "height": "369",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Juxtapositions",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/69YozdII-TriggerFngr63-S.jpg",
+      "alt": "",
+      "caption": "\"Jozd II / Trigger Finger, 1963\", 1969\n\n[Stella/Lichtenstein]",
+      "width": "230",
+      "height": "223",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/70WarholSLCmbntnPrint-S.jpg",
+      "alt": "",
+      "caption": "Warhol/Stella/Lichtenstein, 1970",
+      "width": "230",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/pettibone/DuchampWarhol-S.jpg",
+      "alt": "",
+      "caption": "Duchamp / Warhol",
+      "width": "394",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/pettibone/65Larry-Bell-S.jpg",
+      "alt": "",
+      "caption": "\"Larry Bell. A Whisp of the Girl She Used to Be. 1963.\",\n\n1965",
+      "legacy_src": "65Larry-Bell-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/65MonaLisa-S.jpg",
+      "alt": "",
+      "caption": "\"Andy Warhol. Mona Lisa. 1963.\",\n\n1965",
+      "legacy_src": "65MonaLisa-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/68Orange_marilyn-S.jpg",
+      "alt": "",
+      "caption": "Orange Marilyn, 1968",
+      "legacy_src": "68Orange_marilyn-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/69BrilloBoxes64-S.jpg",
+      "alt": "",
+      "caption": "\"Brillo Boxes, 1964\", 1969",
+      "legacy_src": "69BrilloBoxes64-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/70Flowers-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1970",
+      "legacy_src": "70Flowers-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Flowers-c-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "legacy_src": "71Flowers-c-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Flowers-d-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "legacy_src": "71Flowers-d-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Flowers-B-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "legacy_src": "71Flowers-B-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Flowers-S.jpg",
+      "alt": "",
+      "caption": "Flowers, 1971",
+      "legacy_src": "71Flowers-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Warhol_4Flowers-S.jpg",
+      "alt": "",
+      "caption": "Four Flowers, 1971",
+      "legacy_src": "71Warhol_4Flowers-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71Warhol_Cow-S.jpg",
+      "alt": "",
+      "caption": "Cow, 1971",
+      "legacy_src": "71Warhol_Cow-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/73PinkMarilyn-S.jpg",
+      "alt": "",
+      "caption": "Pink Marilyn, 1973",
+      "legacy_src": "73PinkMarilyn-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/73marilyn-B-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1973",
+      "legacy_src": "73marilyn-B-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/73Marilyn-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1973",
+      "legacy_src": "73Marilyn-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/74Marilyn-S.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1974",
+      "legacy_src": "74Marilyn-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/75Warhol_Mao-S.jpg",
+      "alt": "",
+      "caption": "Mao, 1975",
+      "legacy_src": "75Warhol_Mao-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/75Mao-S.jpg",
+      "alt": "",
+      "caption": "Mao, 1975",
+      "legacy_src": "75Mao-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/87SoupCan-S.jpg",
+      "alt": "",
+      "caption": "Soup Can, 1987",
+      "legacy_src": "87SoupCan-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/96TwoJackies-S.jpg",
+      "alt": "",
+      "caption": "Two Jackies, 1996",
+      "legacy_src": "96TwoJackies-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/67DarabjevdII-s.jpg",
+      "alt": "",
+      "caption": "Darabdjevd II, 1967",
+      "legacy_src": "67DarabjevdII-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/74StellaChodoro1-1971-S.jpg",
+      "alt": "",
+      "caption": "\"Chodoro I, 1971\", 1974",
+      "legacy_src": "74StellaChodoro1-1971-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/71ProtractionCnfgrtn-S.jpg",
+      "alt": "",
+      "caption": "Protraction Configuration, 1971",
+      "legacy_src": "71ProtractionCnfgrtn-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/76Trafalfa-S.jpg",
+      "alt": "",
+      "caption": "Trafalfa, 1976",
+      "legacy_src": "76Trafalfa-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/75IleDeLaCrosse69-S.jpg",
+      "alt": "",
+      "caption": "\"Ile de la Crosse, 1969\", 1975",
+      "legacy_src": "75IleDeLaCrosse69-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/69DspprngPntngJJohns-S.jpg",
+      "alt": "",
+      "caption": "\"Disappearing Painting, 1961\",\n\n1969",
+      "legacy_src": "69DspprngPntngJJohns-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/ThreeFlags-S.jpg",
+      "alt": "",
+      "caption": "Three Flags",
+      "legacy_src": "ThreeFlags-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/75TArtstSStdioTDnce74-S.jpg",
+      "alt": "",
+      "caption": "\"The Artist's Studio (The Dance), 1974\", 1975",
+      "legacy_src": "75TArtstSStdioTDnce74-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/76LesDemoisellesDA-S.jpg",
+      "alt": "",
+      "caption": "Les Demoiselles d'Avignon, 1976",
+      "legacy_src": "76LesDemoisellesDA-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/98-99TheRaftOfOdysseus-s.jpg",
+      "alt": "",
+      "caption": "The Raft of the Odyssee,\n\n1998/1999",
+      "legacy_src": "98-99TheRaftOfOdysseus-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/Brancusi-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Brancusi-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/BicycleWheel.jpg",
+      "alt": "",
+      "caption": "Bicycle Wheel",
+      "legacy_src": "BicycleWheel.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/69YozdII-TriggerFngr63-S.jpg",
+      "alt": "",
+      "caption": "\"Jozd II / Trigger Finger, 1963\", 1969\n\n[Stella/Lichtenstein]",
+      "legacy_src": "69YozdII-TriggerFngr63-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/70WarholSLCmbntnPrint-S.jpg",
+      "alt": "",
+      "caption": "Warhol/Stella/Lichtenstein, 1970",
+      "legacy_src": "70WarholSLCmbntnPrint-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/pettibone/DuchampWarhol-S.jpg",
+      "alt": "",
+      "caption": "Duchamp / Warhol",
+      "legacy_src": "DuchampWarhol-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied"
+  ]
+}

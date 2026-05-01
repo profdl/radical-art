@@ -1,0 +1,312 @@
+{
+  "slug": "concept/art-against-art/ben",
+  "legacy_path": "concept/ArtAgainstArt/Ben/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Ben Against Art",
+  "heading": "Ben Against Art",
+  "description": "Art against art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Ben Against Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Anti-Art paintings by Ben Vautier",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/61-PasDArt-S.jpg",
+      "alt": "",
+      "caption": "Pas d'art, 1961",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/65-PasDArt-s.jpg",
+      "alt": "",
+      "caption": "Pas d'art, 1965",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/65-Inutile-S.jpg",
+      "alt": "",
+      "caption": "L'Art est inutile, 1965",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/71ArtInutile-s.jpg",
+      "alt": "",
+      "caption": "\"L'art est inutile. Rentrez chez vous.\" 1971",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/97-Inutile-s.jpg",
+      "alt": "",
+      "caption": "L'art est inutile, 1997",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/Rentrez-s.jpg",
+      "alt": "",
+      "caption": "L'art est inutile. Rentrez chez vous.",
+      "width": "452",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/71-Drink-s.jpg",
+      "alt": "",
+      "caption": "Drink to forget art, 1971",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/71-L'artJ'aimePas-s.jpg",
+      "alt": "",
+      "caption": "L'art j'aime pas, 1971",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/85NoMoreArt.gif",
+      "alt": "",
+      "caption": "No more art, 1985",
+      "width": "211",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/PourquoiLArt-s.jpg",
+      "alt": "",
+      "caption": "Pourquoi l'art?",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/ennuie-s.jpg",
+      "alt": "",
+      "caption": "L'art m'ennuie",
+      "width": "230",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/honte-s.jpg",
+      "alt": "",
+      "caption": "Avoir honte d'être un artiste",
+      "width": "230",
+      "height": "155",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/plus-d-art-s.jpg",
+      "alt": "",
+      "caption": "Ne plus faire d'art",
+      "width": "210",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/musees-s.jpg",
+      "alt": "",
+      "caption": "Les musées ne servent à rien",
+      "width": "230",
+      "height": "321",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/pas-parler-s.jpg",
+      "alt": "",
+      "caption": "Ne pas parler d'art",
+      "width": "230",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/ToGiveUpArt-s.jpg",
+      "alt": "",
+      "caption": "To give up art",
+      "width": "188",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/95Bluff.jpg",
+      "alt": "",
+      "caption": "L'art c'est du bluff, 1995",
+      "width": "180",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/vol-s.jpg",
+      "alt": "",
+      "caption": "L'art c'est du vol",
+      "width": "230",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben/CulDeSac-s.jpg",
+      "alt": "",
+      "caption": "L'art est un cul de sac",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/art-against-art/ben/61-PasDArt-S.jpg",
+      "alt": "",
+      "caption": "Pas d'art, 1961",
+      "legacy_src": "61-PasDArt-S.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/65-PasDArt-s.jpg",
+      "alt": "",
+      "caption": "Pas d'art, 1965",
+      "legacy_src": "65-PasDArt-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/65-Inutile-S.jpg",
+      "alt": "",
+      "caption": "L'Art est inutile, 1965",
+      "legacy_src": "65-Inutile-S.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/71ArtInutile-s.jpg",
+      "alt": "",
+      "caption": "\"L'art est inutile. Rentrez chez vous.\" 1971",
+      "legacy_src": "71ArtInutile-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/97-Inutile-s.jpg",
+      "alt": "",
+      "caption": "L'art est inutile, 1997",
+      "legacy_src": "97-Inutile-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/Rentrez-s.jpg",
+      "alt": "",
+      "caption": "L'art est inutile. Rentrez chez vous.",
+      "legacy_src": "Rentrez-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/71-Drink-s.jpg",
+      "alt": "",
+      "caption": "Drink to forget art, 1971",
+      "legacy_src": "71-Drink-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/71-L'artJ'aimePas-s.jpg",
+      "alt": "",
+      "caption": "L'art j'aime pas, 1971",
+      "legacy_src": "71-L'artJ'aimePas-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/85NoMoreArt.gif",
+      "alt": "",
+      "caption": "No more art, 1985",
+      "legacy_src": "85NoMoreArt.gif"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/PourquoiLArt-s.jpg",
+      "alt": "",
+      "caption": "Pourquoi l'art?",
+      "legacy_src": "PourquoiLArt-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/ennuie-s.jpg",
+      "alt": "",
+      "caption": "L'art m'ennuie",
+      "legacy_src": "ennuie-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/honte-s.jpg",
+      "alt": "",
+      "caption": "Avoir honte d'être un artiste",
+      "legacy_src": "honte-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/plus-d-art-s.jpg",
+      "alt": "",
+      "caption": "Ne plus faire d'art",
+      "legacy_src": "plus-d-art-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/musees-s.jpg",
+      "alt": "",
+      "caption": "Les musées ne servent à rien",
+      "legacy_src": "musees-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/pas-parler-s.jpg",
+      "alt": "",
+      "caption": "Ne pas parler d'art",
+      "legacy_src": "pas-parler-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/ToGiveUpArt-s.jpg",
+      "alt": "",
+      "caption": "To give up art",
+      "legacy_src": "ToGiveUpArt-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/95Bluff.jpg",
+      "alt": "",
+      "caption": "L'art c'est du bluff, 1995",
+      "legacy_src": "95Bluff.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/vol-s.jpg",
+      "alt": "",
+      "caption": "L'art c'est du vol",
+      "legacy_src": "vol-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben/CulDeSac-s.jpg",
+      "alt": "",
+      "caption": "L'art est un cul de sac",
+      "legacy_src": "CulDeSac-s.jpg"
+    }
+  ],
+  "out_links": []
+}

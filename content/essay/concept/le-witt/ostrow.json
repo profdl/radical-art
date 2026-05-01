@@ -1,0 +1,72 @@
+{
+  "slug": "concept/le-witt/ostrow",
+  "legacy_path": "concept/LeWitt/ostrow.html",
+  "section": "concept",
+  "archetype": "essay",
+  "title": "LeWitt on Art History",
+  "heading": "",
+  "description": "Sol LeWitt on Cage, Fluxus and minimalism. (From an interview by Saul Ostrow.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Saul Ostrow: \"Sol LeWitt\" (Interview). In: BOMB 85 (Fall 2003).",
+      "links": [
+        {
+          "text": "",
+          "href": "http://www.bombsitebeta.com/issues/85/articles/2583",
+          "external": true
+        },
+        {
+          "text": "Sol LeWitt",
+          "href": "http://www.bombsitebeta.com/issues/85/articles/2583",
+          "external": true
+        },
+        {
+          "text": ".",
+          "href": "http://www.bombsitebeta.com/issues/85/articles/2583",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sol LeWitt on Cage, Fluxus and Minimalism",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "(From Saul Ostrow's 2003 interview in BOMB.)",
+      "links": [
+        {
+          "text": "Saul Ostrow's 2003 interview in BOMB",
+          "href": "http://www.bombsitebeta.com/issues/85/articles/2583",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Saul Ostrow: Was there a relationship between your thinking about art and John Cage’s composition, his scoring of chance? It seems that Cage was a pivotal figure to many artists of the late ‘50s early ‘60s.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: The early ‘60s was a pivotal time. The thinking of John Cage derived from Duchamp and Dada. I was not interested in that. My thinking derived from Muybridge and the idea of seriality, from music. I thought Dada was basically perceptual, relying on the often outraged response of the viewer. Pop art was a legacy of this. I was not interested in irony; I wanted to emphasize the primacy of the idea in making art. My interest, starting around 1965, was in building conceptual systems, which grew out of Minimalism. Basically it was a repudiation of Duchampian aesthetics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Saul Ostrow: I’m asking because Cage gave the performers of his later pieces nothing more than instructions, as you did in your instruction pieces. The idea seems to go from Cage to the Fluxists and from there to the Minimalists and then the Conceptualists.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: The Fluxists’ conceptualism, which predated mine, was influenced by Duchamp. My thinking was a reaction to theirs. As far as Minimalism goes, I don’t think it existed as an idea at all. It was only a stylistic reaction to the rhetoric of Abstract Expressionism. It was self-defeating, because simplicity of form could only go so far. It ended once the simplest form was achieved — exemplified by Robert Morris’s installation of polyhedrons at Green Gallery in 1964, or Rauschenberg’s white paintings, though of course Robert Ryman can still do white paintings of great depth and inspiration. In my case, I used the elements of these simple forms — square, cube, line and color — to produce logical systems. Most of these systems were finite; that is, they were complete using all possible variations. This kept them simple.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

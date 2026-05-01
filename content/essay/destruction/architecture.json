@@ -1,0 +1,106 @@
+{
+  "slug": "destruction/architecture",
+  "legacy_path": "destruction/architecture.html",
+  "section": "destruction",
+  "archetype": "essay",
+  "title": "negative architecture",
+  "heading": "negative architecture",
+  "description": "Destruction and death in contemporary art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back to: destruction radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "negative architecture",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Thomas van Leeuwen: Columns of Fire.",
+      "links": [
+        {
+          "text": "Columns of Fire.",
+          "href": "http://www.let.leidenuniv.nl/mijlpalen/columns.html",
+          "external": true
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Baron Haussmann called himself an \"artiste démolisseur.\" I intend to write the book that we missed on our bookshelves:\nnext to all the studies on artists and architects, creators of\nall sorts of beautiful things, the one study on famous demolishers.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Demolishing a building\nis nothing but the undoing of the construction process. More and\nmore, architecture has been given an economical duration, the\nsame way other \"durable\" goods have been determined to live as\nlong as they are not in the way of new products. Automobiles end\nup in the crusher, but where does a building go? Artistic demolishers,\nsuch as the Loizeaux family of Phoenix, near Baltimore, Maryland,\nwho work with finely dosaged explosives, prepare their victims\nin the manner of a Philippine chicken: carefully removing all\ncritical structural elements before placing the charges. When\nthe blast comes, gravity is allowed to do the rest, bringing down\nthe building in an elegant fashion, quietly imploding it, burying\nit under its own dust. Demolition is nothing but terminating the\nlife cycle of buildings with dynamite and gravity. Columns of\nsteel, created by fire, riveted or welded with fire, then protected\nagainst fire, are finally brought down with fire. The spark of\na small fuse sets off an explosion in which the long-lasting fires\nof destruction of the past are compacted into a brief but infinitely\nmore devastating blast of dynamite. Buildings the size of cities\ncan be brought down in seconds. The first, and still the tallest,\nbuilding ever to be imploded was the thirty-two-story Mendez Caldera\nBuilding in Sao Paulo. In 1975, it was leveled with the help of\na mere thousand pounds of charges in a few seconds.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A plea for selective\nartistic destruction will engage \"Columns of Fire\" in popular\ndebate. Does not the fire of the forest fertilize the earth for\nnew growth? Why are we made to believe that architecture is permanent,\nthat matter is forever, and that the old is like a bridge not\nto be burned? From an aesthetic point of view the removal of architectural\neyesores by selective destruction should be regarded as an act\nof artistic creativity. As for now, we still have to wait for\nthe first Grand Prix de Rome to be awarded to the creative genius\nthat will dynamite the Paris Tour du Montparnasse.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas van Leeuwen:\nColumns\nof Fire. Center 18, 1998, pp. 128-133.\n\nCenter for Advanced Study in the Visual Arts, National Gallery\nof Art, Washington DC.",
+      "links": [
+        {
+          "text": "Columns of Fire.",
+          "href": "http://www.let.leidenuniv.nl/mijlpalen/columns.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Baudrillard, Karlheinz Stockhausen, Damien Hirst and others about the Demolition of the World Trade Center by Mohamed Atta et al., New York, 2001",
+      "links": [
+        {
+          "text": "the Demolition of the World Trade Center",
+          "href": "/destruction/artificial-disasters/wtc",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Josien Laurier: \"De Beweging\". In: De Verhalenbundel. Amsterdam: Em. Querido's Uitgeverij, 2005.",
+      "links": [
+        {
+          "text": "\"De Beweging\"",
+          "href": "http://josienlaurier.com/tekst/Beweging.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/destruction",
+    "/destruction/artificial-disasters/wtc",
+    "/index"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "ego/selfportraits",
+  "legacy_path": "ego/selfportraits/index.html",
+  "section": "ego",
+  "archetype": "image-grid",
+  "title": "selfportraits",
+  "heading": "the artist as artwork: selfportraits",
+  "description": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "the artist as artwork: selfportraits",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/selfportraits/warhol-66DoubleSelf-Portrait.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Double Self-Portrait, 1966",
+      "width": "405",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/selfportraits/istvan-kantor-s.jpg",
+      "alt": "",
+      "caption": "Istvan Kantor",
+      "width": "200",
+      "height": "203",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/selfportraits/koons-Koons91Self-Portrait[B]-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons, 1991",
+      "width": "179",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ego/selfportraits/warhol-66DoubleSelf-Portrait.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Double Self-Portrait, 1966",
+      "legacy_src": "warhol/66DoubleSelf-Portrait.jpg"
+    },
+    {
+      "src": "/images/ego/selfportraits/istvan-kantor-s.jpg",
+      "alt": "",
+      "caption": "Istvan Kantor",
+      "legacy_src": "istvan-kantor-s.jpg"
+    },
+    {
+      "src": "/images/ego/selfportraits/koons-Koons91Self-Portrait[B]-s.jpg",
+      "alt": "",
+      "caption": "Jeff Koons, 1991",
+      "legacy_src": "koons/Koons91Self-Portrait%5BB%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

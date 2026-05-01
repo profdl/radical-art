@@ -1,0 +1,167 @@
+{
+  "slug": "concept/brecht",
+  "legacy_path": "concept/brecht/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "George Brecht",
+  "heading": "George Brecht: Events",
+  "description": "Events by George Brecht.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "George Brecht: Events",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Drip Music\n\n\n\nFor single or multiple performance.\n\n\n\nA source of dripping water and an empty vessel are arranged\nso that the water falls into the vessel.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/brecht/s-DripMusicTourette2003-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "183",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Drip Music, Fluxversion 1\n\n\n\nFirst performer on a tall ladder pours water from a pitcher very slowly down into the bell of a French horn or tuba held in the playing position by a second performer at floor level.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/brecht/s-61-Exit.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "196",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Drip Music,\n\nSecond Version",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dripping",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/brecht/s-61-2VehicleEvents-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "189",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/brecht/s-61-3aqueousEvents-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "190",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/brecht/s-61-6Exhibits-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Time-Table Event\n\n\n\nTo occur in a railway station.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A time table is obtained. A tabulated time indication is interpreted\nin minutes and seconds (for example, 7:16 equals 7 minutes and\n16 seconds). This determines the duration of the event.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1961",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidental Music",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Five piano pieces, any number of which may be played in succession,\nsimultaneously, in any order and combination, with one another or\nwith other pieces.\n\n\n\n1. The piano seat is tilted on its base and brought to rest against\na part of the piano.\n\n\n\n2. Wooden blocks. A single block is placed inside the piano. A block\nis placed upon this block, then a third upon the second, and so\nforth, one by one, until at least one block falls from the column.\n\n\n\n\n3. Photographing the piano situation.\n\n\n\n4. Three dried peas or beans are dropped, one after another, onto\nthe keyboard. Each such seed remaining on the keyboard is attached\nto the key or keys nearest it with a single piece of pressure-sensitive\ntape.\n\n\n\n5. The piano seat is suitably arranged and the performer seats himself.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "For more pieces, consult THE FLUXUS PERFORMANCE WORKBOOK.",
+      "links": [
+        {
+          "text": "THE FLUXUS PERFORMANCE WORKBOOK",
+          "href": "http://www.thing.net/%7Egrist/ld/fluxus.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/brecht/s-DripMusicTourette2003-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "s/DripMusicTourette2003-s.jpg"
+    },
+    {
+      "src": "/images/concept/brecht/s-61-Exit.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "s/61-Exit.jpg"
+    },
+    {
+      "src": "/images/concept/brecht/s-61-2VehicleEvents-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "s/61-2VehicleEvents-s.jpg"
+    },
+    {
+      "src": "/images/concept/brecht/s-61-3aqueousEvents-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "s/61-3aqueousEvents-s.jpg"
+    },
+    {
+      "src": "/images/concept/brecht/s-61-6Exhibits-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "s/61-6Exhibits-s.jpg"
+    }
+  ],
+  "out_links": []
+}

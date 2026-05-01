@@ -1,0 +1,117 @@
+{
+  "slug": "anything/open-form/flexible-sculpture",
+  "legacy_path": "anything/OpenForm/FlexibleSculpture.html",
+  "section": "anything",
+  "archetype": "single-work",
+  "title": "Flexible Sculpture",
+  "heading": "",
+  "description": "Open Form: Flexible Sculpture.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Open Form: Flexible Sculpture",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[pieces intended to be modified or rearranged at will\nby the spectator, the collector, or the curator]",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Distortion",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "[a flexible object, to be stretched arbitrarily]",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp: Sculpture\nde Voyage, 1918. (Shreds of rubber with ropes, to be stretched\nand attached at will.)",
+      "links": [
+        {
+          "text": "Sculpture de Voyage",
+          "href": "http://www.zumbacombo.com/duchamp/voyage.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"C'étaient\ndes morceaux de bonnets de bain, en caoutchouc, que je découpais,\nque je collais ensemble, qui n'avaient aucune forme spéciale.\nAu bout de chaque morceau, il y avait une ficelle qu'on attachait\naux quatre coins de la pièce; on pouvait varier la longueur\ndes ficelles, la forme était ad libitum, c'était ça\nqui m'intéressait.\" [Pierre Cabanne: Entretiens\navec Marcel Duchamp. Belfond, 1967.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/flexible-sculpture/DuchampSculptDeVoyage1918s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Rotation",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "[an object whose parts may be arbitrarily rotated]",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/flexible-sculpture/SiegfriedCremer59MbilesObjS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/flexible-sculpture/SiegfriedCremer60KinetObjS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "298",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Siegfried Cremer: Mobiles Objekt, 1959 (Left);\n\nMobiles Objekt, 1960 (Above)",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/open-form/flexible-sculpture/DuchampSculptDeVoyage1918s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "DuchampSculptDeVoyage1918s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/flexible-sculpture/SiegfriedCremer59MbilesObjS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "SiegfriedCremer59MbilesObjS.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/flexible-sculpture/SiegfriedCremer60KinetObjS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "SiegfriedCremer60KinetObjS.jpg"
+    }
+  ],
+  "out_links": []
+}

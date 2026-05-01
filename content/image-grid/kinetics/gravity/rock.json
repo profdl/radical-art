@@ -1,0 +1,111 @@
+{
+  "slug": "kinetics/gravity/rock",
+  "legacy_path": "kinetics/gravity/rock/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Rock",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "rocking machines by jean tinguely",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1965-Bascule_VI-M.jpg",
+      "alt": "",
+      "caption": "Bascule VI, 1965",
+      "width": "394",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana----s.jpg",
+      "alt": "",
+      "caption": "Santana, 1966",
+      "width": "207",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana-s.jpg",
+      "alt": "",
+      "caption": "Santana, 1966",
+      "width": "215",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana-s2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "280",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1967-Bascule_V-s.jpg",
+      "alt": "",
+      "caption": "Bascule V, 1967",
+      "width": "343",
+      "height": "235",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/rock/tinguely-1967-Matrac_II.jpg",
+      "alt": "",
+      "caption": "Matrac II, 1967",
+      "width": "218",
+      "height": "235",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1965-Bascule_VI-M.jpg",
+      "alt": "",
+      "caption": "Bascule VI, 1965",
+      "legacy_src": "Tinguely/1965-Bascule_VI-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana----s.jpg",
+      "alt": "",
+      "caption": "Santana, 1966",
+      "legacy_src": "Tinguely/1966-Santana----s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana-s.jpg",
+      "alt": "",
+      "caption": "Santana, 1966",
+      "legacy_src": "Tinguely/1966-Santana-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1966-Santana-s2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Tinguely/1966-Santana-s2.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1967-Bascule_V-s.jpg",
+      "alt": "",
+      "caption": "Bascule V, 1967",
+      "legacy_src": "Tinguely/1967-Bascule_V-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/rock/tinguely-1967-Matrac_II.jpg",
+      "alt": "",
+      "caption": "Matrac II, 1967",
+      "legacy_src": "Tinguely/1967-Matrac_II.jpg"
+    }
+  ],
+  "out_links": []
+}

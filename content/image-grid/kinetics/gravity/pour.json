@@ -1,0 +1,110 @@
+{
+  "slug": "kinetics/gravity/pour",
+  "legacy_path": "kinetics/gravity/pour/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "to pour",
+  "heading": "to pour",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: mechanics radical\nart",
+      "links": [
+        {
+          "text": "mechanics",
+          "href": "/kinetics",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/kinetics",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to pour",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/pour/1961-1963-Schippers-M.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers emptying a bottle of lemonade\n\ninto the North Sea near\nPetten, 1963\n\n[Re-enactment of 1961 performance]",
+      "width": "245",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/pour/1973-74-Laderman-M.jpg",
+      "alt": "",
+      "caption": "Mierle Laderman Ukeles:\n\nMaintenance Art Performance, 1973-1974",
+      "width": "221",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/pour/1967-cesar-expansion-M.jpg",
+      "alt": "",
+      "caption": "César: Expansion, 1967",
+      "width": "209",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/pour/1970-LyndaBenglis-M.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis pouring latex, 1969",
+      "width": "235",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "David Bourdon: \"Fling, Dribble and Dip.\" Life\nMagazine, February 27, 1970.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/pour/1961-1963-Schippers-M.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers emptying a bottle of lemonade\n\ninto the North Sea near\nPetten, 1963\n\n[Re-enactment of 1961 performance]",
+      "legacy_src": "1961-1963-Schippers-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/pour/1973-74-Laderman-M.jpg",
+      "alt": "",
+      "caption": "Mierle Laderman Ukeles:\n\nMaintenance Art Performance, 1973-1974",
+      "legacy_src": "1973-74-Laderman-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/pour/1967-cesar-expansion-M.jpg",
+      "alt": "",
+      "caption": "César: Expansion, 1967",
+      "legacy_src": "1967-cesar-expansion-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/pour/1970-LyndaBenglis-M.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis pouring latex, 1969",
+      "legacy_src": "1970-LyndaBenglis-M.jpg"
+    }
+  ],
+  "out_links": [
+    "/kinetics"
+  ]
+}

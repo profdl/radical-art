@@ -1,0 +1,208 @@
+{
+  "slug": "things",
+  "legacy_path": "things/index.html",
+  "section": "things",
+  "archetype": "link-hub",
+  "title": "readymades &c.",
+  "heading": "the \n    readymade & related genres",
+  "description": "readymade objects as artworks",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "the\nreadymade & related genres",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "readymades",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/readymade",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "copies",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "copies\nof primary objects\n\n\n\ncopies\nof artworks",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/copied",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/art-copied",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "constellations of readymades",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "stacks\n\n\n\n\ncollections\n& accumulations\n\n\n\ncombine-paintings",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/composite/stacks",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/composite/collections",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/composite/combine-paintings",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "hidden readymades",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "wrap\n\n\n\nsmear\n\n\n\nimmerse\n\n\n\ncover",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/painted",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/immersed",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/covered",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "transformed readymades",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "cast\n\n\n\nenlarge\n\n\n\nburn\n\n\n\nsqueeze\n\n\n\ngrind\n\n\n\ntear",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/cast",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/enlarged",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/burn",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/squeeze",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/grind",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/tear",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "related topics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "natural phenomena\nas art",
+      "links": [
+        {
+          "text": "natural phenomena as art",
+          "href": "/nature",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "life as art",
+      "links": [
+        {
+          "text": "life as art",
+          "href": "/qlife",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "the end of art",
+      "links": [
+        {
+          "text": "the end of art",
+          "href": "/qend-art",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/nature",
+    "/process/burn",
+    "/process/grind",
+    "/process/squeeze",
+    "/process/tear",
+    "/qend-art",
+    "/qlife",
+    "/things/art-copied",
+    "/things/cast",
+    "/things/composite/collections",
+    "/things/composite/combine-paintings",
+    "/things/composite/stacks",
+    "/things/copied",
+    "/things/covered",
+    "/things/enlarged",
+    "/things/immersed",
+    "/things/painted",
+    "/things/readymade",
+    "/things/wrapped"
+  ]
+}

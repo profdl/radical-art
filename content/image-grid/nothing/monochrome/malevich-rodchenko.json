@@ -1,0 +1,993 @@
+{
+  "slug": "nothing/monochrome/malevich-rodchenko",
+  "legacy_path": "nothing/monochrome/MalevichRodchenko/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Malevich, Rodchenko and the Monochrome",
+  "heading": "From \n    Suprematism to the Monochrome",
+  "description": "Kazimir Malevich, Aleksandr Rodchenko, and the history of the monochrome.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "From\nSuprematism to the Monochrome",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Kazimir Malevich: Suprematism (1915-1920)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/malevitch-BlackSquare1913-23-s.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "width": "254",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Das Schwarze Quadrat auf dem weißen Feld war die erste Ausdrucksform\n\nder Gegenstandslosen Empfindung: das Quadrat = die Empfindung,\n\ndas weiße Feld = das \"Nichts\" außerhalb dieser Empfindung.\"\n\n\n\n\"Das Quadrat verändert sich und bildet neue Formen, deren Elemente nach Maßgabe der veranlassenden Empfindung auf diese oder jene Weise geordnet werden.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kasimir Malewitsch: Die Gegenstandslose Welt.\n\nBauhausbuch 11. München, 1927, p. 74.\n\n[Russian original written in 1923.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The suprematist paintings by Kazimir Malevich and his disciples depict constellations of shapes in a white space. The shapes and their constellations are defined by an algebra with only one elementary term: the black square. The black square is the icon of Suprematism. It is the initial symbol of a generative system which generates all suprematist shapes and constellations by means of a repertoire of distortions, displacements, multiplications, alignments and superpositions. Malevich never articulated this combinatoric system explicitly; but it is suggested unmistakeably by the didactic arrangement of the drawings in his booklet \"Suprematism: 34 Drawings\" (1920). A very similar sequence appears in the Bauhaus-book Die Gegenstandslose Welt, that Malevich wrote in 1923. The square is introduced there as \"the fundamental suprematist element\" (fig. 67), and the circular disk as \"the first shape originating from the square\" (fig. 68); the vertical (rectangular) bar is described as \"the lengthened suprematist square\" (fig. 71). The role of the black square in Suprematism is thus analogous to the role of the number zero in Peano arithmetic, or the role of the empty set in the set-theoretical construction of mathematics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The various Malevich paintings which display the black square should thus not be viewed as monochromes. They depict a very definite thing (the black square), which denotes not the passive openness of an empty space but the infinite generative power of the suprematist algebra. It is false and misleading to hang the Black Square next to a monochrome by Rodchenko, Klein or Rauschenberg. It is true and enlightening to hang it next to a slashed canvas by Fontana (to point to its violently anti-representational nature, and its ambition to open up 3D and higher-dimensional space), or next to the capital S of Chomskyan grammar (to emphasize the algebraic combinatorics of suprematism). This small group show might also include a Byzantine icon depicting Jesus Christ (to highlight the Russian context of this work, and its mystical connotations).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-peasant-woman-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "101",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-BlackRectangle-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-black-circle1913-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "101",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55(SEOAP)1917-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "71",
+      "height": "101",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprPntng1917-18-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "63",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black&RedSquare1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "63",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "69",
+      "height": "99",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr(WBT&BR)1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "87",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-suprem4-ss.gif",
+      "alt": "",
+      "caption": "",
+      "width": "81",
+      "height": "101",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC1919-20-ss.gif",
+      "alt": "",
+      "caption": "",
+      "width": "101",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP(8RR)-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "86",
+      "height": "101",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC1915-crop-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "86",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprPainting-aeroplane-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "84",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC-ss.gif",
+      "alt": "",
+      "caption": "",
+      "width": "77",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Suprematism-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "72",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-malevich-ss.gif",
+      "alt": "",
+      "caption": "",
+      "width": "70",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-malevich02-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "99",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supremus_N50-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "68",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Suprematism1916-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "100",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supremus-58-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "89",
+      "height": "100",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Our number system (called the 'position system') has used the zero for a long time, but only in the 16th century (Cardano, Tartaglia) is the zero for the first time not considered as nothing, but as a number, as numerical reality. And only now in the 20th century, the Square is recognized as a plastic value, as the zero in the complex body of art. This fullcolored Square, stamped out completely continuously with color in a white plane, has now started to build a new space.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El Lissitzky: \"Kunst und Pangeometrie.\"\n\nIn: C. Einstein & P. Westheim (eds.): Europa Almanach. Potsdam: Gustav Kiepenheuer, 1925.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"For art should not proceed towards reduction or simplification, but towards complexity.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kazimir Malevich: Ot kubizma i futurizma do suprematizma. Novy zhivopisny realizm. Third edition. Moscow, 1916.\n\nEnglish translation: \"From Cubism and Futurism to Suprematism. The New Realism in Painting.\" In: K.S. Malevich: Essays on Art, Vol.1. 1915-1928. Copenhagen: Borgen, 1971, pp. 19-41 [p.22].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A slightly more detailed discussion concerning the suprematist algebra",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/malevich-rodchenko/suprematism",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "External link: The history of the black square. (Leningrad Hermitage)",
+      "links": [
+        {
+          "text": "",
+          "href": "http://hermitage.internet.emax.ru/hermitage/html_En/04/b2003/hm4_1_30.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "External link: More paintings by Malevich (including the periods before and after Suprematism)",
+      "links": [
+        {
+          "text": "",
+          "href": "http://www.russianavantgard.com/kazimir_malevich.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ivan Kljun: Monochrome Shapes (1917-1923)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-IvanKljunComposition1917-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917a-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917b-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp[blue]1923-s.jpg",
+      "alt": "",
+      "caption": "Spherical Composition, 1923",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917c-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917d-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled(RR)-1917-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljunRedLight-SpherComp23S.jpg",
+      "alt": "",
+      "caption": "Red Light\n\n(Spherical Composition),\n\n1923",
+      "width": "179",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Kazimir Malevich: White on White (1918)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/malevitch-SCWhOnWh1918-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In \"Suprematist Composition: White on White\" (1918), Malevich\ndisplays a white square in a white space. This piece is obviously not an empty,monochrome\npainting – but it is difficult to resist the idea\nthat it depicts such a monochrome. For Malevich, white was the\ncolor of space – he said this with so many words, and all suprematist\npaintings show it. The white square in \"White on White\" is\nthus an image of the very space it inhabits.\n\n\n\n\"White on White\" is an early example of a self-referential\npiece – akin to Nam June Paik's \"TV Buddha\", various\npieces by Maurits Escher, and Pistoletto's \"Infinity\".",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Aleksandr\nRodchenko: Constructivism (1918-1920)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/constructivism-1918_white_circle-s.jpg",
+      "alt": "",
+      "caption": "White Circle, 1918",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-rodchnko18C61ClrSphOACrcl-S.jpg",
+      "alt": "",
+      "caption": "Composition # 61\n\n(Color Sphere of a Circle),\n\n1918",
+      "width": "181",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918_construction_d-s.jpg",
+      "alt": "",
+      "caption": "1918",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918OvercomingRedS.jpg",
+      "alt": "",
+      "caption": "Overcoming Red, 1918",
+      "width": "194",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/constructivism-1919_composition-s.jpg",
+      "alt": "",
+      "caption": "1919",
+      "width": "156",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98(CmpctClrs)S.jpg",
+      "alt": "",
+      "caption": "Composition # 98\n\n(Compact Colors), 1920",
+      "width": "130",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Aleksandr Rodchenko: Black on Black, 1918",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918Comp64-68.jpg",
+      "alt": "",
+      "caption": "Composition # 64/68",
+      "width": "187",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918Comp80-S.jpg",
+      "alt": "",
+      "caption": "Composition # 80",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918_black_on_black-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "143",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918-black_on_black_a-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "157",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Aleksandr Rodchenko: Pure Color, 1921",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "The first non-figurative monochromes were painted by Aleksandr Rodchenko in 1921. Along with two other paintings by Rodchenko (\"Line\" and \"Cell\"), they were exhibited in September 1921 in the first installment of the two-part exhibition 5x5=25 in Moscow. The other participants were Varvara Stepanova, Aleksandra Ekster, Liubov Popova, and Aleksandr Vesnin.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoRed.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pure Red Color\n\n(Chistyi krasnyi tsvet)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoBlue.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pure Blue Color\n\n(Chistyi sinii tsvet)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoYellow.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pure Yellow Color\n\n(Chistyi zheltyi tsvet)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"From here, Constructivism proceeds to the negation of all art in its entirety, and calls into question the necessity of a specific activity of art for the creation of a universal aesthetic.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Varvara Stepanova: Lecture on Constructivism, 22 December 1921.\n\nIn: Peter Noever: Aleksandr M. Rodchenko - Varvara F. Stepanova. The Future Is Our Only Goal.\n\nMunich: Prestel, 1991, pp. 174-178.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I reduced painting to its logical conclusion and exhibited three canvases: red, blue and yellow. I affirmed: it's all over. Basic colors. Every plane is a plane and there is to be no representation.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aleksandr Rodchenko: Working with Majakovskii. Ms., 1939.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Link",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Rodchenko Retrospective, Museum of Modern Art, New York, 1998.",
+      "links": [
+        {
+          "text": "Rodchenko Retrospective,",
+          "href": "http://www.moma.org/exhibitions/1998/rodchenko/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "UNOVIS: The Suprematist Mirror, 1923",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "In May 1923, the UNOVIS group, directed by Kazimir Malevich, showed 2 white monochromes in the exhibition Works of Petrograd Artists of All Movements at the Petrograd Art Academy. This presentation was accompanied by a manifesto entitled \"Suprematicheskoye zerkalo\" (\"The Suprematist Mirror\"), which goes far beyond Rodchenko's \"end of art\". Malevich embraces a radical, all-encompassing nihilism.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The Suprematist Mirror\" was first published in Zhizn' Iskusstva # 20 (May 23, 1923), pp. 15-16. Excerpts were reprinted in Lef #3 (June-July 1923), pp. 182-183. To the right we reproduce the English translation by Xenia Giowacki-Prus & Arnold McMillin, from K.S. Malevich: Essays on Art, Vol.1. 1915-1928. Copenhagen: Borgen, 1971, pp. 224-225.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The artists collective UNOVIS (the Champions of the New Art) was established in 1920 in Vitebsk. Its leader was Kazimir Malevich; the other members were Vera Ermolaeva,\nEl Lissitzky, Ilya Chashnik, Nikolai Suetin, Anna Leporskaya, Lev\nYudin, Evgenia Magaril, and Lazar Khidekel.",
+      "links": [
+        {
+          "text": "UNOVIS (the Champions of the New Art",
+          "href": "http://www.russianavantgard.com/unovis.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kazimir Malevich",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Suprematist Mirror",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Amongst all the changing phenomena the essence of nature is invariable.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A. 1",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The World as\n\nhuman distinctions",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/brackets-didot-left-narrow.gif",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "God\n\nThe Soul\n\nThe Spirit\n\nLife\n\nReligion\n\nTechnology\n\nArt\n\nScience\n\nThe Intellect\n\nWeltanschauung\n\nLabour\n\nMovement\n\nSpace\n\nTime",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/brackets-didot-right-narrow.gif",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "= 0",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Science and art have no boundaries because what is comprehended infinitely is innumerable and infinity and innumerability are equal to nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2. If the world's creations are God's paths and if \"His ways are inscrutable\", then both He and His path are equal to nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "3. If the world is the creation of science, knowledge and labour, and if their creation is infinite then it is equal to nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "4. If religion has comprehended God, it has comprehended nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "5. If science has comprehended nature, it has comprehended nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "6. If art has comprehended harmony, rhythm and beauty, it has comprehended nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "7. If anyone has comprehended the absolute he has comprehended nothing.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "8. There is no existence either within or outside me; nothing can change anything, since nothing exists that could change itself or that could be changed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A. 2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The essence of distinctions.\n\nThe world as non-objectivity.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2004/2010",
+      "links": [
+        {
+          "text": "Remko Scha",
+          "href": "http://iaaa.nl/rs/cv.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/malevitch-BlackSquare1913-23-s.jpg",
+      "alt": "",
+      "caption": "Black Square, 1915",
+      "legacy_src": "malevitch/BlackSquare1913-23-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-peasant-woman-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/peasant-woman-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-BlackRectangle-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/BlackRectangle-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-black-circle1913-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/black-circle1913-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55(SEOAP)1917-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SuprNr55(SEOAP)1917-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprPntng1917-18-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SuprPntng1917-18-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black&RedSquare1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/Black&RedSquare1915-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SP-1915-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr(WBT&BR)1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/supr(WBT&BR)1915-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-suprem4-ss.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/suprem4-ss.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC1919-20-ss.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SC1919-20-ss.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP(8RR)-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SP(8RR)-1915-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC1915-crop-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SC1915-crop-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprPainting-aeroplane-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SuprPainting-aeroplane-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SC-ss.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/SC-ss.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Suprematism-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/Suprematism-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-malevich-ss.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/malevich-ss.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-malevich02-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/malevich02-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supremus_N50-1915-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/supremus_N50-1915-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Suprematism1916-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/Suprematism1916-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supremus-58-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/ss/supremus-58-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-IvanKljunComposition1917-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/IvanKljunComposition1917-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917a-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/Iwan-Kljun-Untitled-1917a-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917b-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/Iwan-Kljun-Untitled-1917b-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp[blue]1923-s.jpg",
+      "alt": "",
+      "caption": "Spherical Composition, 1923",
+      "legacy_src": "kliun/SpherComp%5Bblue%5D1923-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917c-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/Iwan-Kljun-Untitled-1917c-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-Iwan-Kljun-Untitled-1917d-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/Iwan-Kljun-Untitled-1917d-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled(RR)-1917-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1917",
+      "legacy_src": "kliun/kljun-untitled(RR)-1917-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljunRedLight-SpherComp23S.jpg",
+      "alt": "",
+      "caption": "Red Light\n\n(Spherical Composition),\n\n1923",
+      "legacy_src": "kliun/kljunRedLight-SpherComp23S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/malevitch-SCWhOnWh1918-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "malevitch/SCWhOnWh1918-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/constructivism-1918_white_circle-s.jpg",
+      "alt": "",
+      "caption": "White Circle, 1918",
+      "legacy_src": "rodchenko/Constructivism/1918_white_circle-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-rodchnko18C61ClrSphOACrcl-S.jpg",
+      "alt": "",
+      "caption": "Composition # 61\n\n(Color Sphere of a Circle),\n\n1918",
+      "legacy_src": "rodchenko/rodchnko18C61ClrSphOACrcl-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918_construction_d-s.jpg",
+      "alt": "",
+      "caption": "1918",
+      "legacy_src": "rodchenko/BlackOnBlack/1918_construction_d-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918OvercomingRedS.jpg",
+      "alt": "",
+      "caption": "Overcoming Red, 1918",
+      "legacy_src": "rodchenko/Rodchenko1918OvercomingRedS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/constructivism-1919_composition-s.jpg",
+      "alt": "",
+      "caption": "1919",
+      "legacy_src": "rodchenko/Constructivism/1919_composition-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98(CmpctClrs)S.jpg",
+      "alt": "",
+      "caption": "Composition # 98\n\n(Compact Colors), 1920",
+      "legacy_src": "rodchenko/Rodchenko20C98(CmpctClrs)S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918Comp64-68.jpg",
+      "alt": "",
+      "caption": "Composition # 64/68",
+      "legacy_src": "rodchenko/Rodchenko1918Comp64-68.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko1918Comp80-S.jpg",
+      "alt": "",
+      "caption": "Composition # 80",
+      "legacy_src": "rodchenko/Rodchenko1918Comp80-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918_black_on_black-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "rodchenko/BlackOnBlack/1918_black_on_black-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/black-on-black-1918-black_on_black_a-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "rodchenko/BlackOnBlack/1918-black_on_black_a-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoRed.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "rodchenko/RodchenkoRed.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoBlue.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "rodchenko/RodchenkoBlue.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-RodchenkoYellow.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "rodchenko/RodchenkoYellow.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/brackets-didot-left-narrow.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/brackets/didot-left-narrow.gif"
+    },
+    {
+      "src": "/images/nothing/monochrome/malevich-rodchenko/brackets-didot-right-narrow.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../gif/brackets/didot-right-narrow.gif"
+    }
+  ],
+  "out_links": [
+    "/nothing/monochrome/malevich-rodchenko/suprematism"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "slug": "informe/viscosity",
+  "legacy_path": "informe/Viscosity/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "viscosity",
+  "heading": "goo/ooze/putty",
+  "description": "Formlessness through viscosity.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "goo/ooze/putty",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "[viscosity & congelation]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/schippers-1962-1997-Utrecht-PKV-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Peanut Butter Floor, 1962\n\n[This photo: Centraal Museum, Utrecht, 1997]",
+      "width": "339",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/thomas-rentmeister-Rentmeister-00-OT-Nutella-C.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister: Ohne Titel (Nutella), 2000",
+      "width": "365",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/schippers-Schippers-63-Plast-o-lux-S.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Plast-o-lux, 1963",
+      "width": "212",
+      "height": "501",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/louise-bourgeois-1967-soft-landscape-I-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Soft Landscape, 1967",
+      "width": "277",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/lynda-benglis-69-QuarteredMeteor-s.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis: Quartered Meteor, 1969",
+      "width": "315",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/cesar-CesarExpansionMurale1975-M.jpg",
+      "alt": "",
+      "caption": "César: Expansion Murale, 1975",
+      "width": "194",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20(RF)-S.jpg",
+      "alt": "",
+      "caption": "Roxy Paine: Scumak No. 20 (RF), 1999",
+      "width": "276",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg",
+      "alt": "",
+      "caption": "Gotthard Graubner: Farbleib (Schneewittchen), 1963\n\n[\"Pillow Piece\"]",
+      "width": "300",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl+L-C-s.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Blood, 2000\n\n\n[Fibreglass and lacquer]",
+      "width": "340",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/cesar-1970-expansion_no_14-ss.jpg",
+      "alt": "",
+      "caption": "César: Expansion No. 14, 1970",
+      "width": "261",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/viscosity/thomas-rentmeister-Rentmeister94-OT-3-s.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister: Ohne Titel, 1994\n\n[Polyester resin; edition of 3]",
+      "width": "300",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the above pieces can\nbe considered as \"process art\", in that their creation\nwas a direct result of the viscosity properties of the\nactual material. Other pieces (Graubner, Rentmeister\n'94, Kapoor) allude to such processes in an essentially\nmimetic fashion.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More viscosity pieces by:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "César",
+      "links": [
+        {
+          "text": "",
+          "href": "/informe/viscosity/cesar",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Lynda\nBenglis",
+      "links": [
+        {
+          "text": "",
+          "href": "/informe/viscosity/lynda-benglis",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Roxy\nPaine",
+      "links": [
+        {
+          "text": "",
+          "href": "/informe/viscosity/roxy-paine",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "this page compilled by remko scha, 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/viscosity/schippers-1962-1997-Utrecht-PKV-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Peanut Butter Floor, 1962\n\n[This photo: Centraal Museum, Utrecht, 1997]",
+      "legacy_src": "schippers/1962-1997-Utrecht-PKV-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/thomas-rentmeister-Rentmeister-00-OT-Nutella-C.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister: Ohne Titel (Nutella), 2000",
+      "legacy_src": "ThomasRentmeister/Rentmeister-00-OT-Nutella-C.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/schippers-Schippers-63-Plast-o-lux-S.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Plast-o-lux, 1963",
+      "legacy_src": "schippers/Schippers-63-Plast-o-lux-S.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/louise-bourgeois-1967-soft-landscape-I-s.jpg",
+      "alt": "",
+      "caption": "Louise Bourgeois: Soft Landscape, 1967",
+      "legacy_src": "LouiseBourgeois/1967-soft-landscape-I-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/lynda-benglis-69-QuarteredMeteor-s.jpg",
+      "alt": "",
+      "caption": "Lynda Benglis: Quartered Meteor, 1969",
+      "legacy_src": "LyndaBenglis/69-QuarteredMeteor-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/cesar-CesarExpansionMurale1975-M.jpg",
+      "alt": "",
+      "caption": "César: Expansion Murale, 1975",
+      "legacy_src": "Cesar/CesarExpansionMurale1975-M.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20(RF)-S.jpg",
+      "alt": "",
+      "caption": "Roxy Paine: Scumak No. 20 (RF), 1999",
+      "legacy_src": "RoxyPaine/1999-ScumakNo.20(RF)-S.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg",
+      "alt": "",
+      "caption": "Gotthard Graubner: Farbleib (Schneewittchen), 1963\n\n[\"Pillow Piece\"]",
+      "legacy_src": "GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl+L-C-s.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor: Blood, 2000\n\n\n[Fibreglass and lacquer]",
+      "legacy_src": "AnishKapoor/2000-Blood-Fgl+L-C-s.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/cesar-1970-expansion_no_14-ss.jpg",
+      "alt": "",
+      "caption": "César: Expansion No. 14, 1970",
+      "legacy_src": "Cesar/1970-expansion_no_14-ss.jpg"
+    },
+    {
+      "src": "/images/informe/viscosity/thomas-rentmeister-Rentmeister94-OT-3-s.jpg",
+      "alt": "",
+      "caption": "Thomas Rentmeister: Ohne Titel, 1994\n\n[Polyester resin; edition of 3]",
+      "legacy_src": "ThomasRentmeister/Rentmeister94-OT-3-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/informe/viscosity/cesar",
+    "/informe/viscosity/lynda-benglis",
+    "/informe/viscosity/roxy-paine"
+  ]
+}

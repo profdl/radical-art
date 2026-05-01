@@ -1,0 +1,153 @@
+{
+  "slug": "kinetics/gravity/fly",
+  "legacy_path": "kinetics/gravity/Fly/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Fly",
+  "heading": "to fly",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to fly",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/jacques-henri-lartigue-lartigue_vliegen2-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue: Premier vol de Gabriel Voisin.\n\nMerlimont,\n1904",
+      "width": "371",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/Broodthaers-1960-Holland-s.jpg",
+      "alt": "",
+      "caption": "Marcel\nBroodthaers: Holland\n\n1960",
+      "width": "333",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "to fly?",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/letatlin-1930-1932-Letatlin-C.jpg",
+      "alt": "",
+      "caption": "Vladimir Tatlin:\n\nLetatlin, 1930-1932",
+      "width": "499",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/1962-Klein-RocketPnmtque-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nRocket Pneumatique, 1962",
+      "width": "215",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/panamarenko-1969FlyingObject-s.jpg",
+      "alt": "",
+      "caption": "Panamarenko: Flying Object, 1969",
+      "width": "231",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/1983-Serra-KittyHawk-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Kitty Hawk, 1983",
+      "width": "294",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "not to fly",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/PBrueghelDO-1555-Icarus-s.jpg",
+      "alt": "",
+      "caption": "Pieter Brueghel de Oudere:\n\nDe Val van Icarus, 1555",
+      "width": "378",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fly/Warhol-63-129DieInJet-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\n129 Die in Jet (Plane Crash), 1963",
+      "width": "178",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/fly/jacques-henri-lartigue-lartigue_vliegen2-s.jpg",
+      "alt": "",
+      "caption": "Jacques Henri Lartigue: Premier vol de Gabriel Voisin.\n\nMerlimont,\n1904",
+      "legacy_src": "JacquesHenriLartigue/lartigue_vliegen2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/Broodthaers-1960-Holland-s.jpg",
+      "alt": "",
+      "caption": "Marcel\nBroodthaers: Holland\n\n1960",
+      "legacy_src": "Broodthaers-1960-Holland-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/letatlin-1930-1932-Letatlin-C.jpg",
+      "alt": "",
+      "caption": "Vladimir Tatlin:\n\nLetatlin, 1930-1932",
+      "legacy_src": "Letatlin/1930-1932-Letatlin-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/1962-Klein-RocketPnmtque-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nRocket Pneumatique, 1962",
+      "legacy_src": "1962-Klein-RocketPnmtque-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/panamarenko-1969FlyingObject-s.jpg",
+      "alt": "",
+      "caption": "Panamarenko: Flying Object, 1969",
+      "legacy_src": "panamarenko/1969FlyingObject-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/1983-Serra-KittyHawk-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Kitty Hawk, 1983",
+      "legacy_src": "1983-Serra-KittyHawk-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/PBrueghelDO-1555-Icarus-s.jpg",
+      "alt": "",
+      "caption": "Pieter Brueghel de Oudere:\n\nDe Val van Icarus, 1555",
+      "legacy_src": "PBrueghelDO-1555-Icarus-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fly/Warhol-63-129DieInJet-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol:\n\n129 Die in Jet (Plane Crash), 1963",
+      "legacy_src": "Warhol-63-129DieInJet-s.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "nothing/space/containers",
+  "legacy_path": "nothing/space/containers/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Empty Containers",
+  "heading": "Empty Containers",
+  "description": "Empty containers: empty showcases, crates, boxes and suitcases by Yves Klein, Christo, Jan Henderikse, Joseph Beuys, Donald Judd, Miroslaw Balka and Stefan Brueggemann.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty Containers",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/levide-vitrine-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nLe Vide, 1958 (detail)",
+      "width": null,
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/christo-63Schaukasten-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nShowcase, 1963",
+      "width": "176",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/christo-6566Schaufenster-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nShowcase, 1965/1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/Henderikse-62-Kratten-s.jpg",
+      "alt": "",
+      "caption": "Jan Henderikse: Empty Crates.\n\nAnti-Peinture, Hessenhuis, Antwerp, 1962",
+      "width": "254",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/SBrueggemann03NBoxes-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann:\n\nNothing Boxes, 2003",
+      "width": "284",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/Judd68Unt-S.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1968",
+      "width": "277",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/Judd-78-unt-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1978",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/BeuysFilter1983-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Filter, 1983",
+      "width": "217",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/containers/MiroslawBalka-98--s.jpg",
+      "alt": "",
+      "caption": "Miroslaw Balka, 1998",
+      "width": "242",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Related work:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Empty rooms",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/vide/room",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "More empty showcases and storefronts by Christo Javacheff",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/cover/christo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sealed boxes and other secrets",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/containers/levide-vitrine-s.jpg",
+      "alt": "",
+      "caption": "Yves Klein:\n\nLe Vide, 1958 (detail)",
+      "legacy_src": "levide-vitrine-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/christo-63Schaukasten-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nShowcase, 1963",
+      "legacy_src": "christo/63Schaukasten-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/christo-6566Schaufenster-s.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff:\n\nShowcase, 1965/1966",
+      "legacy_src": "christo/6566Schaufenster-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/Henderikse-62-Kratten-s.jpg",
+      "alt": "",
+      "caption": "Jan Henderikse: Empty Crates.\n\nAnti-Peinture, Hessenhuis, Antwerp, 1962",
+      "legacy_src": "Henderikse-62-Kratten-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/SBrueggemann03NBoxes-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann:\n\nNothing Boxes, 2003",
+      "legacy_src": "SBrueggemann03NBoxes-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/Judd68Unt-S.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1968",
+      "legacy_src": "Judd68Unt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/Judd-78-unt-s.jpg",
+      "alt": "",
+      "caption": "Donald Judd: Untitled, 1978",
+      "legacy_src": "Judd-78-unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/BeuysFilter1983-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Filter, 1983",
+      "legacy_src": "BeuysFilter1983-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/containers/MiroslawBalka-98--s.jpg",
+      "alt": "",
+      "caption": "Miroslaw Balka, 1998",
+      "legacy_src": "MiroslawBalka-98--s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover/christo",
+    "/nothing/space/vide/room"
+  ]
+}

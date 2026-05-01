@@ -1,0 +1,96 @@
+{
+  "slug": "nothing/mirrors/kapoor",
+  "legacy_path": "nothing/mirrors/Kapoor/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Anish Kapoor",
+  "heading": "Mirrors by Anish Kapoor",
+  "description": "Mirrors by Anish Kapoor",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirrors by Anish Kapoor",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor/95kapoorTrngThWrldInsdOut-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1995",
+      "width": "222",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor/kapoorUntitled1997-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "218",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor/kapoorUntitled1997b-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1997",
+      "width": "180",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor/kapoorBloodMirror2000-S.jpg",
+      "alt": "",
+      "caption": "Blood Mirror, 2000",
+      "width": "155",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/kapoor/kapo2000TurningWater-s.jpg",
+      "alt": "",
+      "caption": "Turning Water into Mirror, Blood into Sky, 2000",
+      "width": "230",
+      "height": "178",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/kapoor/95kapoorTrngThWrldInsdOut-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1995",
+      "legacy_src": "95kapoorTrngThWrldInsdOut-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/kapoor/kapoorUntitled1997-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kapoorUntitled1997-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/kapoor/kapoorUntitled1997b-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1997",
+      "legacy_src": "kapoorUntitled1997b-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/kapoor/kapoorBloodMirror2000-S.jpg",
+      "alt": "",
+      "caption": "Blood Mirror, 2000",
+      "legacy_src": "kapoorBloodMirror2000-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/kapoor/kapo2000TurningWater-s.jpg",
+      "alt": "",
+      "caption": "Turning Water into Mirror, Blood into Sky, 2000",
+      "legacy_src": "kapo2000TurningWater-s.jpg"
+    }
+  ],
+  "out_links": []
+}

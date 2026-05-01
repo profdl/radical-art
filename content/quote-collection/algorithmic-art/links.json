@@ -1,0 +1,280 @@
+{
+  "slug": "algorithmic-art/links",
+  "legacy_path": "AlgorithmicArt/links.html",
+  "section": "AlgorithmicArt",
+  "archetype": "quote-collection",
+  "title": "Algorithmic Art Links",
+  "heading": "Algorithmic Art Links",
+  "description": "Links to papers and anthologies about algorithmic art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Algorithmic Art Links",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Articles",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbert Brun: \"...\nto hold discourse --- at least --- with a computer ...\"\n(1973)",
+      "links": [
+        {
+          "text": "\"... to hold discourse --- at least --- with a computer ...\"",
+          "href": "http://www.herbertbrun.org/discourse.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold\nCohen against Photoshop.",
+      "links": [
+        {
+          "text": "Harold Cohen against Photoshop",
+          "href": "http://www.computer.muni.cz/pubs/expert/1997/trends/x3006/x3006-2.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen: \"A\nSelf-Defining Game for One Player: On the Nature of Creativity\nand the Possibility of Creative Computer Programs\" LEONARDO,\nVol. 35, No. 1, pp. 59-64 (2002).",
+      "links": [
+        {
+          "text": "\"A Self-Defining Game for One Player: On the Nature of Creativity and the Possibility of Creative Computer Programs\"",
+          "href": "http://mitpress2.mit.edu/e-journals/Leonardo/isast/articles/Cohen.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Writings about Manfred\nMohr.",
+      "links": [
+        {
+          "text": "Writings about Manfred Mohr",
+          "href": "http://www.emohr.com/ww2_out.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Anton Eliëns: \"Computational Art.\"\nLeonardo, Electronic Art Supplemental Issue, 1988, pp.\n21-25.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George Legrady: Approximating\nReality with Interactive Algorithmic Art. UCSB, 2001.",
+      "links": [
+        {
+          "text": "Approximating Reality with Interactive Algorithmic Art.",
+          "href": "http://www.mat.ucsb.edu/%7Eg.legrady/academic/courses/01sp200a/students/brentYokota/200a_fin.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rafael Lozano-Hemmer: \"Perverting Technological Correctness\". LEONARDO, Vol. 29,\nNo. 1, pp. 5-15, 1996.",
+      "links": [
+        {
+          "text": "\"Perverting Technological Correctness\".",
+          "href": "http://www.conceptlab.com/interface/theories/technology/index.html#notes",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Benoit B. Mandelbrot: \"Fractals and an Art for the Sake\nof Science.\" Leonardo, Computer Art in Context Supplemental\nIssue (1989). [Reprinted in: Michele Emmer (ed.): The Visual\nMind: Art and Mathematics. Cambridge, Mass.: The MIT Press,\n1993, pp. 11–14.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: \"Einmaliges\nund Beliebiges.\" 1995, Freie Universität Berlin.\n(Systematic and historical perspective by one of the pioneers.)",
+      "links": [
+        {
+          "text": "\"Einmaliges und Beliebiges.\"",
+          "href": "/algorithmic-art/nake95",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Stephen\nWilson: Artificial Intelligence research as art, 1995.",
+      "links": [
+        {
+          "text": "Stephen Wilson: Artificial Intelligence research as art, 1995.",
+          "href": "http://www.stanford.edu/group/SHR/4-2/text/wilson.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Wright: \"Some Issues in the Development of Computer\nArt as a Mathematical Art Form.\" Leonardo, Electronic\nArt Supplemental Issue, 1988, pp. 103-110.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Anthologies",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Algorists. (Early\nalgorithmic art.)",
+      "links": [
+        {
+          "text": "Algorists.",
+          "href": "http://www.solo.com/studio/algorists.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyberdelia.\nMiscellaneous algorithmic art.",
+      "links": [
+        {
+          "text": "Cyberdelia.",
+          "href": "http://www.sharemation.com/%7Ebravedog/cyberdelia3.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "G R A T I N (Groupe de Recherches en Art et\nTechnologies Interactives et/ou Numériques):\nLinks. [To be processed]",
+      "links": [
+        {
+          "text": "Links.",
+          "href": "http://www.gratin.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "George Legrady:\nAlgorithmic Art Links.",
+      "links": [
+        {
+          "text": "Algorithmic Art Links.",
+          "href": "http://www.mat.ucsb.edu/%7Eg.legrady/academic/courses/02w200a/algorithmic/links.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Neural\nMagazine (Many links, with informative descriptions in Italian)\n[To be processed]",
+      "links": [
+        {
+          "text": "Neural Magazine",
+          "href": "http://www.neural.it/nnews/artnews.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "readme\n1.2 festival",
+      "links": [
+        {
+          "text": "readme 1.2 festival",
+          "href": "http://www.macros-center.ru/read_me/inde2.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "rhizome",
+      "links": [
+        {
+          "text": "rhizome",
+          "href": "http://www.rhizome.org",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "runme.org\nsoftware art repository [To be processed]",
+      "links": [
+        {
+          "text": "runme.org software art repository",
+          "href": "http://www.runme.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "soundtoys",
+      "links": [
+        {
+          "text": "soundtoys",
+          "href": "http://www.soundtoys.net/a/indexa.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "whitney\nartport resources [To\nbe checked]",
+      "links": [
+        {
+          "text": "whitney artport resources",
+          "href": "http://artport.whitney.org/resources/index.shtml",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Links about Art and Science",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "International\nSociety of the Arts, Mathematics and Architecture",
+      "links": [
+        {
+          "text": "International Society of the Arts, Mathematics and Architecture",
+          "href": "http://www.isama.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Visual\nMathematics and Mathematical Art. (Cf.: Group-theoretical\nperspective, Leyton)",
+      "links": [
+        {
+          "text": "Visual Mathematics and Mathematical Art.",
+          "href": "http://members.tripod.com/vismath/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha. Some links suggested by Marga Landini\nand Chuntug Taguba.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/nake95"
+  ]
+}

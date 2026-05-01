@@ -1,0 +1,132 @@
+{
+  "slug": "informe/mess",
+  "legacy_path": "informe/mess/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "L'Informe",
+  "heading": "mess",
+  "description": "What forms does the formless take?",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "mess",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "[disorganized distributions involving a variety of materials, including\nsmall-grained matter or liquids]",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/muehl-Muehl64Materialaktion13.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Materialaktion # 13, 1964",
+      "width": "293",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/muehl-Muehl64MA15(OhTannenbaum)S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/muehl-Muehl64MA(OhTannenbaum)C-S.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Materialaktion\n# 15\n\n(Oh Tannenbaum), 1964",
+      "width": "308",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/le-va-LeVa78-3rdInstallation1978.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Third Installation, 1978",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/cindy-sherman-sherman87Unt182-S.jpg",
+      "alt": "",
+      "caption": "Cindy Sherman: Untitled # 182, 1987",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/cindy-sherman-Sherman87-91Unt238-S.jpg",
+      "alt": "",
+      "caption": "Cindy\nSherman: Untitled # 238, 1987-1991",
+      "width": "174",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/mess/cindy-sherman-sherman87Unt-S.jpg",
+      "alt": "",
+      "caption": "Cindy\nSherman: Untitled, 1987",
+      "width": "307",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/mess/muehl-Muehl64Materialaktion13.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Materialaktion # 13, 1964",
+      "legacy_src": "Muehl/Muehl64Materialaktion13.jpg"
+    },
+    {
+      "src": "/images/informe/mess/muehl-Muehl64MA15(OhTannenbaum)S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Muehl/Muehl64MA15(OhTannenbaum)S.jpg"
+    },
+    {
+      "src": "/images/informe/mess/muehl-Muehl64MA(OhTannenbaum)C-S.jpg",
+      "alt": "",
+      "caption": "Otto Mühl: Materialaktion\n# 15\n\n(Oh Tannenbaum), 1964",
+      "legacy_src": "Muehl/Muehl64MA(OhTannenbaum)C-S.jpg"
+    },
+    {
+      "src": "/images/informe/mess/le-va-LeVa78-3rdInstallation1978.jpg",
+      "alt": "",
+      "caption": "Barry Le Va: Third Installation, 1978",
+      "legacy_src": "LeVa/LeVa78-3rdInstallation1978.jpg"
+    },
+    {
+      "src": "/images/informe/mess/cindy-sherman-sherman87Unt182-S.jpg",
+      "alt": "",
+      "caption": "Cindy Sherman: Untitled # 182, 1987",
+      "legacy_src": "CindySherman/sherman87Unt182-S.jpg"
+    },
+    {
+      "src": "/images/informe/mess/cindy-sherman-Sherman87-91Unt238-S.jpg",
+      "alt": "",
+      "caption": "Cindy\nSherman: Untitled # 238, 1987-1991",
+      "legacy_src": "CindySherman/Sherman87-91Unt238-S.jpg"
+    },
+    {
+      "src": "/images/informe/mess/cindy-sherman-sherman87Unt-S.jpg",
+      "alt": "",
+      "caption": "Cindy\nSherman: Untitled, 1987",
+      "legacy_src": "CindySherman/sherman87Unt-S.jpg"
+    }
+  ],
+  "out_links": []
+}

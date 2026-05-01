@@ -1,0 +1,377 @@
+{
+  "slug": "concept/tautology/ben",
+  "legacy_path": "concept/tautology/ben/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Ben's Tautologies",
+  "heading": "Tautologies by Ben Vautier",
+  "description": "Tautological pieces by Ben Vautier.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tautologies by Ben Vautier",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1958-art-ss.jpg",
+      "alt": "",
+      "caption": "1958",
+      "width": "177",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1971-Kunst-ss.jpg",
+      "alt": "",
+      "caption": "1971",
+      "width": "180",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/BenArt-1975-S.jpg",
+      "alt": "",
+      "caption": "1975",
+      "width": "214",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1975-ecrit-S.jpg",
+      "alt": "",
+      "caption": "1975",
+      "width": "180",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/80-ST[Art]-s.jpg",
+      "alt": "",
+      "caption": "1980",
+      "width": "230",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/Ben1987Art-S.jpg",
+      "alt": "",
+      "caption": "1987",
+      "width": "200",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1958-DesMots-SS.jpg",
+      "alt": "",
+      "caption": "1958",
+      "width": "200",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1959-DesMotsDesMots-SS.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "200",
+      "height": "144",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-74-message-S.jpg",
+      "alt": "",
+      "caption": "1974",
+      "width": "180",
+      "height": "129",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1958-rouge-SS.jpg",
+      "alt": "",
+      "caption": "1958",
+      "width": "200",
+      "height": "77",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/VautierNoirEtBeau-1959-S.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "180",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/Ben99Noire-S.jpg",
+      "alt": "",
+      "caption": "1999",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "TRUTHS (1961)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Truth exists and is beautiful in its essence, so I communicate and create it on canvas, in letters, or even orally, as truths such as:\n\n1 + 1 = 2.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1965-toile-SS.jpg",
+      "alt": "",
+      "caption": "1965",
+      "width": "200",
+      "height": "128",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1969-PeintureSeche-ss.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "200",
+      "height": "124",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "200",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1971-ToileEtc-SS.jpg",
+      "alt": "",
+      "caption": "1971",
+      "width": "136",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1966-1966-ss.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "200",
+      "height": "146",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/vautier1990.jpg",
+      "alt": "",
+      "caption": "1990",
+      "width": "178",
+      "height": "138",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/ben-1966-PasDatee-S.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "180",
+      "height": "107",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/Ben95TempsDeVivre-S.jpg",
+      "alt": "",
+      "caption": "1995",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben/Ben-1979-HereAndNow-S.jpg",
+      "alt": "",
+      "caption": "1979",
+      "width": "122",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "other work by ben vautier",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "art = ben",
+      "links": [
+        {
+          "text": "",
+          "href": "/ego/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "word paintings",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/words/ben",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/ben/ben-1958-art-ss.jpg",
+      "alt": "",
+      "caption": "1958",
+      "legacy_src": "ben-1958-art-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1971-Kunst-ss.jpg",
+      "alt": "",
+      "caption": "1971",
+      "legacy_src": "ben-1971-Kunst-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/BenArt-1975-S.jpg",
+      "alt": "",
+      "caption": "1975",
+      "legacy_src": "BenArt-1975-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1975-ecrit-S.jpg",
+      "alt": "",
+      "caption": "1975",
+      "legacy_src": "ben-1975-ecrit-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/80-ST[Art]-s.jpg",
+      "alt": "",
+      "caption": "1980",
+      "legacy_src": "80-ST%5BArt%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/Ben1987Art-S.jpg",
+      "alt": "",
+      "caption": "1987",
+      "legacy_src": "Ben1987Art-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1958-DesMots-SS.jpg",
+      "alt": "",
+      "caption": "1958",
+      "legacy_src": "ben-1958-DesMots-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1959-DesMotsDesMots-SS.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "ben-1959-DesMotsDesMots-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-74-message-S.jpg",
+      "alt": "",
+      "caption": "1974",
+      "legacy_src": "ben-74-message-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1958-rouge-SS.jpg",
+      "alt": "",
+      "caption": "1958",
+      "legacy_src": "ben-1958-rouge-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/VautierNoirEtBeau-1959-S.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "VautierNoirEtBeau-1959-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/Ben99Noire-S.jpg",
+      "alt": "",
+      "caption": "1999",
+      "legacy_src": "Ben99Noire-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1965-toile-SS.jpg",
+      "alt": "",
+      "caption": "1965",
+      "legacy_src": "ben-1965-toile-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1969-PeintureSeche-ss.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "ben-1969-PeintureSeche-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "ben-1966-toile45cm-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1971-ToileEtc-SS.jpg",
+      "alt": "",
+      "caption": "1971",
+      "legacy_src": "ben-1971-ToileEtc-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1966-1966-ss.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "ben-1966-1966-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/vautier1990.jpg",
+      "alt": "",
+      "caption": "1990",
+      "legacy_src": "vautier1990.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/ben-1966-PasDatee-S.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "ben-1966-PasDatee-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/Ben95TempsDeVivre-S.jpg",
+      "alt": "",
+      "caption": "1995",
+      "legacy_src": "Ben95TempsDeVivre-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben/Ben-1979-HereAndNow-S.jpg",
+      "alt": "",
+      "caption": "1979",
+      "legacy_src": "Ben-1979-HereAndNow-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/words/ben",
+    "/ego/ben"
+  ]
+}

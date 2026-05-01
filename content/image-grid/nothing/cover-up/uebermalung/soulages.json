@@ -1,0 +1,526 @@
+{
+  "slug": "nothing/cover-up/uebermalung/soulages",
+  "legacy_path": "nothing/cover-up/Uebermalung/Soulages/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Pierre Soulages",
+  "heading": "Pierre Soulages",
+  "description": "Übermalungen von Arnulf Rainer.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Pierre Soulages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/48-ST-m.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1948",
+      "width": "147",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/53-p25ou23mai1953-m.jpg",
+      "alt": "",
+      "caption": "Peinture 23 May1953",
+      "width": "169",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/55-P-17_fevrier_1955-m.jpg",
+      "alt": "",
+      "caption": "Peinture 17 Février 1955",
+      "width": "176",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/58-litho8-1958-m.jpg",
+      "alt": "",
+      "caption": "Lithographie 8, 1958",
+      "width": "180",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/59-Composition-1959-m.jpg",
+      "alt": "",
+      "caption": "Composition, 1959",
+      "width": "171",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/59PaintingDec9-1959-s.jpg",
+      "alt": "",
+      "caption": "Peinture 9 Décembre 1959",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/63-p256x202_24nov-1963-m.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "189",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 256 x 202 cm\n\n24 Novembre 1963",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/64-p236_5x300_5_5fevr1964-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 236.5 x 300.5 cm\n\n5 Février 1964",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/66-p130x162_22juillet1966-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 130 x 162 cm\n\n22 Juillet 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/68P220x366-14Mai1968-m.jpg",
+      "alt": "",
+      "caption": "Peinture 220 x 366 cm 14 Mai 1968",
+      "width": "335",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/69-p92x73_24avril1969-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 92 x 73 cm\n\n24 Avril 1969",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/68-p220x365_28nov1968-m.jpg",
+      "alt": "",
+      "caption": "Peinture 220 x 365 cm 28 Novembre 1968",
+      "width": "342",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/74-p202x256_4janvier1974-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 202 x 256 cm\n\n4 Janvier 1974",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/77-ST(A32)-m.jpg",
+      "alt": "",
+      "caption": "Sans Titre (A 32), 1977",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/79P222x175cm23July1979-m.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 222 x 175 cm\n\n23 Juillet 1979",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/79-p162x310_14aout1979-m.jpg",
+      "alt": "",
+      "caption": "Peinture 162 x 310 cm 14 Août 1979",
+      "width": "390",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/83-P-6Mai1983-m.jpg",
+      "alt": "",
+      "caption": "Peinture 6 Mai 1983",
+      "width": "196",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/84-p222x157_30mars1984-m.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "176",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 222 x 157 cm\n\n30 Mars 1984",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/84-p222x411_12nov-1984-m.jpg",
+      "alt": "",
+      "caption": "Peinture 222 x 411 cm 12 Novembre 1984",
+      "width": "355",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/85-PolyptyqueC-s.jpg",
+      "alt": "",
+      "caption": "Polyptyque C, 1985",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/85-P-21_avril_1985-m.jpg",
+      "alt": "",
+      "caption": "Peinture 21 Avril 1985",
+      "width": "230",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/89-P-16_octobre_1989-s.jpg",
+      "alt": "",
+      "caption": "Peinture 16 Octobre 1989",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/90Composition1990-m.jpg",
+      "alt": "",
+      "caption": "Composition, 1990",
+      "width": "327",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/90-20Dec1990-s.jpg",
+      "alt": "",
+      "caption": "Peinture 20 Décembre 1990",
+      "width": "230",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/95-p220x324cm19janv1995-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 220 x 324 cm\n\n19 Janvier 1995",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/96-p324x181_22dec-1996-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "140",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 324 x 181 cm\n\n22 Décembre 1996",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002P227x102-25Juin2002-m.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "111",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 227 x 102 cm\n\n25 Juin 2002",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002P290x520cm-22Mai2002-m.jpg",
+      "alt": "",
+      "caption": "Peinture 290 x 520 cm 22 Mai 2002",
+      "width": "359",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002-a.jpg",
+      "alt": "",
+      "caption": "2002",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2004P162x181cm17.12.2004-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "221",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture 162 x 181 cm\n\n17 Décembre 2004",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/48-ST-m.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1948",
+      "legacy_src": "48-ST-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/53-p25ou23mai1953-m.jpg",
+      "alt": "",
+      "caption": "Peinture 23 May1953",
+      "legacy_src": "53-p25ou23mai1953-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/55-P-17_fevrier_1955-m.jpg",
+      "alt": "",
+      "caption": "Peinture 17 Février 1955",
+      "legacy_src": "55-P-17_fevrier_1955-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/58-litho8-1958-m.jpg",
+      "alt": "",
+      "caption": "Lithographie 8, 1958",
+      "legacy_src": "58-litho8-1958-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/59-Composition-1959-m.jpg",
+      "alt": "",
+      "caption": "Composition, 1959",
+      "legacy_src": "59-Composition-1959-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/59PaintingDec9-1959-s.jpg",
+      "alt": "",
+      "caption": "Peinture 9 Décembre 1959",
+      "legacy_src": "59PaintingDec9-1959-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/63-p256x202_24nov-1963-m.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "63-p256x202_24nov-1963-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/64-p236_5x300_5_5fevr1964-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "64-p236_5x300_5_5fevr1964-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/66-p130x162_22juillet1966-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "66-p130x162_22juillet1966-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/68P220x366-14Mai1968-m.jpg",
+      "alt": "",
+      "caption": "Peinture 220 x 366 cm 14 Mai 1968",
+      "legacy_src": "68P220x366-14Mai1968-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/69-p92x73_24avril1969-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "69-p92x73_24avril1969-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/68-p220x365_28nov1968-m.jpg",
+      "alt": "",
+      "caption": "Peinture 220 x 365 cm 28 Novembre 1968",
+      "legacy_src": "68-p220x365_28nov1968-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/74-p202x256_4janvier1974-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "74-p202x256_4janvier1974-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/77-ST(A32)-m.jpg",
+      "alt": "",
+      "caption": "Sans Titre (A 32), 1977",
+      "legacy_src": "77-ST(A32)-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/79P222x175cm23July1979-m.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "79P222x175cm23July1979-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/79-p162x310_14aout1979-m.jpg",
+      "alt": "",
+      "caption": "Peinture 162 x 310 cm 14 Août 1979",
+      "legacy_src": "79-p162x310_14aout1979-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/83-P-6Mai1983-m.jpg",
+      "alt": "",
+      "caption": "Peinture 6 Mai 1983",
+      "legacy_src": "83-P-6Mai1983-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/84-p222x157_30mars1984-m.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "84-p222x157_30mars1984-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/84-p222x411_12nov-1984-m.jpg",
+      "alt": "",
+      "caption": "Peinture 222 x 411 cm 12 Novembre 1984",
+      "legacy_src": "84-p222x411_12nov-1984-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/85-PolyptyqueC-s.jpg",
+      "alt": "",
+      "caption": "Polyptyque C, 1985",
+      "legacy_src": "85-PolyptyqueC-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/85-P-21_avril_1985-m.jpg",
+      "alt": "",
+      "caption": "Peinture 21 Avril 1985",
+      "legacy_src": "85-P-21_avril_1985-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/89-P-16_octobre_1989-s.jpg",
+      "alt": "",
+      "caption": "Peinture 16 Octobre 1989",
+      "legacy_src": "89-P-16_octobre_1989-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/90Composition1990-m.jpg",
+      "alt": "",
+      "caption": "Composition, 1990",
+      "legacy_src": "90Composition1990-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/90-20Dec1990-s.jpg",
+      "alt": "",
+      "caption": "Peinture 20 Décembre 1990",
+      "legacy_src": "90-20Dec1990-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/95-p220x324cm19janv1995-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "95-p220x324cm19janv1995-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/96-p324x181_22dec-1996-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "96-p324x181_22dec-1996-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002P227x102-25Juin2002-m.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2002P227x102-25Juin2002-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002P290x520cm-22Mai2002-m.jpg",
+      "alt": "",
+      "caption": "Peinture 290 x 520 cm 22 Mai 2002",
+      "legacy_src": "2002P290x520cm-22Mai2002-m.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2002-a.jpg",
+      "alt": "",
+      "caption": "2002",
+      "legacy_src": "2002-a.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/uebermalung/soulages/2004P162x181cm17.12.2004-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004P162x181cm17.12.2004-s.jpg"
+    }
+  ],
+  "out_links": []
+}

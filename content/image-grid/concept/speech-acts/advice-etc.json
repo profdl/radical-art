@@ -1,0 +1,303 @@
+{
+  "slug": "concept/speech-acts/advice-etc",
+  "legacy_path": "concept/SpeechActs/AdviceEtc/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Appeals, predictions, proposals, refusals, threats",
+  "heading": "Appeals, predictions, proposals, refusals, threats",
+  "description": "Concept art: Text pieces: Appeals, predictions, proposals, threats.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Appeals, predictions, proposals, refusals, threats",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Refusals",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/situationism-Jorn62LAvantgardeSeRendPasS.jpg",
+      "alt": "",
+      "caption": "Asger Jorn: \"L'Avant-garde se rend pas\"\n1962",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Kruger87Hero-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Barbara Kruger: Untitled\n\n(\"We don't need another hero\"),\n\n1987",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Appeals",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/appeals-vautier-liberta-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Liberta per tutti\"",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/appeals-vautier-verite-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Pas d'art sans vérité\"",
+      "width": "198",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/situationism-GsppePinotGallizioDebord59s.jpg",
+      "alt": "",
+      "caption": "Guy Debord:",
+      "width": "230",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Abolition du Travail Aliéné\", 1963",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Text on 1959 \"industrial painting\"\n\nby Giuseppe Pinot Gallizio)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Debord-1-Corr-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Guy Debord:\n\n\"Dépassement de l'art\", 1963",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Debord2-s.jpg",
+      "alt": "",
+      "caption": "Guy Debord:",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Réalisation de la Philosophie\", 1963",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Ohrt: Phantom Avantgarde. Eine Geschichte der Situationistischen Internationale und der Modernen Kunst.\n\nHamburg: Lutz Schulenburg, 1990 (pp. 266/270/329).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Acknowledgment",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Guy Debord images thanks to Nicolas Terrasson.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Proposal",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Let's fuck\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1979",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/proposals-Ben79.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Threats",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/threats-Kruger82-undo_you-s.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger: Untitled\n\n(\"We will undo you\") – 1982",
+      "width": "174",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Ben99TempsVenus-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Les temps sont venus\" – 1999",
+      "width": "230",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Predictions",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Ben90-marche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "161",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier: \"Le marché de l'art\n\ns'écroule demain à 18h30\" – 1990",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Holzer04War-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jenny Holzer: \"The beginning of the war\n\nwill be secret\" – 2004",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/advice-etc/situationism-Jorn62LAvantgardeSeRendPasS.jpg",
+      "alt": "",
+      "caption": "Asger Jorn: \"L'Avant-garde se rend pas\"\n1962",
+      "legacy_src": "../../situationism/Jorn62LAvantgardeSeRendPasS.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Kruger87Hero-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Appeals/Kruger87Hero-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/appeals-vautier-liberta-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Liberta per tutti\"",
+      "legacy_src": "Appeals/vautier-liberta-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/appeals-vautier-verite-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Pas d'art sans vérité\"",
+      "legacy_src": "Appeals/vautier-verite-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/situationism-GsppePinotGallizioDebord59s.jpg",
+      "alt": "",
+      "caption": "Guy Debord:",
+      "legacy_src": "../../situationism/GsppePinotGallizioDebord59s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Debord-1-Corr-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Appeals/Debord-1-Corr-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/appeals-Debord2-s.jpg",
+      "alt": "",
+      "caption": "Guy Debord:",
+      "legacy_src": "Appeals/Debord2-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/proposals-Ben79.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "proposals/Ben79.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/threats-Kruger82-undo_you-s.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger: Untitled\n\n(\"We will undo you\") – 1982",
+      "legacy_src": "Threats/Kruger82-undo_you-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Ben99TempsVenus-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Les temps sont venus\" – 1999",
+      "legacy_src": "predictions/Ben99TempsVenus-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Ben90-marche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "predictions/Ben90-marche-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/advice-etc/predictions-Holzer04War-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "predictions/Holzer04War-s.jpg"
+    }
+  ],
+  "out_links": []
+}

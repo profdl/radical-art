@@ -1,0 +1,82 @@
+{
+  "slug": "algorithmic-art/chance/random-number-tables",
+  "legacy_path": "AlgorithmicArt/chance/RandomNumberTables.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Random Number Tables",
+  "heading": "Some Random Number Tables",
+  "description": "A table of random number tables.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Some Random Number Tables",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "[in chronological order]",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "L.H.C. Tippett: Random Sampling Numbers. Tracts for Computers\nno. 15. Cambridge, England: Cambridge University Press, 1927. [Based\non census data.]\n\n\n\nMahalanobis, P. C. (1934). Tables of random samples from a normal\npopulation. Sankya, 1, 289-328.\n\n\n\nM.G. Kendall & B. Babington Smith: \"Randomness and Random\nSampling Numbers\" (Appendix), Journal of the Royal Statistical\nSociety, Vol. 101, No. 1 (1938), pp. 147-166.\n\n\n\n\nR.A. Fisher & F. Yates: Statistical tables for biological,\nagricultural and medical research. Oliver and Boyd, 1938. [Based\non logarithm tables]\n\n\n\nM.G. Kendall and B. Babington Smith, A Table of Random Sampling\nNumbers. Tracts for Computers no. 24. (Cambridge, UK: Cambridge\nUniversity Press, 1939).\n\n\n\nA. Hald: \"Table of random\nnumbers.\" In: A. Hald: Statistical Tables and Formulas. Wiley,\n1952.\n\n\n\nRoyo, J., Ferrer, S. (1954). Tables of random numbers obtained\nfrom numbers in the Spanish National Lottery. Trabajos de\nEstadistica, 5, 247-256.\n\n\n\nRAND Corporation: A Million Random Digits with 100,000 Normal\nDeviates. Glencoe, Illinois: The Free Press, 1955. [\nZip-file: A Million Random Digits.]\n\n\n\nQuenouille, M. H. (1959). \"Tables of random observations\nfrom standard distributions.\" Biometrika, 46, 178-202\n\n\n\n\nMoses, E. L., Oakford, V. R. (1963). Tables of Random Permutations. George Allen & Unwin.\n\n\n\nRao, C. R., Mitra, S. K., Matthai, A. (1966). Random numbers\nand permutations. Calcutta: Statistical Publishing Society.\n\n\n\n\nF.J. Rohlf & R.R. Sokal: \"Ten thousand random digits.\"\nIn: Rohlf & Sokal: Statistical Tables. Freeman, 1969.\n\n\n\nManfred Mohr: Le Petit Livre de Nombres au Hasard. Paris, 1971, Édition d'artiste.\n\n\n\nHill, I. D., Hill, P. A. (1977). Tables of Random Times. U.K.\n\n\n\nKevin Conroy: 5120 Random Numbers (<5k, 2002) [Calls the JavaScript pseudo-random number generator.]\n\n\n\nRandomNumber.org, 2004",
+      "links": [
+        {
+          "text": "Zip-file: A Million Random Digits.",
+          "href": "http://www.rand.org/pubs/monograph_reports/2005/digits.txt.zip",
+          "external": true
+        },
+        {
+          "text": "5120 Random Numbers",
+          "href": "http://entries.the5k.org/1285/index.html",
+          "external": true
+        },
+        {
+          "text": "RandomNumber.org",
+          "href": "http://randomnumber.org/download.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The RAND Corporation book was employed\nby Jackson Mac Low. (Cf.: Stanzas for Iris Lezak, Millerton,\nNY: Something Else Press, 1972, p. 400.) Herman de Vries (who\nwas a biologist by training) always used Fisher & Yates.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hardware devices for generating\nrandom numbers\n\n\n\nQuotes about chance\n\n\n\nChance Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/hardware",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/qchance",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2006",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/chance",
+    "/algorithmic-art/chance/hardware",
+    "/algorithmic-art/chance/qchance"
+  ]
+}

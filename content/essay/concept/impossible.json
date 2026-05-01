@@ -1,0 +1,169 @@
+{
+  "slug": "concept/impossible",
+  "legacy_path": "concept/impossible.html",
+  "section": "concept",
+  "archetype": "essay",
+  "title": "impossible events",
+  "heading": "Impossible, undefined, unstable and unusually difficult pieces",
+  "description": "Fluxus events: Impossible, undefined, unstable and unusually difficult pieces.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Paradoxical pieces",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "To perform this piece\n\ndo not perform it.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tony Conrad, Summer 1961\n\n\n\n[Cf. Jon Hendricks: Fluxus Codex. The Gilbert and Lila Silverman Fluxus Collection. New York, 1988, p.330.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger Music Number Thirty-Two\n\n(for George Maciunas)\n\n\n\nDo not abide by your decision.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dick Higgins, April 1, 1963",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Undefined pieces",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/impossible/logo-black.gif",
+      "alt": "",
+      "caption": "Each point on this line is a composition.",
+      "width": "200",
+      "height": "2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt, January 1961",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the piece that is any piece.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tony Conrad, Summer 1961",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Opera Instruction\n\n\n\nDo and/or don't do something universally.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric Andersen, 1961",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The instructions for this piece are\n\non the other side of this sheet.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt, January 1961.\n\n(Two sides of instruction sheet.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The instructions for this piece are\n\nonthe other side of this sheet.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The instructions for this piece are\n\non the other side of this sheet.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt, January 1961.\n\n(Two sides of instruction sheet.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Changing pieces",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Opera Instruction",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The frequency a'''' is played as a violin frequency for 30 seconds\nat intensity pp. Each year which passes after the first of April 1962\ninvolves that the duration for which the frequency is played is lengthened\nby 5 seconds.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric Andersen, 1961",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Dick Higgins: Very Difficult Pieces",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger Music Number Nine\n\n\n\n(for Nam June Paik)\n\n\n\nVolunteer to have your spine removed.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "February 1962",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger Music Number Eleven\n\n\n\n(for George)\n\n\n\nChange your mind repeatedly in a lyrical manner about Roman Catholicism.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "February 1962",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Danger Music Number Twelve\n\n\n\nWrite a thousand symphonies.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "March l962",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/impossible/logo-black.gif",
+      "alt": "",
+      "caption": "Each point on this line is a composition.",
+      "legacy_src": "../gif/logo/black.gif"
+    }
+  ],
+  "out_links": []
+}

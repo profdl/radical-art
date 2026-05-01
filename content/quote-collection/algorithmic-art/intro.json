@@ -1,0 +1,273 @@
+{
+  "slug": "algorithmic-art/intro",
+  "legacy_path": "AlgorithmicArt/intro.html",
+  "section": "AlgorithmicArt",
+  "archetype": "quote-collection",
+  "title": "About Algorithmic Art",
+  "heading": "About Algorithmic Art",
+  "description": "What is algorithmic art?",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Remko Scha",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "About Algorithmic Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "We are concerned with autonomous algorithms that\nproduce visual art (or, perhaps equivalently, algorithms that\nthemselves may be viewed as (meta-) artworks). We are not\nconcerned with software-tools that facilitate the production of\nartworks by human artists.\n\n\n\nMost image generation algorithms do not specify one image, but\na large (often infinite) class of images. Algorithmic art is \"meta-art\".\nOther, pre-computational approaches to meta-art constitute the\nart-historical context of algorithmic art:\nkinetic art, conceptual art,\ninteractive art, process\nart, drawing\nmachines. In the case of algorithmic art, the class of possible\noutcomes is specified in mathematical terms; other forms of meta-art\ntend to involve human persons or other real-world processes.",
+      "links": [
+        {
+          "text": "kinetic art",
+          "href": "/kinetics",
+          "external": false
+        },
+        {
+          "text": "conceptual art",
+          "href": "/concept",
+          "external": false
+        },
+        {
+          "text": "interactive art",
+          "href": "/anything/open-form",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "drawing machines",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art-generation algorithms can be applied to various\nmodalities: images, animations, sculpture, architecture, music,\ntext, even facial expression and other forms of body-art. They\ncan be meant to be observed live in a discotheque or on the internet,\nor to produce static output for art-collectors and traditional\nmuseums. The focus of this page is image generation – but\nthe mathematical concepts and computational methods that we encounter\nmay very well be applicable in other domains.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Algorithms",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "An algorithm is a sequence of formal (mechanical)\nrules operating on symbolic representations (codes).\n\n\n\nIn ancient Greece and India, systems of rules were used to ensure\nobjectivity and precision: Euclid's Elements, Aristotle's\nsyllogisms, Panini's grammar of Sanskrit.\n\n\n\nThe mechanization of rule systems was pioneered in the 14th century\nA.D., when Ramon Llull proposed mechanical procedures for generating\nnew propositions from first principles. A few centuries later,\nGottfried Wilhelm von Leibniz invented symbolic logic by eliminating\nthe theological content from Llull's machinery.\n\n\n\nThe first fully specified design for a \"general purpose computer\",\nrunning algorithms in today's precise sense of that word, was\nAlan Turing's \"Universal Computing Machine\".",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mathematical Images",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Any image-generation algorithm must be based on\nsome formal conception of what an image is -- it must be inscribed\nwithin a mathematical definition of the set of all possible images.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Shapes. Mainstream\nmathematics assumes a reductionist ontology about geometry: it\ntreats lines and planes as sets of points –– where a\npoint is a position in a given n-dimensional space. A point may\nthus be represented as an n-tuple of numbers: the Cartesian coordinates\nwhich specify its position. A point in a two-dimensional plane\nis thus described by a pair, consisting of its x-coordinate and\nits y-coordinate.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/intro/gif-RGB-cube.jpg",
+      "alt": "",
+      "caption": "RGB cube",
+      "width": "200",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/intro/gif-HSV-simeqi.JPG",
+      "alt": "",
+      "caption": "Hue-Saturation-Brightness\ncone",
+      "width": "180",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Colors. In black & white graphics,\ncolor is a boolean: black/white. The scale of grey-tones is a\none-dimensional continuum (for instance: the segment of the real\nnumbers between 0 and 1). The space of all colors is a three-dimensional\ncontinuum. One can make different choices about which dimensions\nto use. E.g.: RGB, CYM, HSB.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "An image is thus\na mapping from pairs of real numbers (in a given interval) to\ncolors (e.g., booleans, real numbers, or triples of real numbers).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Computational Images",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The mathematical point of view does not directly\ntranslate into a practical convention for finite computational representations.\nThe mathematical correlate of a visible shape or line-segment is\na set of uncountably many points, and the coordinates of most of\nthese points are not integers, but irrational numbers, which cannot\nbe represented in a finite way.\n\n\n\nIn the design of image-generation algorithms,\nthe representations to be used can thus not be based directly on\nmathematical first principles. No image-generation algorithm can\nexplore the space of all possible images, if we understand that\nnotion in its mathematical sense. Any algorithm must be based on\na definition of a space of finitely representable images; specifying\nthis definition is in some sense an arbitrary (in other words, artistic)\ndecision.\n\n\n\nDifferent \"schools\" in algorithmic\nart made different decisions about this. We present the most common\napproaches on separate pages:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Grid-based algorithms, which work with\na two-dimensional array of cells – a discrete version\nof the mathematical model, which makes the image representations\nfinite and computable. The grid therefore inherits a feel\nof \"objectivity\" from the mathematical research\ntradition.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Scatter-algorithms, which map bags of\nobjects onto positions on the plane.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Line-based algorithms. This includes turtle-graphics algorithms, which draw sequences\nof straight line-segments in terms of a \"local\" coordinate-system, and movement\nsimulation algorithms, which draw lines according\nto a continuous dynamics.",
+      "links": [
+        {
+          "text": "movement simulation algorithms",
+          "href": "/algorithmic-art/movement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Visual Languages",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Any\nimage generation algorithm is inscribed within some \"visual\nlanguage\": it assumes a set of formally possible images, and\nthis assumption largely determines the style of the piece. Different\ntechniques may be used to define visual languages:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Schemas.\nThe early algorithmic pieces of the 1960's were usually\nbased on one simple, fixed structure, with a small number\nof variable parameters.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Grammars.\nTo define visual languages which allow images with arbitrarily\ndeep hierarchical structures, one may draw inspiration from\nthe context-free and context-sensitive rewrite systems of\nearly Chomskyan linguistics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Algebras.\nThe most general approach is to use a mathematical image\ndescription language which encompasses complex image-generation\nand image-transformation operations.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Algorithmic approaches",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Any image generation algorithm explores a space\nof possible images. It may do this in many different ways.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Complete\nenumeration.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Random\nsampling. If the space of possibilities is very large,\nthis is the only way to give an unbiased impression of what\nit contains.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Optimization.\nThe algorithm may be trying to find the \"best\"\nimage according to certain criteria (e.g. a formalization\nof \"beauty\", or statistics about people's appreciation).\nTo explore the space effectively, a heuristic search strategy\nmust be employed. Artificial evolution by means of genetic\nalgorithms. is popular for this purpose.",
+      "links": [
+        {
+          "text": "genetic algorithms",
+          "href": "/algorithmic-art/evolutie",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Interactivity. The spectator may be allowed to explore\nthe possibilities on her own accord. The algorithm is an\ninterface.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergence. The algorithm carries\nout sequences of local transformations on an arbitrary initial\nimage. Global patterns emerge because of unforeseen interactions\nbetween the local processes. Algorithms of this sort (e.g.\ncellular automata)\nare often inspired by natural processes (Artificial Life).",
+      "links": [
+        {
+          "text": "cellular automata",
+          "href": "/algorithmic-art/grid/cellular",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Data-visualisation. Images may\nbe constructed by mapping data from a different (non-visual)\ndomain.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The esthetics of algorithmic art.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The classical painting is a material\nobject, dense with properties that cannot be explicitly articulated\nand which are nonetheless essential for the identity of the work.\n(Cf. Nelson Goodman: Languages of Art.) Algorithmic art\nis different: an algorithm is an explicit, discursively articulated\nschema. It does not create the concrete materiality of its output – it merely specifies some of its properties, at a more abstract\nlevel. In that sense, algorithmic art is conceptual art.\n\n\n\nMost image generation algorithms do not specify one image, but\na large (often infinite) class of images; algorithmic art is \"meta-art\".\nObviously, the esthetic goals of meta-art differ substantially\nfrom those of subjective expression-oriented art. The esthetics\nof meta-art is not a new invention, however. It can be traced\nback to the art of Marcel Duchamp and the philosophy of Immanuel\nKant. (Cf: Remko Scha: Kant, Duchamp,\nMeta-art.)",
+      "links": [
+        {
+          "text": "Kant, Duchamp, Meta-art.",
+          "href": "/meta",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In the context of the New Media,\nalgorithmic art can be viewed in two different ways. It borders\non highbrow visual art as well as on interactive media technology:\nif we parameterize an art generation algorithm and allow the human\nspectator to turn the knobs, we have built a new \"medium\"\nthat people may find fun, interesting or useful. Our perspective\non algorithmic art may thus be determined by the \"reflection\nesthetics\" of modern art, or by the \"involvement esthetics\" of computer games and paint programs. We will mostly adapt the\nfirst point of view, although the the second one may ultimately\nbe more important.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/intro/gif-RGB-cube.jpg",
+      "alt": "",
+      "caption": "RGB cube",
+      "legacy_src": "gif/RGB-cube.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/intro/gif-HSV-simeqi.JPG",
+      "alt": "",
+      "caption": "Hue-Saturation-Brightness\ncone",
+      "legacy_src": "gif/HSV-simeqi.JPG"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/evolutie",
+    "/algorithmic-art/grid/cellular",
+    "/algorithmic-art/movement",
+    "/anything/open-form",
+    "/concept",
+    "/kinetics",
+    "/meta",
+    "/process",
+    "/process/vibration/metamatic"
+  ]
+}

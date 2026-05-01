@@ -1,0 +1,81 @@
+{
+  "slug": "concept/speech-acts/answers",
+  "legacy_path": "concept/SpeechActs/Answers/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Answers",
+  "heading": "Answers",
+  "description": "Concept art: Text paintings: Answers.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Answers",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/answers/74RuschaVeryTrue-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"Very True\", 1974",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/answers/Brueggemann2005NoNoNoNo-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann: \"No, No, No, No\", 2005",
+      "width": "334",
+      "height": "135",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/answers/Ruscha-OK-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"OK\"",
+      "width": "161",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/answers/SylvieFleury2005YesToAll-s.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury\" \"Yes To All\", 2005",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/answers/74RuschaVeryTrue-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"Very True\", 1974",
+      "legacy_src": "74RuschaVeryTrue-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/answers/Brueggemann2005NoNoNoNo-s.jpg",
+      "alt": "",
+      "caption": "Stefan Brueggemann: \"No, No, No, No\", 2005",
+      "legacy_src": "Brueggemann2005NoNoNoNo-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/answers/Ruscha-OK-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"OK\"",
+      "legacy_src": "Ruscha-OK-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/answers/SylvieFleury2005YesToAll-s.jpg",
+      "alt": "",
+      "caption": "Sylvie Fleury\" \"Yes To All\", 2005",
+      "legacy_src": "SylvieFleury2005YesToAll-s.jpg"
+    }
+  ],
+  "out_links": []
+}

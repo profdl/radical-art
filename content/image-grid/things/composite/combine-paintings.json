@@ -1,0 +1,175 @@
+{
+  "slug": "things/composite/combine-paintings",
+  "legacy_path": "things/composite/CombinePaintings/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "CombinePaintings",
+  "heading": "Combine Paintings",
+  "description": "Combine Paintings: the juxtaposition of object and painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: readymades radical\nart",
+      "links": [
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Combine Paintings",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/puni-15-StillLifeWithHammer.jpg",
+      "alt": "",
+      "caption": "Ivan Puni:\n\nRelief with Hammer, 1915",
+      "width": "230",
+      "height": "256",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/Rauschenberg60Pilgrim-S.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nPilgrim, 1960",
+      "width": "230",
+      "height": "332",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/JasperJohns62FoolSHouse-S.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nFool's House, 1962",
+      "width": "193",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/kosuth-kosuth65-1And3hammers-s.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth:\n\nOne and Three Hammers, 1965\n\n\n\n\n\n\n\nJoseph Kosuth:\n\nOne and Three Chairs, 1965",
+      "width": "230",
+      "height": "126",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/kosuth",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/concept/tautology/kosuth",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/kosuth-Kosuth65-1And3chairs-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/vautier-strijkijzer-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nEncore un fer de repasser\n\nqui se prend pour de l'art.",
+      "width": "230",
+      "height": "276",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/combine-paintings/vautier-86-neo-geo-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "306",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier:\n\nDu Neo Geo de Ben, 1986",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/composite/combine-paintings/puni-15-StillLifeWithHammer.jpg",
+      "alt": "",
+      "caption": "Ivan Puni:\n\nRelief with Hammer, 1915",
+      "legacy_src": "puni/15-StillLifeWithHammer.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/Rauschenberg60Pilgrim-S.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nPilgrim, 1960",
+      "legacy_src": "Rauschenberg60Pilgrim-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/JasperJohns62FoolSHouse-S.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nFool's House, 1962",
+      "legacy_src": "JasperJohns62FoolSHouse-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/kosuth-kosuth65-1And3hammers-s.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth:\n\nOne and Three Hammers, 1965\n\n\n\n\n\n\n\nJoseph Kosuth:\n\nOne and Three Chairs, 1965",
+      "legacy_src": "kosuth/kosuth65-1And3hammers-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/kosuth-Kosuth65-1And3chairs-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kosuth/Kosuth65-1And3chairs-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/vautier-strijkijzer-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\nEncore un fer de repasser\n\nqui se prend pour de l'art.",
+      "legacy_src": "vautier-strijkijzer-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/combine-paintings/vautier-86-neo-geo-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "vautier-86-neo-geo-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/tautology/ben",
+    "/concept/tautology/kosuth",
+    "/index",
+    "/things"
+  ]
+}

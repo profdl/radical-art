@@ -1,0 +1,583 @@
+{
+  "slug": "nothing/space/frames",
+  "legacy_path": "nothing/space/frames/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Empty Frames",
+  "heading": "Empty  Frames & Bare Stretchers",
+  "description": "Frames without canvas in fifties and sixties painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty Frames & Bare Stretchers",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Mey-Sonier1883TDAVenir-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "133",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mey-Sonier: Tableau d'à Venir, 1883\n\n(Exposition des Arts Incohérents)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/surrealist+photos-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "227",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Surrealist photo-montage, 1930's?\n\n[To do: Find author, title, date.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Rainer51EmptyPainting-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "180",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arnulf Rainer:\n\nEmpty Painting, 1951",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/RM29LesCharmesDuPaysageS.jpg",
+      "alt": "",
+      "caption": "René Magritte: Les Charmes du Paysage, 1929",
+      "width": "269",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/JasperJohns1956Canvas-s.jpg",
+      "alt": "",
+      "caption": "Jasper Johns: Canvas, 1956",
+      "width": "204",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/78Guston.jpg",
+      "alt": "",
+      "caption": "Philip Guston, 1978",
+      "width": "194",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/61GiulioPaoliniST-S.jpg",
+      "alt": "",
+      "caption": "Giulio Paolini:\n\nSenza Titolo, 1961",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Ben62Chassis-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "198",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier:\n\nChassis, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/knoebelKeilrahmen-S.jpg",
+      "alt": "",
+      "caption": "Imi Knoebel:\n\nKeilrahmen, 1968",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Artschwager62-Handle-s.jpg",
+      "alt": "",
+      "caption": "Richard Artschwager: Handle, 1962",
+      "width": "165",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/gerold-miller-99Ready-mixC24.jpg",
+      "alt": "",
+      "caption": "Gerold Miller:\n\nReady-mix C24, 1999",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/pistoletto65QuadroDaPranzoS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nQuadro da Pranza, 1965",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/67-ManoloMillares-ObjetoConBastidor-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "167",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Manolo Millares:\n\nObjeto con Bastidor, 1967",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/3-d-65DeMaria-Cage-II.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nCage II, 1965",
+      "width": "120",
+      "height": "340",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/3-d-65-StephenAntonakosBlueBx-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Stephen Antonakos:\n\nBlue Box, 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/3-d-Nauman74DoubleSteelCagePce-s.jpg",
+      "alt": "",
+      "caption": "Bruce Nauman: Double Steel Cage Piece, 1974",
+      "width": "296",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/3-d-75-IRWIN-BLACKLINEVOLUME-s.jpg",
+      "alt": "",
+      "caption": "Robert Irwin: Black Line Volume, 1975",
+      "width": "296",
+      "height": "133",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/DanielDezeuze67Chassis-s.jpg",
+      "alt": "",
+      "caption": "Daniel Dezeuze: Chassis, 1967",
+      "width": "156",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Alighiero69Ruiten-s.jpg",
+      "alt": "",
+      "caption": "Alighiero e Boetti:\n\nNiente da vedere,\n\nniente da nascondere (vetrata), 1969",
+      "width": "214",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/IsaGenzken88Fenster-s.gif",
+      "alt": "",
+      "caption": "Isa Genzken: Fenster, 1988",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/JanMaartenVoskuil2007-Loop-s.jpg",
+      "alt": "",
+      "caption": "Jan Maarten Voskuil: Loop, 2007",
+      "width": "218",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Filiou70-7ChildlikeUsesOWMs.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Filliou: Seven Childlike Uses\n\nof Warlike Material, 1970",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/71-goeritz-LasPuertasALaNada-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\nLas Puertas a la Nada, 1971",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/Filliou74Flag-M.jpg",
+      "alt": "",
+      "caption": "Robert Filliou: This flag is meant\n\nto straddle national border lines, 1974",
+      "width": "214",
+      "height": "382",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/siegfried-cremer-Cremer75Diptychon-S.jpg",
+      "alt": "",
+      "caption": "Siegfried Cremer:\n\nDiptychon, 1975",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/89EckartEidolonNr1106-S.jpg",
+      "alt": "",
+      "caption": "Christian Eckart:\n\nEidolon # 1106, 1989",
+      "width": "140",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/JanMaartenVoskuil2002Guilde.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "172",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Maarten Voskuil:\n\nGuilded Frame, 2002",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/IsaGenzken89Fenster-s.jpg",
+      "alt": "",
+      "caption": "Isa Genzken: Fenster, 1989",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/2002-Volten-Denkbeeld-s.jpg",
+      "alt": "",
+      "caption": "André Volten: Denkbeeld, 2002",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/05MiroslawBalka-193x256x100-s.jpg",
+      "alt": "",
+      "caption": "Miroslaw Balka:\n193 x 256 x 100, 2005",
+      "width": "229",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To find: Maurice Lemaître: Invisible Portrait, 1966.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Voids\nby René Magritte\n\n\n\nEmpty\nframes by Siegfried Cremer\n\n\n\nEidolons\nby Christian Eckart\n\n\n\nEmpty\nframes by Gerold Miller",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/depiction/realist",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/frames/siegfried-cremer",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/frames/christian-eckart",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/frames/gerold-miller",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related genres:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Canvas\nBacks\n\n\n\nMonochromes\n\n\n\nEmpty Spaces",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/back",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/vide",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/frames/Mey-Sonier1883TDAVenir-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Mey-Sonier1883TDAVenir-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/surrealist+photos-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "surrealist+photos-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Rainer51EmptyPainting-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Rainer51EmptyPainting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/RM29LesCharmesDuPaysageS.jpg",
+      "alt": "",
+      "caption": "René Magritte: Les Charmes du Paysage, 1929",
+      "legacy_src": "RM29LesCharmesDuPaysageS.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/JasperJohns1956Canvas-s.jpg",
+      "alt": "",
+      "caption": "Jasper Johns: Canvas, 1956",
+      "legacy_src": "JasperJohns1956Canvas-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/78Guston.jpg",
+      "alt": "",
+      "caption": "Philip Guston, 1978",
+      "legacy_src": "78Guston.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/61GiulioPaoliniST-S.jpg",
+      "alt": "",
+      "caption": "Giulio Paolini:\n\nSenza Titolo, 1961",
+      "legacy_src": "61GiulioPaoliniST-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Ben62Chassis-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben62Chassis-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/knoebelKeilrahmen-S.jpg",
+      "alt": "",
+      "caption": "Imi Knoebel:\n\nKeilrahmen, 1968",
+      "legacy_src": "knoebelKeilrahmen-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Artschwager62-Handle-s.jpg",
+      "alt": "",
+      "caption": "Richard Artschwager: Handle, 1962",
+      "legacy_src": "Artschwager62-Handle-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/gerold-miller-99Ready-mixC24.jpg",
+      "alt": "",
+      "caption": "Gerold Miller:\n\nReady-mix C24, 1999",
+      "legacy_src": "GeroldMiller/99Ready-mixC24.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/pistoletto65QuadroDaPranzoS.jpg",
+      "alt": "",
+      "caption": "Michelangelo Pistoletto:\n\nQuadro da Pranza, 1965",
+      "legacy_src": "pistoletto65QuadroDaPranzoS.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/67-ManoloMillares-ObjetoConBastidor-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "67-ManoloMillares-ObjetoConBastidor-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/3-d-65DeMaria-Cage-II.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nCage II, 1965",
+      "legacy_src": "3D/65DeMaria-Cage-II.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/3-d-65-StephenAntonakosBlueBx-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "3D/65-StephenAntonakosBlueBx-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/3-d-Nauman74DoubleSteelCagePce-s.jpg",
+      "alt": "",
+      "caption": "Bruce Nauman: Double Steel Cage Piece, 1974",
+      "legacy_src": "3D/Nauman74DoubleSteelCagePce-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/3-d-75-IRWIN-BLACKLINEVOLUME-s.jpg",
+      "alt": "",
+      "caption": "Robert Irwin: Black Line Volume, 1975",
+      "legacy_src": "3D/75-IRWIN-BLACKLINEVOLUME-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/DanielDezeuze67Chassis-s.jpg",
+      "alt": "",
+      "caption": "Daniel Dezeuze: Chassis, 1967",
+      "legacy_src": "DanielDezeuze67Chassis-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Alighiero69Ruiten-s.jpg",
+      "alt": "",
+      "caption": "Alighiero e Boetti:\n\nNiente da vedere,\n\nniente da nascondere (vetrata), 1969",
+      "legacy_src": "Alighiero69Ruiten-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/IsaGenzken88Fenster-s.gif",
+      "alt": "",
+      "caption": "Isa Genzken: Fenster, 1988",
+      "legacy_src": "IsaGenzken88Fenster-s.gif"
+    },
+    {
+      "src": "/images/nothing/space/frames/JanMaartenVoskuil2007-Loop-s.jpg",
+      "alt": "",
+      "caption": "Jan Maarten Voskuil: Loop, 2007",
+      "legacy_src": "JanMaartenVoskuil2007-Loop-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Filiou70-7ChildlikeUsesOWMs.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Filiou70-7ChildlikeUsesOWMs.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/71-goeritz-LasPuertasALaNada-s.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz:\nLas Puertas a la Nada, 1971",
+      "legacy_src": "71-goeritz-LasPuertasALaNada-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/Filliou74Flag-M.jpg",
+      "alt": "",
+      "caption": "Robert Filliou: This flag is meant\n\nto straddle national border lines, 1974",
+      "legacy_src": "Filliou74Flag-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/siegfried-cremer-Cremer75Diptychon-S.jpg",
+      "alt": "",
+      "caption": "Siegfried Cremer:\n\nDiptychon, 1975",
+      "legacy_src": "SiegfriedCremer/Cremer75Diptychon-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/89EckartEidolonNr1106-S.jpg",
+      "alt": "",
+      "caption": "Christian Eckart:\n\nEidolon # 1106, 1989",
+      "legacy_src": "89EckartEidolonNr1106-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/JanMaartenVoskuil2002Guilde.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JanMaartenVoskuil2002Guilde.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/IsaGenzken89Fenster-s.jpg",
+      "alt": "",
+      "caption": "Isa Genzken: Fenster, 1989",
+      "legacy_src": "IsaGenzken89Fenster-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/2002-Volten-Denkbeeld-s.jpg",
+      "alt": "",
+      "caption": "André Volten: Denkbeeld, 2002",
+      "legacy_src": "2002-Volten-Denkbeeld-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/frames/05MiroslawBalka-193x256x100-s.jpg",
+      "alt": "",
+      "caption": "Miroslaw Balka:\n193 x 256 x 100, 2005",
+      "legacy_src": "05MiroslawBalka-193x256x100-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/depiction/realist",
+    "/nothing/monochrome",
+    "/nothing/monochrome/back",
+    "/nothing/space/frames/christian-eckart",
+    "/nothing/space/frames/gerold-miller",
+    "/nothing/space/frames/siegfried-cremer",
+    "/nothing/space/vide"
+  ]
+}

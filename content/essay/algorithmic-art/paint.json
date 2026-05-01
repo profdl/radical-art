@@ -1,0 +1,646 @@
+{
+  "slug": "algorithmic-art/paint",
+  "legacy_path": "AlgorithmicArt/paint.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Image Generation Tools",
+  "heading": "Image Generation Tools",
+  "description": "Image generation tools.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Image Generation Tools",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Programming Tools",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Design by Numbers",
+      "links": [
+        {
+          "text": "Design by Numbers",
+          "href": "http://dbn.media.mit.edu/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Simple programming language for visual screen processes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Scriptographer",
+      "links": [
+        {
+          "text": "Scriptographer",
+          "href": "http://www.scriptographer.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "A scripting plug-in for Adobe Illustrator, using JavaScript.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Interactive Tools",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "16color.com (animations)",
+      "links": [
+        {
+          "text": "16color.com",
+          "href": "http://www.16color.com/home.shtml",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Bit-101\nLaboratory: 2002 january 4/10; june 10/16;\njuly 14/31; november 13/19.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Andy Deck: Glyphiti,\n2001. (Tool for collaborative design)",
+      "links": [
+        {
+          "text": "Glyphiti",
+          "href": "http://artcontext.org/glyphiti/docs/about.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Groboto",
+      "links": [
+        {
+          "text": "Groboto",
+          "href": "http://www.groboto.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/Life/div/newage.jpg",
+      "alt": "New Age Painter",
+      "caption": "",
+      "width": "80",
+      "height": "80",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Intuitive\nNew Age Painter",
+      "links": [
+        {
+          "text": "Intuitive New Age Painter",
+          "href": "http://www.koert.com/work/newage/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Playing\nwith color is fun and relaxing. You can make your own intuitive\npainting in our interactive painter. You don't have to click or\nselect color to get beautiful results. Just move the mouse! It\nis so easy, even a monkey could do it. All you need is a shockwave\nplugin and a 24 bit screendepth.\n\nHave fun!\n\nHint: try painting with your eyes closed. You will get the most\nbeautiful results.\"",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "120",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Painter",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Cf. Jeffrey Sutton: Painter\nCreativity Digital Artist's Handbook",
+      "links": [
+        {
+          "text": "Painter Creativity Digital Artist's Handbook",
+          "href": "http://www.portrayals.com/paintercreativity.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The goal of this book is for\nyou to realize your full creative potential and express yourself\nin your art with soul and passion. You will learn how to use the\namazing paint program Painter 7 to create expressive portraits,\ntransform photographs, and produce evocative collage and painterly\nanimations.\"\n\n\n\nE.g.: \"Loose\nGestural Paint Splash Strokes a la Jackson Pollock.\"",
+      "links": [
+        {
+          "text": "Loose Gestural Paint Splash Strokes a la Jackson Pollock.",
+          "href": "http://www.portrayals.com/tippollock.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Jason E. Lewis & Alex Weyers:\nTextorgan, 2000–present",
+      "links": [
+        {
+          "text": "Textorgan",
+          "href": "http://www.aalab.net/projects/ActiveText/TextOrgan/index.htm",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Yugo Nakamura",
+      "links": [
+        {
+          "text": "Yugo Nakamura",
+          "href": "http://surface.yugop.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Signwave\nAuto-Illustrator",
+      "links": [
+        {
+          "text": "Signwave Auto-Illustrator",
+          "href": "http://www.auto-illustrator.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Signwave Auto-Illustrator is an experimental,\nsemi-autonomous, generative software artwork and a fully functional\nvector graphic design application to sit alongside your existing\nprofessional graphic design utilities. Use it to explore a wide\nrange of generative and procedural techniques in the production\nof your own graphic designs.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Signwave\nAutoshop",
+      "links": [
+        {
+          "text": "Signwave Autoshop",
+          "href": "http://www.signwave.co.uk/go/products/autoshop",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Autoshop takes the clean-cut,\nproductive interface of a well-known commercial software product\n(Adobe® Photoshop® in case you hadn't noticed) and imbues\nit with ideas of self-generative, autonomous, (creative?) influence\nand activity. Autoshop is capable of being both a tool for generating\ndigital images under (variable) human control, and a play-pen\nfor artificial/digital lifeforms, A.I. bots, and pseudo-chaos\nsystems. The output is entertaining, startling and thoroughly\nusable.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Julia Vescei: Juligraph,\n2001.",
+      "links": [
+        {
+          "text": "Juligraph",
+          "href": "http://www.c3.hu/%7Erub/juligraph/juligraph.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Automatic Image Generation: Design",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Friendchip: Random\nPowerpoint Presentation",
+      "links": [
+        {
+          "text": "Random Powerpoint Presentation",
+          "href": "http://www.friendchip.com/viewer.php3?URL=powerpoint/index.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Gliftic",
+      "links": [
+        {
+          "text": "Gliftic",
+          "href": "http://www.ransen.com/Gliftic/default.htm",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Use Gliftic to quickly create unique and\ncolorful graphic designs! You don't need to be an artist or skilled\nwith the mouse.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Torben Kj¾r: Strange\nBanana: Random Website Design",
+      "links": [
+        {
+          "text": "Strange Banana:",
+          "href": "http://www.strangebanana.com/generator.aspx",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/Life/div/n_Gen01.gif",
+      "alt": "n-generate",
+      "caption": "",
+      "width": "233",
+      "height": "40",
+      "links": [
+        {
+          "text": "",
+          "href": "http://www.n-generate.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/Life/div/n_Gen02.gif",
+      "alt": "",
+      "caption": "\"It's the new tool graphic designers\ndon't want you to know about!\"\n\n\n\n\"n_Gen allows users with no graphic design experience to create\nprofessional quality output with their own text content. n_Gen takes\nover the burdensome task of designing, leaving the user to simply\npick and choose the generated images they like.\"",
+      "width": "366",
+      "height": "40",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Automatic Image Generation: Art",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Kurt Baumann:\nArtificial Art",
+      "links": [
+        {
+          "text": "Artificial Art",
+          "href": "http://artificial-art.com",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Matthew Caryl: RGB\nVector Rotation",
+      "links": [
+        {
+          "text": "RGB Vector Rotation",
+          "href": "http://www.permutationcity.co.uk/programming/automaticart.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Nicolas Clauss: Paints,\n2001.",
+      "links": [
+        {
+          "text": "Paints",
+          "href": "http://www.lecielestbleu.com/html/paints.htm#",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Harold Cohen: Aaron.\n( Cf. also: Harold\nCohen's writings.)",
+      "links": [
+        {
+          "text": "Aaron.",
+          "href": "http://www.kurzweilcyberart.com/",
+          "external": true
+        },
+        {
+          "text": "Harold Cohen's writings.",
+          "href": "/algorithmic-art/algebra/aaron",
+          "external": false
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Dextro.",
+      "links": [
+        {
+          "text": "Dextro.",
+          "href": "http://www.dextro.org/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Jodi: http://asdfg.jodi.org/-------------------------------/-------------------------------/-------------------------------/-------------------------------/-----------------------331wj400/rttyaxexb.html",
+      "links": [
+        {
+          "text": "http://asdfg.jodi.org/-------------------------------/-------------------------------/-------------------------------/-------------------------------/-----------------------331wj400/rttyaxexb.html",
+          "href": "http://asdfg.jodi.org/-------------------------------/-------------------------------/-------------------------------/-------------------------------/-----------------------331wj400/rttyaxexb.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Boele Klopman and Remko Scha: Artificial",
+      "links": [
+        {
+          "text": "Artificial",
+          "href": "http://iaaa.nl/artificial/main.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Joshua Nimoy: Textension,\n2001.",
+      "links": [
+        {
+          "text": "Textension,",
+          "href": "http://www.macros-center.ru/read_me/inde10.htm",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Avinash Pinto, Mark Barrett, Bryan Hassin: Random\nArt.",
+      "links": [
+        {
+          "text": "Random Art",
+          "href": "http://www.cs.rice.edu/%7Edwallach/comp314_f99_ga/%257Eavinash/comp314/project3/pretty/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "John Pound's Random\nComputer-Generated Comics, 1992-1996.",
+      "links": [
+        {
+          "text": "Random Computer-Generated Comics,",
+          "href": "http://www.poundart.com/art/randcomix/about.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Casey Reas: Projects\n2000–2002",
+      "links": [
+        {
+          "text": "Projects 2000–2002",
+          "href": "http://www.groupc.net/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Re-Move.",
+      "links": [
+        {
+          "text": "Re-Move.",
+          "href": "http://www.re-move.org/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Bogdan Soban: Generative\nArt.",
+      "links": [
+        {
+          "text": "Generative Art.",
+          "href": "http://www.soban-art.com/index.asp",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Yev Sun: UEDA",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Turux Animated Interior.",
+      "links": [
+        {
+          "text": "Turux Animated Interior.",
+          "href": "http://www.turux.org/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Andy Wang: Random\nArt, 2000.",
+      "links": [
+        {
+          "text": "Random Art,",
+          "href": "http://lasr.cs.ucla.edu/awang/random.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic Image Transformations",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Amy Alexander: The Multi-Cultural\nRecycler.",
+      "links": [
+        {
+          "text": "The Multi-Cultural Recycler.",
+          "href": "http://recycler.plagiarist.org/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Live web-art from almost-live webcams. The program downloads images from webcams. A new image is generated by combining fragments of the webcam images and applying a few filters.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Paul Andrews:\nGooglesynth",
+      "links": [
+        {
+          "text": "Googlesynth",
+          "href": "http://art.gen.nz/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Bit-101\nLaboratory: 2002 november 26/29/30.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Reynald Drouhin: Des Frags.",
+      "links": [
+        {
+          "text": "Des Frags.",
+          "href": "http://desfrags.cicv.fr/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Frédéric Durieu: Mosaic,\n2001. (Works on RealVideo stream.)",
+      "links": [
+        {
+          "text": "Mosaic",
+          "href": "http://www.lecielestbleu.com/html/mosaic.htm#",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Mark Napier: Shredder",
+      "links": [
+        {
+          "text": "Shredder",
+          "href": "http://potatoland.org/shredder/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Repligator.",
+      "links": [
+        {
+          "text": "Repligator.",
+          "href": "http://www.ransen.com/repligator/default.htm",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"You can easily transform your images with the 70\ncolorful and unique effects of Repligator! Repligator is easy to\ninstall and use. Create lively images with amazing single click\neffects.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2003. Some links suggested by Jorn Baas, Marco Bakker, Danny van de Bersselaar,\nThom Houben, Eric Reneerkens, Chuntug Taguba, Emiel VerLoren van Themaat and\nTimo Vorstenbosch.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "http://radicalart.info/Life/div/newage.jpg",
+      "alt": "New Age Painter",
+      "caption": "",
+      "legacy_src": "http://radicalart.info/Life/div/newage.jpg"
+    },
+    {
+      "src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "http://radicalart.info/Life/toeval/pollock/suttonpollock.jpg"
+    },
+    {
+      "src": "http://radicalart.info/Life/div/n_Gen01.gif",
+      "alt": "n-generate",
+      "caption": "",
+      "legacy_src": "http://radicalart.info/Life/div/n_Gen01.gif"
+    },
+    {
+      "src": "http://radicalart.info/Life/div/n_Gen02.gif",
+      "alt": "",
+      "caption": "\"It's the new tool graphic designers\ndon't want you to know about!\"\n\n\n\n\"n_Gen allows users with no graphic design experience to create\nprofessional quality output with their own text content. n_Gen takes\nover the burdensome task of designing, leaving the user to simply\npick and choose the generated images they like.\"",
+      "legacy_src": "http://radicalart.info/Life/div/n_Gen02.gif"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/algebra/aaron"
+  ]
+}

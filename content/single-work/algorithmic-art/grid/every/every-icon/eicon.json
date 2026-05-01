@@ -1,0 +1,64 @@
+{
+  "slug": "algorithmic-art/grid/every/every-icon/eicon",
+  "legacy_path": "AlgorithmicArt/grid/every/EveryIcon/eicon.html",
+  "section": "AlgorithmicArt",
+  "archetype": "single-work",
+  "title": "Every Icon",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Given",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ":",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "An icon described by a 32 X 32 grid.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Allowed",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ":",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Any element of the grid to be colored black or white.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Shown",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ":",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Every icon.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Copyright 1997 John F. Simon, Jr.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

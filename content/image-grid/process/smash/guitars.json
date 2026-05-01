@@ -1,0 +1,187 @@
+{
+  "slug": "process/smash/guitars",
+  "legacy_path": "process/smash/guitars/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "smashed guitars",
+  "heading": "smashed \n      guitars",
+  "description": "smashed guitars",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: smash destruction process radical\nart",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "smashed\nguitars",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/Townshend60sSmshdGtarBitsS.jpg",
+      "alt": "",
+      "caption": "Pete Townshend, late 1960's:\n\nbits of smashed guitars",
+      "width": "332",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/TownshendSmashedGuitarS.jpg",
+      "alt": "",
+      "caption": "Pete Townshend",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/Townshend73SmashedGuitar.jpg",
+      "alt": "",
+      "caption": "Pete Townshend, 1973",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/WolfgangFierekSmashedBarclS.jpg",
+      "alt": "",
+      "caption": "Wolfgang Fierek: Smashed Barclay",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/KurtCobain1992.jpg",
+      "alt": "",
+      "caption": "Kurt Cobain, 1992",
+      "width": "203",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/SofiaHulten01FckItUpAStrtAS.jpg",
+      "alt": "",
+      "caption": "Sofia Hulten:\n\n\"Fuck It Up And Start Again\", 2001",
+      "width": "164",
+      "height": "331",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/TheKillers2005-S.jpg",
+      "alt": "",
+      "caption": "The Killers, 2005",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/Townshend05GibsonLesPaul1S.gif",
+      "alt": "",
+      "caption": "Pete Townshend smashing a\n\nGibson Les Paul, 2005",
+      "width": "297",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars/Townshend05GibsonLesPaul2S.gif",
+      "alt": "",
+      "caption": "",
+      "width": "277",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/smash/guitars/Townshend60sSmshdGtarBitsS.jpg",
+      "alt": "",
+      "caption": "Pete Townshend, late 1960's:\n\nbits of smashed guitars",
+      "legacy_src": "Townshend60sSmshdGtarBitsS.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/TownshendSmashedGuitarS.jpg",
+      "alt": "",
+      "caption": "Pete Townshend",
+      "legacy_src": "TownshendSmashedGuitarS.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/Townshend73SmashedGuitar.jpg",
+      "alt": "",
+      "caption": "Pete Townshend, 1973",
+      "legacy_src": "Townshend73SmashedGuitar.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/WolfgangFierekSmashedBarclS.jpg",
+      "alt": "",
+      "caption": "Wolfgang Fierek: Smashed Barclay",
+      "legacy_src": "WolfgangFierekSmashedBarclS.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/KurtCobain1992.jpg",
+      "alt": "",
+      "caption": "Kurt Cobain, 1992",
+      "legacy_src": "KurtCobain1992.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/SofiaHulten01FckItUpAStrtAS.jpg",
+      "alt": "",
+      "caption": "Sofia Hulten:\n\n\"Fuck It Up And Start Again\", 2001",
+      "legacy_src": "SofiaHulten01FckItUpAStrtAS.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/TheKillers2005-S.jpg",
+      "alt": "",
+      "caption": "The Killers, 2005",
+      "legacy_src": "TheKillers2005-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars/Townshend05GibsonLesPaul1S.gif",
+      "alt": "",
+      "caption": "Pete Townshend smashing a\n\nGibson Les Paul, 2005",
+      "legacy_src": "Townshend05GibsonLesPaul1S.gif"
+    },
+    {
+      "src": "/images/process/smash/guitars/Townshend05GibsonLesPaul2S.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Townshend05GibsonLesPaul2S.gif"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/smash"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "nothing/depiction",
+  "legacy_path": "nothing/depiction/index.html",
+  "section": "nothing",
+  "archetype": "link-hub",
+  "title": "depictions of nothing",
+  "heading": "",
+  "description": "Depictions of nothing.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "depictions of nothing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "romantic\nlandscapes",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/depiction/romantic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "images of absence",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/depiction/realist",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "empty\nmaps",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/depiction/maps",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/nothing/depiction/maps",
+    "/nothing/depiction/realist",
+    "/nothing/depiction/romantic"
+  ]
+}

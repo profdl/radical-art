@@ -1,0 +1,317 @@
+{
+  "slug": "kinetics/turn/kinetic-painting/tinguely",
+  "legacy_path": "kinetics/Turn/KineticPainting/tinguely/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Tinguely: Méta-Peinture",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Jean Tinguely: Méta-Peinture",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "\"... 'meta-mechanical paintings', reliefs of a kind, in which simple geometrical\nshapes painted in the primary colours move about slowly in front of a surface.\n(. . .) It is theoretically possible to calculate the periodicity of the reliefs.\nOne of them, for instance, ought to repeat the same configuration after about\na year, if it ran continuously. But the couplings slip a bit; as a result, the\nshapes might reach the same position already after two months, or it might not\nhappen for hundreds of years.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hultén, 1955, p. 26.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I am an artist of movement. Initially I did painting\nbut I got blocked there, I found myself stuck. I was handicapped\nby the whole history of art and the Ecole des Beaux Arts. I\ngot hung up in the pictures, on the pictures – finally\nall I could do is wait until they were tired; I could never find their end. So\nI decided to introduce movement. I started from Constructivist elements, taken\nfrom the vocabulary of the Russian Suprematist painter Malevich, and from Kandinsky\nand Arp and a few others. I re-used their elements and set them in motion. I\nwas trying to get away from the imperative, the power of these artists, also\nfrom Mondrian. I began to use movement simply to make a re-creation. It was a\nway of re-doing a painting so that it would become infinite – it would go\non making new compositions by means of the physical and mechanical movements\nthat I gave it.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tinguely, 1982",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\". . . puisque le tableau ne se laisse pas terminer,\nil n'y a qu'à le rendre interminable. Interminable\nparce que mis en mouvement, et par là perpétuellement\nrecombiné, jamais plus le même, jamais plus \"pétrifié\" en\nlui-même. (. . .) Le principe de mise en œuvre sera\nsimple. On peut le résumer ainsi: j'hésitais\nentre plusieurs configurations, le mouvement va me les donner\ntoutes. Il suffira de découper dans la tôle des\nformes simples, et de les faire tourner indépendamment\nen les plaçant sur des axes entraînés par\nun moteur.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Conil Lacoste, 1989, p. 14.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Conil Lacoste: Tinguely. L'Énergétique\nde l'Insolence. Vol. I. Paris: Éditions de la\nDifférence, 1989.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl G. Hultén: Den Ställföreträdande\nFriheten eller Om Rörelse i Konsten och Tinguelys\nMetamekanik. (Substitute Freedom or On Movement in\nArt and Tinguely's Meta-mechanics.) Special issue of Kasark, October\n1955. [English translation in: Pontus Hultén, 1975.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.G. Pontus Hultén: Tinguely.\n'Méta'. London: Thames and Hudson, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pontus Hulten: Jean Tinguely. A Magic Stronger than Death. New\nYork: Abbeville Press, 1987.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Tinguely: Radio Conversation, Radio\nTélévision Belge, Brussels, 13 December 1982.\n[In: Hulten 1987, p. 350.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich1S.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich, 1954 [Front and backside]",
+      "width": "200",
+      "height": "276",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvichbackS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "269",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich2S.jpg",
+      "alt": "",
+      "caption": "Another piece from the Méta-Malevich series\n\n\n[Snapshot and multiple exposure photo]",
+      "width": "200",
+      "height": "296",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich2movS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1954-Meta-Malevitch-s.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich, 1954",
+      "width": "241",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-Meta-Malevich-blancSurBlanc-s.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich Blanc sur Blanc,\n1955",
+      "width": "249",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-TroisPointsBlancs.jpg",
+      "alt": "",
+      "caption": "Trois Points Blancs, 1955",
+      "width": "218",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-BlancJauneEtNoir.jpg",
+      "alt": "",
+      "caption": "Blanc, Jaune et Noir, 1956",
+      "width": "205",
+      "height": "228",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-ReliefMeta-mecaniqueSonore_III_s.jpg",
+      "alt": "",
+      "caption": "Relief Méta-mécanique Sonore III, 1955",
+      "width": "559",
+      "height": "208",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956_Wundermaschine_M-K_I-s.jpg",
+      "alt": "",
+      "caption": "Wundermaschine Méta-Kandinky I, 1956",
+      "width": "462",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-1957(ca)__relief_s.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "width": "307",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-1957(ca)rel_noir_sur_b.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "width": "356",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1957-black-and-white-rel_MM-s.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "width": "357",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/relief_blanc_sur_noir_s.jpg",
+      "alt": "",
+      "caption": "Relief Blanc sur Noir",
+      "width": "309",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1958-Relief-s.jpg",
+      "alt": "",
+      "caption": "Relief Blanc sur Noir, 1958",
+      "width": "233",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment (Algorithmic\nArt)\n\n\n\nMake computer simulations of the Méta-Malevitch's\nand Méta-Kandinsky's, and\nintegrate them in a Méta-Tinguely-program. Make sure the\nprogram is based on an explicit mathematical model. Describe\nand motivate the model in an accompanying essay.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich1S.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich, 1954 [Front and backside]",
+      "legacy_src": "metamvich1S.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvichbackS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "metamvichbackS.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich2S.jpg",
+      "alt": "",
+      "caption": "Another piece from the Méta-Malevich series\n\n\n[Snapshot and multiple exposure photo]",
+      "legacy_src": "metamvich2S.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/metamvich2movS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "metamvich2movS.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1954-Meta-Malevitch-s.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich, 1954",
+      "legacy_src": "1954-Meta-Malevitch-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-Meta-Malevich-blancSurBlanc-s.jpg",
+      "alt": "",
+      "caption": "Méta-Malevich Blanc sur Blanc,\n1955",
+      "legacy_src": "1955-Meta-Malevich-blancSurBlanc-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-TroisPointsBlancs.jpg",
+      "alt": "",
+      "caption": "Trois Points Blancs, 1955",
+      "legacy_src": "1955-TroisPointsBlancs.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-BlancJauneEtNoir.jpg",
+      "alt": "",
+      "caption": "Blanc, Jaune et Noir, 1956",
+      "legacy_src": "1956-BlancJauneEtNoir.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1955-ReliefMeta-mecaniqueSonore_III_s.jpg",
+      "alt": "",
+      "caption": "Relief Méta-mécanique Sonore III, 1955",
+      "legacy_src": "1955-ReliefMeta-mecaniqueSonore_III_s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956_Wundermaschine_M-K_I-s.jpg",
+      "alt": "",
+      "caption": "Wundermaschine Méta-Kandinky I, 1956",
+      "legacy_src": "1956_Wundermaschine_M-K_I-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-1957(ca)__relief_s.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "legacy_src": "1956-1957(ca)__relief_s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1956-1957(ca)rel_noir_sur_b.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "legacy_src": "1956-1957(ca)rel_noir_sur_b.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1957-black-and-white-rel_MM-s.jpg",
+      "alt": "",
+      "caption": "Relief Noir sur Blanc, ca. 1956/1957",
+      "legacy_src": "1957-black-and-white-rel_MM-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/relief_blanc_sur_noir_s.jpg",
+      "alt": "",
+      "caption": "Relief Blanc sur Noir",
+      "legacy_src": "relief_blanc_sur_noir_s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/tinguely/1958-Relief-s.jpg",
+      "alt": "",
+      "caption": "Relief Blanc sur Noir, 1958",
+      "legacy_src": "1958-Relief-s.jpg"
+    }
+  ],
+  "out_links": []
+}

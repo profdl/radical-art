@@ -1,0 +1,205 @@
+{
+  "slug": "nothing/cover-up/cover/christo",
+  "legacy_path": "nothing/cover-up/cover/christo/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Christo: Walls&Covers",
+  "heading": "Screens, Walls & Curtains by Christo Javacheff",
+  "description": "Christo Javacheff: Walls, Fences, Showcases, Store Fronts, Curtains.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Screens, Walls & Curtains by Christo Javacheff",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Rideau de Fer, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/63Schaukasten-s.jpg",
+      "alt": "",
+      "caption": "Showcase, 1963",
+      "width": "176",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/6566Schaufenster-s.jpg",
+      "alt": "",
+      "caption": "Showcase, 1965/1966",
+      "width": "178",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/64GreenStoreFront-s.jpg",
+      "alt": "",
+      "caption": "Green Store Front, 1964",
+      "width": "230",
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/64OrangeStorefront-s.jpg",
+      "alt": "",
+      "caption": "Orange Store Front, 1964",
+      "width": null,
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/64PurpleStoreFront-s.jpg",
+      "alt": "",
+      "caption": "Purple Store Front, 1964",
+      "width": null,
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/65-66-StoreFront.jpg",
+      "alt": "",
+      "caption": "Store Front, 1965/1966",
+      "width": "230",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/69WrappedFloor-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Floor, 1969",
+      "width": "344",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/Christo69WrappedCoast-S.jpg",
+      "alt": "",
+      "caption": "Wrapped Coast, 1969",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/Christo7072ValleyCurtain-S.jpg",
+      "alt": "",
+      "caption": "Valley Curtain, 1970-1972",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/christo/Christo7276RunningFence-S.jpg",
+      "alt": "",
+      "caption": "Running Fence, 1972-1976",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Other work by Christo : Secrets Empaquetages",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/things/wrapped/christo",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/cover/christo/62RideauDeFer.jpg",
+      "alt": "",
+      "caption": "Rideau de Fer, 1962",
+      "legacy_src": "62RideauDeFer.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/63Schaukasten-s.jpg",
+      "alt": "",
+      "caption": "Showcase, 1963",
+      "legacy_src": "63Schaukasten-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/6566Schaufenster-s.jpg",
+      "alt": "",
+      "caption": "Showcase, 1965/1966",
+      "legacy_src": "6566Schaufenster-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/64GreenStoreFront-s.jpg",
+      "alt": "",
+      "caption": "Green Store Front, 1964",
+      "legacy_src": "64GreenStoreFront-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/64OrangeStorefront-s.jpg",
+      "alt": "",
+      "caption": "Orange Store Front, 1964",
+      "legacy_src": "64OrangeStorefront-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/64PurpleStoreFront-s.jpg",
+      "alt": "",
+      "caption": "Purple Store Front, 1964",
+      "legacy_src": "64PurpleStoreFront-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/65-66-StoreFront.jpg",
+      "alt": "",
+      "caption": "Store Front, 1965/1966",
+      "legacy_src": "65-66-StoreFront.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/69WrappedFloor-s.jpg",
+      "alt": "",
+      "caption": "Wrapped Floor, 1969",
+      "legacy_src": "69WrappedFloor-s.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/Christo69WrappedCoast-S.jpg",
+      "alt": "",
+      "caption": "Wrapped Coast, 1969",
+      "legacy_src": "Christo69WrappedCoast-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/Christo7072ValleyCurtain-S.jpg",
+      "alt": "",
+      "caption": "Valley Curtain, 1970-1972",
+      "legacy_src": "Christo7072ValleyCurtain-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/christo/Christo7276RunningFence-S.jpg",
+      "alt": "",
+      "caption": "Running Fence, 1972-1976",
+      "legacy_src": "Christo7276RunningFence-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/concept/secret",
+    "/things/wrapped/christo"
+  ]
+}

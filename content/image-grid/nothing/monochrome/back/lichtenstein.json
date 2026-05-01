@@ -1,0 +1,96 @@
+{
+  "slug": "nothing/monochrome/back/lichtenstein",
+  "legacy_path": "nothing/monochrome/back/Lichtenstein/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Stretcher Frames",
+  "heading": "",
+  "description": "Stretcher Frames by Roy Lichtenstein",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Stretcher\nFrames by Roy Lichtenstein",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/lichtenstein/68StretcherFrame-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame, 1968",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/lichtenstein/68StrtchrFrWCrossBarsIII-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Cross Bars, 1968",
+      "width": "230",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/lichtenstein/back-68StretcherFrameWVertBars.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Vertical Bars, 1968",
+      "width": "365",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/lichtenstein/72StillLifeWMirror-M.jpg",
+      "alt": "",
+      "caption": "Still Life with Mirror, 1972",
+      "width": "166",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/back/lichtenstein/68SFRevealedBnthPntngOASF-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame Revealed Beneath\n\nPainting of a Stretcher Frame, 1968",
+      "width": "230",
+      "height": "181",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/back/lichtenstein/68StretcherFrame-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame, 1968",
+      "legacy_src": "68StretcherFrame-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/lichtenstein/68StrtchrFrWCrossBarsIII-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Cross Bars, 1968",
+      "legacy_src": "68StrtchrFrWCrossBarsIII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/lichtenstein/back-68StretcherFrameWVertBars.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame with Vertical Bars, 1968",
+      "legacy_src": "../68StretcherFrameWVertBars.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/lichtenstein/72StillLifeWMirror-M.jpg",
+      "alt": "",
+      "caption": "Still Life with Mirror, 1972",
+      "legacy_src": "72StillLifeWMirror-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/back/lichtenstein/68SFRevealedBnthPntngOASF-s.jpg",
+      "alt": "",
+      "caption": "Stretcher Frame Revealed Beneath\n\nPainting of a Stretcher Frame, 1968",
+      "legacy_src": "68SFRevealedBnthPntngOASF-s.jpg"
+    }
+  ],
+  "out_links": []
+}

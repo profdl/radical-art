@@ -1,0 +1,141 @@
+{
+  "slug": "nothing/space/holes/manolo-millares",
+  "legacy_path": "nothing/space/holes/ManoloMillares/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Manolo Millares",
+  "heading": "",
+  "description": "Michael Heizer's Mass Displacements.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Manolo Millares",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/57-Cuadro-M.jpg",
+      "alt": "",
+      "caption": "Cuadro, 1957",
+      "width": "447",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/59-Cuadro62-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 62, 1959",
+      "width": "371",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/59-Cuadro_77-s.jpg",
+      "alt": "",
+      "caption": "Cuadro 77, 1959",
+      "width": "372",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/60-cuadro111-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 111, 1960",
+      "width": "226",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/61-Cuadro150-s.jpg",
+      "alt": "",
+      "caption": "Cuadro 150, 1961",
+      "width": "374",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/61-Cuadro151-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 151, 1961",
+      "width": "378",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/manolo-millares6-1-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "225",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/manolo-millares/manolo-millares-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "323",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/57-Cuadro-M.jpg",
+      "alt": "",
+      "caption": "Cuadro, 1957",
+      "legacy_src": "57-Cuadro-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/59-Cuadro62-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 62, 1959",
+      "legacy_src": "59-Cuadro62-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/59-Cuadro_77-s.jpg",
+      "alt": "",
+      "caption": "Cuadro 77, 1959",
+      "legacy_src": "59-Cuadro_77-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/60-cuadro111-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 111, 1960",
+      "legacy_src": "60-cuadro111-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/61-Cuadro150-s.jpg",
+      "alt": "",
+      "caption": "Cuadro 150, 1961",
+      "legacy_src": "61-Cuadro150-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/61-Cuadro151-M.jpg",
+      "alt": "",
+      "caption": "Cuadro 151, 1961",
+      "legacy_src": "61-Cuadro151-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/manolo-millares6-1-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "manolo-millares6-1-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/manolo-millares/manolo-millares-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "manolo-millares-M.jpg"
+    }
+  ],
+  "out_links": []
+}

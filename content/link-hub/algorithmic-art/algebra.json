@@ -1,0 +1,44 @@
+{
+  "slug": "algorithmic-art/algebra",
+  "legacy_path": "AlgorithmicArt/algebra/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "link-hub",
+  "title": "image algebras",
+  "heading": "",
+  "description": "Image description algebras in algorithmic art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "algorithmic art:\n\nimage description algebras",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "structural information theory\n\n\n\naaron\n\n\n\n\nartificial",
+      "links": [
+        {
+          "text": "structural information theory",
+          "href": "/algorithmic-art/algebra/sit",
+          "external": false
+        },
+        {
+          "text": "aaron",
+          "href": "/algorithmic-art/algebra/aaron",
+          "external": false
+        },
+        {
+          "text": "artificial",
+          "href": "http://iaaa.nl/artificial/index.html",
+          "external": true
+        }
+      ],
+      "level": 3
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/algebra/aaron",
+    "/algorithmic-art/algebra/sit"
+  ]
+}

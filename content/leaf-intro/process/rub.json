@@ -1,0 +1,84 @@
+{
+  "slug": "process/rub",
+  "legacy_path": "process/rub/index.html",
+  "section": "process",
+  "archetype": "leaf-intro",
+  "title": "rub",
+  "heading": "to rub (erasure)",
+  "description": "Process Art: Erasure",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: rauschenberg's monochromes destruction process\nart radical art",
+      "links": [
+        {
+          "text": "rauschenberg's monochromes",
+          "href": "/nothing/monochrome/rauschenberg",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to rub (erasure)",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rub/ErasedDeKooning1953-M.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\n\"Erased De Kooning Drawing\", 1953",
+      "width": "297",
+      "height": "350",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Richard Galpin: Erasure in art: destruction, deconstruction, and palimpsest, 1998",
+      "links": [
+        {
+          "text": "Erasure in art: destruction, deconstruction, and palimpsest,",
+          "href": "http://www.users.zetnet.co.uk/richart/texts/erasure.htm",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/rub/ErasedDeKooning1953-M.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\n\"Erased De Kooning Drawing\", 1953",
+      "legacy_src": "ErasedDeKooning1953-M.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/nothing/monochrome/rauschenberg",
+    "/process"
+  ]
+}

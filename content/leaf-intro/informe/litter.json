@@ -1,0 +1,55 @@
+{
+  "slug": "informe/litter",
+  "legacy_path": "informe/litter/index.html",
+  "section": "informe",
+  "archetype": "leaf-intro",
+  "title": "litter",
+  "heading": "",
+  "description": "Disorganized paper distributions in twentieth-century art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "litter",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[disorganized paper distributions]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/litter/Ruthenbeck88Furkapass-Hotel.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck: Furkapass Hotel, 1988",
+      "width": "305",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/litter/ThomasDemand95Office-S.jpg",
+      "alt": "",
+      "caption": "Thomas Demand: Office, 1995",
+      "width": "262",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/litter/Ruthenbeck88Furkapass-Hotel.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck: Furkapass Hotel, 1988",
+      "legacy_src": "Ruthenbeck88Furkapass-Hotel.jpg"
+    },
+    {
+      "src": "/images/informe/litter/ThomasDemand95Office-S.jpg",
+      "alt": "",
+      "caption": "Thomas Demand: Office, 1995",
+      "legacy_src": "ThomasDemand95Office-S.jpg"
+    }
+  ],
+  "out_links": []
+}

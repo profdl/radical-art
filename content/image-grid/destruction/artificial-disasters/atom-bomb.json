@@ -1,0 +1,204 @@
+{
+  "slug": "destruction/artificial-disasters/atom-bomb",
+  "legacy_path": "destruction/ArtificialDisasters/AtomBomb/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "Atom Bomb",
+  "heading": "the \n      atom bomb",
+  "description": "The atom bomb in art. The atom bomb as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: artificial disasters destruction radical\nart [home page]",
+      "links": [
+        {
+          "text": "artificial disasters",
+          "href": "/destruction/artificial-disasters",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "the\natom bomb",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima(Ant79)1961.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Hiroshima (Anthropométrie 79), 1961",
+      "width": "332",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Peinture Feu Couleur # 1, 1961",
+      "width": "332",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier: Accidents and Catastrophes, 1961.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nplastic beauty of certain photos of catastrophes, of accidents,\nled me in June 1961 to set my signature to the crushed and tangled\nbodywork of a car that had hit a tree.\n\n\n\nThen, carried away by my creative élan, I signed:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "AGADIR:\nEarthquake (board carrying documentation)\n\n\n\nFRÉJUS: The dam which, giving way, caused the death of\n300 people.\n\n\n\nHIROSHIMA: As I remember is one of the most successful examples\nof this category of artwork created by the genius of man, and\neven if artistic intention was lacking, we can only congratulate\nourselves on its esthetic reality.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben\nVautier: War between the USSR and the USA, 1962.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nextraordinary destruction of a war between these two Nations would\nbe a gigantic esthetic vision.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/WarholAtomicBombs64-S.gif",
+      "alt": "",
+      "caption": "Andy Warhol: Atomic Bombs, 1964.",
+      "width": "200",
+      "height": "259",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/LichtensteinAtomBurst1966.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Atom Burst, 1966.",
+      "width": "200",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-RssnBmbSemiPalatinsk03-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Russian Bomb, Semi Palatinsk, 2003.",
+      "width": "150",
+      "height": "206",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-LongoNagasaki2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Nagasaki, 2003.",
+      "width": "150",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-StudyForCrossroads2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Study for Crossroads, 2003",
+      "width": "150",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-LongoStudyForMonroe2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Study for Monroe, 2003",
+      "width": "150",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier: Moi Ben Je Signe, 1963. [English\ntranslation by David Mayor: Me Ben I Sign, Surrey (UK): Beau\nGeste Press, 1975.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima(Ant79)1961.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Hiroshima (Anthropométrie 79), 1961",
+      "legacy_src": "KleinHiroshima(Ant79)1961.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Peinture Feu Couleur # 1, 1961",
+      "legacy_src": "../../../gif/natuur/FireS/KleinPFCouleurST(FC1)61.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/WarholAtomicBombs64-S.gif",
+      "alt": "",
+      "caption": "Andy Warhol: Atomic Bombs, 1964.",
+      "legacy_src": "WarholAtomicBombs64-S.gif"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/LichtensteinAtomBurst1966.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Atom Burst, 1966.",
+      "legacy_src": "LichtensteinAtomBurst1966.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-RssnBmbSemiPalatinsk03-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Russian Bomb, Semi Palatinsk, 2003.",
+      "legacy_src": "Longo/RssnBmbSemiPalatinsk03-S.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-LongoNagasaki2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Nagasaki, 2003.",
+      "legacy_src": "Longo/LongoNagasaki2003-S.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-StudyForCrossroads2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Study for Crossroads, 2003",
+      "legacy_src": "Longo/StudyForCrossroads2003-S.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/atom-bomb/longo-LongoStudyForMonroe2003-S.jpg",
+      "alt": "",
+      "caption": "Robert Longo: Study for Monroe, 2003",
+      "legacy_src": "Longo/LongoStudyForMonroe2003-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/destruction/artificial-disasters",
+    "/index"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "process/condensation",
+  "legacy_path": "process/condensation/index.html",
+  "section": "process",
+  "archetype": "leaf-intro",
+  "title": "steam",
+  "heading": "",
+  "description": "unstable media: the aggregation states of water",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "condensation",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/condensation/haackecube-S.jpg",
+      "alt": "",
+      "caption": "Hans Haacke: Condensation Cube, 1963-1965",
+      "width": "313",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/condensation/Morris-Unt(Steam)-68-69A.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Steam), 1968-1969",
+      "width": "324",
+      "height": "205",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Henderikse:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Steam\nin the Street, 1976-1982.\n\nSnow, 1981.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Jan Henderikse: Photo. Installations\n1960-1992. Almere: Directie Kunstzaken / Amsterdam:\nGalerie . Apunto, 1992, pp. 15, 18-19, 47.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/condensation/haackecube-S.jpg",
+      "alt": "",
+      "caption": "Hans Haacke: Condensation Cube, 1963-1965",
+      "legacy_src": "haackecube-S.jpg"
+    },
+    {
+      "src": "/images/process/condensation/Morris-Unt(Steam)-68-69A.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Untitled (Steam), 1968-1969",
+      "legacy_src": "Morris-Unt(Steam)-68-69A.jpg"
+    }
+  ],
+  "out_links": []
+}

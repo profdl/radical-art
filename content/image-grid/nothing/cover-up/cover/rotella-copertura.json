@@ -1,0 +1,81 @@
+{
+  "slug": "nothing/cover-up/cover/rotella-copertura",
+  "legacy_path": "nothing/cover-up/cover/RotellaCopertura/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Rotella: Coperture",
+  "heading": "",
+  "description": "Mimmo Rotella's",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mimmo Rotella: Coperture",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/RotellaInvisibile76.gif",
+      "alt": "",
+      "caption": "Invisibile, 1976",
+      "width": "220",
+      "height": "187",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/80CoperturaViola80.jpg",
+      "alt": "",
+      "caption": "Copertura Viola, 1980",
+      "width": "171",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/80RotellaCoperturaArancione.jpg",
+      "alt": "",
+      "caption": "Copertura Arancione, 1980",
+      "width": "165",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/81GialloSuBiancoENumeri-81.gif",
+      "alt": "",
+      "caption": "Giallo su Bianco e Numeri, 1981",
+      "width": "173",
+      "height": "225",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/RotellaInvisibile76.gif",
+      "alt": "",
+      "caption": "Invisibile, 1976",
+      "legacy_src": "RotellaInvisibile76.gif"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/80CoperturaViola80.jpg",
+      "alt": "",
+      "caption": "Copertura Viola, 1980",
+      "legacy_src": "80CoperturaViola80.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/80RotellaCoperturaArancione.jpg",
+      "alt": "",
+      "caption": "Copertura Arancione, 1980",
+      "legacy_src": "80RotellaCoperturaArancione.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/cover/rotella-copertura/81GialloSuBiancoENumeri-81.gif",
+      "alt": "",
+      "caption": "Giallo su Bianco e Numeri, 1981",
+      "legacy_src": "81GialloSuBiancoENumeri-81.gif"
+    }
+  ],
+  "out_links": []
+}

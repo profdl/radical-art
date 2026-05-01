@@ -1,0 +1,738 @@
+{
+  "slug": "kinetics/spin",
+  "legacy_path": "kinetics/Spin/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Spin",
+  "heading": "to spin",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to spin",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "This page reviews a decidedly retinal type of kinetic\nart: the display of rotating objects whose speeds and/or patterns\nare designed to create optical artefacts that overrule ordinary,\n\"realistic\" perception. Rotating art pieces with less dazzling effects\nhave been catalogued under the keyword \"turn\".",
+      "links": [
+        {
+          "text": "\"turn\"",
+          "href": "/kinetics/turn",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "spinning geissler-tubes",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1857, the German glass-blower and physicist Heinrich Geissler\ndeveloped the first practical high-voltage low-pressure gas discharge\ntube. Geissler could employ lower air pressures than before, obtained\nby means of a new mercury vacuum pump of his own design. And he\nmade good use of Ruhmkorff's new induction coil, to generate fast\nsequences of high-voltage pulses to drive the gas discharges.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from its role in physical experimentation,\nthe \"Geissler-tube\" was mostly used for optical art. The\nartistic Geissler-tubes had a variety of fancy shapes; they employed\nuranium glass for green fluorescence, and powders and liquids for\nadditional color effects. The Geissler-tube also gave rise to an\nearly form of kinetic art, known as the Geissler-tube\nrotator: an electric motor which rotates a Geissler-tube\nat a fairly high speed. Since the Geissler-tube emits a periodic\nsequence flashes (rather than continuous light), looking at a\nmoving tube does not result in a motion blur, but in a superposition\nof discrete snapshots.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-1870-MagneticMotorRotator--French.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "178",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-GeorgesCarette-Nuremberg-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "236",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-WheatstoneMotorWGT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "165",
+      "height": "296",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-d3949731x-s.jpg",
+      "alt": "",
+      "caption": "France, 1870",
+      "width": "176",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Georges Carette, Nuremberg",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tubes-FrankJones-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "50",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tubes-Geissler-Tube-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "279",
+      "height": "50",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tubes-AlbertDurac-CT33-15cm-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "236",
+      "height": "50",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-ZieglerFanMotor-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "218",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-LeCompendium-resultaat-s.gif",
+      "alt": "",
+      "caption": "",
+      "width": "249",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-AlbertDurac-CT33-15cm-s.jpg",
+      "alt": "",
+      "caption": "Sources",
+      "width": "247",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Albert Balasse: Le\nCompendium.",
+      "links": [
+        {
+          "text": "Le Compendium",
+          "href": "http://www.lecompendium.com/dossier_elec_20_moteur_tourne_tube_de_geissler/moteur_de_geissler.htm%20",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Albert Durac: Tubes de Geissler.",
+      "links": [
+        {
+          "text": "Tubes de Geissler.",
+          "href": "http://www.tubes-geissler.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Antique Fan\nCollectors Association [Some posts by\nTerry Fisher.]",
+      "links": [
+        {
+          "text": "Antique Fan Collectors Association",
+          "href": "http://www.fancollectors.org",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeff Behary: The Turn Of The Century Electrotherapy\nMuseum. 1890s\n- 1920s Crookes, Geissler, & X-Ray Tubes.",
+      "links": [
+        {
+          "text": "1890s - 1920s Crookes, Geissler, & X-Ray Tubes",
+          "href": "http://www.electrotherapymuseum.com/Museum19001930_Crookes.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "two-dimensional spinning patterns",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1920-duchamp-1920-still-ss.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp & Man Ray:\n\nPrecision Optics\n\n(Rotary Glass Plates), 1920",
+      "width": "186",
+      "height": "209",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1920-duchamp-1920-moving-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "186",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1920-duchamp-1925_rotary_demisphere(precision_optics)-M.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nPrecision Optics\n\n(Rotary Demisphere), 1925",
+      "width": "245",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/archive-1935-Rotoreliefs-C-M.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp: Rotoreliefs, 1935",
+      "width": "314",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1920-duchamp-1935-Rotorelief(OpticalDisk)-s.jpg",
+      "alt": "",
+      "caption": "[Disks to be placed on gramophone turntable]",
+      "width": "290",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-1-s.jpg",
+      "alt": "",
+      "caption": "Ray Staakman: Groot Draaiend Vierkant, 1965",
+      "width": "175",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "173",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "173",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-4-s.jpg",
+      "alt": "",
+      "caption": "Carel Blotkamp: \"Ray Staakman.\"\nMuseumjournaal 17,\n5 (Oct. 1972), pp.209-214.",
+      "width": "173",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Subjective Stroboscopy",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/img-VanRullenEtAl.2011-FIP-C.jpg",
+      "alt": "",
+      "caption": "Subjective direction reversal, as visualized by VanRullen et al. (2011)",
+      "width": "399",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/img-Kline+Eagleman-2008-s.jpg",
+      "alt": "",
+      "caption": "A pattern employed by Kline et al. (2008)",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To a human observer, a continuously\nmoving visual pattern with a repetition frequency of ca. 13 Hz.\nmay appear to move in the direction opposite to the actual movement.\nThis phenomenon, discovered by J.F. Schouten (1967), is reminiscent\nof the \"wagonwheel effect\" that occurs when a movie-camera\nrecords rotating spokes whose repetition frequency approaches\nor exceeds the camera's sample frequency. To explain his observations,\nSchouten indeed postulated a periodicity in the behaviour of the\ncells in the retina.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The subjective experience of looking at motion patterns\nin the critical frequency range is much more complex and interesting\nthan a simple direction reversal. The demonstrations of subjective\nstroboscopy in Schouten's lectures outperformed most optical and\nkinetic artworks.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J.F. Schouten: \"Subjective stroboscopy and a model of\nvisual movement detectors.\" In I. Wathen-Dunn (Ed.): Models\nfor the perception of speech and visual form. Cambridge, MA:\nMIT Press, 1967, pp. 44–45.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith A. Kline & David M. Eagleman: \"Evidence\nagainst the temporal subsampling account of illusory motion reversal.\" Journal\nof Vision, Vol. 8, no. 4 (April 18,\n2008), Article\n13.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rufin VanRullen & Julien Dubois: \"The\nPsychophysics of Brain Rhythms.\" Frontiers in Psychology, Vol. 2 (August\n2011), Article 203.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "spinning objects",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1955[SculptureVirtuelle]-1-C.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "128",
+      "height": "353",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1955-{RotWireSc]_2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "352",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Tinguely: Sculpture Virtuelle, 1955\n\n[2500 rpm]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-CI-MAT-Still-C.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "198",
+      "height": "312",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-CI-moving-s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Constante Indéterminée. Édition\nMAT, 1960",
+      "width": "191",
+      "height": "311",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Platform with rotating clamp.\n\nArbitrary objects can be fixed onto the clamp.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-YouTube[Armand]-s.jpg",
+      "alt": "",
+      "caption": "More instantiations of Jean Tinguely's Constante Indéterminée. Édition\nMAT, 1960 & 1964",
+      "width": "138",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-MAT-009s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "142",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-MAT-010s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "143",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-MAT_1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "136",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-MAT_2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "126",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1974-tinguely-1974-MiostarNr2-s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Miostar Nr. 2, 1974",
+      "width": "272",
+      "height": "346",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1974-tinguely-1974_Bosch-No.-2---s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Bosch Nr. 2, 1974",
+      "width": "320",
+      "height": "346",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1993-munari-1993-Rotore-1.jpg",
+      "alt": "",
+      "caption": "Bruno Munari: Rotore, 1993",
+      "width": "139",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1993-munari-1993-Rotore-2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "139",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "spinning monochromes",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1958-klein-tinguely-1958-Excavatrice[White]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "225",
+      "height": "262",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1958-klein-tinguely-1958-ExcavatriceDeLEspace(S19)-C.jpg",
+      "alt": "",
+      "caption": "Yves Klein & Jean Tinguely: Excavatrices\nde l'Espace,\n1958",
+      "width": "365",
+      "height": "262",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1973-ruthenbeck-1973-SchnelleScheibe-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nSchnelle Scheibe, 1973",
+      "width": "254",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/spin/1973-ruthenbeck-1982-KinObjNr3-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nKinetisches Objekt Nr. 3, 1982",
+      "width": "268",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-1870-MagneticMotorRotator--French.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/1870-MagneticMotorRotator--French.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-GeorgesCarette-Nuremberg-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/GeorgesCarette-Nuremberg-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-WheatstoneMotorWGT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/WheatstoneMotorWGT-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-d3949731x-s.jpg",
+      "alt": "",
+      "caption": "France, 1870",
+      "legacy_src": "1870-GeisslerTubeRotators/d3949731x-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tubes-FrankJones-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/Tubes/FrankJones-4-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tubes-Geissler-Tube-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/Tubes/Geissler-Tube-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tubes-AlbertDurac-CT33-15cm-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/Tubes/AlbertDurac-CT33-15cm-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-ZieglerFanMotor-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/ZieglerFanMotor-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-LeCompendium-resultaat-s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1870-GeisslerTubeRotators/LeCompendium-resultaat-s.gif"
+    },
+    {
+      "src": "/images/kinetics/spin/1870-geissler-tube-rotators-AlbertDurac-CT33-15cm-s.jpg",
+      "alt": "",
+      "caption": "Sources",
+      "legacy_src": "1870-GeisslerTubeRotators/AlbertDurac-CT33-15cm-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1920-duchamp-1920-still-ss.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp & Man Ray:\n\nPrecision Optics\n\n(Rotary Glass Plates), 1920",
+      "legacy_src": "1920-Duchamp/1920-still-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1920-duchamp-1920-moving-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1920-Duchamp/1920-moving-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1920-duchamp-1925_rotary_demisphere(precision_optics)-M.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nPrecision Optics\n\n(Rotary Demisphere), 1925",
+      "legacy_src": "1920-Duchamp/1925_rotary_demisphere(precision_optics)-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/archive-1935-Rotoreliefs-C-M.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp: Rotoreliefs, 1935",
+      "legacy_src": "1920-Duchamp/-archive/1935-Rotoreliefs-C-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1920-duchamp-1935-Rotorelief(OpticalDisk)-s.jpg",
+      "alt": "",
+      "caption": "[Disks to be placed on gramophone turntable]",
+      "legacy_src": "1920-Duchamp/1935-Rotorelief(OpticalDisk)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-1-s.jpg",
+      "alt": "",
+      "caption": "Ray Staakman: Groot Draaiend Vierkant, 1965",
+      "legacy_src": "1965-StaakmanGrootDraaiendVierkant/Nr-1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1965-StaakmanGrootDraaiendVierkant/Nr-2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1965-StaakmanGrootDraaiendVierkant/Nr-3-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1965-staakman-groot-draaiend-vierkant-Nr-4-s.jpg",
+      "alt": "",
+      "caption": "Carel Blotkamp: \"Ray Staakman.\"\nMuseumjournaal 17,\n5 (Oct. 1972), pp.209-214.",
+      "legacy_src": "1965-StaakmanGrootDraaiendVierkant/Nr-4-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/img-VanRullenEtAl.2011-FIP-C.jpg",
+      "alt": "",
+      "caption": "Subjective direction reversal, as visualized by VanRullen et al. (2011)",
+      "legacy_src": "1967-Schouten/img/VanRullenEtAl.2011-FIP-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/img-Kline+Eagleman-2008-s.jpg",
+      "alt": "",
+      "caption": "A pattern employed by Kline et al. (2008)",
+      "legacy_src": "1967-Schouten/img/Kline+Eagleman-2008-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1955[SculptureVirtuelle]-1-C.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1955%5BSculptureVirtuelle%5D-1-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1955-{RotWireSc]_2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1955-%7BRotWireSc%5D_2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-CI-MAT-Still-C.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1960-CI-MAT-Still-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-CI-moving-s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Constante Indéterminée. Édition\nMAT, 1960",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1960-CI-moving-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-YouTube[Armand]-s.jpg",
+      "alt": "",
+      "caption": "More instantiations of Jean Tinguely's Constante Indéterminée. Édition\nMAT, 1960 & 1964",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1964-YouTube%5BArmand%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-MAT-009s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1960-MAT-009s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1960-MAT-010s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1960-MAT-010s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-MAT_1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1964-MAT_1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/tinguely-constante-ind-etermin-ee-1964-MAT_2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1955-Tinguely/TinguelyConstanteIndEterminEe/1964-MAT_2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1974-tinguely-1974-MiostarNr2-s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Miostar Nr. 2, 1974",
+      "legacy_src": "1974-Tinguely/1974-MiostarNr2-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1974-tinguely-1974_Bosch-No.-2---s.jpg",
+      "alt": "",
+      "caption": "Jean Tinguely: Bosch Nr. 2, 1974",
+      "legacy_src": "1974-Tinguely/1974_Bosch-No.-2---s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1993-munari-1993-Rotore-1.jpg",
+      "alt": "",
+      "caption": "Bruno Munari: Rotore, 1993",
+      "legacy_src": "1993-Munari/1993-Rotore-1.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1993-munari-1993-Rotore-2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1993-Munari/1993-Rotore-2.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1958-klein-tinguely-1958-Excavatrice[White]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1958-Klein-Tinguely/1958-Excavatrice%5BWhite%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1958-klein-tinguely-1958-ExcavatriceDeLEspace(S19)-C.jpg",
+      "alt": "",
+      "caption": "Yves Klein & Jean Tinguely: Excavatrices\nde l'Espace,\n1958",
+      "legacy_src": "1958-Klein-Tinguely/1958-ExcavatriceDeLEspace(S19)-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1973-ruthenbeck-1973-SchnelleScheibe-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nSchnelle Scheibe, 1973",
+      "legacy_src": "1973-Ruthenbeck/1973-SchnelleScheibe-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/spin/1973-ruthenbeck-1982-KinObjNr3-s.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nKinetisches Objekt Nr. 3, 1982",
+      "legacy_src": "1973-Ruthenbeck/1982-KinObjNr3-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/kinetics/turn"
+  ]
+}

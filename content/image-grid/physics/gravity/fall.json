@@ -1,0 +1,101 @@
+{
+  "slug": "physics/gravity/fall",
+  "legacy_path": "physics/gravity/Fall/index.html",
+  "section": "physics",
+  "archetype": "image-grid",
+  "title": "Fall",
+  "heading": "to fall",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to fall",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/gravity/fall/aaron-siskind-pleasures-and-terrors-of-levitation-1953-nr37-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "285",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/gravity/fall/aaron-siskind-pleasures-and-terrors-of-levitation-1961-nr121-s.jpg",
+      "alt": "",
+      "caption": "Aaron Siskind: The Pleasures and Terrors of Levitation, nr. 37 (1953) & nr. 121 (1961)",
+      "width": "285",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/gravity/fall/1964-warhol-andy-warhol-64-suicide-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Suicide, 1964",
+      "width": "211",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/gravity/fall/1970-bas-jan-ader-1970-Fall1(LA)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall I (Los Angeles), 1970",
+      "width": "278",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/gravity/fall/1970-bas-jan-ader-1970-Fall2(Amsterdam)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall II (Amsterdam), 1970",
+      "width": "262",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, June 2011",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/physics/gravity/fall/aaron-siskind-pleasures-and-terrors-of-levitation-1953-nr37-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AaronSiskindPleasures%20AndTerrorsOfLevitation/1953-nr37-s.jpg"
+    },
+    {
+      "src": "/images/physics/gravity/fall/aaron-siskind-pleasures-and-terrors-of-levitation-1961-nr121-s.jpg",
+      "alt": "",
+      "caption": "Aaron Siskind: The Pleasures and Terrors of Levitation, nr. 37 (1953) & nr. 121 (1961)",
+      "legacy_src": "AaronSiskindPleasures%20AndTerrorsOfLevitation/1961-nr121-s.jpg"
+    },
+    {
+      "src": "/images/physics/gravity/fall/1964-warhol-andy-warhol-64-suicide-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Suicide, 1964",
+      "legacy_src": "1964-Warhol/andy-warhol-64-suicide-s.jpg"
+    },
+    {
+      "src": "/images/physics/gravity/fall/1970-bas-jan-ader-1970-Fall1(LA)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall I (Los Angeles), 1970",
+      "legacy_src": "1970BasJanAder/1970-Fall1(LA)-s.jpg"
+    },
+    {
+      "src": "/images/physics/gravity/fall/1970-bas-jan-ader-1970-Fall2(Amsterdam)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall II (Amsterdam), 1970",
+      "legacy_src": "1970BasJanAder/1970-Fall2(Amsterdam)-s.jpg"
+    }
+  ],
+  "out_links": []
+}

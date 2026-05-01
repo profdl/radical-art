@@ -1,0 +1,280 @@
+{
+  "slug": "things/composite/stacks",
+  "legacy_path": "things/composite/stacks/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Stacks",
+  "heading": "Superpositions",
+  "description": "Stacks: One thing on top of another.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: readymades radical\nart",
+      "links": [
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Superpositions",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/DuchampRoueDB1913-m.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nRoue de Bicyclette, 1913",
+      "width": "155",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/man-ray-1920CompassBW.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nCompass, 1920",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/man-ray-ManRayLeMancheDansLaM-1921.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nLe Manche dans la Manche, 1921",
+      "width": "140",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/RM-58LesVacancesDeHegel-M.jpg",
+      "alt": "",
+      "caption": "René Magritte:\n\nLes Vacances de Hegel, 1958",
+      "width": "208",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/Christo2WrappedCan1959-s.jpg",
+      "alt": "",
+      "caption": "Christo: Wrapped Can, 1959",
+      "width": "160",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/CliveBarker74-Chariot-S.jpg",
+      "alt": "",
+      "caption": "Clive Barker: Chariot, 1974",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/80SteinbachShelfWithAjax-S.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach:\n\nShelf with Ajax, 1980",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/bertrand-lavier-BLavier84BrandtSurHaffner-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nBrandt/Haffner, 1984",
+      "width": "107",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/bertrand-lavier-lavier[koelkastOpFauteuil].jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier",
+      "width": "150",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/bertrand-lavier-Hi-LiftJackSurZanussi-s.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nHi Lift Jack / Zanussi",
+      "width": "116",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/AlainSechas85LeMannequinS.jpg",
+      "alt": "",
+      "caption": "Alain Sechas:\n\nLe Mannequin, 1985",
+      "width": "157",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/Dietman92ChateauPoltrone.jpg",
+      "alt": "",
+      "caption": "Erik Dietman:\n\nChateau Poltrone, 1992",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/boym-CLLBoymSalvationStacks-s.jpg",
+      "alt": "",
+      "caption": "C.L.L. Boym: Salvation Stacks",
+      "width": "332",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/boym-CLLBoymAmericanPlumbing.jpg",
+      "alt": "",
+      "caption": "C.L.L. Boym: American Plumbing",
+      "width": "174",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/bertrand-lavier-96PotzdamerPlatzWallZanussi.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nPotzdamer Platz / Zanussi, 1996",
+      "width": "151",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/stacks/Dietman00SnsToiLMsn=ChauveS.jpg",
+      "alt": "",
+      "caption": "Erik Dietman:\n\nSans toi la maison est chauve, 2000",
+      "width": "151",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/composite/stacks/DuchampRoueDB1913-m.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nRoue de Bicyclette, 1913",
+      "legacy_src": "DuchampRoueDB1913-m.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/man-ray-1920CompassBW.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nCompass, 1920",
+      "legacy_src": "ManRay/1920CompassBW.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/man-ray-ManRayLeMancheDansLaM-1921.jpg",
+      "alt": "",
+      "caption": "Man Ray:\n\nLe Manche dans la Manche, 1921",
+      "legacy_src": "ManRay/ManRayLeMancheDansLaM-1921.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/RM-58LesVacancesDeHegel-M.jpg",
+      "alt": "",
+      "caption": "René Magritte:\n\nLes Vacances de Hegel, 1958",
+      "legacy_src": "RM-58LesVacancesDeHegel-M.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/Christo2WrappedCan1959-s.jpg",
+      "alt": "",
+      "caption": "Christo: Wrapped Can, 1959",
+      "legacy_src": "Christo2WrappedCan1959-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/CliveBarker74-Chariot-S.jpg",
+      "alt": "",
+      "caption": "Clive Barker: Chariot, 1974",
+      "legacy_src": "CliveBarker74-Chariot-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/80SteinbachShelfWithAjax-S.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach:\n\nShelf with Ajax, 1980",
+      "legacy_src": "80SteinbachShelfWithAjax-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/bertrand-lavier-BLavier84BrandtSurHaffner-S.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nBrandt/Haffner, 1984",
+      "legacy_src": "BertrandLavier/BLavier84BrandtSurHaffner-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/bertrand-lavier-lavier[koelkastOpFauteuil].jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier",
+      "legacy_src": "BertrandLavier/lavier%5BkoelkastOpFauteuil%5D.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/bertrand-lavier-Hi-LiftJackSurZanussi-s.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nHi Lift Jack / Zanussi",
+      "legacy_src": "BertrandLavier/Hi-LiftJackSurZanussi-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/AlainSechas85LeMannequinS.jpg",
+      "alt": "",
+      "caption": "Alain Sechas:\n\nLe Mannequin, 1985",
+      "legacy_src": "AlainSechas85LeMannequinS.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/Dietman92ChateauPoltrone.jpg",
+      "alt": "",
+      "caption": "Erik Dietman:\n\nChateau Poltrone, 1992",
+      "legacy_src": "Dietman92ChateauPoltrone.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/boym-CLLBoymSalvationStacks-s.jpg",
+      "alt": "",
+      "caption": "C.L.L. Boym: Salvation Stacks",
+      "legacy_src": "boym/CLLBoymSalvationStacks-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/boym-CLLBoymAmericanPlumbing.jpg",
+      "alt": "",
+      "caption": "C.L.L. Boym: American Plumbing",
+      "legacy_src": "boym/CLLBoymAmericanPlumbing.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/bertrand-lavier-96PotzdamerPlatzWallZanussi.jpg",
+      "alt": "",
+      "caption": "Bertrand Lavier:\n\nPotzdamer Platz / Zanussi, 1996",
+      "legacy_src": "BertrandLavier/96PotzdamerPlatzWallZanussi.jpg"
+    },
+    {
+      "src": "/images/things/composite/stacks/Dietman00SnsToiLMsn=ChauveS.jpg",
+      "alt": "",
+      "caption": "Erik Dietman:\n\nSans toi la maison est chauve, 2000",
+      "legacy_src": "Dietman00SnsToiLMsn=ChauveS.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things"
+  ]
+}

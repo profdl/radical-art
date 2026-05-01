@@ -1,0 +1,56 @@
+{
+  "slug": "anything/bugs",
+  "legacy_path": "anything/bugs.html",
+  "section": "anything",
+  "archetype": "essay",
+  "title": "Indeterminacy",
+  "heading": "",
+  "description": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Real unpredictability",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "is not realized by means of mathematical chance, because mathematical\nchance requires the definition of the set of possible outcomes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Real unpredictability is caused by mistakes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• Benoit Mandelbrot: The Computer \"Bug\" as Artist. In: The Fractal Geometry of Nature. New York: W.H. Freeman, 1982.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "• Jodi",
+      "links": [
+        {
+          "text": "Jodi",
+          "href": "http://wwwwwwwww.jodi.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "• SolarGarlic: The\naleatoric method. (A graphic creation method based on\ncorrupted data. The process involves corrupting an existing\nfile and capturing the reactions it produces in various\nenvironments. The results are separated into elements, which\nare then rearranged and combined to create the graphic piece.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2005",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

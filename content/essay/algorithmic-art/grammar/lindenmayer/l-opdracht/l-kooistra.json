@@ -1,0 +1,146 @@
+{
+  "slug": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra",
+  "legacy_path": "AlgorithmicArt/grammar/Lindenmayer/L-Opdracht/L-Kooistra.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "L-System: om de groei van een plant of een object in formules weer te geven",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "AA&AI\n\nOpdracht 4",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Menno Kooistra\n\nstudent nummer: 9835385",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Enkele L-Systeem-formules",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Op zoek naar een eenvoudig schilderij\nvan Mondriaan om na te maken met behulp van een L-systeem, stuitte ik op de\npagina van Jano van Hemert (http://www.liacs.nl/~jvhemert/mondriaan/)\nuit Leiden. Jano experimenteert op een soortgelijke manier met het produceren\nvan digitale Mondriaan schilderijen die gegenereerd worden door een code. Maar\ndit terzijde. Na een aantal van Mondriaan’s bekendste werken te hebben\nbekeken, heb ik besloten de meester te kopiëren.",
+      "links": [
+        {
+          "text": "http://www.liacs.nl/~jvhemert/mondriaan/",
+          "href": "http://www.liacs.nl/~jvhemert/mondriaan/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ik ben begonnen met een blik te werpen op de \"Big-H\"\nals preset value, de axiom te veranderen in een simpele \"f\" en de\ncode f=|[g][-f]|. Begint op een Mondriaan te lijken. Het \"groeit\"\nalleen nog niet (figuur 1).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Na een tijdje proberen kwam ik op de volgende formule: f=[g][-f]+|[f]|\n(met nog steeds de Big-H en axiom op \"f\"). Deze \"Mondriaan\"\ngroeit al (figuur 2).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "De volgende Monriaan heeft een andere axiom, namelijk f[f],\nen de formule is: f=[g][f]+|[f]. Het levert weer een groeiend schilderij op\ndie niet eens zo lelijk is (figuur 3). Een kleine verandering in de angle\n(van 90 naar 40) en het wordt een tak met bladeren (figuur 4).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image13.jpg",
+      "alt": "",
+      "caption": "figuur 1",
+      "width": "111",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image14.jpg",
+      "alt": "",
+      "caption": "figuur\n2",
+      "width": "112",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image15.jpg",
+      "alt": "",
+      "caption": "figuur 3",
+      "width": "111",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image16.jpg",
+      "alt": "",
+      "caption": "figuur 4",
+      "width": "111",
+      "height": "112",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tot zover mijn voorzichtige probeersels met de L-systemen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ik en erg onder de indruk van dit stukje Java, waarmee je naast\nhet genereren van deze groeipatronen, ook nog eens een lust voor het oog verkrijgt.\nHet zijn mooie \"screensavers\" als het ware. Daar deed het me in eerste\ninstantie erg aan denken.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ik ben er van overtuigd dat als je lang genoeg rekent, probeert\nen programmeert, je exacte kopies van (niet al te gecompliceerde) schilderijen\nkunt kopiëren. De vraag is echter wat je eraan hebt. Kirsch en Kirsch gaven\nin het artikel \"Storing Art Images in Intelligent Computers\" al een\npaar antwoorden. Voor het opslaan van schilderijen (niet de zware en veel MB’s\ntellende images), het snel opzoeken van een bepaald image in een verzameling\nvan duizenden anderen en het exposeren van een serie schilderijen (dia-show).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Het genereren van grammatica voor kunst is een hele grote stap.\nDe Lindenmayer manier kan een grote hulp zijn voor het schrijven daarvan. Je\nzou stap voor stap na kunnen gaan hoe de kunstenaar in kwestie te werk is gegaan\nbij het maken van een schilderij. Je zou een L-systeem zo kunnen programmeren\ndat het een groeiende visualisatie laat zien van een schilderij. Dus de computer\ndie het schilderij maakt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Waar ik wel een antwoord op zou willen horen is de vraag waarom\nje een grammatica taal zou willen schrijven voor kunststijlen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "-",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image13.jpg",
+      "alt": "",
+      "caption": "figuur 1",
+      "legacy_src": "Image13.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image14.jpg",
+      "alt": "",
+      "caption": "figuur\n2",
+      "legacy_src": "Image14.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image15.jpg",
+      "alt": "",
+      "caption": "figuur 3",
+      "legacy_src": "Image15.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra/Image16.jpg",
+      "alt": "",
+      "caption": "figuur 4",
+      "legacy_src": "Image16.jpg"
+    }
+  ],
+  "out_links": []
+}

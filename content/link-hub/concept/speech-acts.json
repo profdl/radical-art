@@ -1,0 +1,129 @@
+{
+  "slug": "concept/speech-acts",
+  "legacy_path": "concept/SpeechActs/index.html",
+  "section": "concept",
+  "archetype": "link-hub",
+  "title": "Speech Acts",
+  "heading": "",
+  "description": "Concept Art: Speech Acts",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Concept Art: Speech Acts",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Expression of emotions",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/1st-person-reports",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Assertions",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/assertions",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/questions",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Answers",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/answers",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Creations, curses and greetings",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/performatives",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Suggestions and requests",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/imperatives",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Accusations",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/accusations",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Appeals, predictions, proposals, threats",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/speech-acts/advice-etc",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art against art",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/art-against-art",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/concept/art-against-art",
+    "/concept/speech-acts/1st-person-reports",
+    "/concept/speech-acts/accusations",
+    "/concept/speech-acts/advice-etc",
+    "/concept/speech-acts/answers",
+    "/concept/speech-acts/assertions",
+    "/concept/speech-acts/imperatives",
+    "/concept/speech-acts/performatives",
+    "/concept/speech-acts/questions"
+  ]
+}

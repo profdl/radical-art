@@ -1,0 +1,193 @@
+{
+  "slug": "things/covered",
+  "legacy_path": "things/covered/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "covered",
+  "heading": "Covered Objects",
+  "description": "Objects covered.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "related genres: wrap cover-up paint",
+      "links": [
+        {
+          "text": "wrap",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "paint",
+          "href": "/things/painted",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Covered Objects",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/oppenheim1936-M.jpg",
+      "alt": "",
+      "caption": "Meret Oppenheim, 1936",
+      "width": "312",
+      "height": "216",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/Uecker63-TVaufTisch-s.jpg",
+      "alt": "",
+      "caption": "Günther Uecker: TV auf Tisch, 1963",
+      "width": "230",
+      "height": "262",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusamaBabyCarriage1964-M.jpg",
+      "alt": "",
+      "caption": "Yayoi Kusama:\n\nBaby Carriage, 1964",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/arman89LaMarseillaise-M.jpg",
+      "alt": "",
+      "caption": "Arman: La Marseilleise, 1989",
+      "width": "312",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/73ContratPourUnCorpsNr3-s.jpg",
+      "alt": "",
+      "caption": "Michel Journiac:\n\nContrat pour un Corps # 3, 1973",
+      "width": "262",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/2002-DiscoInferno-s.jpg",
+      "alt": "",
+      "caption": "Christoph Steinmeyer:\n\nDisco Inferno, 2002",
+      "width": "221",
+      "height": "302",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/4tLoveOfGod-3-s.jpg",
+      "alt": "",
+      "caption": "Damien Hirst:\n\nFor the Love of God, 2008",
+      "width": "224",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "more: covered objects by yayoi kusama",
+      "links": [
+        {
+          "text": "covered objects by yayoi kusama",
+          "href": "/things/covered/kusama",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "link: damien hirst comments on 9-11",
+      "links": [
+        {
+          "text": "damien hirst comments on 9-11",
+          "href": "/destruction/artificial-disasters/wtc",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/covered/oppenheim1936-M.jpg",
+      "alt": "",
+      "caption": "Meret Oppenheim, 1936",
+      "legacy_src": "oppenheim1936-M.jpg"
+    },
+    {
+      "src": "/images/things/covered/Uecker63-TVaufTisch-s.jpg",
+      "alt": "",
+      "caption": "Günther Uecker: TV auf Tisch, 1963",
+      "legacy_src": "Uecker63-TVaufTisch-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusamaBabyCarriage1964-M.jpg",
+      "alt": "",
+      "caption": "Yayoi Kusama:\n\nBaby Carriage, 1964",
+      "legacy_src": "kusamaBabyCarriage1964-M.jpg"
+    },
+    {
+      "src": "/images/things/covered/arman89LaMarseillaise-M.jpg",
+      "alt": "",
+      "caption": "Arman: La Marseilleise, 1989",
+      "legacy_src": "arman89LaMarseillaise-M.jpg"
+    },
+    {
+      "src": "/images/things/covered/73ContratPourUnCorpsNr3-s.jpg",
+      "alt": "",
+      "caption": "Michel Journiac:\n\nContrat pour un Corps # 3, 1973",
+      "legacy_src": "73ContratPourUnCorpsNr3-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/2002-DiscoInferno-s.jpg",
+      "alt": "",
+      "caption": "Christoph Steinmeyer:\n\nDisco Inferno, 2002",
+      "legacy_src": "2002-DiscoInferno-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/4tLoveOfGod-3-s.jpg",
+      "alt": "",
+      "caption": "Damien Hirst:\n\nFor the Love of God, 2008",
+      "legacy_src": "4tLoveOfGod-3-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction/artificial-disasters/wtc",
+    "/index",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/covered/kusama",
+    "/things/painted",
+    "/things/wrapped"
+  ]
+}

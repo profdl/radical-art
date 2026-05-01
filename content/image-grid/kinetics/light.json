@@ -1,0 +1,285 @@
+{
+  "slug": "kinetics/light",
+  "legacy_path": "kinetics/light/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "light",
+  "heading": "",
+  "description": "kinetic art: projections and reflections.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "kinetic art: projections & reflections",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Laszlo Moholy-Nagy",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LghtSpaceModulatorS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "159",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LightDisplayMobileS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LSM.jpg",
+      "alt": "",
+      "caption": "Light-Space Modulator, 1930",
+      "width": "202",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Thomas Wilfred",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred30ClaviluxJrS.jpg",
+      "alt": "",
+      "caption": "Clavilux Junior, 1930",
+      "width": "161",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred59StudyInDepth.jpg",
+      "alt": "",
+      "caption": "Study in Depth, 1959",
+      "width": "250",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66-Opus161S.jpg",
+      "alt": "",
+      "caption": "Opus 161, 1965-1966",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66Opus161BS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66Opus161CS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "124",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/thomas-wilfred-Wilfred65-66Opus161-D.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "125",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Frank Malina",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/frank-malina-Malina56PointCounterPoint.jpg",
+      "alt": "",
+      "caption": "Point Counter Point, 1956",
+      "width": "174",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/frank-malina-Malina59MoonWaves-S.jpg",
+      "alt": "",
+      "caption": "Moon Waves, 1959",
+      "width": "131",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/frank-malina-Malina61Lohengrin.jpg",
+      "alt": "",
+      "caption": "Lohengrin, 1961",
+      "width": "172",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Nicolas Schöffer",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoeffer57Lux1-s.jpg",
+      "alt": "",
+      "caption": "Lux 1, 1957",
+      "width": "189",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoffer62MurDeLumiereM.jpg",
+      "alt": "",
+      "caption": "Mur de Lumière, 1962",
+      "width": "303",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoffer68GrndPrsmeAcEfftsS.jpg",
+      "alt": "",
+      "caption": "Grand Prisme avec Effets, 1968",
+      "width": "172",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/light/nicolas-schoeffer-SChoffer68-69Microtemps02S.jpg",
+      "alt": "",
+      "caption": "Microtemps, 1968-1969",
+      "width": "216",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LghtSpaceModulatorS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LaszloMoholy-Nagy/Moholy30LghtSpaceModulatorS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LightDisplayMobileS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "LaszloMoholy-Nagy/Moholy30LightDisplayMobileS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/laszlo-moholy-nagy-Moholy30LSM.jpg",
+      "alt": "",
+      "caption": "Light-Space Modulator, 1930",
+      "legacy_src": "LaszloMoholy-Nagy/Moholy30LSM.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred30ClaviluxJrS.jpg",
+      "alt": "",
+      "caption": "Clavilux Junior, 1930",
+      "legacy_src": "ThomasWilfred/ThomasWilfred30ClaviluxJrS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred59StudyInDepth.jpg",
+      "alt": "",
+      "caption": "Study in Depth, 1959",
+      "legacy_src": "ThomasWilfred/ThomasWilfred59StudyInDepth.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66-Opus161S.jpg",
+      "alt": "",
+      "caption": "Opus 161, 1965-1966",
+      "legacy_src": "ThomasWilfred/ThomasWilfred65-66-Opus161S.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66Opus161BS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ThomasWilfred/ThomasWilfred65-66Opus161BS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-ThomasWilfred65-66Opus161CS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ThomasWilfred/ThomasWilfred65-66Opus161CS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/thomas-wilfred-Wilfred65-66Opus161-D.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ThomasWilfred/Wilfred65-66Opus161-D.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/frank-malina-Malina56PointCounterPoint.jpg",
+      "alt": "",
+      "caption": "Point Counter Point, 1956",
+      "legacy_src": "FrankMalina/Malina56PointCounterPoint.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/frank-malina-Malina59MoonWaves-S.jpg",
+      "alt": "",
+      "caption": "Moon Waves, 1959",
+      "legacy_src": "FrankMalina/Malina59MoonWaves-S.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/frank-malina-Malina61Lohengrin.jpg",
+      "alt": "",
+      "caption": "Lohengrin, 1961",
+      "legacy_src": "FrankMalina/Malina61Lohengrin.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoeffer57Lux1-s.jpg",
+      "alt": "",
+      "caption": "Lux 1, 1957",
+      "legacy_src": "NicolasSchoeffer/Schoeffer57Lux1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoffer62MurDeLumiereM.jpg",
+      "alt": "",
+      "caption": "Mur de Lumière, 1962",
+      "legacy_src": "NicolasSchoeffer/Schoffer62MurDeLumiereM.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/nicolas-schoeffer-Schoffer68GrndPrsmeAcEfftsS.jpg",
+      "alt": "",
+      "caption": "Grand Prisme avec Effets, 1968",
+      "legacy_src": "NicolasSchoeffer/Schoffer68GrndPrsmeAcEfftsS.jpg"
+    },
+    {
+      "src": "/images/kinetics/light/nicolas-schoeffer-SChoffer68-69Microtemps02S.jpg",
+      "alt": "",
+      "caption": "Microtemps, 1968-1969",
+      "legacy_src": "NicolasSchoeffer/SChoffer68-69Microtemps02S.jpg"
+    }
+  ],
+  "out_links": []
+}

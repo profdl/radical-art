@@ -1,0 +1,81 @@
+{
+  "slug": "kinetics/gravity/fall",
+  "legacy_path": "kinetics/gravity/Fall/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Fall",
+  "heading": "to fall",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to fall",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fall/1929-laurel-hardy-Picture-3-s.jpg",
+      "alt": "",
+      "caption": "Stan Laurel & Oliver Hardy: Men\nO'War, 1929",
+      "width": "328",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fall/1929-laurel-hardy-Picture-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "326",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fall/1970-bas-jan-ader-1970-Fall1(LA)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall I (Los Angeles), 1970",
+      "width": "278",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/fall/1970-bas-jan-ader-1970-Fall2(Amsterdam)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall II (Amsterdam), 1970",
+      "width": "262",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/fall/1929-laurel-hardy-Picture-3-s.jpg",
+      "alt": "",
+      "caption": "Stan Laurel & Oliver Hardy: Men\nO'War, 1929",
+      "legacy_src": "1929-Laurel+Hardy/Picture-3-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fall/1929-laurel-hardy-Picture-4-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1929-Laurel+Hardy/Picture-4-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fall/1970-bas-jan-ader-1970-Fall1(LA)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall I (Los Angeles), 1970",
+      "legacy_src": "1970BasJanAder/1970-Fall1(LA)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/fall/1970-bas-jan-ader-1970-Fall2(Amsterdam)-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: Fall II (Amsterdam), 1970",
+      "legacy_src": "1970BasJanAder/1970-Fall2(Amsterdam)-s.jpg"
+    }
+  ],
+  "out_links": []
+}

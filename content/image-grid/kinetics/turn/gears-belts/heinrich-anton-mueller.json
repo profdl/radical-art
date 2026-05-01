@@ -1,0 +1,81 @@
+{
+  "slug": "kinetics/turn/gears-belts/heinrich-anton-mueller",
+  "legacy_path": "kinetics/Turn/GearsBelts/HeinrichAntonMueller/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Heinrich Anton Müller",
+  "heading": "",
+  "description": "",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Heinrich Anton Müller, ca. 1920",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "370",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "325",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/heinrich_anton-muller-ca1920-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "235",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller4.JPG",
+      "alt": "",
+      "caption": "compiled by remko scha, july 2012",
+      "width": "417",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller1-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "muller1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller3-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "muller3-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/heinrich_anton-muller-ca1920-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "heinrich_anton-muller-ca1920-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/gears-belts/heinrich-anton-mueller/muller4.JPG",
+      "alt": "",
+      "caption": "compiled by remko scha, july 2012",
+      "legacy_src": "muller4.JPG"
+    }
+  ],
+  "out_links": []
+}

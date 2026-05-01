@@ -1,0 +1,313 @@
+{
+  "slug": "kinetics/gravity/drop",
+  "legacy_path": "kinetics/gravity/Drop/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "to drop",
+  "heading": "to drop",
+  "description": "Process Art: Gravity: Dropping.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: mechanism radical\nart",
+      "links": [
+        {
+          "text": "mechanism",
+          "href": "/kinetics",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to drop",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "[to release an object in a gravitational field]",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "The release of a material body in a gravitational field initiates a readymade drama in three acts. A rich field of metaphorical connotations is evoked by the incomprehensible transition from rest to motion, the seemingly unbridled acceleration, and the sudden ending in an often violent collision. To drop an object, just to see it fall, is an ever popular type of performance with a long tradition.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Scientific experiments and demonstrations",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Some of the first deliberate scientific experiments, carried out around 1600, were concerned with the motion of falling objects. The proportional relation between the weight and the speed of a falling object, as taught by Aristotle, had been found to disagree with experience and was even exposed as inherently absurd. The intuitive basis of Aristotle's theory had also lost its self-evidence. It was not obvious anymore that every body has its \"natural place\" between the earth and the heavens, and is moved by a \"final cause\" towards that place. The honest scientist was forced to look at falling bodies in a completely unprejudiced, \"aesthetic\" mode.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the context of the numerous performances that were carried out with falling objects around 1600. Typically, two balls of distinct weights or distinct sizes would be released simultaneously from a high tower, to ascertain which ball would reach the ground first.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/stevin-NK-DirckVanBleyswyck-1667-s.jpg",
+      "alt": "",
+      "caption": "Simon Stevin & Jan Cornets de Groot:\n\nTwo balls with different weights,\n\ndropped from a height of 30 feet.\n\nDe Nieuwe Kerk, Delft, ca. 1580.",
+      "width": "191",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/GalileoPisaTower-s.jpg",
+      "alt": "",
+      "caption": "Galileo Galilei:\n\nTwo balls with different weights,\n\ndropped from the Campanile\n\ndel Duomo di Pisa. Ca. 1590.",
+      "width": "216",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/Scott71-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "257",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "David R. Scott:\n\nA hammer and a feather\n\ndropped onto the moon.\n\nLive TV broadcast, 1971.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Link: A separate page provides a more elaborate discussion of scientific demo's and experiments with falling objects. It mentions Girolamo Borro, Giuseppe Moletti, Simon Stevin, Galileo Galilei, Giorgio Coresio, Vincenzo Renieri, Robert Boyle, Marin Mersenne, Francis Hauksbee, and David R. Scott.",
+      "links": [
+        {
+          "text": "separate page",
+          "href": "/kinetics/gravity/drop/motion-law-experiments",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Duchamp: Trois Stoppages Étalon",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/Duchamp13-14Stoppages.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nTrois Stoppages Étalon,\n1913",
+      "width": "148",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp's \"Trois Stoppages Étalon\" is a performance piece which looks like a pastiche on a scientific experiment: A thread with a length of 1 meter is dropped onto a flat surface from a height of 1 meter. It is fixed exactly in the position in which it lands on the surface, and this shape is poposed as the model for a new, crooked \"standard meter\". This procedure is carried out three times, yielding three new meters. Duchamp thus applies a destructive test procedure to the unit of measurement itself. The transformation of the standard distance alludes to the notion of Lorenz contraction and to Einstein's theories of relativity; the random character of the transformation evokes the klinamen in the world view of Demokritus, and the measurement notion of modern quantum theory. But Duchamp's suggestion is more radical. He is not proposing new complexities in physical theory; by twisting the unit of measurement, he problematizes the very notion of scientific knowledge. He frees the mind from the tatters of matter by suggesting that the so-called laws of nature may very well not exist, or that they are irrelevant because unknowable. What we think we know are mere conventions; every statement is false. (It has been noted that Duchamp's attitude is close to the scepticism of Pyrrho and the pataphysics of Alfred Jarry.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Drop Weight Testers",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial Drop Weight Testers drop a heavy weight from a height of several meters\n\nonto a sample object in order to determine the damage done to the sample.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/1914-SamuelJRecord-TheMecha-M.jpg",
+      "alt": "",
+      "caption": "From: Samuel J. Record:\n\nThe Mechanical Properties Of Wood.\n\nWiley, 1914, Fig. 40.",
+      "width": "179",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/dwt-s-CEAST_9310(Hobbit)-s.jpg",
+      "alt": "",
+      "caption": "CEAST 9310\n\n(Hobbit)\n\nca. 2000",
+      "width": "157",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/dwt-s-Da-Wha_DEC-P1300.jpg",
+      "alt": "",
+      "caption": "Da-Wha\n\nDEC P1300\n\nca. 2000",
+      "width": "145",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/dwt-s-FallingDartTester-s.jpg",
+      "alt": "",
+      "caption": "Falling Dart Tester\n\nca. 2000",
+      "width": "134",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The Baker House Piano Drop",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/72-MIT-PianoDrop.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "261",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/72-MIT-pianodrop2.jpg",
+      "alt": "",
+      "caption": "The First MIT Baker House Piano Drop. Cambridge, MA, 1972",
+      "width": "244",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lawrence Weiner",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/weiner-Weiner90-Nr662-s.jpg",
+      "alt": "",
+      "caption": "DUST + WATER PUT SOMEWHERE BETWEEN THE SKY & THE EARTH",
+      "width": "347",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "# 662, 1990",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drop/weiner-Weiner95Wallpainting766-s.jpg",
+      "alt": "",
+      "caption": "BALLS OF WOOD – BALLS OF IRON",
+      "width": "299",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "# 766, 1995",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2011",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/drop/stevin-NK-DirckVanBleyswyck-1667-s.jpg",
+      "alt": "",
+      "caption": "Simon Stevin & Jan Cornets de Groot:\n\nTwo balls with different weights,\n\ndropped from a height of 30 feet.\n\nDe Nieuwe Kerk, Delft, ca. 1580.",
+      "legacy_src": "Stevin/NK-DirckVanBleyswyck-1667-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/GalileoPisaTower-s.jpg",
+      "alt": "",
+      "caption": "Galileo Galilei:\n\nTwo balls with different weights,\n\ndropped from the Campanile\n\ndel Duomo di Pisa. Ca. 1590.",
+      "legacy_src": "GalileoPisaTower-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/Scott71-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Scott71-S.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/Duchamp13-14Stoppages.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nTrois Stoppages Étalon,\n1913",
+      "legacy_src": "Duchamp13-14Stoppages.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/1914-SamuelJRecord-TheMecha-M.jpg",
+      "alt": "",
+      "caption": "From: Samuel J. Record:\n\nThe Mechanical Properties Of Wood.\n\nWiley, 1914, Fig. 40.",
+      "legacy_src": "1914-SamuelJRecord-TheMecha-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/dwt-s-CEAST_9310(Hobbit)-s.jpg",
+      "alt": "",
+      "caption": "CEAST 9310\n\n(Hobbit)\n\nca. 2000",
+      "legacy_src": "DWT-s/CEAST_9310(Hobbit)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/dwt-s-Da-Wha_DEC-P1300.jpg",
+      "alt": "",
+      "caption": "Da-Wha\n\nDEC P1300\n\nca. 2000",
+      "legacy_src": "DWT-s/Da-Wha_DEC-P1300.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/dwt-s-FallingDartTester-s.jpg",
+      "alt": "",
+      "caption": "Falling Dart Tester\n\nca. 2000",
+      "legacy_src": "DWT-s/FallingDartTester-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/72-MIT-PianoDrop.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "72-MIT-PianoDrop.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/72-MIT-pianodrop2.jpg",
+      "alt": "",
+      "caption": "The First MIT Baker House Piano Drop. Cambridge, MA, 1972",
+      "legacy_src": "72-MIT-pianodrop2.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/weiner-Weiner90-Nr662-s.jpg",
+      "alt": "",
+      "caption": "DUST + WATER PUT SOMEWHERE BETWEEN THE SKY & THE EARTH",
+      "legacy_src": "Weiner/Weiner90-Nr662-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drop/weiner-Weiner95Wallpainting766-s.jpg",
+      "alt": "",
+      "caption": "BALLS OF WOOD – BALLS OF IRON",
+      "legacy_src": "Weiner/Weiner95Wallpainting766-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/kinetics",
+    "/kinetics/gravity/drop/motion-law-experiments"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "kinetics/gravity/hoist",
+  "legacy_path": "kinetics/gravity/Hoist/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "hoist",
+  "heading": "hoist",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "hoist",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/hoist/1929-LeoMcCareyStanLaurel-Liberty-s.jpg",
+      "alt": "",
+      "caption": "Oliver Hardy & Stan Laurel in Liberty\n\nby Leo McCarey & Stan Laurel,\n1929",
+      "width": "274",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/hoist/1986-[phSibylleBergemann]-AufstellenDerFriedrichEngelsSkulptur-Ost-Berlin-s.jpg",
+      "alt": "",
+      "caption": "Aufstellen der Friedrich Engels Skulptur. (East-Berlin, 1986.)\n\n[Photo:\nSibylle Bergemann]",
+      "width": "376",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/hoist/1991-lenin-Vilnius[LithGv]-s.jpg",
+      "alt": "",
+      "caption": "Removal of Lenin's Statue by the Lithuanian\n\nGovernment. (Vilnius, 1991.)",
+      "width": "205",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/hoist/2004-GeneralAlexandrePetion[byGonaivesResistanceFront]-s.jpg",
+      "alt": "",
+      "caption": "Removal of General Alexandre Petion's statue by the\n\nGonaives Resistance\nFront. (Gonaives, Haiti, 2004.)",
+      "width": "371",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/hoist/2010-Stalin-Gori-Georgia-[Government-MikheilSaakashvili]-s.jpg",
+      "alt": "",
+      "caption": "Removal of Stalin's statue by the Georgian Government\n\nunder Mikheil Saakashvili. (Gori,\n2010.)",
+      "width": "381",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/hoist/1929-LeoMcCareyStanLaurel-Liberty-s.jpg",
+      "alt": "",
+      "caption": "Oliver Hardy & Stan Laurel in Liberty\n\nby Leo McCarey & Stan Laurel,\n1929",
+      "legacy_src": "1929-LeoMcCareyStanLaurel-Liberty-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/hoist/1986-[phSibylleBergemann]-AufstellenDerFriedrichEngelsSkulptur-Ost-Berlin-s.jpg",
+      "alt": "",
+      "caption": "Aufstellen der Friedrich Engels Skulptur. (East-Berlin, 1986.)\n\n[Photo:\nSibylle Bergemann]",
+      "legacy_src": "1986-%5BphSibylleBergemann%5D-AufstellenDerFriedrichEngelsSkulptur-Ost-Berlin-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/hoist/1991-lenin-Vilnius[LithGv]-s.jpg",
+      "alt": "",
+      "caption": "Removal of Lenin's Statue by the Lithuanian\n\nGovernment. (Vilnius, 1991.)",
+      "legacy_src": "1991-lenin-Vilnius%5BLithGv%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/hoist/2004-GeneralAlexandrePetion[byGonaivesResistanceFront]-s.jpg",
+      "alt": "",
+      "caption": "Removal of General Alexandre Petion's statue by the\n\nGonaives Resistance\nFront. (Gonaives, Haiti, 2004.)",
+      "legacy_src": "2004-GeneralAlexandrePetion%5BbyGonaivesResistanceFront%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/hoist/2010-Stalin-Gori-Georgia-[Government-MikheilSaakashvili]-s.jpg",
+      "alt": "",
+      "caption": "Removal of Stalin's statue by the Georgian Government\n\nunder Mikheil Saakashvili. (Gori,\n2010.)",
+      "legacy_src": "2010-Stalin-Gori-Georgia-%5BGovernment-MikheilSaakashvili%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

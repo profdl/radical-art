@@ -1,0 +1,210 @@
+{
+  "slug": "process/liquid-projection",
+  "legacy_path": "process/liquid-projection/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "light shows",
+  "heading": "",
+  "description": "1960's light shows.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1960's light shows",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gustav Metzger",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiquidCrystal2-S.jpg",
+      "alt": "",
+      "caption": "Liquid Crystal Projections, 1965-1966",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiquidCrystalS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiqCrysEnvt1965-66-S.jpg",
+      "alt": "",
+      "caption": "Mark Boyle & Joan Hills",
+      "width": "339",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/mark-boyle-joan-hills-BoyleAndHills66.jpg",
+      "alt": "",
+      "caption": "Son et Lumière for Earth, Air, Fire and Water, 1966",
+      "width": "221",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/mark-boyle-joan-hills-BoyleHills67UFOClubLondonS.jpg",
+      "alt": "",
+      "caption": "UFO Club, London, 1967",
+      "width": "298",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bill Ham",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHamLiquidLghtShw196z-2S.jpg",
+      "alt": "",
+      "caption": "\"Electric Action Painting\" (since 1966)",
+      "width": "225",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHamLiquidLightShow196zS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "222",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-splashimage-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "217",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-5.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "125",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-7.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-6.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "125",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-o3.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiquidCrystal2-S.jpg",
+      "alt": "",
+      "caption": "Liquid Crystal Projections, 1965-1966",
+      "legacy_src": "GustavMetzger/MetzgerLiquidCrystal2-S.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiquidCrystalS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "GustavMetzger/MetzgerLiquidCrystalS.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/gustav-metzger-MetzgerLiqCrysEnvt1965-66-S.jpg",
+      "alt": "",
+      "caption": "Mark Boyle & Joan Hills",
+      "legacy_src": "GustavMetzger/MetzgerLiqCrysEnvt1965-66-S.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/mark-boyle-joan-hills-BoyleAndHills66.jpg",
+      "alt": "",
+      "caption": "Son et Lumière for Earth, Air, Fire and Water, 1966",
+      "legacy_src": "MarkBoyleJoanHills/BoyleAndHills66.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/mark-boyle-joan-hills-BoyleHills67UFOClubLondonS.jpg",
+      "alt": "",
+      "caption": "UFO Club, London, 1967",
+      "legacy_src": "MarkBoyleJoanHills/BoyleHills67UFOClubLondonS.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHamLiquidLghtShw196z-2S.jpg",
+      "alt": "",
+      "caption": "\"Electric Action Painting\" (since 1966)",
+      "legacy_src": "BillHam/BillHamLiquidLghtShw196z-2S.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHamLiquidLightShow196zS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHamLiquidLightShow196zS.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-splashimage-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHam-splashimage-s.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-5.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHam-5.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-7.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHam-7.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-6.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHam-6.jpg"
+    },
+    {
+      "src": "/images/process/liquid-projection/bill-ham-BillHam-o3.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillHam/BillHam-o3.jpg"
+    }
+  ],
+  "out_links": []
+}

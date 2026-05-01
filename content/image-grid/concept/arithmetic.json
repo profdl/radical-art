@@ -1,0 +1,146 @@
+{
+  "slug": "concept/arithmetic",
+  "legacy_path": "concept/Arithmetic/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Arithmetic Art",
+  "heading": "",
+  "description": "Arithmetic as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Arithmetic as Art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/Picabia-7Manifestes24[som]s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Francis Picabia: Illustration for:\n\nTristan Tzara: 7 Manifestes Dada, 1924",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/OberhuberGrosseRechnung-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Oswald Oberhuber:\n\nGroße Rechnung, 1953",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/75MarioMerzST-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "136",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario Merz: Untitled, 1975\n\n[Fibonacci Series]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/72bochner-CA-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel Bochner: Counting Alternatives:\n\nZero Center, 1972",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/94MelBochnerNumbers-s.jpg",
+      "alt": "",
+      "caption": "Mel Bochner, 1994",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "257",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-D.jpg",
+      "alt": "",
+      "caption": "Ray Johnson: Untitled, 1988",
+      "width": "225",
+      "height": "186",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/arithmetic/Picabia-7Manifestes24[som]s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Picabia-7Manifestes24%5Bsom%5Ds.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/OberhuberGrosseRechnung-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "OberhuberGrosseRechnung-s.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/75MarioMerzST-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "75MarioMerzST-s.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/72bochner-CA-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "72bochner-CA-s.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/94MelBochnerNumbers-s.jpg",
+      "alt": "",
+      "caption": "Mel Bochner, 1994",
+      "legacy_src": "94MelBochnerNumbers-s.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "88RayJohnson-Unt(Nrs)-S.jpg"
+    },
+    {
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-D.jpg",
+      "alt": "",
+      "caption": "Ray Johnson: Untitled, 1988",
+      "legacy_src": "88RayJohnson-Unt(Nrs)-D.jpg"
+    }
+  ],
+  "out_links": []
+}

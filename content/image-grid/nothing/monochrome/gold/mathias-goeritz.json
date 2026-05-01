@@ -1,0 +1,186 @@
+{
+  "slug": "nothing/monochrome/gold/mathias-goeritz",
+  "legacy_path": "nothing/monochrome/gold/MathiasGoeritz/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Mathias Goeritz",
+  "heading": "Mathias Goeritz",
+  "description": "Gold monochrome paintings by Mathias Goeritz.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mathias Goeritz",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/59-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1959",
+      "width": null,
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/61-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1961",
+      "width": "219",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/67-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1967",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/70-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/70-Mensaje-B-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1970",
+      "width": "230",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/59-TresLaminas-s.jpg",
+      "alt": "",
+      "caption": "Tres Laminas, 1959",
+      "width": "460",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/61-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "width": "150",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/MathiasGoeritzUnt-s.jpg",
+      "alt": "",
+      "caption": "Untitled",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/82-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1982",
+      "width": "146",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/60-DoItYourself-s.jpg",
+      "alt": "",
+      "caption": "Do It Yourself, 1961",
+      "width": "227",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/67-68-Mqtte_4_La_Osa_Mayor-s.jpg",
+      "alt": "",
+      "caption": "Maquette for La Osa Mayor, 1967/1968",
+      "width": "230",
+      "height": "181",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/59-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1959",
+      "legacy_src": "59-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/61-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1961",
+      "legacy_src": "61-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/67-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1967",
+      "legacy_src": "67-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/70-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "70-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/70-Mensaje-B-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1970",
+      "legacy_src": "70-Mensaje-B-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/59-TresLaminas-s.jpg",
+      "alt": "",
+      "caption": "Tres Laminas, 1959",
+      "legacy_src": "59-TresLaminas-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/61-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "legacy_src": "61-Unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/MathiasGoeritzUnt-s.jpg",
+      "alt": "",
+      "caption": "Untitled",
+      "legacy_src": "MathiasGoeritzUnt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/82-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "Mensaje, 1982",
+      "legacy_src": "82-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/60-DoItYourself-s.jpg",
+      "alt": "",
+      "caption": "Do It Yourself, 1961",
+      "legacy_src": "60-DoItYourself-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/mathias-goeritz/67-68-Mqtte_4_La_Osa_Mayor-s.jpg",
+      "alt": "",
+      "caption": "Maquette for La Osa Mayor, 1967/1968",
+      "legacy_src": "67-68-Mqtte_4_La_Osa_Mayor-s.jpg"
+    }
+  ],
+  "out_links": []
+}

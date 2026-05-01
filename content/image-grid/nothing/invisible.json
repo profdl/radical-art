@@ -1,0 +1,189 @@
+{
+  "slug": "nothing/invisible",
+  "legacy_path": "nothing/invisible/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Invisible Things",
+  "heading": "Air & Gas",
+  "description": "Invisible phenomena as artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Air & Gas",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/DuchampParisAir1919-S.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nAir de Paris, 1919",
+      "width": "144",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/ManzoniOpblazen.gif",
+      "alt": "",
+      "caption": "",
+      "width": "152",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Piero Manzoni:\n\nFlato d'artista, 1960",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/Manzoni1960FlatoDArtista-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/Warhol66SilverClouds-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Silver Clouds, 1966",
+      "width": "252",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/Christo68AirPackage-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Air Package, 1968",
+      "width": "297",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/koons-85Soccerball(Molten)-SS.jpg",
+      "alt": "",
+      "caption": "Jeff Koons: Soccer Ball, 1985",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Michael Asher: Vertical Column of Accelerated Air, 1966/1967.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Michael Baldwin: Remarks on Air-Conditioning, 1967.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Description of this piece on Thomas Dreher's website.]",
+      "links": [
+        {
+          "text": "Description of this piece",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild5.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Robert Barry: Inert Gas Series, 1969.\n\n(Krypton, Argon, Xenon, Helium.)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[Specified quantitities of each gas released into the atmosphere\n\nat specific times on specific locations.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/invisible/nigel-lendon-fan-piece-nl_fan_s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "175",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nigel Lendon:\n\nMaquette for an invisible sculpture.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Related genres: Vacuum Empty\nSpace",
+      "links": [
+        {
+          "text": "",
+          "href": "/physics/vacuum",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/invisible/DuchampParisAir1919-S.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nAir de Paris, 1919",
+      "legacy_src": "DuchampParisAir1919-S.jpg"
+    },
+    {
+      "src": "/images/nothing/invisible/ManzoniOpblazen.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ManzoniOpblazen.gif"
+    },
+    {
+      "src": "/images/nothing/invisible/Manzoni1960FlatoDArtista-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Manzoni1960FlatoDArtista-S.jpg"
+    },
+    {
+      "src": "/images/nothing/invisible/Warhol66SilverClouds-s.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Silver Clouds, 1966",
+      "legacy_src": "Warhol66SilverClouds-s.jpg"
+    },
+    {
+      "src": "/images/nothing/invisible/Christo68AirPackage-S.jpg",
+      "alt": "",
+      "caption": "Christo Javacheff: Air Package, 1968",
+      "legacy_src": "Christo68AirPackage-S.jpg"
+    },
+    {
+      "src": "/images/nothing/invisible/koons-85Soccerball(Molten)-SS.jpg",
+      "alt": "",
+      "caption": "Jeff Koons: Soccer Ball, 1985",
+      "legacy_src": "koons/85Soccerball(Molten)-SS.jpg"
+    },
+    {
+      "src": "/images/nothing/invisible/nigel-lendon-fan-piece-nl_fan_s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "NigelLendonFanPiece/nl_fan_s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/space",
+    "/physics/vacuum"
+  ]
+}

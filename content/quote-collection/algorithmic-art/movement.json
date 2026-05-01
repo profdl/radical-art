@@ -1,0 +1,368 @@
+{
+  "slug": "algorithmic-art/movement",
+  "legacy_path": "AlgorithmicArt/movement/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "quote-collection",
+  "title": "movement",
+  "heading": "",
+  "description": "simulations of physics and behaviour",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Simulated Movement",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Movement in a\ndiscrete space",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Virtual Ants\": Cf.\n16.2 in Chapter 16 (\"Autonomous Agents and Self-Organization\")\nof Gary\nW. Flake:\nThe Computational\nBeauty of Nature. (Cambridge, MA: MIT Press, 1998).\n\n\n\n\nEssay about the artistic application of this idea:\nLeonel Maura: \"Swarm\nPaintings\"\n\n\n\nDiscrete \"virtual motion\" may also emerge in Cellular\nAutomata.",
+      "links": [
+        {
+          "text": "The Computational Beauty of Nature",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/",
+          "external": true
+        },
+        {
+          "text": "\"Swarm Paintings\"",
+          "href": "http://www.lxxl.pt/aswarm/aswarm.html",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata",
+          "href": "/algorithmic-art/grid/cellular/2-d",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Physical motion in continuous space.",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Jochem van der Spek: Demo's: Living\nConcepts.",
+      "links": [
+        {
+          "text": "Living Concepts.",
+          "href": "http://www.dynamica.org/living_concepts_index.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Abstract Films & Automatic Pieces",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Amoebae and other pieces by Mark\nDearman.\n\nBrian MacKern: Set\nVariable = Random(Art).",
+      "links": [
+        {
+          "text": "Mark Dearman",
+          "href": "http://www.markdearman.com/",
+          "external": true
+        },
+        {
+          "text": "Set Variable = Random(Art).",
+          "href": "http://www.internet.com.uy/vibri/artefactos/set_random/#",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Interactive pieces",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Bacteria and other pieces by Mark\nDearman.\n\nMultimania:\nBallons.",
+      "links": [
+        {
+          "text": "Mark Dearman",
+          "href": "http://www.markdearman.com/",
+          "external": true
+        },
+        {
+          "text": "Multimania:",
+          "href": "http://membres.lycos.fr/lfz/fl/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ongoing projects",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Online motion study projects using\nFlash (including automatic as well as interactive pieces):",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Especially: 2001:\nsep 10-24; oct 8/19/25; nov 26-30; dec 01-06, 26-28;\n\n\n2002: jan 05-08, 22; feb 13/14/23; mar 09-30; apr 01-10,\n25/26; jun 06/14/18/26; jul 01-09, 15-25; aug 02-06,\n12/13, 20-30; sep 06; oct 11-31; dec 03-29;\n\n2003: jan 16/18.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dextro.",
+      "links": [
+        {
+          "text": "Dextro.",
+          "href": "http://www.dextro.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Re-Move.",
+      "links": [
+        {
+          "text": "Re-Move.",
+          "href": "http://www.re-move.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Manny Tan:\nUncontrol.",
+      "links": [
+        {
+          "text": "Uncontrol.",
+          "href": "http://www.uncontrol.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Turux\nAnimated Interior.",
+      "links": [
+        {
+          "text": "Turux Animated Interior.",
+          "href": "http://www.turux.org/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Links & References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Michotte: La Perception de\nla Causalité.\n\n\n\nNorman McLaren on animation (movie)\n\n\n\nSoda\nConstructor\n\n\n\nVirtual Mechanical\nObjects\n\n\n\nRichard Parent: ALGORITHMS\nAND MODELS TO FULLY SPECIFY MOTION",
+      "links": [
+        {
+          "text": "Soda Constructor",
+          "href": "http://www.sodaplay.com/constructor/",
+          "external": true
+        },
+        {
+          "text": "Virtual Mechanical Objects",
+          "href": "http://www.atom.co.jp/vrml2/agent/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Keith Peters' Tutorials\non simulating movement with Flash Action Script.",
+      "links": [
+        {
+          "text": "Tutorials on simulating movement with Flash Action Script.",
+          "href": "http://www.bit-101.com/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Animal locomotion",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Levitated (Jared Tarbell & Lola\nBrine): Organic\nMachines, 2002. (Random Insects.)",
+      "links": [
+        {
+          "text": "Organic Machines",
+          "href": "http://www.levitated.net/exhibit/organicMachine/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl Sims\nVPRO Video.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frédéric\nDurieu: PuppetTool,\n2002. (Zoo.)",
+      "links": [
+        {
+          "text": "PuppetTool",
+          "href": "http://www.lecielestbleu.com/html/puppettool.htm#",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "\"Boids\" (Flocks, herds and schools)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Boids:\nExplanation of the basic idea and many links (Craig Reynolds)",
+      "links": [
+        {
+          "text": "Boids: Explanation of the basic idea and many links (Craig Reynolds)",
+          "href": "http://www.red3d.com/cwr/boids/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstrations: Look at the online applets with Gary Flake's book The Computational\nBeauty of Nature (Cambridge, MA.: MIT Press, 1998). [Choose \"Boids\" in the menu on the Java-Applets page.]",
+      "links": [
+        {
+          "text": "The Computational Beauty of Nature",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/",
+          "external": true
+        },
+        {
+          "text": "Java-Applets",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/javalarge.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cf.\nalso: Demo-program by Wouter Hager. (Student\nwork from a previous installment of the IAAA course \"Algorithmic\nArt and Artificial Intelligence\".)",
+      "links": [
+        {
+          "text": "Demo-program by Wouter Hager.",
+          "href": "/algorithmic-art/movement/boids-swf",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Virtual\nReality Flocking Demos",
+      "links": [
+        {
+          "text": "Virtual Reality Flocking Demos",
+          "href": "http://www.eng.man.ac.uk/Aero/wjc/Research/Flocking/virtual_reality_flocking_demos.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evolving\nBoids",
+      "links": [
+        {
+          "text": "Evolving Boids",
+          "href": "http://www.cs.nott.ac.uk/%7Egxk/alife/ward2001/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Boids\nin Virtual Reality",
+      "links": [
+        {
+          "text": "Boids in Virtual Reality",
+          "href": "http://www.atom.co.jp/vrml2/agent/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory: 2002 mar 31.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Further links",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Patti Maes: Artificial Life meets Entertainment: Lifelike Autonomous Agents.",
+      "links": [
+        {
+          "text": "Patti Maes: Artificial Life meets Entertainment: Lifelike Autonomous Agents.",
+          "href": "http://pattie.www.media.mit.edu/people/pattie/CACM-95/alife-cacm95.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Marco Dorigo: Ant Colony Optimization",
+      "links": [
+        {
+          "text": "Ant Colony Optimization",
+          "href": "http://iridia.ulb.ac.be/%7Emdorigo/ACO/ACO.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2003. Some web-links suggested by Jorn Baas, Lotte Meijer, Emiel VerLoren van Themaat and Timo Vorstenbosch.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grid/cellular/2-d",
+    "/algorithmic-art/movement/boids-swf"
+  ]
+}

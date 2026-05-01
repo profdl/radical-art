@@ -1,0 +1,127 @@
+{
+  "slug": "nothing/monochrome/incoherents",
+  "legacy_path": "nothing/monochrome/Incoherents/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Les Incoherents",
+  "heading": "",
+  "description": "Early monochromes from the Expositions des Incoherents",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Early monochrome\npainting: Les Incohérents.",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/incoherents/AllaisNegres-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "132",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/incoherents/AllaisNeige-S.jpg",
+      "alt": "",
+      "caption": "Paul Bilhaud: \"Combat de nègres dans un tunnel,\" 1882. [Black canvas with gold frame; reproduced as \"Combat de nègres dans une cave, pendant la nuit\" in Allais (1897).]",
+      "width": "200",
+      "height": "130",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphonse Allais: \"Première communion de jeunes filles chlorotiques par un temps de neige,\" 1883. [Sheet of white Bristol board. Reproduced in Allais (1897).]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/incoherents/AllaisTomate-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "135",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/incoherents/AllaisMediterranee-S.jpg",
+      "alt": "",
+      "caption": "Alphonse Allais: \"Récolte de la tomate par des cardinaux apoplectiques au bord de la Mer Rouge,\" 1884. [Piece of red cloth. Reproduced in Allais (1897).]",
+      "width": "200",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphonse Allais: \"Stupeur de jeunes recrues en apercevant pour la première fois ton azur, ô Méditerranée,\" 1887. [Reproduced in Allais (1897).]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphonse Allais: Album Primo-Avrilesque. Paris: Ollendorf, 1897.",
+      "links": [
+        {
+          "text": "Alphonse Allais: Album Primo-Avrilesque. Paris: Ollendorf, 1897.",
+          "href": "http://gallica.bnf.fr/ark:/12148/btv1b86263801",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Denys Riout: La peinture monochrome. Histoire et archéologie d'un genre. Édition revue et augmentée. Paris: Gallimard, 2006.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeffrey Weiss: \"Marcel Duchamp qui est inquiétant.\" Avant-gardism and the culture of mystification and blague.\n(Chapter III in: The Popular Culture of Modern Art. Picasso,\nDuchamp, and Avant-Gardism. New Haven: Yale University Press,\n1994.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Voetnoot",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphonse\nAllais, die in 1897 het werk van de Incohérents populariseerde\nmet zijn Album Primo-Avrilesque, schreef verder vooral bundels\nmet pretentieloze komische verhaaltjes. Marcel Duchamp was beïnvloed\ndoor Allais. Calvin Tomkins verhaalt dat de 81-jarige Duchamp op 1\noktober 1968 in Parijs nog een bundel van Allais kocht en daar die\navond heel vrolijk uit voorlas, een uur of wat voordat hij plotseling\nzou overlijden. [Cf. Calvin Tomkins: Duchamp. A Biography. New York: Henry Holt\nand Company, 1996, p. 449.]",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/incoherents/AllaisNegres-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AllaisNegres-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/incoherents/AllaisNeige-S.jpg",
+      "alt": "",
+      "caption": "Paul Bilhaud: \"Combat de nègres dans un tunnel,\" 1882. [Black canvas with gold frame; reproduced as \"Combat de nègres dans une cave, pendant la nuit\" in Allais (1897).]",
+      "legacy_src": "AllaisNeige-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/incoherents/AllaisTomate-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AllaisTomate-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/incoherents/AllaisMediterranee-S.jpg",
+      "alt": "",
+      "caption": "Alphonse Allais: \"Récolte de la tomate par des cardinaux apoplectiques au bord de la Mer Rouge,\" 1884. [Piece of red cloth. Reproduced in Allais (1897).]",
+      "legacy_src": "AllaisMediterranee-S.jpg"
+    }
+  ],
+  "out_links": []
+}

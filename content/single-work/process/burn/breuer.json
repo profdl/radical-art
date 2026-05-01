@@ -1,0 +1,51 @@
+{
+  "slug": "process/burn/breuer",
+  "legacy_path": "process/burn/breuer.html",
+  "section": "process",
+  "archetype": "single-work",
+  "title": "Breuer",
+  "heading": "",
+  "description": "Marco Breuer: Fire Photography",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Marco Breuer: Fire Photography",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/breuer/fire-s-Breuer-Unt-Cloth-96-SGPbrnd.jpg",
+      "alt": "",
+      "caption": "Untitled (Cloth).\n\nSilver Gelatin Paper, Burned. 1996.",
+      "width": "200",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/breuer/fire-s-Breuer-Unt-Coals-96-SGPbrnd.jpg",
+      "alt": "",
+      "caption": "Untitled (Coals).\n\nSilver Gelatin Paper, Burned. 1996.",
+      "width": "177",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/breuer/fire-s-Breuer-Unt-Cloth-96-SGPbrnd.jpg",
+      "alt": "",
+      "caption": "Untitled (Cloth).\n\nSilver Gelatin Paper, Burned. 1996.",
+      "legacy_src": "../../gif/natuur/FireS/Breuer-Unt-Cloth-96-SGPbrnd.jpg"
+    },
+    {
+      "src": "/images/process/burn/breuer/fire-s-Breuer-Unt-Coals-96-SGPbrnd.jpg",
+      "alt": "",
+      "caption": "Untitled (Coals).\n\nSilver Gelatin Paper, Burned. 1996.",
+      "legacy_src": "../../gif/natuur/FireS/Breuer-Unt-Coals-96-SGPbrnd.jpg"
+    }
+  ],
+  "out_links": []
+}

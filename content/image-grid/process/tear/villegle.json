@@ -1,0 +1,742 @@
+{
+  "slug": "process/tear/villegle",
+  "legacy_path": "process/tear/Villegle/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Jacques de la Villeglé",
+  "heading": "Jacques de la Villeglé: Décollages",
+  "description": "Décollages by Jacques de la Villeglé.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: décollage destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "décollage",
+          "href": "/process/tear",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Jacques de la Villeglé: Décollages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/49ABC-s.jpg",
+      "alt": "",
+      "caption": "ABC, 1949",
+      "width": "230",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/59LeNouveauDemoursS.jpg",
+      "alt": "",
+      "caption": "Le Nouveau Demours, 1959",
+      "width": "183",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/49VillegleHains-s.jpg",
+      "alt": "",
+      "caption": "1949 (with Raymond Hains)",
+      "width": "230",
+      "height": "107",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/60-RueAuMaire-s.jpg",
+      "alt": "",
+      "caption": "Rue au Maire, 1960",
+      "width": "209",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/56Camarades-S.jpg",
+      "alt": "",
+      "caption": "Camarades. 1959",
+      "width": "203",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/61-LaNation,6Aout1961-s.jpg",
+      "alt": "",
+      "caption": "La Nation, 6 Août 1961",
+      "width": "176",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65-Moto-s.jpg",
+      "alt": "",
+      "caption": "Moto, 1965",
+      "width": "223",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65BlvdDLChapelle-s.jpg",
+      "alt": "",
+      "caption": "Boulevard de la Chapelle, 1965",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65.jpg",
+      "alt": "",
+      "caption": "Rue de Venise, 13 Mars 1965",
+      "width": "164",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65-RDLEchaudee-s.jpg",
+      "alt": "",
+      "caption": "Rue de l'Échaudée, 1965",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65BlvdHausmann1965.jpg",
+      "alt": "",
+      "caption": "Boulevard Hausmann, 1965",
+      "width": "340",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65RJeanParis-Selesto.jpg",
+      "alt": "",
+      "caption": "Rue Jean Paris-Sélesto, 1965",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65RStSebastien-s.jpg",
+      "alt": "",
+      "caption": "Rue Saint Sébastien, 1965",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/65-s.jpg",
+      "alt": "",
+      "caption": "Rue des Suisses, 22 Novembre 1965",
+      "width": "207",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/66RDesprezVercngtrx-s.jpg",
+      "alt": "",
+      "caption": "Rue Desprez-Vercingétorix, 1966",
+      "width": "179",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/66-96NiceRaspail-s.jpg",
+      "alt": "",
+      "caption": "Nice Raspail, 1966/1996",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/68-SevresBabylone-s.jpg",
+      "alt": "",
+      "caption": "Sèvres-Babylone, 1968",
+      "width": "230",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/69BlvdDLBastille-s.jpg",
+      "alt": "",
+      "caption": "Boulevard de la Bastille, 1969",
+      "width": "344",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/69-s.jpg",
+      "alt": "",
+      "caption": "Rue Vandamme, 24 Mars 1969",
+      "width": "174",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/69-RBertinPoiree.jpg",
+      "alt": "",
+      "caption": "Rue Bertin Poirée, 1969",
+      "width": "286",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/70-s.jpg",
+      "alt": "",
+      "caption": "122, Rue du Temple, 16 Août 1970",
+      "width": "220",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/70RueNapoleon.JPG",
+      "alt": "",
+      "caption": "Rue Napoléon, 1970",
+      "width": "414",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/70-RDuPreStGervais-s.jpg",
+      "alt": "",
+      "caption": "Rue du Pré Saint Gervais, 1970",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/71-RBaltard-s.jpg",
+      "alt": "",
+      "caption": "Rue Baltard, 1971",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/72-RBaltard-s.jpg",
+      "alt": "",
+      "caption": "Rue Baltard, 1972",
+      "width": "191",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/73-RDesFavorites-s.jpg",
+      "alt": "",
+      "caption": "Rue des Favorites, 1973",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/73CrrfrSlvMontfort-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carrefour Sylvia Montfort\n\n(Picasso), 1973",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/73RueBrisemiche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "186",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rue Brisemiche (Fernand Léger),\n\n1973",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/74-s.jpg",
+      "alt": "",
+      "caption": "Rue du Bac, 7 Décembre 1974",
+      "width": "224",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/75-Mardi18Fevrier1975-s.jpg",
+      "alt": "",
+      "caption": "Mardi 18 Février 1975",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/75-RDParcRoyal-s.jpg",
+      "alt": "",
+      "caption": "Rue du Parc Royal, 1975",
+      "width": "230",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/75-RueRambuteau-s.jpg",
+      "alt": "",
+      "caption": "Rue Rambuteau, 1975",
+      "width": "230",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/76RueDeClignancourt-s.jpg",
+      "alt": "",
+      "caption": "Rue de Clignancourt, 1976",
+      "width": "214",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/76RueStDenis2-s.jpg",
+      "alt": "",
+      "caption": "Rue Saint Denis 2, 1976",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/83-7,rueAuxOurs-s.jpg",
+      "alt": "",
+      "caption": "7, Rue aux Ours, 1983",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/76-ImpsseDLPlnchtte-s.jpg",
+      "alt": "",
+      "caption": "Impasse de la Planchette, 1976",
+      "width": "163",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/85MetroHaussmann-s.jpg",
+      "alt": "",
+      "caption": "Métro Hausmann, 1985",
+      "width": "170",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/90-MetroJourdain-s.jpg",
+      "alt": "",
+      "caption": "Métro Jourdain, 1975",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/91-RueDeBelleville-s.jpg",
+      "alt": "",
+      "caption": "Rue de Belleville, 1991",
+      "width": "170",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/91AutorouteSud-s.jpg",
+      "alt": "",
+      "caption": "Autoroute Sud, 1991",
+      "width": "180",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/91.jpg",
+      "alt": "",
+      "caption": "Bas-Meudon, 28 Janvier 1991",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/91RouteDeVaugirard-s.jpg",
+      "alt": "",
+      "caption": "Route de Vaugirard, 1991",
+      "width": "336",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/94-LaNuitDuBlues-s.jpg",
+      "alt": "",
+      "caption": "La Nuit du Blues, 1991",
+      "width": "197",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/98-MetroBelleville-s.jpg",
+      "alt": "",
+      "caption": "Métro Belleville, 1998",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/villegle/2000.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Barcelone \"Spice Girls\",\n\n9 Mars 2000",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/tear/villegle/49ABC-s.jpg",
+      "alt": "",
+      "caption": "ABC, 1949",
+      "legacy_src": "49ABC-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/59LeNouveauDemoursS.jpg",
+      "alt": "",
+      "caption": "Le Nouveau Demours, 1959",
+      "legacy_src": "59LeNouveauDemoursS.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/49VillegleHains-s.jpg",
+      "alt": "",
+      "caption": "1949 (with Raymond Hains)",
+      "legacy_src": "49VillegleHains-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/60-RueAuMaire-s.jpg",
+      "alt": "",
+      "caption": "Rue au Maire, 1960",
+      "legacy_src": "60-RueAuMaire-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/56Camarades-S.jpg",
+      "alt": "",
+      "caption": "Camarades. 1959",
+      "legacy_src": "56Camarades-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/61-LaNation,6Aout1961-s.jpg",
+      "alt": "",
+      "caption": "La Nation, 6 Août 1961",
+      "legacy_src": "61-LaNation,6Aout1961-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65-Moto-s.jpg",
+      "alt": "",
+      "caption": "Moto, 1965",
+      "legacy_src": "65-Moto-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65BlvdDLChapelle-s.jpg",
+      "alt": "",
+      "caption": "Boulevard de la Chapelle, 1965",
+      "legacy_src": "65BlvdDLChapelle-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65.jpg",
+      "alt": "",
+      "caption": "Rue de Venise, 13 Mars 1965",
+      "legacy_src": "65.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65-RDLEchaudee-s.jpg",
+      "alt": "",
+      "caption": "Rue de l'Échaudée, 1965",
+      "legacy_src": "65-RDLEchaudee-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65BlvdHausmann1965.jpg",
+      "alt": "",
+      "caption": "Boulevard Hausmann, 1965",
+      "legacy_src": "65BlvdHausmann1965.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65RJeanParis-Selesto.jpg",
+      "alt": "",
+      "caption": "Rue Jean Paris-Sélesto, 1965",
+      "legacy_src": "65RJeanParis-Selesto.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65RStSebastien-s.jpg",
+      "alt": "",
+      "caption": "Rue Saint Sébastien, 1965",
+      "legacy_src": "65RStSebastien-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/65-s.jpg",
+      "alt": "",
+      "caption": "Rue des Suisses, 22 Novembre 1965",
+      "legacy_src": "65-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/66RDesprezVercngtrx-s.jpg",
+      "alt": "",
+      "caption": "Rue Desprez-Vercingétorix, 1966",
+      "legacy_src": "66RDesprezVercngtrx-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/66-96NiceRaspail-s.jpg",
+      "alt": "",
+      "caption": "Nice Raspail, 1966/1996",
+      "legacy_src": "66-96NiceRaspail-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/68-SevresBabylone-s.jpg",
+      "alt": "",
+      "caption": "Sèvres-Babylone, 1968",
+      "legacy_src": "68-SevresBabylone-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/69BlvdDLBastille-s.jpg",
+      "alt": "",
+      "caption": "Boulevard de la Bastille, 1969",
+      "legacy_src": "69BlvdDLBastille-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/69-s.jpg",
+      "alt": "",
+      "caption": "Rue Vandamme, 24 Mars 1969",
+      "legacy_src": "69-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/69-RBertinPoiree.jpg",
+      "alt": "",
+      "caption": "Rue Bertin Poirée, 1969",
+      "legacy_src": "69-RBertinPoiree.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/70-s.jpg",
+      "alt": "",
+      "caption": "122, Rue du Temple, 16 Août 1970",
+      "legacy_src": "70-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/70RueNapoleon.JPG",
+      "alt": "",
+      "caption": "Rue Napoléon, 1970",
+      "legacy_src": "70RueNapoleon.JPG"
+    },
+    {
+      "src": "/images/process/tear/villegle/70-RDuPreStGervais-s.jpg",
+      "alt": "",
+      "caption": "Rue du Pré Saint Gervais, 1970",
+      "legacy_src": "70-RDuPreStGervais-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/71-RBaltard-s.jpg",
+      "alt": "",
+      "caption": "Rue Baltard, 1971",
+      "legacy_src": "71-RBaltard-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/72-RBaltard-s.jpg",
+      "alt": "",
+      "caption": "Rue Baltard, 1972",
+      "legacy_src": "72-RBaltard-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/73-RDesFavorites-s.jpg",
+      "alt": "",
+      "caption": "Rue des Favorites, 1973",
+      "legacy_src": "73-RDesFavorites-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/73CrrfrSlvMontfort-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "73CrrfrSlvMontfort-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/73RueBrisemiche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "73RueBrisemiche-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/74-s.jpg",
+      "alt": "",
+      "caption": "Rue du Bac, 7 Décembre 1974",
+      "legacy_src": "74-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/75-Mardi18Fevrier1975-s.jpg",
+      "alt": "",
+      "caption": "Mardi 18 Février 1975",
+      "legacy_src": "75-Mardi18Fevrier1975-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/75-RDParcRoyal-s.jpg",
+      "alt": "",
+      "caption": "Rue du Parc Royal, 1975",
+      "legacy_src": "75-RDParcRoyal-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/75-RueRambuteau-s.jpg",
+      "alt": "",
+      "caption": "Rue Rambuteau, 1975",
+      "legacy_src": "75-RueRambuteau-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/76RueDeClignancourt-s.jpg",
+      "alt": "",
+      "caption": "Rue de Clignancourt, 1976",
+      "legacy_src": "76RueDeClignancourt-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/76RueStDenis2-s.jpg",
+      "alt": "",
+      "caption": "Rue Saint Denis 2, 1976",
+      "legacy_src": "76RueStDenis2-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/83-7,rueAuxOurs-s.jpg",
+      "alt": "",
+      "caption": "7, Rue aux Ours, 1983",
+      "legacy_src": "83-7,rueAuxOurs-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/76-ImpsseDLPlnchtte-s.jpg",
+      "alt": "",
+      "caption": "Impasse de la Planchette, 1976",
+      "legacy_src": "76-ImpsseDLPlnchtte-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/85MetroHaussmann-s.jpg",
+      "alt": "",
+      "caption": "Métro Hausmann, 1985",
+      "legacy_src": "85MetroHaussmann-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/90-MetroJourdain-s.jpg",
+      "alt": "",
+      "caption": "Métro Jourdain, 1975",
+      "legacy_src": "90-MetroJourdain-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/91-RueDeBelleville-s.jpg",
+      "alt": "",
+      "caption": "Rue de Belleville, 1991",
+      "legacy_src": "91-RueDeBelleville-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/91AutorouteSud-s.jpg",
+      "alt": "",
+      "caption": "Autoroute Sud, 1991",
+      "legacy_src": "91AutorouteSud-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/91.jpg",
+      "alt": "",
+      "caption": "Bas-Meudon, 28 Janvier 1991",
+      "legacy_src": "91.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/91RouteDeVaugirard-s.jpg",
+      "alt": "",
+      "caption": "Route de Vaugirard, 1991",
+      "legacy_src": "91RouteDeVaugirard-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/94-LaNuitDuBlues-s.jpg",
+      "alt": "",
+      "caption": "La Nuit du Blues, 1991",
+      "legacy_src": "94-LaNuitDuBlues-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/98-MetroBelleville-s.jpg",
+      "alt": "",
+      "caption": "Métro Belleville, 1998",
+      "legacy_src": "98-MetroBelleville-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/villegle/2000.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2000.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/tear"
+  ]
+}

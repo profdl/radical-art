@@ -1,0 +1,131 @@
+{
+  "slug": "something/bags",
+  "legacy_path": "something/bags/index.html",
+  "section": "something",
+  "archetype": "image-grid",
+  "title": "something",
+  "heading": "bags",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "bags",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/barry-flanagan-1964_Flanagan_Unt-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan:\n\nUntitled, 1964",
+      "width": "324",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/barry-flanagan-1965--Pdreeoo-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan:\n\nPdreeoo, 1965",
+      "width": "146",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/barry-flanagan-1967FlanaganCasb1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "286",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Barry Flanagan:\n\nCasb 1, 1967",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/barry-flanagan-1966-SandMuslin-2-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan: Sand Muslin 2, 1966",
+      "width": "361",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/1968-AlainJacquet-s.jpg",
+      "alt": "",
+      "caption": "Alain Jacquet, 1968",
+      "width": "177",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/2001-CealFloyerGrbgeBg-s.jpg",
+      "alt": "",
+      "caption": "Ceal Floyer, 2001",
+      "width": "277",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/bags/2001-02-GavinTurk-C.jpg",
+      "alt": "",
+      "caption": "Gavin Turk, 2001/2002",
+      "width": "207",
+      "height": "198",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/bags/barry-flanagan-1964_Flanagan_Unt-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan:\n\nUntitled, 1964",
+      "legacy_src": "BarryFlanagan/1964_Flanagan_Unt-s.jpg"
+    },
+    {
+      "src": "/images/something/bags/barry-flanagan-1965--Pdreeoo-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan:\n\nPdreeoo, 1965",
+      "legacy_src": "BarryFlanagan/1965--Pdreeoo-s.jpg"
+    },
+    {
+      "src": "/images/something/bags/barry-flanagan-1967FlanaganCasb1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BarryFlanagan/1967FlanaganCasb1.jpg"
+    },
+    {
+      "src": "/images/something/bags/barry-flanagan-1966-SandMuslin-2-s.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan: Sand Muslin 2, 1966",
+      "legacy_src": "BarryFlanagan/1966-SandMuslin-2-s.jpg"
+    },
+    {
+      "src": "/images/something/bags/1968-AlainJacquet-s.jpg",
+      "alt": "",
+      "caption": "Alain Jacquet, 1968",
+      "legacy_src": "1968-AlainJacquet-s.jpg"
+    },
+    {
+      "src": "/images/something/bags/2001-CealFloyerGrbgeBg-s.jpg",
+      "alt": "",
+      "caption": "Ceal Floyer, 2001",
+      "legacy_src": "2001-CealFloyerGrbgeBg-s.jpg"
+    },
+    {
+      "src": "/images/something/bags/2001-02-GavinTurk-C.jpg",
+      "alt": "",
+      "caption": "Gavin Turk, 2001/2002",
+      "legacy_src": "2001-02-GavinTurk-C.jpg"
+    }
+  ],
+  "out_links": []
+}

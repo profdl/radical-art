@@ -1,0 +1,85 @@
+{
+  "slug": "things/wrapped/muehl",
+  "legacy_path": "things/wrapped/Muehl/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Otto Muehl",
+  "heading": "",
+  "description": "Wrapping by Otto Muehl.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: wrapping radical\nart",
+      "links": [
+        {
+          "text": "wrapping",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Otto Muehl: Material-Aktion, 1964",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-C-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "214",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-B-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "194",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-C-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Muehl64MANr5-C-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-B-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Muehl64MANr5-B-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/muehl/Muehl64MANr5-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Muehl64MANr5-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things/wrapped"
+  ]
+}

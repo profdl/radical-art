@@ -1,0 +1,251 @@
+{
+  "slug": "kinetics/gravity/stand/plane",
+  "legacy_path": "kinetics/gravity/Stand/plane/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Free-standing monochromes",
+  "heading": "free-standing monochromes",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "free-standing monochromes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/zero-1957-2_monochromes(Blue)-ss.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Proposte Monocrome\n\n(Epoca Blu), Milano, 1957",
+      "width": "185",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/zero-1962ZeroStPietersabdijGent-ss.jpg",
+      "alt": "",
+      "caption": "Zero Exhibition, St. Pieters Abdij\n\nGent, 1962",
+      "width": "244",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/zero-1966-HeinzMack-LightForest-ss.jpg",
+      "alt": "",
+      "caption": "Heinz Mack: Light Forest\n\nHoward Wise Gallery, NYC, 1966",
+      "width": "235",
+      "height": "220",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-FoundArtSculptures-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "274",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-Square-ss.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz, ca. 1960 (?)",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-disk-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "183",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1961-first-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: First, 1961",
+      "width": "189",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1962-One-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: One, 1962",
+      "width": "156",
+      "height": "298",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1962--catawba-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: Catawba, 1962",
+      "width": "256",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1984-DreDevens-EOCLight-s.jpg",
+      "alt": "",
+      "caption": "Dré Devens: Elements of Captured Light, 1984",
+      "width": "326",
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/2005-BanksViolette-Unt(Sb)-ss.jpg",
+      "alt": "",
+      "caption": "Banks Violette: Untitled (Scoreboard), 2005",
+      "width": "193",
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/2007-WardDenis-C.jpg",
+      "alt": "",
+      "caption": "Ward Denis, 2007",
+      "width": "313",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-91Space4Message-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nSpace for Message, 1991",
+      "width": "258",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-2006YSGravure-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nYour Space Gravure, 2006",
+      "width": "175",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-2006YSNr2-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nYour Space Nr. 2, 2006",
+      "width": "208",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july\n2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stand/plane/zero-1957-2_monochromes(Blue)-ss.jpg",
+      "alt": "",
+      "caption": "Yves Klein: Proposte Monocrome\n\n(Epoca Blu), Milano, 1957",
+      "legacy_src": "Zero/1957-2_monochromes(Blue)-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/zero-1962ZeroStPietersabdijGent-ss.jpg",
+      "alt": "",
+      "caption": "Zero Exhibition, St. Pieters Abdij\n\nGent, 1962",
+      "legacy_src": "Zero/1962ZeroStPietersabdijGent-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/zero-1966-HeinzMack-LightForest-ss.jpg",
+      "alt": "",
+      "caption": "Heinz Mack: Light Forest\n\nHoward Wise Gallery, NYC, 1966",
+      "legacy_src": "Zero/1966-HeinzMack-LightForest-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-FoundArtSculptures-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MathiasGoeritz/FoundArtSculptures-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-Square-ss.jpg",
+      "alt": "",
+      "caption": "Mathias Goeritz, ca. 1960 (?)",
+      "legacy_src": "MathiasGoeritz/Square-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/mathias-goeritz-disk-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MathiasGoeritz/disk-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1961-first-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: First, 1961",
+      "legacy_src": "1961-AnneTruitt-/1961-first-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1962-One-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: One, 1962",
+      "legacy_src": "1961-AnneTruitt-/1962-One-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1961-anne-truitt-1962--catawba-s.jpg",
+      "alt": "",
+      "caption": "Anne Truitt: Catawba, 1962",
+      "legacy_src": "1961-AnneTruitt-/1962--catawba-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1984-DreDevens-EOCLight-s.jpg",
+      "alt": "",
+      "caption": "Dré Devens: Elements of Captured Light, 1984",
+      "legacy_src": "1984-DreDevens-EOCLight-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/2005-BanksViolette-Unt(Sb)-ss.jpg",
+      "alt": "",
+      "caption": "Banks Violette: Untitled (Scoreboard), 2005",
+      "legacy_src": "2005-BanksViolette-Unt(Sb)-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/2007-WardDenis-C.jpg",
+      "alt": "",
+      "caption": "Ward Denis, 2007",
+      "legacy_src": "2007-WardDenis-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-91Space4Message-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nSpace for Message, 1991",
+      "legacy_src": "1991-EdRuschaYourSpace/91Space4Message-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-2006YSGravure-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nYour Space Gravure, 2006",
+      "legacy_src": "1991-EdRuschaYourSpace/2006YSGravure-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/plane/1991-ed-ruscha-your-space-2006YSNr2-s.jpg",
+      "alt": "",
+      "caption": "Ed Ruscha:\n\nYour Space Nr. 2, 2006",
+      "legacy_src": "1991-EdRuschaYourSpace/2006YSNr2-s.jpg"
+    }
+  ],
+  "out_links": []
+}

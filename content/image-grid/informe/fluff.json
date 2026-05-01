@@ -1,0 +1,141 @@
+{
+  "slug": "informe/fluff",
+  "legacy_path": "informe/fluff/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "fluff",
+  "heading": "fluff",
+  "description": "Fluffy textures in minimal art of the 1960's.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "fluff",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni\n\n1961",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/ManzoniAchrome1961-62.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961-1962",
+      "width": "174",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/ManzoniAchr1961-62-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961-1962",
+      "width": "175",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/PeetersWhiteFeathers62-S.jpg",
+      "alt": "",
+      "caption": "Henk Peeters:\n\nWhite Feathers, 1962",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/Kounellis67Carboniera.jpg",
+      "alt": "",
+      "caption": "Yannis Kounellis:\n\nCarboniera, 1967",
+      "width": "177",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/morris-MorrisUnt(Threadwaste)68-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Threadwaste), 1968",
+      "width": "250",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/fluff/morris-MorrisThreadwasteWMirror68S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nThreadwaste with Mirror, 1968",
+      "width": "267",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961",
+      "legacy_src": "http://radicalart.info/informe/fluff/Manzoni_Achrome_1961-S.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni\n\n1961",
+      "legacy_src": "ManzoniAchr61%5BFibra%5D-s.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/ManzoniAchrome1961-62.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961-1962",
+      "legacy_src": "ManzoniAchrome1961-62.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/ManzoniAchr1961-62-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nAchrome, 1961-1962",
+      "legacy_src": "ManzoniAchr1961-62-s.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/PeetersWhiteFeathers62-S.jpg",
+      "alt": "",
+      "caption": "Henk Peeters:\n\nWhite Feathers, 1962",
+      "legacy_src": "PeetersWhiteFeathers62-S.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/Kounellis67Carboniera.jpg",
+      "alt": "",
+      "caption": "Yannis Kounellis:\n\nCarboniera, 1967",
+      "legacy_src": "Kounellis67Carboniera.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/morris-MorrisUnt(Threadwaste)68-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled (Threadwaste), 1968",
+      "legacy_src": "morris/MorrisUnt(Threadwaste)68-s.jpg"
+    },
+    {
+      "src": "/images/informe/fluff/morris-MorrisThreadwasteWMirror68S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nThreadwaste with Mirror, 1968",
+      "legacy_src": "morris/MorrisThreadwasteWMirror68S.jpg"
+    }
+  ],
+  "out_links": []
+}

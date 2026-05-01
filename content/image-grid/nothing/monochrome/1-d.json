@@ -1,0 +1,583 @@
+{
+  "slug": "nothing/monochrome/1-d",
+  "legacy_path": "nothing/monochrome/1D/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "line",
+  "heading": "Lines",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/17-18-OlgaRozanova-Unt-L.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Olga Rozanova:\n\nUntitled,1917/1918",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/52newmanOnementV-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "127",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Barnett Newman:\n\nOnement V, 1952",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/manzoni-Manzoni1959linea-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nLinea, 1959",
+      "width": null,
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/ShiragaFujiko-Line-1955.jpg",
+      "alt": "",
+      "caption": "Shiraga Fujiko, 1955",
+      "width": "93",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/vautier-streep-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1950's",
+      "width": "96",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/62WojciechFangor-NebieskaFala-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "72",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wojciech Fangor:\n\nNebieska Fala, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/63-NamJunePaik-Zen4TV-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nam June Paik:\n\nZen for TV, 1963",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/BRUS-Selbstbemalung-65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "148",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Günter Brus:\n\nSelbstbemalung, 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/37-38-BrancusiEndlessCol-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "175",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Constantin Brancusi:\n\n\"Endless Column\", 1937/1938",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/AnneTruit77NightNaiad-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "176",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Anne Truit:\n\nNight Nadia, 1977",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/68-walter-de-maria-77WdM-VertEarthKm-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Walter de Maria:\n\nVertical Earth Kilometer, 1977.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Top view of 1 km. brass rod\n\ninserted into the earth.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/48-NewmanOnementI-s.jpg",
+      "alt": "",
+      "caption": "Barnett Newman:\n\nOnement I, 1948",
+      "width": "250",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/60-ManzoniLine-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nLinea, 1960",
+      "width": "140",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/manzoni-manzoniSenzaTitulo1961-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nSenza Titulo, 1961",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/56-AkiraKanayama-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "212",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Akira Kanayama,\n\n1956",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/paik_zen_for_head-62-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "168",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nam June Paik:\n\nZen for head, 1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/BrusWienerSpaziergang-65-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "138",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Günter Brus:\n\nWiener Spaziergang, 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/YoungComp1960[Line]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Monte Young:\n\nComposition 1960 # 9",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/black.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "160",
+      "height": "2",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Each point on this line\n\nis a composition.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Flynt,\n\nJanuary 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/black.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "2",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The line above is rotating\n\non its axis at a speed of\n\none revolution each day.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Douglas Huebler, 1970",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Draw a straight line\n\nand follow it.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "La Monte Young:\n\nComposition 1960 # 10\n\n(to Bob Morris)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/long-67-ALineMadeByWalking-s.jpg",
+      "alt": "",
+      "caption": "Richard Long:\n\nA line made by walking, 1967",
+      "width": "184",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/69-Andre-249BrassRun-M.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\n249 Brass Run, 1969",
+      "width": "151",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/68-OppenheimTimelIneUSACan-D-s.jpg",
+      "alt": "",
+      "caption": "Dennis Oppenheim:\n\nTimeline USA-Canada, 1968",
+      "width": "250",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/68-walter-de-maria-68MileLongDrawing-s.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nMile Long Drawing, 1968",
+      "width": "250",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/JanDibbets-68-WhiteLine-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jan Dibbets: White line in the sea.\n\nAmalfi, 1968.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/ChristoRunningFence-72-76-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Christo Javacheff:\n\nRunning Fence, 1970-1976",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/68-huebler42ndParallel-s.jpg",
+      "alt": "",
+      "caption": "Douglas Huebler: Site Sculpture Project: 42° Parallel Piece, 1968",
+      "width": "395",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "14 locations ('A' through 'N') are towns existing either exactly or approximately on the 42° Parallel in the United States. Locations have been marked by the exchange of certified postal receipts sent from and returned to 'A' – Truro, Massachusetts.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/1-d/94-dibbetsMnmntALaMmreDArago-s.jpg",
+      "alt": "",
+      "caption": "Jan Dibbets:\n\nMonument à la Mémoire d'Arago, 1994",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Related issues: Continuity",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncountable cardinality of line and plane was thematized in\nHenry Flynt's \"word piece\" above, and in monochromes by Christer\nHennix.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A curious problem regarding the continuum was raised by Kazimir Malevich (1922): \"Since we can find no indivisible units in this world it is\nobviously extremely difficult to prove the existence of matter.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Kazimir Malevich: \"A Letter to the Artists of Holland\", 1922. In: K.S. Malevich: Essays on Art, Vol. I. Copenhagen: Borgen, 1968, pp. 183-187.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Monte Young: Compositions. In: La Monte Young & Jackson Mac Low (eds.): An Anthology. New York, 1963.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2005-2010",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/1-d/17-18-OlgaRozanova-Unt-L.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "17-18-OlgaRozanova-Unt-L.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/52newmanOnementV-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "52newmanOnementV-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/manzoni-Manzoni1959linea-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nLinea, 1959",
+      "legacy_src": "Manzoni/Manzoni1959linea-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/ShiragaFujiko-Line-1955.jpg",
+      "alt": "",
+      "caption": "Shiraga Fujiko, 1955",
+      "legacy_src": "ShiragaFujiko-Line-1955.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/vautier-streep-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1950's",
+      "legacy_src": "vautier-streep-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/62WojciechFangor-NebieskaFala-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "62WojciechFangor-NebieskaFala-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/63-NamJunePaik-Zen4TV-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "63-NamJunePaik-Zen4TV-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/BRUS-Selbstbemalung-65-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BRUS-Selbstbemalung-65-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/37-38-BrancusiEndlessCol-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "37-38-BrancusiEndlessCol-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/AnneTruit77NightNaiad-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AnneTruit77NightNaiad-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/68-walter-de-maria-77WdM-VertEarthKm-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "68-WalterDeMaria/77WdM-VertEarthKm-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/48-NewmanOnementI-s.jpg",
+      "alt": "",
+      "caption": "Barnett Newman:\n\nOnement I, 1948",
+      "legacy_src": "48-NewmanOnementI-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/60-ManzoniLine-s.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nLinea, 1960",
+      "legacy_src": "60-ManzoniLine-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/manzoni-manzoniSenzaTitulo1961-S.jpg",
+      "alt": "",
+      "caption": "Piero Manzoni:\n\nSenza Titulo, 1961",
+      "legacy_src": "Manzoni/manzoniSenzaTitulo1961-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/56-AkiraKanayama-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "56-AkiraKanayama-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/paik_zen_for_head-62-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "paik_zen_for_head-62-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/BrusWienerSpaziergang-65-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BrusWienerSpaziergang-65-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/YoungComp1960[Line]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "YoungComp1960%5BLine%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/black.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "black.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/black.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "black.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/long-67-ALineMadeByWalking-s.jpg",
+      "alt": "",
+      "caption": "Richard Long:\n\nA line made by walking, 1967",
+      "legacy_src": "long-67-ALineMadeByWalking-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/69-Andre-249BrassRun-M.jpg",
+      "alt": "",
+      "caption": "Carl Andre:\n\n249 Brass Run, 1969",
+      "legacy_src": "69-Andre-249BrassRun-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/68-OppenheimTimelIneUSACan-D-s.jpg",
+      "alt": "",
+      "caption": "Dennis Oppenheim:\n\nTimeline USA-Canada, 1968",
+      "legacy_src": "68-OppenheimTimelIneUSACan-D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/68-walter-de-maria-68MileLongDrawing-s.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nMile Long Drawing, 1968",
+      "legacy_src": "68-WalterDeMaria/68MileLongDrawing-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/JanDibbets-68-WhiteLine-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JanDibbets-68-WhiteLine-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/ChristoRunningFence-72-76-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ChristoRunningFence-72-76-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/68-huebler42ndParallel-s.jpg",
+      "alt": "",
+      "caption": "Douglas Huebler: Site Sculpture Project: 42° Parallel Piece, 1968",
+      "legacy_src": "68-huebler42ndParallel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/1-d/94-dibbetsMnmntALaMmreDArago-s.jpg",
+      "alt": "",
+      "caption": "Jan Dibbets:\n\nMonument à la Mémoire d'Arago, 1994",
+      "legacy_src": "94-dibbetsMnmntALaMmreDArago-s.jpg"
+    }
+  ],
+  "out_links": []
+}

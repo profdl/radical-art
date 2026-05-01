@@ -1,0 +1,265 @@
+{
+  "slug": "concept/speech-acts/assertions",
+  "legacy_path": "concept/SpeechActs/Assertions/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Assertions",
+  "heading": "Assertions",
+  "description": "Concept art: Text pieces: Assertions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Assertions",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/ben-Ben59Gauche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"La seul gauche va dans le\n\nsens de l'histoire ...\" – 1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/ben-ben92-verbe-s.jpg",
+      "alt": "",
+      "caption": "\"Au commencement était le verbe\" – 1992",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/ben-Ben95pigs-s.jpg",
+      "alt": "",
+      "caption": "\"We are pigs\" – 1995",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jenny Holzer: Truisms",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-77-Taste-s.jpg",
+      "alt": "",
+      "caption": "\"Money creates taste\" – 1977",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-79-81Truisms-s.jpg",
+      "alt": "",
+      "caption": "\"Private property created crime\" – 1979/1981",
+      "width": "216",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-93-94madness-s.gif",
+      "alt": "",
+      "caption": "\"Slipping into madness is good for the sake of comparison\" – 1993/1994",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-90VictimGuggenheim-s.jpg",
+      "alt": "",
+      "caption": "\"You are a victim of the rules you live by\" – 1990",
+      "width": "350",
+      "height": "140",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-93-94murder-s.gif",
+      "alt": "",
+      "caption": "\"Murder has its sexual side\" – 1993/1994",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-2004AbuseOfPower-d.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "213",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Abuse of power comes as no surprise\"\n\n2004",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-2006freedom[Singapore]-s.jpg",
+      "alt": "",
+      "caption": "\"True freedom is frightful\" – 2006",
+      "width": "230",
+      "height": "108",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/holzer-Future.JPG",
+      "alt": "",
+      "caption": "\"The future is stupid\"",
+      "width": "150",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Extrenal Link: Holzer's Truisms",
+      "links": [
+        {
+          "text": "Holzer's Truisms",
+          "href": "http://mfx.dasburo.com/art/truisms.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Barbara Kruger",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/Kruger87-InSpace-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled (\"In space no one can hear\n\nyou scream\") – 1987",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/assertions/kruger89body2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Untitled (\"Your body is a battleground\")\n\n1989",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/assertions/ben-Ben59Gauche-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/Ben59Gauche-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/ben-ben92-verbe-s.jpg",
+      "alt": "",
+      "caption": "\"Au commencement était le verbe\" – 1992",
+      "legacy_src": "Ben/ben92-verbe-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/ben-Ben95pigs-s.jpg",
+      "alt": "",
+      "caption": "\"We are pigs\" – 1995",
+      "legacy_src": "Ben/Ben95pigs-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-77-Taste-s.jpg",
+      "alt": "",
+      "caption": "\"Money creates taste\" – 1977",
+      "legacy_src": "holzer/77-Taste-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-79-81Truisms-s.jpg",
+      "alt": "",
+      "caption": "\"Private property created crime\" – 1979/1981",
+      "legacy_src": "holzer/79-81Truisms-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-93-94madness-s.gif",
+      "alt": "",
+      "caption": "\"Slipping into madness is good for the sake of comparison\" – 1993/1994",
+      "legacy_src": "holzer/93-94madness-s.gif"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-90VictimGuggenheim-s.jpg",
+      "alt": "",
+      "caption": "\"You are a victim of the rules you live by\" – 1990",
+      "legacy_src": "holzer/90VictimGuggenheim-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-93-94murder-s.gif",
+      "alt": "",
+      "caption": "\"Murder has its sexual side\" – 1993/1994",
+      "legacy_src": "holzer/93-94murder-s.gif"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-2004AbuseOfPower-d.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "holzer/2004AbuseOfPower-d.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-2006freedom[Singapore]-s.jpg",
+      "alt": "",
+      "caption": "\"True freedom is frightful\" – 2006",
+      "legacy_src": "holzer/2006freedom%5BSingapore%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/holzer-Future.JPG",
+      "alt": "",
+      "caption": "\"The future is stupid\"",
+      "legacy_src": "holzer/Future.JPG"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/Kruger87-InSpace-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Kruger87-InSpace-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/assertions/kruger89body2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kruger89body2-s.jpg"
+    }
+  ],
+  "out_links": []
+}

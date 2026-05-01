@@ -1,0 +1,110 @@
+{
+  "slug": "nothing/darkness/kapoor",
+  "legacy_path": "nothing/darkness/kapoor.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Darkness by Anish Kapoor",
+  "heading": "",
+  "description": "Darkness in art: Anish Kapoor.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Darkness by Anish Kapoor",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-Kapoor87AtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "At the hub of things, 1987",
+      "width": "237",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor88-89Adam.jpg",
+      "alt": "",
+      "caption": "Adam, 1988",
+      "width": "152",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor92DescentIntoLimbo.jpg",
+      "alt": "",
+      "caption": "Descent into limbo, 1992",
+      "width": "191",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-Kapoor90VoidField.jpg",
+      "alt": "",
+      "caption": "Void Field, 1990",
+      "width": "486",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor94-95Untitled.jpg",
+      "alt": "",
+      "caption": "Untitled, 1994-1995",
+      "width": "197",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor03Untitled.jpg",
+      "alt": "",
+      "caption": "Untitled, 2003",
+      "width": "266",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-Kapoor87AtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "At the hub of things, 1987",
+      "legacy_src": "Kapoor/Kapoor87AtTheHubOfThings.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor88-89Adam.jpg",
+      "alt": "",
+      "caption": "Adam, 1988",
+      "legacy_src": "Kapoor/kapoor88-89Adam.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor92DescentIntoLimbo.jpg",
+      "alt": "",
+      "caption": "Descent into limbo, 1992",
+      "legacy_src": "Kapoor/kapoor92DescentIntoLimbo.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-Kapoor90VoidField.jpg",
+      "alt": "",
+      "caption": "Void Field, 1990",
+      "legacy_src": "Kapoor/Kapoor90VoidField.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor94-95Untitled.jpg",
+      "alt": "",
+      "caption": "Untitled, 1994-1995",
+      "legacy_src": "Kapoor/kapoor94-95Untitled.jpg"
+    },
+    {
+      "src": "/images/nothing/darkness/kapoor/kapoor-kapoor03Untitled.jpg",
+      "alt": "",
+      "caption": "Untitled, 2003",
+      "legacy_src": "Kapoor/kapoor03Untitled.jpg"
+    }
+  ],
+  "out_links": []
+}

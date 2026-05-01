@@ -1,0 +1,371 @@
+{
+  "slug": "physics/vacuum",
+  "legacy_path": "physics/vacuum/index.html",
+  "section": "physics",
+  "archetype": "image-grid",
+  "title": "vacuum",
+  "heading": "The Vacuum",
+  "description": "performances demonstrating the vacuum.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The Vacuum",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "The idea of \"empty space\" is an important notion in 20th-century\nart. Among the different possible representations of emptiness, the\nvacuum stands out as the only literally adequate one.\n\n\n\nPerformance pieces involving material emptiness flourished in the\n17th century, when the physical reality of the vacuum was first discovered.\nThis discovery was a shocking one, because in the Aristotelean order\nof things, empty space was intrinsically impossible. The mediæval\ncliché was \"Natura abhorret vacuum\" [Rabelais,\n1532]. (In present-day English: \"The vacuum sucks\".)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gasparo Berti, 1641",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Vincenzio Viviani &\n\nEvangelista Torricelli,\n1644",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/BertiMinimConvent-Pincio-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "227",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "First sustained vacuum, created by\nmeans of an 11 m. high column of water. Demo in Rome, for an invited\naudience which included Raffaelo Magiotti, Athanasius Kircher and Nicolo\nZucchi.\n\n[Cf. Magiotti 1648; Schott 1664.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/TorricelliGasparSchott-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "233",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vacuum by means of a mercury column.\nFlorence, 1644.\n\n[Cf. Torricelli 1644; Middleton 1964, pp. 23-30.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Blaise Pascal, 1647",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Public experiment in the Rouen glass factory, comparing water and wine in equilibrium\nwith atmospheric pressure [Westfall\n1977, p. 45].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pascal also performed two new experiments that were important in establishing empirical evidence for the possibility of a vacuum and for the reality of atmospheric pressure:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(1) \"Le vide dans le vide\" (a Torricelli column within the vacuum of a Torriceli column).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(2) Employing the Torricelli column to measure differences in atmospheric pressures at differents heights on the Puy de Dôme. (In 1648, collaborating with his brother-in-law Périer.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Cf. Dijksterhuis, 1950, Part IV, § 261-277 (pp. 488-499).]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "E.J. Dijksterhuis: De Mechanisering van het Wereldbeeld. Amsterdam: Meulenhoff, 1950.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Raffaello Magiotti: Letter to Marin Mersenne. March, 1648.\n\n\n\nW.E.K. Middleton: The History of the Barometer. Baltimore: Johns\nHopkins Press, 1964.\n\n\n\nGaspar Schott: Technica curiosa, sive, Mirabilia artis. Würzburg\n1664.\n\n\n\nFrançois Rabelais: La\nvie très horrificque du grand Gargantua, père de Pantagruel, 1532. (Ch. V, \"Les propos des bien yvres.\")\n\n\n\nEvangelista Torricelli:\nLetter to Michelangelo Ricci concerning the Barometer, June\n11, 1644. In: Collected Works Vol. III (1919). Also in: William\nFrancis Magie: A Source Book in Physics (New York: McGraw-Hill,\n1935).\n\n\n\nRichard S. Westfall: The Construction of Modern Science. Cambridge:\nCambridge University Press, 1977.",
+      "links": [
+        {
+          "text": "La vie très horrificque du grand Gargantua, père de Pantagruel",
+          "href": "http://www.morgane.org/hicbibitur/gargantua.htm",
+          "external": true
+        },
+        {
+          "text": "Letter to Michelangelo Ricci concerning the Barometer,",
+          "href": "http://web.lemoyne.edu/%7Egiunta/torr.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Otto von Guericke, 1654",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Public demonstrations with the \"Magdeburger Halbkugeln\" in various\nlocations in Germany (1654-1663).",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/guericke-GuerickeHorses-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "352",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Two copper bowls would be joined to\nform a hollow sphere. After the air was removed from this sphere,\ntwo teams of horses were hitched to pull on the two bowls in order\nto separate them – which they would fail to do. When air was\nagain allowed into the sphere, the bowls would come apart by themselves.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/guericke-GuerickeGalgen.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "272",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Finally, the eights were hooked and, as 16 horses\npulled against each other, the hemispheres held and again Guericke's\ntheory proved true. The audience was impressed; most of them believed\nthe draft horses would be able to separate the hemispheres.\"\n\n\n\n[Deb Pierce: \"The Magdeburg Hemispheres.\" The Draft Horse\nJournal, Summer 2004.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/guericke-GuerickePaardenUlman-S.jpg",
+      "alt": "",
+      "caption": "Re-enactment of Von Guericke's performance (April 25,\n2004, Ulman, Missouri).",
+      "width": "488",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Boyle, 1660: No sound",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Robert Boyle demonstrated that the vacuum does not\ntransmit sounds. A bell which rings in a vacuum cannot\nbe heard.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Footnote",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "This line of research constitutes the background\nof Blaise Pascal's famous dictum: \"Le silence éternel\nde ces espaces infinis m'effraie\".\n\n\n\nThree ideas that were new at this time come together in Pascal's\nformulation: (1) that cosmic space is boundless; (2) that the\nspace between the stars is literally empty; (3) that sound cannot\nbe transmitted in a vacuum. The music of the spheres is thus replaced\nby a deafening silence. (As mentioned above, Pascal was an active\nparticipant in the early research concerning the vacuum.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Boyle: New Experiments\nPhysicoMechanical touching the spring of air and its effects.\nOxford, 1660.\n\nJean-Charles Darmon: \"L'imagination\nde l'espace entre argumentation philosophique et fiction. De Gassendi à Cyrano.\" Études Littéraires,\n34, 1-2 (Winter 2002).\n\nAlexandre Koyré: Du monde clos à l'univers infini.\nParis: Gallimard, 1973.\n\nRichard S. Westfall: The Construction of Modern Science. Cambridge:\nCambridge University Press, 1977.",
+      "links": [
+        {
+          "text": "L'imagination de l'espace entre argumentation philosophique et fiction.",
+          "href": "http://www.erudit.org/revue/etudlitt/2002/v34/n1/007564ar.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/BoyleSound1660-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "255",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Boyle, 1660:\n\nThe vacuum kills.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Boyle also investigated whether small animals\nsurvive in a vacuum, with very clear negative results.\n\n\n\nBoyle's experiment became part of the standard repertoire of the eighteenth-century \"travelling scientists\". A home theatre performance of this\nsort is shown on this famous picture by Joseph Wright\nof Derby (\"An Experiment on a Bird in the Air Pump\", 1768).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/WrightAirPump1768-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "414",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "David R. Scott, 1971",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "In a live TV broadcast from the moon on August 2,\n1971, the astronaut David R Scott duplicated another of Robert Boyle's\n1660 experiments. A hammer and a feather were dropped simultaneously\nonto the lunar surface, and they were observed to hit the ground at\nthe same moment.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/Scott71-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "257",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ewerdt\nHilgemann, 1994",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Hilgemann\ncreates \"imploded\" sculptural shapes by removing the air\nfrom simple geometric hollow constructions. By pointing to an absent vacuum, these shapes constitute unusually sharp representations of \"nothing\".",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/implosion-94EH-ImplodedPyramid-94.jpg",
+      "alt": "",
+      "caption": "Imploded Pyramid, 1994",
+      "width": "177",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/implosion-97-99ImplodedVolumeS.jpg",
+      "alt": "",
+      "caption": "Imploded Volume, 1997-1999",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/physics/vacuum/implosion-02EHImplodedColumn.jpg",
+      "alt": "",
+      "caption": "Imploded Column, 2002",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha – December 18, 2005",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/physics/vacuum/BertiMinimConvent-Pincio-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BertiMinimConvent-Pincio-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/TorricelliGasparSchott-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TorricelliGasparSchott-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/guericke-GuerickeHorses-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "guericke/GuerickeHorses-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/guericke-GuerickeGalgen.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "guericke/GuerickeGalgen.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/guericke-GuerickePaardenUlman-S.jpg",
+      "alt": "",
+      "caption": "Re-enactment of Von Guericke's performance (April 25,\n2004, Ulman, Missouri).",
+      "legacy_src": "guericke/GuerickePaardenUlman-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/BoyleSound1660-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BoyleSound1660-M.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/WrightAirPump1768-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "WrightAirPump1768-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/Scott71-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Scott71-S.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/implosion-94EH-ImplodedPyramid-94.jpg",
+      "alt": "",
+      "caption": "Imploded Pyramid, 1994",
+      "legacy_src": "../../process/implosion/94EH-ImplodedPyramid-94.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/implosion-97-99ImplodedVolumeS.jpg",
+      "alt": "",
+      "caption": "Imploded Volume, 1997-1999",
+      "legacy_src": "../../process/implosion/97-99ImplodedVolumeS.jpg"
+    },
+    {
+      "src": "/images/physics/vacuum/implosion-02EHImplodedColumn.jpg",
+      "alt": "",
+      "caption": "Imploded Column, 2002",
+      "legacy_src": "../../process/implosion/02EHImplodedColumn.jpg"
+    }
+  ],
+  "out_links": []
+}

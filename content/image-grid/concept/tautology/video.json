@@ -1,0 +1,170 @@
+{
+  "slug": "concept/tautology/video",
+  "legacy_path": "concept/tautology/video/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Video Tautology",
+  "heading": "",
+  "description": "Redundant Video Images",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Redundant Video Images",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "William Anastasi, 1968",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/anastasi-anastasi68FreeWill-S.jpg",
+      "alt": "",
+      "caption": "Free Will",
+      "width": "168",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/anastasi-Anastasi68Transfer-S.jpg",
+      "alt": "",
+      "caption": "Transfer",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Knight: Site Displacement, 1969",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/JohnKnight69SiteDispl(All)S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "331",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/JKnight69SiteDispl[Mntr]-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "271",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/JohnKnigh69SiteDisplacemntS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "201",
+      "height": "283",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gottfried Bechtold: Video Installation, 1972",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/GottfriedBechtold72VideoInst-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "291",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Nam June Paik: TV Buddha, 1974",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/Paik74-TVBuddha-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "291",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ange Leccia: Arrangement Stasi, 1990",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/video/ALeccia90ArrangementStasi-S.jpg",
+      "alt": "",
+      "caption": "Compiled by Remko Scha, 2006",
+      "width": "269",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/video/anastasi-anastasi68FreeWill-S.jpg",
+      "alt": "",
+      "caption": "Free Will",
+      "legacy_src": "../anastasi/anastasi68FreeWill-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/anastasi-Anastasi68Transfer-S.jpg",
+      "alt": "",
+      "caption": "Transfer",
+      "legacy_src": "../anastasi/Anastasi68Transfer-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/JohnKnight69SiteDispl(All)S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JohnKnight69SiteDispl(All)S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/JKnight69SiteDispl[Mntr]-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JKnight69SiteDispl%5BMntr%5D-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/JohnKnigh69SiteDisplacemntS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "JohnKnigh69SiteDisplacemntS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/GottfriedBechtold72VideoInst-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "GottfriedBechtold72VideoInst-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/Paik74-TVBuddha-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Paik74-TVBuddha-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/video/ALeccia90ArrangementStasi-S.jpg",
+      "alt": "",
+      "caption": "Compiled by Remko Scha, 2006",
+      "legacy_src": "ALeccia90ArrangementStasi-S.jpg"
+    }
+  ],
+  "out_links": []
+}

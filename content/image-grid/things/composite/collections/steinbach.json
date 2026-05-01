@@ -1,0 +1,181 @@
+{
+  "slug": "things/composite/collections/steinbach",
+  "legacy_path": "things/composite/collections/steinbach/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Steinbach",
+  "heading": "Haim Steinbach",
+  "description": "Haim Steinbach: Readymades on shelves.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: collections readymades radical\nart",
+      "links": [
+        {
+          "text": "collections",
+          "href": "/things/composite/collections",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Haim Steinbach",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/80ShelfWithAjax-S.jpg",
+      "alt": "",
+      "caption": "Shelf with Ajax, 1980",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/85supremelyblack.jpg",
+      "alt": "",
+      "caption": "Supremely Black, 1985",
+      "width": "348",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/85RelatedAndDifferent.jpg",
+      "alt": "",
+      "caption": "Related and Different, 1985",
+      "width": "170",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/86TogetherNaturally.jpg",
+      "alt": "",
+      "caption": "Together Naturally, 1986",
+      "width": "230",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/86_UltraRedNo1-1986.jpg",
+      "alt": "",
+      "caption": "Ultra Red #1, 1986",
+      "width": "232",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/89-untitled-1989.gif",
+      "alt": "",
+      "caption": "Untitled, 1989",
+      "width": "226",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/90Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1990",
+      "width": "230",
+      "height": "137",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/92Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1992",
+      "width": "213",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/steinbach/98_Untitled-98.jpg",
+      "alt": "",
+      "caption": "Untitled, 1998",
+      "width": "295",
+      "height": "148",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/composite/collections/steinbach/80ShelfWithAjax-S.jpg",
+      "alt": "",
+      "caption": "Shelf with Ajax, 1980",
+      "legacy_src": "80ShelfWithAjax-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/85supremelyblack.jpg",
+      "alt": "",
+      "caption": "Supremely Black, 1985",
+      "legacy_src": "85supremelyblack.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/85RelatedAndDifferent.jpg",
+      "alt": "",
+      "caption": "Related and Different, 1985",
+      "legacy_src": "85RelatedAndDifferent.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/86TogetherNaturally.jpg",
+      "alt": "",
+      "caption": "Together Naturally, 1986",
+      "legacy_src": "86TogetherNaturally.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/86_UltraRedNo1-1986.jpg",
+      "alt": "",
+      "caption": "Ultra Red #1, 1986",
+      "legacy_src": "86_UltraRedNo1-1986.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/89-untitled-1989.gif",
+      "alt": "",
+      "caption": "Untitled, 1989",
+      "legacy_src": "89-untitled-1989.gif"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/90Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1990",
+      "legacy_src": "90Untitled-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/92Untitled-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1992",
+      "legacy_src": "92Untitled-S.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/steinbach/98_Untitled-98.jpg",
+      "alt": "",
+      "caption": "Untitled, 1998",
+      "legacy_src": "98_Untitled-98.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/composite/collections"
+  ]
+}

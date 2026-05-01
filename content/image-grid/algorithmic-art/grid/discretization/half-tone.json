@@ -1,0 +1,342 @@
+{
+  "slug": "algorithmic-art/grid/discretization/half-tone",
+  "legacy_path": "AlgorithmicArt/grid/discretization/HalfTone/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "HalfTone",
+  "heading": "Halftone Blow-Ups",
+  "description": "Halftone printing techniques  in modern art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Halftone Blow-Ups",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Roy Lichtenstein",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-62-ZIING-s.jpg",
+      "alt": "",
+      "caption": "ZIING! (1962)",
+      "width": "230",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63-Crying_Girl-s.jpg",
+      "alt": "",
+      "caption": "Crying Girl, 1963",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63-Crying_Girl-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63MagnifyingGlass-s.jpg",
+      "alt": "",
+      "caption": "Magnifying Glass, 1963",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-69HaystackNr3-s.jpg",
+      "alt": "",
+      "caption": "Haystack Nr. 3, 1969",
+      "width": "230",
+      "height": "132",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-69HaystackNr3-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "width": "195",
+      "height": "245",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sigmar Polke",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-63PortrtOfLeeHOswald.jpg",
+      "alt": "",
+      "caption": "Portrait of Lee Harvey Oswald, 1963",
+      "width": "150",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-63-Tisch-Detail.jpg",
+      "alt": "",
+      "caption": "Tisch, 1963 [Detail]",
+      "width": "199",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-64-HerrKluncker-D.jpg",
+      "alt": "",
+      "caption": "Herr Kluncker, 1964 [Detail]",
+      "width": "186",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-64-Ries-Detail.jpg",
+      "alt": "",
+      "caption": "Ries, 1964\n\n[Detail]",
+      "width": "204",
+      "height": "224",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild(OT)-D.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1965 [Detail]",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner(Baecherblume)-D.jpg",
+      "alt": "",
+      "caption": "Berliner (Bächerblume), 1965\n\n[Detail]",
+      "width": "202",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alain Jacquet",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64PortraitDeMario-s.jpg",
+      "alt": "",
+      "caption": "Portrait de Mario, 1964",
+      "width": "157",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64LeDejeunerSurLHerbe-s.jpg",
+      "alt": "",
+      "caption": "Le Déjeuner sur l'Herbe, 1964",
+      "width": "230",
+      "height": "203",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64-Dejeuner-Detail-s.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "width": "223",
+      "height": "196",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64PortraitDHhomme-s.jpg",
+      "alt": "",
+      "caption": "Portrait d'Homme, 1964",
+      "width": "169",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-65HommesALaDS-s.jpg",
+      "alt": "",
+      "caption": "Hommes à la DS, 1965",
+      "width": "230",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-65HommesALaDS-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "width": "198",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Reference:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "David Clayton Phillips: Art\nfor Industry's Sake: Halftone Technology, Mass Photography and\nthe Social Transformation of American Print Culture, 1880-1920.\nPh.D. Dissertation, Yale University, 1996.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Directly related work:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "ASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/asciiart",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/pixel-grids",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-62-ZIING-s.jpg",
+      "alt": "",
+      "caption": "ZIING! (1962)",
+      "legacy_src": "62Lichtenstein/62-ZIING-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63-Crying_Girl-s.jpg",
+      "alt": "",
+      "caption": "Crying Girl, 1963",
+      "legacy_src": "62Lichtenstein/63-Crying_Girl-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63-Crying_Girl-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "legacy_src": "62Lichtenstein/63-Crying_Girl-Detail.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-63MagnifyingGlass-s.jpg",
+      "alt": "",
+      "caption": "Magnifying Glass, 1963",
+      "legacy_src": "62Lichtenstein/63MagnifyingGlass-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-69HaystackNr3-s.jpg",
+      "alt": "",
+      "caption": "Haystack Nr. 3, 1969",
+      "legacy_src": "62Lichtenstein/69HaystackNr3-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/62-lichtenstein-69HaystackNr3-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "legacy_src": "62Lichtenstein/69HaystackNr3-Detail.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-63PortrtOfLeeHOswald.jpg",
+      "alt": "",
+      "caption": "Portrait of Lee Harvey Oswald, 1963",
+      "legacy_src": "63Polke/63PortrtOfLeeHOswald.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-63-Tisch-Detail.jpg",
+      "alt": "",
+      "caption": "Tisch, 1963 [Detail]",
+      "legacy_src": "63Polke/63-Tisch-Detail.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-64-HerrKluncker-D.jpg",
+      "alt": "",
+      "caption": "Herr Kluncker, 1964 [Detail]",
+      "legacy_src": "63Polke/64-HerrKluncker-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-64-Ries-Detail.jpg",
+      "alt": "",
+      "caption": "Ries, 1964\n\n[Detail]",
+      "legacy_src": "63Polke/64-Ries-Detail.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild(OT)-D.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1965 [Detail]",
+      "legacy_src": "63Polke/65-Rasterbild(OT)-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner(Baecherblume)-D.jpg",
+      "alt": "",
+      "caption": "Berliner (Bächerblume), 1965\n\n[Detail]",
+      "legacy_src": "63Polke/65Berliner(Baecherblume)-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64PortraitDeMario-s.jpg",
+      "alt": "",
+      "caption": "Portrait de Mario, 1964",
+      "legacy_src": "64AlainJacquet/64PortraitDeMario-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64LeDejeunerSurLHerbe-s.jpg",
+      "alt": "",
+      "caption": "Le Déjeuner sur l'Herbe, 1964",
+      "legacy_src": "64AlainJacquet/64LeDejeunerSurLHerbe-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64-Dejeuner-Detail-s.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "legacy_src": "64AlainJacquet/64-Dejeuner-Detail-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-64PortraitDHhomme-s.jpg",
+      "alt": "",
+      "caption": "Portrait d'Homme, 1964",
+      "legacy_src": "64AlainJacquet/64PortraitDHhomme-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-65HommesALaDS-s.jpg",
+      "alt": "",
+      "caption": "Hommes à la DS, 1965",
+      "legacy_src": "64AlainJacquet/65HommesALaDS-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/64-alain-jacquet-65HommesALaDS-Detail.jpg",
+      "alt": "",
+      "caption": "[Detail]",
+      "legacy_src": "64AlainJacquet/65HommesALaDS-Detail.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/discretization/asciiart",
+    "/algorithmic-art/grid/discretization/pixel-grids"
+  ]
+}

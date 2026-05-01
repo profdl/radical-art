@@ -1,0 +1,603 @@
+{
+  "slug": "algorithmic-art/nake95",
+  "legacy_path": "AlgorithmicArt/Nake95.html",
+  "section": "AlgorithmicArt",
+  "archetype": "long-essay",
+  "title": "Frieder Nake 1995",
+  "heading": "",
+  "description": "Frieder Nake: Einmaliges und Beliebiges. Kuenstliche Kunst im Strom der Zeit. (1995)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The text below was copied from a page created\nby Stefan Schneider (Freie Universität Berlin).\n\n\n\nThe original (printed) version of this article contained the following footnote: \"Aus drucktechnischen und finanziellen Gründen\nist es nicht möglich, hier Abbildungen wiederzugeben. An sie wird nur im Wort\nappelliert. Das verlangt der Leserin und dem Leser eine besondere Anstrengung\nab. Sie können sie aber lustvoll und listig absolvieren, indem sie in ihrem\nBüchervorrat fahnden oder in ihrer Erinnerung kramen, vielleicht auch beides\ntun und so verschiedene Medialitäten miteinander konfrontieren. Wodurch wir\nschon fast beim Thema wären.\"",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Frieder\nNake\n\n\n\nEinmaliges und Beliebiges",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Künstliche\nKunst im Strom der Zeit",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Aufsatz\nanläßlich der Berliner Sommer-Uni '95",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "0. Vorbemerkung",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Mensch\nund Kunst im Computerzeitalter\" so lautete das Motto der Berliner\nSommer-Uni '95. Gibt es denn ein Computerzeitalter? Stecken wir in\nihm drin, bewegen wir uns darauf zu, kommt es unausweichlich?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Computerzeitalter\nwäre das Zeitalter, das durch den Computer bestimmt wird.\nSagen wir etwas vorsichtiger: das durch die Informationstechnik\nbestimmt wird. Wir betrachten dabei den Computer als eine Maschine,\ndie wichtig und wesentlich für die Informationstechnik ist,\ndie wohl auch den Kern der Informationstechnik ausmacht, mit der\ndie Informationstechnik aber nicht schon erschöpfend erfaßt\nist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Aufsatz ist nicht der Ort, die Berechtigung der Bennennung\nunserer Zeit als \"Computerzeitalter\" anzugreifen oder zu\nverteidigen. Man mag mit guten Gründen die Geste in Frage stellen,\nmit der ein ganzes Zeitalter durch eine Klasse von Maschinen gekennzeichnet\nwird. Ohne die wichtige Rolle des Computers für aktuelle Umwälzungen\nhistorischer Dimension zu leugnen, mag er doch nicht unbedingt und\nin allen Belangen prägend sein.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie dem auch sei – zentrale Bedeutung hat \"der Computer\"\nauf vielen Ebenen abendländischer Kultur gewonnen. Innerhalb\nder relativ kurzen Zeit von fünfzig Jahren ist er zu einer häufigen\nErscheinung geworden. Oft nehmen wir sie gar nicht mehr wahr, worin\nich ein Indiz für des Computers kulturelle Bedeutung sehe. Kulturell\nwirksam wird eine Sache u.a. ja dadurch, daß wir ihr Vorhandensein\nund Wirken als selbstverständlich unterstellen.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "1. Die semiotische Maschine",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich\nstelle an den Anfang meiner Bemerkungen die Kennzeichnung des Computers\nals semiotische Maschine. In dieser Kennzeichnung kommt das wesentliche\nMerkmal des Computers zum Ausdruck. Er gehört fraglos zur Welt\nder Maschinen, ragt aus ihr aber heraus, weil sein Gegenstand, der\nGegenstand also, den wir mit dieser Maschine bearbeiten können,\nnicht primär stofflicher oder energetischer Natur ist, sondern\neben semiotischer Natur. Wir haben es mit Zeichenwelten zu tun, wenn\nwir Computer benutzen, wir setzen Zeichenprozesse maschinell um und\nin Gang, nicht stofflich-dingliche Prozesse. Wir bearbeiten nicht\ndas Blech selbst im Computer, sondern ein Modell des Bleches; wir\nverwalten nicht die Akten selbst, sondern Daten-Abbilder der Akten;\nwir untersuchen nicht ein Organ des Menschen selbst, sondern ein digitales\nBild davon.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Computer sei eine semiotische Maschine, lautet die Behauptung;\ner handele von Zeichen und Zeichenprozessen [vgl. Andersen 90, Coy\net al. 92, Andersen et al. 93, Nake 93].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gemeint ist damit die schlichte Tatsache, daß kein Ding oder\nProzeß unmittelbar Gegenstand der Bearbeitung mit dem Computer\nwerden kann. Immer muß das Ding oder der Prozeß erst durch\nein Bild, ein Modell, eine Beschreibung - eben: ein Zeichen - ersetzt\nwerden. Im landläufig gängigen Fall sind das die Daten,\ndie erfaßt werden. Sie ersetzen in einem radikalen, oft sehr\nunangenehm wirkenden Sinne Ding und Prozeß. Wir gewinnen mit\ndieser Ersetzung das, was wir bei jedem Zeichenprozeß gewinnen:\nVorhersagbarkeit, Simulation, Prüfung, kurz: Gestaltung. Kein\nProzeß der Gestaltung beginnt ohne Zeichen. Zeichenprozesse\nsind vorzügliche Mittel der Gestaltung. Im Zeichen gewinnen wir\njene Distanz, die notwendig ist, um planvoll gestalten zu können.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn der Computer nun zwar eine semiotische Maschine ist, so ist er\ndoch eine Maschine. Jede Maschine verlangt die Gegenstände, die\nmit ihr bearbeitet werden sollen, in bestimmter Form. Der Computer\nverlangt die Zeichen in berechenbarer Form. Er ist die Maschine zur\nAusführung berechenbarer Funktionen. Dies ist seine technisch\nkorrekte Kennzeichnung. \"Computer\" und \"Auswertung\nberechenbarer Funktionen\" sind geradezu synonym. Nur, was berechenbar\ngeformt werden kann, kann auf dem Computer behandelt werden. Was auf\ndem Computer behandelt wird, ist insofern berechenbar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Begriff der Berechenbarkeit, der hier zugrundegelegt wird, ist\nein mathematisch exakter Begriff. Er geht auf die dreißiger\nJahre zurück und auf Leute wie A.M. Turing, E. Post, A. Church.\nSeine mathematischen Einzelheiten spielen hier keine Rolle. Angedeutet\nsei lediglich, daß \"berechenbar\" ist, was sich auf\nwenige, einfache Grundfunktionen und wenige Regeln zurückführen\nläßt. Wir wissen genau zu sagen, was berechenbare Funktionen\nsind. Und es ist erstaunlich, was alles berechenbar ist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicht alles aber ist im mathematischen Sinne berechenbar. Noch nicht\neinmal alle Formeln, die wir hinschreiben können, sind es. Wenn\nwir berechnen wollen, müssen wir unseren Gegenstand erst berechenbar\nmachen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Den Begriff des Zeichens verwende ich hier naiv, ohne ihn näher\nzu erklären. Angedeutet aber sei, daß ein Zeichen eine\nRelation ist, kein Ding. Genauer ist ein Zeichen eine dreistellige\nRelation: ein Erstes steht für ein Zweites vermittels eines Dritten.\nOder, anders ausgedrückt: ein Repräsentamen steht für\nein Objekt vermittels eines Interpretanten. Dies sind Begriffe aus\nder Semiotik von Charles S. Peirce [vgl. Peirce 83]. Repräsentamen\nist das Zeichen insofern, als es zunächst ein stoffliches Substrat\nbraucht; es steht in einer bezeichnenden Funktion zu seinem Objekt;\nund diese Bezeichnung gewinnt Bedeutung, ergibt einen Sinn in einem\nInterpretanten. Ihn stellen wir hier und jetzt und stets neu und anders\nher. In ihm liegt die besondere Kraft dieser Begrifflichkeit.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein Beispiel mag erhellen. Das rote Licht (bezeichnendes Repräsentamen)\nam Heck des Autos vor mir bezeichnet einen Bremsvorgang dieses Wagen\n(bezeichnetes Objekt) und hat für mich die Bedeutung: der wird\nlangsamer, es ist ratsam, auch zu bremsen (Interpretant). Was ich\ndann tue, ist ein anderes. Vielleicht ordne ich auch einen anderen,\nästhetischen Interpretanten zu, weil ich mich am Glanz dieses\nroten Lichtes erfreue.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Betrachtung des Zeichens allein als Repräsentamen ist Aufgabe\nder Syntaktik; Repräsentamen mit Objekt werden in der Semantik\nstudiert; tritt der Interpretant noch hinzu, so betreiben wir Pragmatik\ndes Zeichens. Nur in der Pragmatik haben wir das Zeichen als Ganzes.\nEinen ersten Reduktionsschritt nehmen wir vor, wenn wir vom Interpretanten\nabsehen; Bedeutung ist uns dann nicht mehr verfügbar. Ein zweiter\nReduktionsschritt bringt uns auf die Zeichen als bloße Zeichenkörper\nin der Syntaktik.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dinge und Prozesse durchlaufen im Computer-Zeitalter - wenn sie computeresk\nwerden sollen - drei wesentliche Transformationen: Aus den Dingen\nwerden Zeichen (semiotische Transformation), aus den Zeichen werden\nbloße Zeichenkörper (syntaktische Transformation), aus\nden bloßen Zeichenkörpern werden berechenbare Funktionen\n(algorithmische Transformation). Jede dieser Transformationen erleben\nwir als eine Reduktion: Verlust von Sinnlichkeit, Verlust von Bedeutung,\nVerlust von Unvorhersehbarkeit.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mit Computern - das heißt: mit Software - nehmen wir Einfluß\nauf die Welt um uns und damit, vermittelt, auf uns selbst. Die Möglichkeiten\ndieser Einflußnahme sind erstaunlich und erheblich. Sie sind\ndennoch lediglich berechenbarer Natur. Wir ahnen, wieweit die Macht\ndes Berechenbaren reichen mag.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "2. Aufruf einiger Kunstwerke",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir\nbefinden uns also vor dem Hintergrund der semiotischen Maschine Computer.\nSie ist ein grundlegendes Moment der technischen Basis unserer Zeit.\nWas will ich in diesem Aufsatz dazu sagen? Über \"Einmaliges\nund Beliebiges\" will ich sprechen. An einer mosaikartigen Reihe\nvon Bildern, die keine zwingende Logik aufweist, will ich auf einige\naktuelle Aspekte aufmerksam machen. Sie weisen den Computer als Werkzeug\nund Medium gegenwärtiger Transformation der Kultur aus. Diese\nTransformation ist diejenige, das erwarten wir nun schon, die uns\nvon der Unmittelbarkeit der Dinge weg und hin zur Mittelbarkeit der\nZeichen führt. Es ist eine Transformation von Kultur, die --\ndem Charakter des Zeichens gemäß -- eher Rettung des Geistes\nals seinen Verlust bedeutet. Jedenfalls ist die Zeichendimension die\nfür den Geist typische. Manchen wird diese Bemerkung arg gegen\nden Strich gehen, wenn sie nämlich den Verlust des Sinnlichen\nan die Spitze ihrer Sorge stellen und darin auch den Verlust von Sinn\nansprechen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich rufe, ohne sie zu zeigen, an ihren Namen einige Kunstwerke auf.\nKunstwerke sind Werke, die in die Kunstgeschichte eingegangen sind,\ndie also eine gewisse Reputation erworben und erhalten haben. Sie\ngelten als Kunst aus keinem anderen als diesem historischen Grunde.\nEr zeigt, daß Kunst wesentlich soziales, weniger individuelles\nWerk ist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich rufe also unter der Rubrik \"Einmaliges\" auf: Mona Lisa!\nDas Geschrei! Les Demoiselles d'Avignon! Roxy's! Es könnten,\nwie wir wissen, auch ganz andere und viele Dutzend mehr solche Werke\nsein. Darauf aber kommt es hier nicht an. Jedes von ihnen steht für\neine besondere Einmaligkeit. Von jedem von ihnen gibt es aber auch\nviele Reproduktionen. Die sind recht beliebig in ihren Formaten, Anlässen,\nleider auch Farben. Das einmalige Werk gewinnt einen Aspekt seiner\nEinmaligkeit aus der Tatsache, daß es in so vielen Abziehbildern\nexistiert, daß uns allen die Nennung seines Namens genügt,\num es vor uns zu sehen - genauer: um eine geistige Vorstellung vor\nuns zu \"sehen\", die wir auf Grund gelebten Lebens mit dem\ngenannten Namen verbinden. Unser gelebtes Leben, all seine Berührungen\nsind uns in der semiotischen Dimension zugänglich. Gebrochen,\nbruchstückhaft, ungeordnet, verfremdet, geschmolzen und verschmolzen,\nverfälscht und überhöht zwar, aber irgendwie zugänglich.\nDas Einmalige, Herausgehobene, Herausragende zumal.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich rufe desweiteren unter der Rubrik \"Beliebiges\" auf:\nEin schwarzes Quadrat Malevitchs, ein Readymade Duchamps, eine Serigrafie\nVasarelys. Das schwarze Quadrat war ein Akt von ungeheurer Einmaligkeit\nin der Kunstgeschichte. Schwarze Quadrate hat es vor 1913 gegeben\nund gibt es danach auch noch. Aber wenn wir über ein beliebiges\nschwarzes Quadrat heute sprechen, das soviel anders von allen anderen\nschwarzen Quadraten sein mag, die es auch noch gab, so wird - haben\nwir jemals etwas von ihm gehört - das russische revolutionäre\nSchwarze Quadrat darin anklingen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die schwarzen Quadrate und Kreise und ähnliche, im Grunde nur\neinmal als rudimentärste Zeichen herstellbaren Bilder mußte\nMalevitch immerhin malen. Duchamp griff nur ins Warenlager und beförderte,\nwas dort seiner Vernutzung im täglichen Leben harrte, ins Museum,\nalso in die Kunstgeschichte. Gewiß, die Beliebigkeit dieses\nAktes ist, am Urinoir exerziert, so beliebig nicht. Da schwingt eine\ndie Kunstgeschichte beleidigende Geste mit. Ansonsten aber ist ein\nsolches prozellanenes Ding wie das andere und liegt der Akt des Kunstmachens\nnicht im Herstellen des Dinges, sondern im bewußten Machen von\nKunstgeschichte. Kunst wird, was zu solcher erklärt wird.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gemessen daran sind die eingängigen Farbkompositionen Vasarelys\ngeradezu von höchster Kunstfertigkeit. Doch: die Farbarrangements,\ndie da in den Möbelgeschäften der Welt geeignete Wohnambientes\nschaffen sollen, sind nach codierten Anweisungen des Meisters hergestellt\nworden in einem quasi-industriellen Prozeß. Die Formen und Farben\nhaben eine Kurzschrift im Rücken, die hinreicht, um das Werk\nstofflich entstehen zu lassen. Sein Schema, sein Programm reichen\nhin, um es als Farbsensation zu erzeugen. Die wird in immer gleicher\nQualität massenhaft produziert und vertrieben. So brachte das\nseiner Beliebigkeit entrissene und zum einmaligen Kunstwerk gewordene\nPißbecken im Kontext der Kunst, in den es gestellt wurde, die\nMassenproduktion von Dekorationsstücken hervor, deren Beliebigkeit\nProgramm ist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das kleine Mosaik von Werken der Kunst, das vor unserem geistigen\nAuge schweben mag, weckt eine Reihe von Vermutungen hinsichtlich der\nEinmaligkeit und Beliebigkeit, die der Kunst vielleicht ohnehin innewohnen.\nIm Kontext des Computers erleben sie eine besondere Betonung. Sehen\nwir weiter!",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "3. Harold Cohens Malmaschine",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Die\nZEIT vom 2.6.1995 zeigte in einem großen Artikel mit reichhaltigem\nBild ein, wie ich meine, herausragendes Ereignis an. Sie berichtet\nvon einer neuen Ausstellung des englischen Malers Harold Cohen, die\ndieser im Computer Museum in Boston hatte.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Oft schon seit Mitte der siebziger Jahre hat Cohen eine große\nZeichenmaschine ins Museum gestellt. Sie begann dort, von Cohens Programm\nAaron gesteuert, munter zu zeichnen. Waren das anfangs recht abstrakte,\nsehr abwechslungsreiche und fantasievoll erscheinende Formen und Strichkombinationen,\nso wurden später Steine daraus, anthropomorphe Figuren, dann\nmenschliche Gestalten inmitten üppiger tropisch anmutender Vegetation.\nProgramm und Zeichenmaschine brachten auf großen Flächen\nihre schwarzen Linien an, die Cohen später zu kolerieren begann,\nbevor er sie an die Ausstellungswände heftete. Beim Malen bediente\ner sich seiner eigenen Farbpalette: klare, gesättigte, leuchtende\nFarben. Er hielt sich nur ungefähr an die maschinell gezeichneten\nFormen der Umrisse, erlaubte sich im einmaligen Werk - bei dessen\nmaschinell getroffenen Entscheidungen immer viel Zufall mit im Spiele\nwar - viele beliebig erscheinende Malakte der Farbwahl und der Flächenwahl.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In einer Phase seiner künstlerischen Entwicklung in den achtziger\nJahren entschied das Programm Aaron bereits über die Farben,\ndie es den Flächen geben wollte. Es zeigte sie auf dem Bildschirm,\nvon wo Cohen sie - kam das Bild zur Ausmalung - von ihrer Lichterscheinung\nin Körperfarben transformieren mußte. Wie nicht anders\nzu erwarten, änderte das die farbliche Anmutung, und Cohen erlaubte\nsich die eine oder andere Abweichung - er wäre nicht Mensch,\ntäte er das nicht.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Zustand ließ ihn jedoch nicht ruhen und er sann auf eine\nMaschine, die auch den Farbauftrag selbst, mit einem pinselähnlichen\nGerät das Pigment aus Farbtöpfen schöpfend, bewältigen\nwürde. Mit Hilfe von Ingenieuren und algorithmischer Fantasie\nwar er Anfang 1995 soweit, daß er erstmals seit langem wieder\nausstellte: Bilder, die die programmierte Maschine im Ausstellungsraum\nproduzierte. Der Meister lehnt an der Wand, selbstgefällig versunken\ndas emsige Geschehen betrachtend.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Was sehen wir, was lernen wir? Cohen, der Maler, zwingt eine Maschine\ndazu, das zu tun, was er will. Er erreicht dies, indem er einen Teil\nseines Zeichnens und Malens veräußert. Genauer gesagt,\nveräußert er einen Teil seines Wissens vom Zeichnen und\nMalen. Einen Teil seines Denkens also, einen solchen Teil, dem er\nalgorithmische Form geben kann. Harold Cohen hat es auf der Welt am\nweitesten darin gebracht, bestimmte Formgebungen und Farbaufträge\nin einem Regelwerk zu fixieren. Diese Regeln sind so genau (einmalig)\nund enthalten soviel an Offenheit (beliebig), daß der Computer\nihnen folgen kann und der Anschein entsteht, die Maschine sei kreativ.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das nämlich, was sie erst zeichnet, dann koloriert - großflächige,\nzweidimensionale, körperlos wirkende, Menschengesichter und -körper\n- wirkt realistisch und frei. Als ob jemand, den es wirklich geben\nmag, porträtiert würde, durchaus in künstlerisch freier\nInterpretation, nicht in der entsetzlich fotonahen Bildlichkeit typischer\nComputerbilder.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohen hat also Wissen über seine Art zu zeichnen und zu malen\nin einen Satz berechenbarer Regeln zu fassen vermocht, die komplex\ngenug sind, die Operationen einer damit gefütterten Maschine\nals Akte anthropomorpher Entscheidung und ästhetischer Gestaltung\nerscheinen zu lassen. Es versteht sich, daß Zittrigkeiten, Ungenauigkeiten,\nAbweichungen vom streng Geometrischen in allen denkbaren Versionen,\ndaß die Vermutung von Unberechenbarkeit den Schlüssel für\nden visuellen Eindruck und seine Ästhetik abgibt, die hier entstehen.\nNicht die einzelne Linie oder die einzelne Farbe hat Cohen vorausgedacht.\nVorausgedacht hat er, was Klassen solcher Liniengebilde, was Schemata\nsolcher Farbwahlen gemeinsam haben mögen. Er hat auf einer abstrakten\nEbene die Beliebigkeit des einzelnen Frauengesichtes zum charakteristisch\nGemeinsamen (fast) aller Frauengesichter zusammengefaßt. Er\nhat die Frage behandelt, welche Charakteristika eine relativ kleine\nMenge von Linien besitzen müssen, damit wir das Objekt \"weiblicher\nOberkörper, bekleidet\", zuordnen und nicht ein anderes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Veräußerung des Gedankens und solche Veräußerung\nin algorithmischer Form, dies sind die Merkmale des Verhältnisses\nHarold Cohens zu seiner Maschine Aaron und über deren Wirken\nzu seinen (seinen?) Bildern. Yves Klein etwa hatte es sich einfacher\ngemacht. Er strich, wie erinnerlich, nackte Frauenkörper mit\nFarbe an und rollte diese dann über große Papierbahnen.\nIhre Farbspuren erinnern, wie sollte es anders sein, an Frauenkörper,\noffensichtlich pseudo-maschinell hervorgebrachte Ikonen. Wie brutal\nund sinnlich-simpel der Kleinsche Akt, wie fein und geistig-komplex\nder Cohensche! Das Objekt (die Frau) wird zum Stempel ihres eigenen\nBildes gemacht bei Klein; das Objekt (die Frau) wird vom Betrachter\ndes Computerbildes erst erzeugt bei Cohen. Gemeinsam ist beiden jedoch\ndie Veräußerung eines gedanklichen Planes, den sie in Bewegung\nsetzen: dumpf körperlich zum einen, subtil semiotisch zum anderen\nMale.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das kunstgeschichtliche Interesse könnte sich auch daraus einen\nReim zu machen versuchen, daß zur etwa selben Zeit in einer\nwissenschaftlichen Zeitschrift der Computergrafik Bilder veröffentlicht\nwerden, auf denen versucht wird, Impressionsten wie Caude Monet nachzuahmen\n(Computer Graphics and Applications, June 1995). Hier wurde eines\nder höchstentwickelten kommerziellen Malprogramme (Fractal Design\nPainter) benutzt, um werkzeug-ähnlich mit einem druckempfindlichen\nStift eine Vorlage so zu reproduzieren, daß wir das Computerbild\nmit seinem Original verwechseln sollen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Beide Male, daran besteht kein Zweifel, werden geistige Tätigkeiten\ndes Zeichnens und Malens programmiert, also algorithmisch gefaßt.\nIm Falle der nachempfundenen Impressionisten (und jeder anderen Kopie)\nist die maschinisierte geistige Tätigkeit die der Werkzeugführung.\nWas naturgemäß beinhaltet, das Werkzeug selbst zum Träger\neiner Batterie von Parametern zu machen, über die es zu einem\nimmer wieder anderen Spezialwerkzeug gemacht werden kann.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Falle der Regelsätze für Cohensches Zeichnen und Malen\nist, neben der Werkzeugführung, die Entscheidung der Form- und\nFarbgestaltung maschinisiert. Der Künstler tritt einen weiteren\nSchritt zurück von seinem Werk. Dieses kommt für ihn fast\nebenso überraschend wie für uns. Zwischem ihm und dem Werk\nbefinden sich Schichten semiotischer Watte.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "4. Die Malmaschine der Fraktale",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich\nmuß, aus Bremen kommend, ein Wort zu einer anderen Sorte von\nMalmaschinen verlieren. Fraktale Mengen und Bilder, die sie veranschaulichen,\nhaben ihren Sturmlauf aus den Laboratorien einer neuen Art von Mathematik\ndurch die populären wissenschaftlichen Zeitschriften bis hinein\nin die Schule vollzogen. Manche finden die so entstehenden \"selbstähnlichen\"\nGebilde und Bilder interessant, erleuchtend, schön; andere, gerade\nauch in der Kunst, vielleicht auch interessant, selten schön,\ngerade in der Selbstähnlichkeit auch langweilig.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Was ist interessant an Fraktalen? Ein mathematischer Prozeß,\nder ausgiebige numerische Rechnung verlangt, wird gestartet und nach\neiniger Zeit abgebrochen. Sein Zustand wird so interpretiert, daß\ner den Farbwert eines kleinen Fleckes des Bildes bestimmt. Der Nachbarfleck\nwird dann ausgewählt, der Prozeß erneut begonnen - und\nso weiter, bis die Farbwerte aller Bildflecke bestimmt sind.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der hinter dem Bild stehende mathematische Prozeß verleiht dem\nBild seine Besonderheit, seine Struktur, gar Gestalt, seine Einmaligkeit.\nVieles bleibt beliebig - die Wahl und Zuordnung der Farbpalette, die\nAbbruchsbestimmung beim Prozeß, die Körnigkeit. Denken\nwir als Beispiel an das allgegenwärtige Apfelmännchen, jene\nIkone der fraktalen Welt. Man hat diese Visualisierung eines mathematischen\nObjektes visuell weiter aufgemöbelt und in eine gebirgsähnliche\nSchneelandschaft gesetzt. Ein Planet schwebt am Himmel.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der fraktale Künstler kann sich ähnlich wie Cohen zurücklehnen.\nEr stößt die Maschine an und sie rackert. Der Unterschied\nliegt in der Steuerung. Bei Cohen: algorithmisierte Regel des Zeichnens\nund Malens menschlicher Figuren; beim Fraktal: ein mathematischer\nApproximationsprozeß. Gerechnet wird beide Male. Aber was gerechnet\nwird, ist unterschiedlicher Natur. Im mathematischen Fall wird die\nTatsache ausgenutzt, daß Ergebnisse von Rechnungen in Farben\numgesetzt werden können. Im regelbasierten Fall wird versucht,\nEntscheidungsprozesse zu algorithmisieren, die ästhetischem Tun\nnahestehen. Verbildlichte Mathematik im einen Fall, Bilder, die uns\nMathematik sehen lassen. Mathematisierte Malprozesse im anderen Fall,\nBilder, die Mathematik benötigen, aber nicht zeigen.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "5. Serie und Variation",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Es\nist ganz selbstverständlich, daß die maschinisierte Produktion\nvon Bildern in der Variation und damit in der Serie ihre wichtige\nAnwendung findet. Das war vom Beginn der sogenannten Computerkunst\nan der Fall. Man datiert diesen Beginn auf das Jahr 1965 und hebt\ndamit folgendes Ereignis heraus. In diesem Jahr fanden die ersten\ndrei Ausstellungen von digitalen Bildern statt, die ausdrücklich\neinen Kunstanspruch erhoben: im Februar in der Studiengalerie der\nTH (heute: Universität) Stuttgart (Georg Nees), im April in der\nHoward Wise Gallery in New York (A. Michael Noll, Bela Julesz), im\nNovember in der Galerie Niedlich in Stuttgart (Frieder Nake, Georg\nNees).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein Experiment wurde damals bekannt, das sowohl das Prinzip Serie\nwie die Nachahmung eines Stiles oder Genres eines Künstlers exemplarisch\nvorführte. Michael Noll hatte Bilder Mondrians (\"Meer und\nDünen\") auf gewisse geometrische Merkmale hin analysiert\nund das Gefundene soweit vereinfacht, daß er mit damaligen technischen\nMitteln relativ einfach Bilder in dieser Façon erzeugen konnte.\nDas Zeichenrepertoire war einfach genug: relativ kurze waagerechte\nund senkrechte breite Striche, deren Längen nicht allzu sehr\nvariierten; das ganze Zeichenarrangement ungefähr kreisförmig\nmit einem abgeflachten Teil am oberen Rand; ein etwa parabelförmiges\ninneres Gebiet, in dem die Längen der Striche kürzer waren\nals außerhalb desselben.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Noll schrieb ein Programm, das diesen globalen Bedingungen genügte\nund das alle Entscheidungen über lokale Zeichensetzungen von\nPseudozufallszahlen, also von simulierten Wahrscheinlichkeiten abhängig\nmachte. Indem er nun die Wahrscheinlichkeitsverteilungen vorgab und\nBilderfolgen errechnen und zeichnen ließ, produzierte er Serien\nvon Bildern im Stile der betrachteten von Mondrian.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Berühmt wurde dieses Experiment vor allem deshalb, weil kolportiert\nwurde, in einer Befragung hätten die Versuchspersonen das Mondrian-Bild\nfälschlich dem Computer zugeordnet (weil langweiliger); konsequent,\ndaß sie am Computer-Bild größeren Gefallen gefunden\nhatten. Man muß dazu sagen., daß dieses Experiment unter\nwenigen Kollegen Nolls bei den Bell Laboratories stattgefunden hatte,\nwo er damals arbeitete. Es läßt sich also kein Anspruch\nauf allgemeinere Gültigkeit daraus ableiten.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "6. Abstrakter Expressionismus und Informationsästhetik",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl\nOtto Götz gehört zu den erfolgreichen deutschen abstrakten\nExpressionisten (Informel). Er hatte seine Erfolge in der Zeit nach\ndem Kriege. Vor kurzem gab es aus Anlaß seines achtzigsten Geburtstages\nin Dresden eine große Retrospektive [Götz 94]. In seinem\nWerk finden wir neben einer riesigen Menge von Bildern stark expressiver\nArt eine längere Beschäftigung mit Anwendungen der Informationstheorie\nauf die visuelle Dimension.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In den sechziger Jahren, in denen Götz diese Arbeiten durchführte,\nversuchten in Deutschland Max Bense und etliche seiner Schüler,\nmit dem nachrichtentechnischen Begriff der Information ästhetische\nProzesse zu erklären [Bense 69, Nake 74]. In der Bildwelt war\nder Gedanke naheliegend, die Bildfläche in ein regelmäßiges\nRaster von kleinen (quadratischen) Zellen aufzulösen. Jede solche\nZelle wurde zusammen mit ihrem Farbwert eines der elementaren Zeichen,\nüber deren Menge das Bild realisiert worden war. Durch allerlei\nRechnerei konnte man hoffen, gewissen statistischen Gesetzmäßigkeiten\nauf die Spur zu kommen und in ihnen einen rationalen Schlüssel\nzum Bildverstehen sowie - so wurde kühn behauptet - zum Schaffen\nneuer Bilder nach vorgegebenen Kriterien zu finden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Glaube ist längst zerstoben und selbst Max Bense hat sich\nleise von ihm verabschiedet gehabt und die viel wichtigere und bedeutsamere\nSeite solcher Betrachtung von Kunstwerken in den Vordergrund gerückt:\ndie semiotische Betrachtung nämlich [Bense 79].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das ist hier jedoch nicht unser Gesichtspunkt. Uns ist wichtig, daß\nK.O. Götz in seiner Brust zwei Seelen verband: den aus dem schwungvoll\nbewegten Körper malenden Künstler und den das Bild sezierenden\nForscher. Einerseits steht er für die unbedingte Leiblichkeit\ndes Malens. Das Subjekt begibt sich unmittelbar in seine Bilder hinein.\nDie Bewegung des Körpers des Malers wird zur Quelle des Bildausdrucks.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Andererseits steht er für die unerbittlich distanzierte Betrachtung\ndes Gemalten. Wahrnehmungspsychologische Überlegungen führten\nihn zum mathematischen Kombinieren von Rasterarrangements auf der\nSuche nach Minimalbedingungen von Gestalten. Ganz anders im Zugang\nals Harold Cohen, aber durchaus ähnlich in der Fragerichtung.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Götz veranstaltete ein Experiment, bei dem er eine Gruppe seiner\nStudierenden dazu benutzte, ein großformatiges Rasterbild zu\nproduzieren (ohne Computer). Jede Person hatte ein Teilbild mit einem\ngewissen Prozentsatz schwarzer Rasterzellen zu füllen. Welche\ndavon schwarz werden, welche weiß bleiben sollten, entschieden\ndie Studierenden zufällig: durch Aufschlagen von Telefonnummern.\nIn diesem Experiment führte Götz mustergültig vor,\nwas erst später und außerhalb der Kunst zur Gewißheit\nwurde, daß wir mit Maschinen nämlich nur das tun können,\nwas wir selbst schon maschinenähnlich zu tun gewohnt sind. Maschinen\nwerden also nicht menschenähnlich tätig, sondern Menschen\nbereiten maschinenähnlich Tätigkeiten vor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Körperliche Nähe und geistige Distanz zum Bild, stoffliche\nUnmittelbarkeit und semiotische Mittelbarkeit, Einmaligkeit des geschehenden\nAktes und Beliebigkeit der vorbereitenden Auswahl - dies sind Momente\nvon Kunst, die sich in der Person des K.O. Götz vereint zeigen.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "7. Maschinenhaftes Malen ohne Maschine",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Jackson\nPollocks \"Number One\" von 1948 ist eine seiner drip paintings.\nDie Leinwand liegt großflächig auf dem Boden, wie bei K.O.\nGötz. Farbe hinterläßt Spuren auf ihr, bewegte Spuren.\nWenn Götz aber einen Besen, einen breiten Quast an langem Stiel,\nmit dem ganzen Körper schwingend über die Malfläche\nbewegt und schließlich die Fläche in grandioser Geste berührt\nund bemalt, versetzt Pollock simple Geräte in Schwingung, deren\nBewegung die Farbspuren erzeugen. Er läßt z.B. Dosen an\nlangen Fäden über der Malfläche schwingen. Sie enthalten\nFarbe. Da ihr Boden durchlöchert ist, tröpfelt die Farbe\nheraus. Schichten von Liniengeflechten entstehen so, automatische\nMalerei. Der Prozeß der Bildentstehung steht im Vordergrund\nder Tätigkeit von Pollock. Ihn plant er, setzt er in Gang und\nhält er aufrecht. Nicht das Bild in seinen Einzelheiten ist Gegenstand\nseiner Vorhersicht, wenngleich Pollock als Beobachter des Geschehens\nund Meister der Zeremonie viele Eingriffsmöglichkeiten behält.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der künstliche Malvorgang, den Pollock plant und \"berechnet\"\nist in vieler Hinsicht unberechenbar. Eine Maschine könnte zu\nähnlichem programmiert werden. Das Ausgabegerät spielt eine\nwesentliche Rolle.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vom fertigen Bild her betrachtet sehen wir einen Malvorgang, der farbige\nLinien erzeugt. Diese Linien bleiben zum Teil auch im fertigen Bild\nsichtbar. Insgesamt aber schließen sie sich zu Flächen\nzusammen. Der Vorgang baut physikalisch auf linienhaften Zeichen auf,\ndie er stofflich herstellt. In unserer Wahrnehmung aber verlieren\ndie meisten dieser Zeichen ihre Identität und rücken als\nbemalte Flächen in den Vordergrund. Die physikalisch hergestellte\nLinie verschwindet hinter der wahrgenommenen Fläche.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In gewissem Sinne werden Zeichnen und Malen bei Pollock eins. Schuf\ndie perspektivische Malerei der Renaissance mit ihrer geometrisch\nexakten Konstruktion in gewissem Sinne erst die Linie als Umrißlinie,\ndie eine Fläche umschloß, die es auszumalen galt, so füllen\ndie Pollockschen automatischen Linien von selbst die Fläche.\nDie Fläche ist das Schicksal der Linie geworden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pollock geht - am Ende des Zweiten Weltkrieges, als Europa in Scherben\nliegt - einen radikalen Schritt von der Repräsentation einer\nobjektiven Welt zur subjektiven Konstruktion eines Bildes. Sein Bild\ngewinnt Autonomie gegenüber der Welt. Es stellt nichts dar außer\nsich selbst. Der \"daneben gegangene\" Strich entwertet das\nBild nicht mehr, da es ihn nicht mehr gibt. Kein abzubildender Gegenstand\n\"da draußen\" hat Herrschaft über die Linie im\nBild, da sie ihr Eigenleben führt und nur so und das ist, was\nsie ist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das konkrete Bild vereint darstellendes Mittel (Repräsentamen)\nmit dargestelltem Gegenstand (Objekt). Dadurch steht das Bild nicht\nmehr neben der Welt, sondern ist Welt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Maler tritt ganz aus seinem Bild heraus. Sind die Bilder des Informel\nvon Götz ebenso konkret wie die drip paintings von Pollock, so\nist Götz als malender Leib noch ganz in seinen Bildern anwesend,\nPollock dagegen hat sich entfernt. Einen simplen produktiven Mechanismus\nhat er statt seiner, mit einem Malwerkzeug bewehrten Hand und seines\nArmes in die Szene eingeführt. Seine Hand stößt nur\nden Farbtopf an. Die Anfangsrichtung und Geschwindigkeit, die Pollock\nder Schwingung gibt, die Viskosität der Farbe, die Zahl der Löcher\nim Dosenboden, der Ort der Aufhängung der Dose - allerhand mechanische\nParameter der Linienproduktion kontrolliert er. Kontrolle über\nden Prozeß der Bildproduktion wird bewußt. Ist sie hier\nnoch einfach, so hängt die Art der abverlangten Kontrolle eng\nmit dem malerischen Repertoire, mit den Zeichen zusammen, die da automatisch\ngeschaffen werden sollen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Über die Kontrolle der Bildherstellung also tritt der Maler wieder\n- aus der Ferne, in die er sich begeben hat - in sein Bild ein. Das\nBild ist genauso es selbst bei Götz wie bei Pollock. Aber Pollock\nentfernt sich, wo Götz begierig die Farbe aus der Werkzeugverlängerung\nseines Leibes heraus aufträgt. Pollock ist wie Yves Klein. Aber\ner verzichtet auf die stärkste aller Semantiken, auf den nackten\nFrauenkörper.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen lehnt wie Pollock als Beobachter neben seiner malenden\nMaschine, bereit zum helfenden Sprung, wenn etwas passiert. Was hier\npassieren kann, ist kein Verzeichnen im Bild selbst, sondern ein Versagen\ndes Zeichnens als solches. Geradezu possierlich mutet uns dieser individualistische\nKünstler angesichts des von ihm in Gang gesetzten Malprozesses\nan, wenn wir eineinhalb Jahrhunderte zurückblicken. Dort entdecken\nwir auch Menschen, die Maschinen beobachten, ganz Auge und Ohr für\nderen gleichmäßig getakteten Lauf und Gang. Es gibt einen\nkleinen Unterschied: Der Textilarbeiter in einem Maschinensaal in\nder zweiten Hälfte des 19. Jahrhunderts, den wir hier meinen,\nhat eine Vielzahl von Maschinen zu überwachen. Das Produkt seiner\nmaschinell vervielfachten Arbeit gehört auch nicht ihm, sondern\ndem Fabrikanten, der ihn, den Arbeiter, anwendet. Von solchem ökonomischen\nFeinsinn aber abgesehen, hat die Maschine die Malerei eingeholt. Sie\nhat dies auf der Ebene der Kontrolle über den Vorgang getan.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marx beschreibt sehr eingängig im berühmten 13. Kapitel\ndes ersten Bandes vom Kapital, wie die stolzen Textilarbeiter auf\nKontrolltätigkeit reduziert wurden. Wir lernen daraus, daß\nauf der Höhe der mechanischen Produktion der Kern der neuen Produktionsweise\naufblitzt: die Kontrolle des Vorganges! Das heißt aber nichts\nanderes als: bewußt werden Zeichen über die Produktion\nzum Gegenstand der Arbeit gemacht.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arbeit mit Computern ist In-Gang-Setzen geronnener, nämlich maschinisierter\nKopfarbeit. Dabei ist gleichgültig, ob es um Textilfabrikation\ngeht oder um Bildgekleckse. Pollock zeigt, wie es geht. Er und, nebenbei\ngesagt, viele andere auch, wie z.B. die Pointillisten oder Dürer\nmit seinen perspektivischen Zeichengeräten - Pollock also ist\nunmittelbarer Vorbereiter der \"künstlichen Kunst\",\nder Kunst also, von deren Produkt der Künstler sich zugunsten\neiner Maschine entfernt hat. Künstliche Kunst ist Kunst, die\nim Kontrollieren des Prozesses des Bildes liegt, nicht im Herstellen\ndes Bildes selbst, Künstliche Kunst ist insofern ein notwendiger\nGipfel moderner Kunst, als die Ökonomie der Moderne die Ökonomie\nder - sagen wir es getrost einmal wieder - kapitalistischen Produktion,\nein unbedingtes Gebot zum Automaten, in sich trägt [Sohn-Rethel\n89].",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "8. Farbige Quadrate",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Eine\npädagogische Wendung nimmt die zu sich selbst gekommene Malerei\nder konkreten Kunst in den \"Hommage to the square\" genannten\nBildern von Josef Albers. Für sie ist er berühmt geworden.\nEmsig hat er sie, einmal entdeckt, bis an sein Lebensende gemalt.\nDie immer gleiche exzentrische Schachtelung von drei (manchmal vier)\nkleiner werdenden Quadraten in stets neuer Farbgebung. Ein Malevitch\nim Malevitch, um an russisches Spielzeug zu erinnern.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pädagogisch sind diese Albersschen Bilder insofern, als jedes\nvon ihnen einen Farbklang vorführt. Die extreme Reduktion der\nForm, die in der ständigen Wiederholung einer Leugnung von Form\ngleichkommt, mußte Albers geradezu eingehen, um ganz die Dimension\nder Farbe zu gewinnen. Beim Auftrag der Farben im Inneren seiner minimalen\nForm kommt es ihm auf absolute Gleichmäßigkeit an. Das\nauftragende Gerät soll keinerlei Spur hinterlassen. Nur die Farbe\nsoll erscheinen und im Klang mit ihren Nachbarn wirken.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hier hat also ein Künstler in der radikalen Minimalisierung der\nForm (nur Malevitch ging weiter) der Beliebigkeit abgeschworen. Die\nimmer wiederholte gleiche Form schafft die Einmaligkeit Albersscher\nMalerei. Niemand kann jemals wieder Quadrate schachteln, wenn er in\ndie Kunstgeschichte eingehen will. Die Wahl der Farbe öffnet\naber die Beliebigkeit. Gezwungen, die einmal gewählte Form zu\nfärben, besteht der Zwang, diese Farben beliebig setzen zu können.\nIn der dann doch überzeugenden Wahl liegt das pädagogische\nWerk, dem auch die Kunstgeschichte Tribut zollt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein einfaches kombinatorisches Schema durchlebt Josef Albers' Werk.\nDa die Formen nun mal fixiert, noch dazu computergerecht sind, müssen\nlediglich die drei oder vier Farben gewählt werden, die es aufzutragen\ngilt. Das einfachste Programm, das man sich denken kann. Man kann\nden ganzen Albers, ins Unermeßliche potenziert, innerhalb des\nProgramms einfangen und im Sekundentakt neue Albers' auf den Bildschirm\nwerfen. Wählen wir die Farben kombinatorisch systematisch, ist\nein Bild anders als das nächste. Der arme Albers erscheint einem\nangesichts seines Programms als ein armseliges Schema für den\nAnfangsunterricht in Informatik. Die Werke, die er tatsächlich\ngemalt hat, können in der Systematik durch eine Codenummer ersetzt\nwerden. Das ist alles, was bleibt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kunst erscheint uns hier als Schema, als Übung. Vom Kontrollprozeß\nher betrachtet ist die \"Hommage to the square\"-Serie vielleicht\ndas einfachste Beispiel der Kunstgeschichte, die vollständig\nund mit tödlicher Sicherheit aus einem kombinatorischen Programm\nresultiert. Bei ° Farben und 4 Quadraten gibt es °",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "4",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bilder, die bei ° = 16 schnell erledigt sind (65 536 Stück),\nbei ° = 16 Mio. allerdings etwas länger brauchen würden\n(ca. 6.5 x 102° - das dauert ewig, nämlich 2 x 102°\nJahre, falls jede Sekunde ein Bild gezeigt wird).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Kunst an den Albersschen Quadraten kann also nicht das Schema\nsein. Sie muß in seiner speziellen Wahl der Farben liegen. Ansonsten\naber ist diese pädagogische Übung \"Kunst\" nur\ndadurch, daß die Kunstgeschichte diese Bilder in die Museen\nhängt und in die Kataloge aufnimmt. Das Prädikat Kunst ist\nein soziales. Der soziale Prozeß der Rezeption macht ein Werk\nzum Kunstwerk, nicht der Schaffensprozeß des Künstlers.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "9. Die Widerständigkeit im Material der Kunst",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Kunst\nkommt von Können, sagt man so. Bekanntlich hat der Volksmund\nstets ein wenig recht. Was es zu können gilt, wenn jemand Kunst\nmachen will, ist: ein Material zu behandeln und zu bearbeiten, daß\nein Zustand hervorgerufen wird, daß eine Form entsteht, die\nüberzeugt. Dabei werden Werkzeuge, Geräte, Verfahren angewandt,\num das Material dorthin zu bringen, wohin es vielleicht nicht will.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Material \"will\" naturgemäß gar nichts. Metaphorisch\naber können wir mit seinem Willen eine Eigenschaft benennen,\ndie es seiner künstlergewollten Verformung entgegengesetzt: seinen\nWiderstand. Jedes Material befindet sich, als Material, in einer Form,\nwenn der Künstler es ergreift. Er aber ergreift es zu keinem\nanderen Zwecke als zu dessen Verformung. Er schickt sich an, das Material\nin eine Form zu überführen, die genau der Formidee, dem\nformenden Willen des Künstlers entspricht. Der ist auf Schönheit\naus. Das Material aber will erst mal so bleiben, wie es ist.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mir will scheinen, daß die Kunst am künstlerischen Prozeß\nin einem gehörigen Maße darin bestünde, daß\nes dem Künstler gelingt, die Widerständigkeit des Materials\nzu überwinden und so dem Material eine Form zu geben, die der\nNatur des Materials widerspricht. Marmorblöcken ist es nicht\nnaturgemäß, wie Laokoon oder Venus auszusehen. Leinwand\nund Ölfarben ist es nicht naturgegeben, sich als \"Mann mit\ndem Helm\" oder \"Nachtwache\" zu verteilen und zu verbinden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn Kunst es mit solchem Überwinden von Widerstand zu tun hat,\nwo ist der Widerstand dann bei der programmierten Kunst? Ich habe\neingangs eine Bemerkung zu Harold Cohen und zu seinem Programm gemacht.\nWenn Cohen vielleicht auch nicht jede Einzelheit seines Regelsystems\nselbst programmiert hat, so weiß er doch, daß sie einem\n\"interpretierenden\" Programm zugeführt werden können.\nMan bedient sich dabei gern der Programmiersprache Lisp.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohen muß für seine Art ästhetischer Produktion die\ngewünschten Regeln explizit beschreiben. Er muß sie veräußern,\nmuß ein implizit vorhandenes Wissen oder Handeln in äußere,\nformalsprachliche Form bringen. Soll der Computer mit dieser beschreibenden\nForm etwas anfangen können, so muß Cohen sich gewissen\nKonventionen fügen. Der Künstler als Programmierer sucht\ndie Widerständigkeit, die ihm stofflich ja abhanden gekommen\nist. Sehen wir erst noch bei einem anderen Künstler vorbei, der\nsogar noch länger als Harold Cohen den Computer benutzt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Manfred Mohr hat schon 1970 algorithmische Fingerübungen angestellt.\nIn seinen Pseudoschriften hat er die lineare Struktur des Schreibens\nvon links nach rechts und von oben nach unten ausgenutzt, um Textur\nzu Rasterflächen werden zu lassen. Bald schon findet er ein Thema,\ndas er seitdem in unermüdlich neuen Varianten durchstreift: den\nHyperwürfel. Es kommt in diesem Aufsatz auf keine mathematischen\nDetails an. Deswegen genügt ein Hinweis, um das Thema anklingen\nzu lassen, aus dem Manfred Mohr seit Mitte der siebziger Jahre Zeichen\nschafft. Das Thema ist der Hyperwürfel.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein Hyperwürfel ist ein Würfel im vierdimensionalen Raum.\nDas ist ein Gebilde, das in vier Dimensionen dem entspricht, was wir\naus drei Dimensionen (\"Würfel\"), zwei Dimensionen (\"Quadrat\")\nund einer Dimension (\"Strecke\") schon kennen. Nur um eine\nAndeutung zu machen: Ganz wie der uns vertraute Würfel begrenzende\nSeitenflächen besitzt, die Quadrate sind, so besitzt der Hyperwürfel\nBegrenzungsgebilde, die Würfel sind (es sind acht Stück).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Manfred Mohr läßt nun, metaphorisch gesprochen, Bewegungen\nim Hyperwürfel ausführen: Wege entlang der vielen dort vorhandenen\nDiagonalen zum Beispiel. Er wirft Blicke auf den Hyperwürfel,\nschneidet ihn, läßt ihn rotieren. Das jeweils entstehende\nGebilde projiziert er in den uns vorstellbaren dreidimensionalen Raum.\nVon dort muß es noch einmal auf die flache Bildebene projiziert\nwerden. Es entstehen sehr charakteristische Zeichen, spröde Balkengebilde\nin Schwarz und Weiß (gelegentlich tritt ein vornehmes Grau im\nHintergrund in Erscheinung).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Manfred Mohr hat mit seinem so sehr unsinnlich erscheinenden Thema\neinen Zugang zu einer Zeichenwelt gefunden, die ihm schier unerschöpfliche\nQuelle seiner eigenen Handschrift geworden ist. Man mag seine komplexen\nZeichen nicht eingängig finden - dahingestellt. Was sie jedoch\nin jedem Falle auszeichnet, ist ihre Unverwechselbarkeit. Sie sind\nklarer Ausdruck eines gestalterischen Willens, der sich mit Hilfe\ndes programmierten Computers Bahn sucht und bricht.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Die großen, fast immer in Serie kommenden Bilder Mohrs tragen\ndie Berechnung durch den Computer als wichtigsten Moment ihrer Existenz\nin sich. Sie sind aber in keiner Weise als Bilder aus dem Computer\nzu erkennen. Sie drücken auf stets neue Weise eine verborgene\nalgorithmische Struktur aus, die hinter zufällig erscheinender\nZeichenhaftigkeit verschwindet. Die Zeichen der Mohrschen Bilder (mit\nNamen wie P197-H oder P370-P) stehen für sich selbst, aber auch\nfür anderes, für jene angedeuteten vierdimensionalen Verhältnisse.\nDieses andere ist weitgehend unbekannt, ungesehen, unsichtbar. Mit\nHilfe des Programmes macht Mohr Aspekte jener mathematischen Realität\nsichtbar. Die Zufälligkeit und Beliebigkeit jedes einzelnen seiner\nZeichen wird in der algorithmischen Einmaligkeit zusammengehalten.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Künstler als Programmierer findet ein widerständiges\nMaterial. Dieses ist von vornherein semiotischer Art. Seine Widerständigkeit\nliegt folglich im Geistigen. Berechnungen gilt es zu organisieren,\ndie zu Bildereignissen werden. Die Bewunderung für den Künstler,\ndie wir aus seinem Bild heraus stets aufbringen wollen, findet ihren\nAnlaß in der Distanz, die er zum eigenen Werk eingeht und aushält.\nDeutlich ist die künstliche Kunst, die sich des Computers bedient,\neine postmoderne Kunst, also eine Kunst, die zwar zu den Materialien\ngelangt, aber nicht von ihnen selbst, sondern von ihren semiotischen\nSpuren ausgeht.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "10. Künstliche Kunst",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Erinnert\nsei abschließend an die frechen, lustigen, hintergründigen\nHopser von Dada: an das Prinzip Collage also. Können wir, mit\neiner anderen solchen Vereinfachung, die Entstehung eines Kunstwerkes\nals zweiphasig betrachten - nämlich als individuelles Herstellen\ndes Werkes durch den Künstler und als soziale Selektion des Werkes\nzum Kunstwerk durch die Kunstwelt - und können wir mit der Selektion\ndes Materials und seiner Komposition zum Werk die Herstellung auch\nwieder zweiphasig sehen, so liegt es nahe, bei Dada eine gewisse Vorliebe\nfür die Phase der Selektion des Materials auszumachen. Materialien,\ndie für ganz andere Zwecke als für künstlerische geschaffen\nwurden und die ihren eigentlichen Zweck vielleicht auch schon erfüllt\nhaben, die in ihrer Zweckhaftigkeit verbraucht sind, werden aufgesammelt\nund nur neu arrangiert. Verbrauchtes Abfall-Material erweist sich\nals gut genug für die ästhetische Komposition des Werkes\nbzw. die damit oft beabsichtigte künstlerische Gebärde als\nProvokation der Kunstgeschichte.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In der Aufnahme unkünstlerischer Materialien reagieren die Dadaisten\nauf ihre Zeit und fordern die Kultur heraus. Sie machen damit gleichzeitig\nalle Materialien zu künstlerischen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mitte der sechziger Jahre wurde die Herausforderung der Kultur durch\nden Computer absehbar. Vom Material wurde ganz abgesehen. In revolutionärer\nGeste wurde der Kunst ihr algorithmisch gemachtes Schema entgegengehalten.\nWenn man Kunst berechnen konnte, was blieb dann dem Künstler,\nlautete die Provokation von 1965 [vgl. zur Geschichte etwa Franke\n85, Steller 92, zur Systematik Nees 95].",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Leider, möchte ich rückblickend sagen, geschah dies mit\nzuviel Ernst. Ironie schien es schwer zu haben. Ein Schuß Dadaismus\nhätte gut getan. Max Benses kluger Begriff von der künstlichen\nKunst war letztlich defensiv.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In ihrem typischen Akt erklärten Dadaisten immer wieder die Beliebigkeit\ndes alltäglichen Tuns zur Einmaligkeit der Kunst. Sie machten\naugenzwinkernd den Ulk zum scheinbaren Ernst. Dieses Augenzwinkern\nschien der künstlichen Kunst zu fehlen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sie hatte es damit schwer, in den sechziger Jahren ihre gewiß\nbahnbrechenden Prinzipien deutlich zu machen. Das Anliegen gab es,\nund mancher mutige Galerist und Ausstellungsmann - voran Wendelin\nNiedlich in Stuttgart und Boris Kelemen in Zagreb, rasch aber manch\nanderer - wagte sich vor, ohne großes Lob zu ernten. Das Anliegen\nblieb damals doch im Technischen stecken. Künstler wie Manfred\nMohr, Vera Molnar, Zednek Sykora, Harold Cohen haben das Technische\nan der Angelegenheit stets als bloßes Mittel für ihre Zwecke\nbegriffen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kunstwerke sind Zeichen. Sie zeichnen sich dadurch aus, daß\nsie in jedem ihrer Momente anders sein könnten, als sie sind\n- sie sind es aber nicht. In dieser Formulierung drückt Nietzsche\nden sonderbaren Schwebezustand aus, der das Kunstwerk gleichzeitig\nbeliebig und einmalig sein läßt.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In den aleatorischen Übungen der sechziger Jahre betonte die\nkünstliche Kunst im Augenblick ihres Aufkommens bereits, daß\nsie das Beliebige zum Prinzip erheben kann. Dada ließ grüßen.\nIn ihrer allmählichen Reifung setzen Künstler dem wieder\ndie Einmaligkeiten entgegen. In dem Maße, wie Computer dabei\nzum Mittel werden, werden sie zum Medium von Kunst.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "11. Literatur",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "[Andersen\n90] Peter B. Andersen,: A theory of computer semiotics. Cambridge:\nCambridge University Press 1990",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Andersen et al. 93] Peter B. Andersen, Berit Holmqvist, Jens F. Jensen\n(eds.): The computer as medium. Cambridge: Cambridge University Press\n1993",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Bense 69] Max Bense: Einführung in die informationstheoretische\nÄsthetik. Reinbek: Rowohlt 1969",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Bense 79] Max Bense: Die Unwahrscheinlichkeit des Ästhetischen.\nBaden-Baden: agis 1979",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Coy et al. 92] W. Coy, F. Nake, J. Pflüger, A. Rolf, J. Seetzen,\nD. Siefkes, R. Stransfeld (Hrsg.): Sichtweisen der Informatik. Braunschweig:\nVieweg Verlag 1992",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Franke 85] Herbert W. Franke: Computergraphik, Computerkunst. 2.\nAufl. Berlin etc.: Springer-Verlag 1985",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Götz 94] K.O. Götz, Malerei 1935-1993. Katalogbuch, Staatliche\nKunstsammlungen Dresden 1994",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nake 74] Frieder Nake: Ästhetik als Informationsverarbeitung.\nWien, New York: Springer Verlag 1985",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nake 93] Frieder Nake (Hrsg.): Die erträgliche Leichtigkeit\nder Zeichen. Ästhetik, Semiotik, Informatik. Baden-Baden: agis\n1993",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nees 95] Georg Nees: Formel, Farbe, Form. Computerästhetik für\nMedien und Design. Berlin etc.: Springer Verlag 1995",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Peirce 83] Charles S. Peirce: Phänomen und Logik der Zeichen.\nFrankfurt: Suhrkamp 1983, 1993",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Sohn-Rethel 89] Alfred Sohn-Rethel: Geistige und körperliche\nArbeit. Rev. u. erg. Neuauflage. Weinheim: VCH 1989",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Steller 92] Erwin Steller: Computer und Kunst. Mannheim: Bibliographisches\nInstitut 1992",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

@@ -1,0 +1,414 @@
+{
+  "slug": "concept/tautology/measurement",
+  "legacy_path": "concept/tautology/measurement/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Tautologies",
+  "heading": "Measures",
+  "description": "Artworks as analytical propositions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Measures",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Marcel Duchamp",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/DuchampStoppages1913-14-S.jpg",
+      "alt": "",
+      "caption": "Trois Stoppages à l'Étalon,\n1913/1914",
+      "width": "148",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Morris",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/morris-Morris3Rulers1963-L.jpg",
+      "alt": "",
+      "caption": "Three Rulers, 1963",
+      "width": "127",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/morris-MorrisLocationPiece1973-L.jpg",
+      "alt": "",
+      "caption": "Location Piece, 1973",
+      "width": "400",
+      "height": "403",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/ben-ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "200",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Mel Bochner",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-BochnerMsrmntRoom1969-S.jpg",
+      "alt": "",
+      "caption": "Room, 1969",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-bochner12inchplate1994.gif",
+      "alt": "",
+      "caption": "12\" plate, 1994",
+      "width": "118",
+      "height": "86",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-bochnerTwo12inchplates1994.gif",
+      "alt": "",
+      "caption": "Two 12\" plates, 1994",
+      "width": "189",
+      "height": "70",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-bochner12inchX3-1997.jpg",
+      "alt": "",
+      "caption": "12\" X 3, 1997",
+      "width": "323",
+      "height": "37",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-bochnerInstallation-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-Bochner99Measurement12'(8x).jpg",
+      "alt": "",
+      "caption": "12\", 1999",
+      "width": "340",
+      "height": "132",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM9'(Red)2000.jpg",
+      "alt": "",
+      "caption": "9' (red), 2000",
+      "width": "425",
+      "height": "47",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM12'Sq(Spin)2000-S.jpg",
+      "alt": "",
+      "caption": "12\" square (spin), 2000",
+      "width": "120",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-M12'Trnsvrs(Spin)2000-S.jpg",
+      "alt": "",
+      "caption": "12\" transverse (spin), 2000",
+      "width": "120",
+      "height": "119",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM48(BlckRd)-S.jpg",
+      "alt": "",
+      "caption": "48\" (black red)",
+      "width": "180",
+      "height": "135",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt(RedRider)2001-S.jpg",
+      "alt": "",
+      "caption": "+ 12\" square (red rider), 2001",
+      "width": "150",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt12(SideOut)01-S.jpg",
+      "alt": "",
+      "caption": "12\" (side out), 2001",
+      "width": "142",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt12Insert2001-S.jpg",
+      "alt": "",
+      "caption": "12\" insert, 2001",
+      "width": "114",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Stanley Brouwn",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-1Foot1Ell1Step-s.jpg",
+      "alt": "",
+      "caption": "1 foot, 1 ell, 1 step",
+      "width": "296",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-StanleyBrouwn1976-1km-s.jpg",
+      "alt": "",
+      "caption": "1 km., 1976",
+      "width": "238",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-98-1x1x1Ell2x2x2Ell-s.jpg",
+      "alt": "",
+      "caption": "1 x 1 x 1 ell, 2 x 2 x 2 ell, 1998",
+      "width": "231",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gerhard Merz",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/GerhardMerz92OT(Meter)-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Meter), 1992",
+      "width": "360",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Arman",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/arman-armanST(Regles)1998-M.jpg",
+      "alt": "",
+      "caption": "Sans Titre (Règles), 1998",
+      "width": "224",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "C. Boym",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/measurement/CBoymBlueprint-s.jpg",
+      "alt": "",
+      "caption": "Blueprint",
+      "width": "200",
+      "height": "129",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/measurement/DuchampStoppages1913-14-S.jpg",
+      "alt": "",
+      "caption": "Trois Stoppages à l'Étalon,\n1913/1914",
+      "legacy_src": "DuchampStoppages1913-14-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/morris-Morris3Rulers1963-L.jpg",
+      "alt": "",
+      "caption": "Three Rulers, 1963",
+      "legacy_src": "morris/Morris3Rulers1963-L.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/morris-MorrisLocationPiece1973-L.jpg",
+      "alt": "",
+      "caption": "Location Piece, 1973",
+      "legacy_src": "morris/MorrisLocationPiece1973-L.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/ben-ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "../ben/ben-1966-toile45cm-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-BochnerMsrmntRoom1969-S.jpg",
+      "alt": "",
+      "caption": "Room, 1969",
+      "legacy_src": "bochner/BochnerMsrmntRoom1969-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-bochner12inchplate1994.gif",
+      "alt": "",
+      "caption": "12\" plate, 1994",
+      "legacy_src": "bochner/bochner12inchplate1994.gif"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-bochnerTwo12inchplates1994.gif",
+      "alt": "",
+      "caption": "Two 12\" plates, 1994",
+      "legacy_src": "bochner/bochnerTwo12inchplates1994.gif"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-bochner12inchX3-1997.jpg",
+      "alt": "",
+      "caption": "12\" X 3, 1997",
+      "legacy_src": "bochner/bochner12inchX3-1997.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-bochnerInstallation-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "bochner/bochnerInstallation-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-Bochner99Measurement12'(8x).jpg",
+      "alt": "",
+      "caption": "12\", 1999",
+      "legacy_src": "bochner/Bochner99Measurement12'(8x).jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM9'(Red)2000.jpg",
+      "alt": "",
+      "caption": "9' (red), 2000",
+      "legacy_src": "bochner/BochnerM9'(Red)2000.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM12'Sq(Spin)2000-S.jpg",
+      "alt": "",
+      "caption": "12\" square (spin), 2000",
+      "legacy_src": "bochner/BochnerM12'Sq(Spin)2000-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-M12'Trnsvrs(Spin)2000-S.jpg",
+      "alt": "",
+      "caption": "12\" transverse (spin), 2000",
+      "legacy_src": "bochner/M12'Trnsvrs(Spin)2000-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-BochnerM48(BlckRd)-S.jpg",
+      "alt": "",
+      "caption": "48\" (black red)",
+      "legacy_src": "bochner/BochnerM48(BlckRd)-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt(RedRider)2001-S.jpg",
+      "alt": "",
+      "caption": "+ 12\" square (red rider), 2001",
+      "legacy_src": "bochner/Msrmnt(RedRider)2001-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt12(SideOut)01-S.jpg",
+      "alt": "",
+      "caption": "12\" (side out), 2001",
+      "legacy_src": "bochner/Msrmnt12(SideOut)01-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/bochner-Msrmnt12Insert2001-S.jpg",
+      "alt": "",
+      "caption": "12\" insert, 2001",
+      "legacy_src": "bochner/Msrmnt12Insert2001-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-1Foot1Ell1Step-s.jpg",
+      "alt": "",
+      "caption": "1 foot, 1 ell, 1 step",
+      "legacy_src": "StanleyBrouwn/1Foot1Ell1Step-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-StanleyBrouwn1976-1km-s.jpg",
+      "alt": "",
+      "caption": "1 km., 1976",
+      "legacy_src": "StanleyBrouwn/StanleyBrouwn1976-1km-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/stanley-brouwn-98-1x1x1Ell2x2x2Ell-s.jpg",
+      "alt": "",
+      "caption": "1 x 1 x 1 ell, 2 x 2 x 2 ell, 1998",
+      "legacy_src": "StanleyBrouwn/98-1x1x1Ell2x2x2Ell-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/GerhardMerz92OT(Meter)-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel (Meter), 1992",
+      "legacy_src": "GerhardMerz92OT(Meter)-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/arman-armanST(Regles)1998-M.jpg",
+      "alt": "",
+      "caption": "Sans Titre (Règles), 1998",
+      "legacy_src": "../arman/armanST(Regles)1998-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/measurement/CBoymBlueprint-s.jpg",
+      "alt": "",
+      "caption": "Blueprint",
+      "legacy_src": "CBoymBlueprint-s.jpg"
+    }
+  ],
+  "out_links": []
+}

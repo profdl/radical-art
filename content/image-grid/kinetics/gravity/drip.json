@@ -1,0 +1,135 @@
+{
+  "slug": "kinetics/gravity/drip",
+  "legacy_path": "kinetics/gravity/drip/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "to drip",
+  "heading": "to drip",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: mechanics radical\nart",
+      "links": [
+        {
+          "text": "mechanics",
+          "href": "/kinetics",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/kinetics",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "to drip",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drip/pollock-selection-1950-Pollock-HansNamuth-M.jpg",
+      "alt": "",
+      "caption": "Jackson Pollock, 1950 [After photographs by Hans Namuth]",
+      "width": "249",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drip/pollock-selection-Pollock-Dripping-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "221",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The\npaint is applied by dipping a small\nhouse brush or stick or trowel into the can and then,\nby rapid movements of the wrist, arm and body, quickly\nallowing it to fall in weaving rhythms over the surface.\nThe brush seldom touches the canvas, but is a means to\nlet the color drip or run in stringy forms that allow\nfor the complexity of design necessary to the artist.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Goodnough:\"Pollock Paints a Picture.\"\n\nArt News,\nMay 1951.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Drip Music\n\n\n\nFor single or multiple performance.\n\n\n\nA source of dripping water and an empty vessel are arranged so\nthat the water falls into the vessel.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George Brecht, 1959",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Drip Music, Second Version",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Dripping",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "George Brecht,\n1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drip/brecht-1959-G_ Brecht_Drip Music.jpg",
+      "alt": "",
+      "caption": "George Brecht preparing a\n\nperformance of Drip Music",
+      "width": "212",
+      "height": "317",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/drip/brecht-1963-MaciunasBrecht-ML.jpg",
+      "alt": "",
+      "caption": "George Maciunas performs Drip Music\n\nin Amsterdam, 1963",
+      "width": "195",
+      "height": "318",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/drip/pollock-selection-1950-Pollock-HansNamuth-M.jpg",
+      "alt": "",
+      "caption": "Jackson Pollock, 1950 [After photographs by Hans Namuth]",
+      "legacy_src": "PollockSelection/1950-Pollock-HansNamuth-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drip/pollock-selection-Pollock-Dripping-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "PollockSelection/Pollock-Dripping-S.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drip/brecht-1959-G_ Brecht_Drip Music.jpg",
+      "alt": "",
+      "caption": "George Brecht preparing a\n\nperformance of Drip Music",
+      "legacy_src": "Brecht/1959-G_%20Brecht_Drip%20Music.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/drip/brecht-1963-MaciunasBrecht-ML.jpg",
+      "alt": "",
+      "caption": "George Maciunas performs Drip Music\n\nin Amsterdam, 1963",
+      "legacy_src": "Brecht/1963-MaciunasBrecht-ML.jpg"
+    }
+  ],
+  "out_links": [
+    "/kinetics"
+  ]
+}

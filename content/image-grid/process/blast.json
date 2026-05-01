@@ -1,0 +1,319 @@
+{
+  "slug": "process/blast",
+  "legacy_path": "process/blast/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "blast",
+  "heading": "Explosions",
+  "description": "Process art: explosion.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"An explosive is a substance that\nhas the capacity for violent decomposition via rapid oxidation, with a\nsudden release of gas and thermal energy.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "D.G. Caldicott & N.A. Edwards: \"The\ntools of the trade: weapons of mass destruction.\"\n\nEmergency Medicine, 14, 3 (September 2002), pp. 240-248.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Explosions",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Jean Tinguely",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Untitled Project (n.d.)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Tinguely says he was entranced by the\nidea of throwing a hand-grenade at the Mona Lisa, and he\neven formulated a detailed plan for carrying out his scheme. However,\nthe likelihood of a prison sentence, and the virtually total inactivity\nthis would bring, made him hesitate.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "K.G. Pontus Hultén: Jean Tinguely. 'Méta’. London: Thames and Hudson, 1975, p. 35.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/Mona_Lisa-S2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "130",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/TinguelyHommageANY1960.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "343",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hommage à New York, 1960",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Arman",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "L'Orchidée Blanche, 1963",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "(White MG sports car, blown up by means of three\ndynamite rods. )",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/arman63LOrchideeBlanche.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "330",
+      "height": "182",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Pro\nDiaz",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Painting\nby means of explosions.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "(Demo at the Destruction In Art Symposium, London, 1966.)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/ProDiazpaintingWExplsn-66-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "290",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Kendell Geers",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-1.jpg",
+      "alt": "",
+      "caption": "Title Withheld (Blow), 1993",
+      "width": "181",
+      "height": "144",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "178",
+      "height": "144",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-3.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "179",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-6.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "181",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-8.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "181",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-9.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "180",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/geers-KendellGeers93-99-Blow-S.jpg",
+      "alt": "",
+      "caption": "Title Withheld\n(Blow), 1993-1999",
+      "width": "219",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/geers-Geers04TheDevilNeverRests1.jpg",
+      "alt": "",
+      "caption": "The Devil Never Rests, 2004",
+      "width": "232",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/blast/geers-Geers04TheDevilNeverRests3.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "243",
+      "height": "164",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/blast/Mona_Lisa-S2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Mona_Lisa-S2.jpg"
+    },
+    {
+      "src": "/images/process/blast/TinguelyHommageANY1960.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TinguelyHommageANY1960.jpg"
+    },
+    {
+      "src": "/images/process/blast/arman63LOrchideeBlanche.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "arman63LOrchideeBlanche.jpg"
+    },
+    {
+      "src": "/images/process/blast/ProDiazpaintingWExplsn-66-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ProDiazpaintingWExplsn-66-S.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-1.jpg",
+      "alt": "",
+      "caption": "Title Withheld (Blow), 1993",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-1.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-2.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-3.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-3.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-6.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-6.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-8.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-8.jpg"
+    },
+    {
+      "src": "/images/process/blast/1993-tw-blow-KendellGeers93-TW(Blow)-9.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/1993-TW(Blow)/KendellGeers93-TW(Blow)-9.jpg"
+    },
+    {
+      "src": "/images/process/blast/geers-KendellGeers93-99-Blow-S.jpg",
+      "alt": "",
+      "caption": "Title Withheld\n(Blow), 1993-1999",
+      "legacy_src": "Geers/KendellGeers93-99-Blow-S.jpg"
+    },
+    {
+      "src": "/images/process/blast/geers-Geers04TheDevilNeverRests1.jpg",
+      "alt": "",
+      "caption": "The Devil Never Rests, 2004",
+      "legacy_src": "Geers/Geers04TheDevilNeverRests1.jpg"
+    },
+    {
+      "src": "/images/process/blast/geers-Geers04TheDevilNeverRests3.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Geers/Geers04TheDevilNeverRests3.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
+}

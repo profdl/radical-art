@@ -1,0 +1,90 @@
+{
+  "slug": "process/drop",
+  "legacy_path": "process/drop/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "to drop",
+  "heading": "",
+  "description": "Process Art: Gravity: Dropping.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "to drop",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/drop/Duchamp13-14Stoppages.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nTrois Stoppages Étalon, 1913",
+      "width": "148",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/drop/ruthenbeck-Ruthenbeck71UmgkppteMbl.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nUmgekippte Möbel, 1971",
+      "width": "334",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/drop/ChrisBurden1984BeamDrop-S.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Beam Drop, 1984",
+      "width": "207",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/drop/Duchamp13-14Stoppages.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nTrois Stoppages Étalon, 1913",
+      "legacy_src": "Duchamp13-14Stoppages.jpg"
+    },
+    {
+      "src": "/images/process/drop/ruthenbeck-Ruthenbeck71UmgkppteMbl.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nUmgekippte Möbel, 1971",
+      "legacy_src": "Ruthenbeck/Ruthenbeck71UmgkppteMbl.jpg"
+    },
+    {
+      "src": "/images/process/drop/ChrisBurden1984BeamDrop-S.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Beam Drop, 1984",
+      "legacy_src": "ChrisBurden1984BeamDrop-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process"
+  ]
+}

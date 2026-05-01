@@ -1,0 +1,111 @@
+{
+  "slug": "nothing/space/holes/lee-bontecou",
+  "legacy_path": "nothing/space/holes/LeeBontecou/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Lee Bontecou",
+  "heading": "Lee Bontecou",
+  "description": "Lee Bontecou.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Lee Bontecou",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/59Flit-S.jpg",
+      "alt": "",
+      "caption": "Flit, 1959",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/60Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1960",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/59-60-Unt-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959/1960",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/61Unt-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "width": "200",
+      "height": "287",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/59-60-Unt2-M.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959/1960",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/lee-bontecou/62Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1962",
+      "width": "198",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/59Flit-S.jpg",
+      "alt": "",
+      "caption": "Flit, 1959",
+      "legacy_src": "59Flit-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/60Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1960",
+      "legacy_src": "60Unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/59-60-Unt-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959/1960",
+      "legacy_src": "59-60-Unt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/61Unt-S.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "legacy_src": "61Unt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/59-60-Unt2-M.jpg",
+      "alt": "",
+      "caption": "Untitled, 1959/1960",
+      "legacy_src": "59-60-Unt2-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/lee-bontecou/62Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1962",
+      "legacy_src": "62Unt-s.jpg"
+    }
+  ],
+  "out_links": []
+}

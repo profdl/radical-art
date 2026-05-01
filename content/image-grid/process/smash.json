@@ -1,0 +1,255 @@
+{
+  "slug": "process/smash",
+  "legacy_path": "process/smash/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "smash",
+  "heading": "Smash",
+  "description": "Process art: smashing.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Smash",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/arman-62_colere_musicale1962-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nColère Musicale, 1962",
+      "width": null,
+      "height": null,
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/arman",
+          "external": false
+        },
+        {
+          "text": "Arman",
+          "href": "/process/smash/arman",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/ortiz-Ortiz66PianoDestruction.jpg",
+      "alt": "",
+      "caption": "Raphael Mantañez Ortiz:\n\nPiano Destruction, 1966",
+      "width": "118",
+      "height": "149",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/ortiz",
+          "external": false
+        },
+        {
+          "text": "Raphael Mantañez Ortiz",
+          "href": "/process/smash/ortiz",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/guitars-Townshend05GibsonLesPaul1SS.gif",
+      "alt": "",
+      "caption": "Pete Townshend smashing\n\nGibson Les Paul, 2005",
+      "width": "200",
+      "height": "135",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/guitars",
+          "external": false
+        },
+        {
+          "text": "Pete Townshend",
+          "href": "/process/smash/guitars",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/Stelarc76GlassPane-S.jpg",
+      "alt": "",
+      "caption": "Stelarc: Body Penetration of Plate Glass. (Museo Universitario,\n\nMexico City, 1976)",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/luther-LutherRuhnau1982-S.jpg",
+      "alt": "",
+      "caption": "Adolf Luther &\n\nWerner Ruhnau, 1982",
+      "width": "150",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/luther",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/geers-95KendellGeersSelfPortrait.jpg",
+      "alt": "",
+      "caption": "Kendell Geers:\n\nSelf Portrait, 1995",
+      "width": "200",
+      "height": "130",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/geers-KendellGeers03TW(Vitrine)-S.jpg",
+      "alt": "",
+      "caption": "Kendell Geers:\n\nTitle Withheld, 1995",
+      "width": "207",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Smashed\nGuitars",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/guitars",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Raphael\nMantañez Ortiz",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/ortiz",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Arman:\nColères",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/arman",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Adolphe\nLuther & Werner Ruhnau",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/smash/luther",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "To add:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Early sixties: Pieter Engels, Wolf Vostell.\n\n\n\nKirkpatrick Sale: Computer Smashing (Second Luddite Congress, April\n1996, Barnesville, Ohio (?)).",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/smash/arman-62_colere_musicale1962-S.jpg",
+      "alt": "",
+      "caption": "Arman:\n\nColère Musicale, 1962",
+      "legacy_src": "arman/62_colere_musicale1962-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/ortiz-Ortiz66PianoDestruction.jpg",
+      "alt": "",
+      "caption": "Raphael Mantañez Ortiz:\n\nPiano Destruction, 1966",
+      "legacy_src": "ortiz/Ortiz66PianoDestruction.jpg"
+    },
+    {
+      "src": "/images/process/smash/guitars-Townshend05GibsonLesPaul1SS.gif",
+      "alt": "",
+      "caption": "Pete Townshend smashing\n\nGibson Les Paul, 2005",
+      "legacy_src": "guitars/Townshend05GibsonLesPaul1SS.gif"
+    },
+    {
+      "src": "/images/process/smash/Stelarc76GlassPane-S.jpg",
+      "alt": "",
+      "caption": "Stelarc: Body Penetration of Plate Glass. (Museo Universitario,\n\nMexico City, 1976)",
+      "legacy_src": "Stelarc76GlassPane-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/luther-LutherRuhnau1982-S.jpg",
+      "alt": "",
+      "caption": "Adolf Luther &\n\nWerner Ruhnau, 1982",
+      "legacy_src": "luther/LutherRuhnau1982-S.jpg"
+    },
+    {
+      "src": "/images/process/smash/geers-95KendellGeersSelfPortrait.jpg",
+      "alt": "",
+      "caption": "Kendell Geers:\n\nSelf Portrait, 1995",
+      "legacy_src": "Geers/95KendellGeersSelfPortrait.jpg"
+    },
+    {
+      "src": "/images/process/smash/geers-KendellGeers03TW(Vitrine)-S.jpg",
+      "alt": "",
+      "caption": "Kendell Geers:\n\nTitle Withheld, 1995",
+      "legacy_src": "Geers/KendellGeers03TW(Vitrine)-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/smash/arman",
+    "/process/smash/guitars",
+    "/process/smash/luther",
+    "/process/smash/ortiz"
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "slug": "concept/speech-acts/1st-person-reports",
+  "legacy_path": "concept/SpeechActs/1stPersonReports/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Expressive Speech Acts",
+  "heading": "Text Paintings: Expressive Speech Acts",
+  "description": "Concept art: Text pieces: First person reports.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Text Paintings: Expressive Speech Acts",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Fears",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben59JAiPeur-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\"J'ai peur de m'être trompé\n\nsur le sens de la beauté vrai\" – 1959",
+      "width": "230",
+      "height": "145",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben95Peur.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'ai peur de n'avoir\n\nplus rien à dire.\" – 1995",
+      "width": "180",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hopes & Ambitions",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben60JEspere-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'espère que cette toile ne\n\nvivra jamais une guerre atomique\" – 1960",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben95Rire-s.gif",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'aimerais faire rire\" – 1995",
+      "width": "200",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/BenBeruehmt-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ich will berühmt sein.\"",
+      "width": "175",
+      "height": "123",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Boasts",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70-Important.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Je suis le plus important\" – 1970",
+      "width": "198",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/70salvo-s.jpg",
+      "alt": "",
+      "caption": "Salvo: \"Io sono il migliore\" – 1970",
+      "width": "224",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Regrets",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70-abandonner-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "194",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"J'ai voulu abandonner l'art\n\nmais j'en ai fait de l'art\" – 1970",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben73-nouveau-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Je voulais faire du nouveau et\n\nj'ai fait comme les autres\" – 1973",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben73-importance-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Je voulais être important et il\n\nn'y a pas d'importance\" – 1973",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Explanations & Apologies",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/69PolkeHWBROESM.jpg",
+      "alt": "",
+      "caption": "Sigmar Polke: \"Höhere Wesen befahlen:\n\nrechte obere Ecke schwarz malen!\"\n1969",
+      "width": "192",
+      "height": "228",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben77[AsIs]-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Il faut me prendre comme je suis.\n\nJe ne peux pas être autre chose que moi-même.\"\n\n1977",
+      "width": "225",
+      "height": "386",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sadness",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70JAiLeCaffard-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'ai le caffard\" – 1970",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/70BasJanAderIM2Sad-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: \"I'm too sad to tell you.\"",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1970",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Existence",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/73onkawaraIAmStillAlive-s.jpg",
+      "alt": "",
+      "caption": "On Kawara: \"I am still alive\" – 1973",
+      "width": "322",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/87kruger-IShop-s.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger:\nUntitled\n\n(\"I shop therefore I am\") – 1987",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Health",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/TimmUlrichs1975-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: \"Ich kann keine Kunst mehr sehen!\" – 1975",
+      "width": "246",
+      "height": "350",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/2003TimAyresGettingBetter.jpg",
+      "alt": "",
+      "caption": "Tim Ayres: \"I'm getting much better\" – 2003",
+      "width": "215",
+      "height": "248",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Consolation",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/1st-person-reports/92-TimAyres-s.jpg",
+      "alt": "",
+      "caption": "Tim Ayres: \"We don't live forever anyway\" – 1992",
+      "width": "213",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben59JAiPeur-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\"J'ai peur de m'être trompé\n\nsur le sens de la beauté vrai\" – 1959",
+      "legacy_src": "Ben59JAiPeur-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben95Peur.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'ai peur de n'avoir\n\nplus rien à dire.\" – 1995",
+      "legacy_src": "Ben95Peur.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben60JEspere-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'espère que cette toile ne\n\nvivra jamais une guerre atomique\" – 1960",
+      "legacy_src": "Ben60JEspere-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben95Rire-s.gif",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'aimerais faire rire\" – 1995",
+      "legacy_src": "Ben95Rire-s.gif"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/BenBeruehmt-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ich will berühmt sein.\"",
+      "legacy_src": "BenBeruehmt-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70-Important.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Je suis le plus important\" – 1970",
+      "legacy_src": "Ben70-Important.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/70salvo-s.jpg",
+      "alt": "",
+      "caption": "Salvo: \"Io sono il migliore\" – 1970",
+      "legacy_src": "70salvo-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70-abandonner-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben70-abandonner-S.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben73-nouveau-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben73-nouveau-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben73-importance-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben73-importance-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/69PolkeHWBROESM.jpg",
+      "alt": "",
+      "caption": "Sigmar Polke: \"Höhere Wesen befahlen:\n\nrechte obere Ecke schwarz malen!\"\n1969",
+      "legacy_src": "69PolkeHWBROESM.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben77[AsIs]-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Il faut me prendre comme je suis.\n\nJe ne peux pas être autre chose que moi-même.\"\n\n1977",
+      "legacy_src": "Ben77%5BAsIs%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/Ben70JAiLeCaffard-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"J'ai le caffard\" – 1970",
+      "legacy_src": "Ben70JAiLeCaffard-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/70BasJanAderIM2Sad-s.jpg",
+      "alt": "",
+      "caption": "Bas Jan Ader: \"I'm too sad to tell you.\"",
+      "legacy_src": "70BasJanAderIM2Sad-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/73onkawaraIAmStillAlive-s.jpg",
+      "alt": "",
+      "caption": "On Kawara: \"I am still alive\" – 1973",
+      "legacy_src": "73onkawaraIAmStillAlive-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/87kruger-IShop-s.jpg",
+      "alt": "",
+      "caption": "Barbara Kruger:\nUntitled\n\n(\"I shop therefore I am\") – 1987",
+      "legacy_src": "87kruger-IShop-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/TimmUlrichs1975-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: \"Ich kann keine Kunst mehr sehen!\" – 1975",
+      "legacy_src": "TimmUlrichs1975-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/2003TimAyresGettingBetter.jpg",
+      "alt": "",
+      "caption": "Tim Ayres: \"I'm getting much better\" – 2003",
+      "legacy_src": "2003TimAyresGettingBetter.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/1st-person-reports/92-TimAyres-s.jpg",
+      "alt": "",
+      "caption": "Tim Ayres: \"We don't live forever anyway\" – 1992",
+      "legacy_src": "92-TimAyres-s.jpg"
+    }
+  ],
+  "out_links": []
+}

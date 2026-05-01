@@ -1,0 +1,206 @@
+{
+  "slug": "nothing/monochrome/black/herbert-zangs",
+  "legacy_path": "nothing/monochrome/black/HerbertZangs/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Herbert Zangs",
+  "heading": "",
+  "description": "Black monochromes by Herbert Zangs.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Herbert Zangs: Schwarzarbeiten",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/HerbertZangsOT1955-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1955",
+      "width": "143",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/58-Fundobjekt(FensterMFg)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "151",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Fundobjekt (Fenster mit\n\nFliegengitter), 1958",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/[black]-M.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief",
+      "width": "155",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/58-BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1958",
+      "width": "236",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/59-Peinture-Reliefs-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1959",
+      "width": "187",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/63-OT(Knuepfung).jpg",
+      "alt": "",
+      "caption": "Schwarze Knüpfung, 1963",
+      "width": "125",
+      "height": "219",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/70-OT(SchwarzesRelief)-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1970",
+      "width": "175",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/ZangsSchwarzeFaltung-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Faltung",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/Zangs60sSchwarzarbeit-S.jpg",
+      "alt": "",
+      "caption": "Schwarzarbeit,\n\n1960's",
+      "width": "173",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief",
+      "width": null,
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/ZangsSchwarzeSteinen-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Steinen",
+      "width": "348",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs/HerbertZangsSchwarzesBild.jpg",
+      "alt": "",
+      "caption": "Schwarzes Bild",
+      "width": "146",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/HerbertZangsOT1955-S.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1955",
+      "legacy_src": "HerbertZangsOT1955-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/58-Fundobjekt(FensterMFg)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "58-Fundobjekt(FensterMFg)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/[black]-M.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief",
+      "legacy_src": "%5Bblack%5D-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/58-BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1958",
+      "legacy_src": "58-BlackReliefPainting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/59-Peinture-Reliefs-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1959",
+      "legacy_src": "59-Peinture-Reliefs-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/63-OT(Knuepfung).jpg",
+      "alt": "",
+      "caption": "Schwarze Knüpfung, 1963",
+      "legacy_src": "63-OT(Knuepfung).jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/70-OT(SchwarzesRelief)-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief, 1970",
+      "legacy_src": "70-OT(SchwarzesRelief)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/ZangsSchwarzeFaltung-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Faltung",
+      "legacy_src": "ZangsSchwarzeFaltung-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/Zangs60sSchwarzarbeit-S.jpg",
+      "alt": "",
+      "caption": "Schwarzarbeit,\n\n1960's",
+      "legacy_src": "Zangs60sSchwarzarbeit-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "Schwarzes Relief",
+      "legacy_src": "BlackReliefPainting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/ZangsSchwarzeSteinen-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Steinen",
+      "legacy_src": "ZangsSchwarzeSteinen-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs/HerbertZangsSchwarzesBild.jpg",
+      "alt": "",
+      "caption": "Schwarzes Bild",
+      "legacy_src": "HerbertZangsSchwarzesBild.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,331 @@
+{
+  "slug": "things/art-copied/sturtevant",
+  "legacy_path": "things/art-copied/sturtevant/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Sturtevant",
+  "heading": "Elaine Sturtevant's Copy Art",
+  "description": "Elaine Sturtevant's Copy Art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: copy\nart readymades radical\nart",
+      "links": [
+        {
+          "text": "copy art",
+          "href": "/things/art-copied",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Elaine Sturtevant's Copy Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Roy\n\nLichtenstein",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/65-66LichtensteinHotDog-S.jpg",
+      "alt": "",
+      "caption": "\"Hot Dog\", 1965/1966",
+      "width": "230",
+      "height": "139",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/66RLichtensteinStudy,Tire.jpg",
+      "alt": "",
+      "caption": "\"Study (Tire)\", 1966",
+      "width": "168",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/66-67RLHappyTears-s.jpg",
+      "alt": "",
+      "caption": "\"Happy Tears\", 1966/1967",
+      "width": "194",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/88Stdy4LGirlWBall.jpg",
+      "alt": "",
+      "caption": "Study for \"Girl with Ball\", 1988",
+      "width": "151",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Jasper\n\nJohns",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/66JohnsDoubleFlag-S.jpg",
+      "alt": "",
+      "caption": "\"Double Flag\", 1966",
+      "width": "146",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/6887-1stPlasterModl4JohnsLb.jpg",
+      "alt": "",
+      "caption": "\"First Plaster Model for Johns'\n\nLightbulb\", 1968/1987",
+      "width": "172",
+      "height": "133",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/86-87-JJohnsGreenTarget.jpg",
+      "alt": "",
+      "caption": "\"Green Target\", 1986/1987",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/91JohnsBlackFigure5.jpg",
+      "alt": "",
+      "caption": "\"Black Figure Five\", 1991",
+      "width": "150",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wesselman,\n\nOldenburg",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/66WesselmanGrtAmericanNude.jpg",
+      "alt": "",
+      "caption": "\"Tom Wesselman: Great American\n\nNude\", 1966",
+      "width": "230",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/OldenburgStoreObjectBAE.jpg",
+      "alt": "",
+      "caption": "\"Claes Oldenburg: Store\n\nObject (Bacon and Eggs)\"",
+      "width": "136",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Marcel\n\nDuchamp",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/69-73-BicycleWheel.jpg",
+      "alt": "",
+      "caption": "\"Bicycle Wheel\", 1969/1973",
+      "width": "114",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/70DuchampEauEtGaz.jpg",
+      "alt": "",
+      "caption": "\"Eau & Gaz\", 1970",
+      "width": "182",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/73WarholGoldMarilyn.jpg",
+      "alt": "",
+      "caption": "\"Gold Marilyn\", 1973",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/WarholFlowers.jpg",
+      "alt": "",
+      "caption": "\"Flowers\"",
+      "width": "480",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/90WarholFlowers-s.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1990",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/90WarholFlowers-2-s.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1990",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/art-copied/sturtevant/96WarholFlowers.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1996",
+      "width": "201",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/art-copied/sturtevant/65-66LichtensteinHotDog-S.jpg",
+      "alt": "",
+      "caption": "\"Hot Dog\", 1965/1966",
+      "legacy_src": "65-66LichtensteinHotDog-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/66RLichtensteinStudy,Tire.jpg",
+      "alt": "",
+      "caption": "\"Study (Tire)\", 1966",
+      "legacy_src": "66RLichtensteinStudy,Tire.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/66-67RLHappyTears-s.jpg",
+      "alt": "",
+      "caption": "\"Happy Tears\", 1966/1967",
+      "legacy_src": "66-67RLHappyTears-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/88Stdy4LGirlWBall.jpg",
+      "alt": "",
+      "caption": "Study for \"Girl with Ball\", 1988",
+      "legacy_src": "88Stdy4LGirlWBall.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/66JohnsDoubleFlag-S.jpg",
+      "alt": "",
+      "caption": "\"Double Flag\", 1966",
+      "legacy_src": "66JohnsDoubleFlag-S.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/6887-1stPlasterModl4JohnsLb.jpg",
+      "alt": "",
+      "caption": "\"First Plaster Model for Johns'\n\nLightbulb\", 1968/1987",
+      "legacy_src": "6887-1stPlasterModl4JohnsLb.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/86-87-JJohnsGreenTarget.jpg",
+      "alt": "",
+      "caption": "\"Green Target\", 1986/1987",
+      "legacy_src": "86-87-JJohnsGreenTarget.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/91JohnsBlackFigure5.jpg",
+      "alt": "",
+      "caption": "\"Black Figure Five\", 1991",
+      "legacy_src": "91JohnsBlackFigure5.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/66WesselmanGrtAmericanNude.jpg",
+      "alt": "",
+      "caption": "\"Tom Wesselman: Great American\n\nNude\", 1966",
+      "legacy_src": "66WesselmanGrtAmericanNude.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/OldenburgStoreObjectBAE.jpg",
+      "alt": "",
+      "caption": "\"Claes Oldenburg: Store\n\nObject (Bacon and Eggs)\"",
+      "legacy_src": "OldenburgStoreObjectBAE.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/69-73-BicycleWheel.jpg",
+      "alt": "",
+      "caption": "\"Bicycle Wheel\", 1969/1973",
+      "legacy_src": "69-73-BicycleWheel.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/70DuchampEauEtGaz.jpg",
+      "alt": "",
+      "caption": "\"Eau & Gaz\", 1970",
+      "legacy_src": "70DuchampEauEtGaz.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/73WarholGoldMarilyn.jpg",
+      "alt": "",
+      "caption": "\"Gold Marilyn\", 1973",
+      "legacy_src": "73WarholGoldMarilyn.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/WarholFlowers.jpg",
+      "alt": "",
+      "caption": "\"Flowers\"",
+      "legacy_src": "WarholFlowers.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/90WarholFlowers-s.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1990",
+      "legacy_src": "90WarholFlowers-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/90WarholFlowers-2-s.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1990",
+      "legacy_src": "90WarholFlowers-2-s.jpg"
+    },
+    {
+      "src": "/images/things/art-copied/sturtevant/96WarholFlowers.jpg",
+      "alt": "",
+      "caption": "\"Flowers\", 1996",
+      "legacy_src": "96WarholFlowers.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/art-copied"
+  ]
+}

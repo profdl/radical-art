@@ -1,0 +1,35 @@
+{
+  "slug": "destruction/pierce",
+  "legacy_path": "destruction/pierce/index.html",
+  "section": "destruction",
+  "archetype": "single-work",
+  "title": "pierce",
+  "heading": "",
+  "description": "destruction in art: piercing",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "pierce",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/pierce/HerbertZangsAnti-Buch.jpg",
+      "alt": "",
+      "caption": "herbert zangs: anti-buch",
+      "width": "286",
+      "height": "291",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/pierce/HerbertZangsAnti-Buch.jpg",
+      "alt": "",
+      "caption": "herbert zangs: anti-buch",
+      "legacy_src": "HerbertZangsAnti-Buch.jpg"
+    }
+  ],
+  "out_links": []
+}

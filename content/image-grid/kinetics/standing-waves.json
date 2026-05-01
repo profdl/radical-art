@@ -1,0 +1,76 @@
+{
+  "slug": "kinetics/standing-waves",
+  "legacy_path": "kinetics/StandingWaves/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Kinetiek",
+  "heading": "",
+  "description": "Kinetische kunst",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Standing Waves",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/standing-waves/kinetiek-gaboS.jpg",
+      "alt": "",
+      "caption": "Naum Gabo:\n\nKinetic Construction,\n\nVibrating Spring.\n\n1920.",
+      "width": "115",
+      "height": "281",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/standing-waves/kinetiek-kromulBW.jpg",
+      "alt": "",
+      "caption": "Remko Scha: The\nMachines,\n\nRijksmuseum Kröller-Müller, Otterlo, 1982.",
+      "width": "280",
+      "height": "164",
+      "links": [
+        {
+          "text": "The Machines",
+          "href": "http://iaaa.nl/music/machines.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/standing-waves/CarstenNicolai_milch80hz-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carsten Nicolai:\n\nMilch 80 Hz, 2000",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/standing-waves/kinetiek-gaboS.jpg",
+      "alt": "",
+      "caption": "Naum Gabo:\n\nKinetic Construction,\n\nVibrating Spring.\n\n1920.",
+      "legacy_src": "../../gif/kinetiek/gaboS.jpg"
+    },
+    {
+      "src": "/images/kinetics/standing-waves/kinetiek-kromulBW.jpg",
+      "alt": "",
+      "caption": "Remko Scha: The\nMachines,\n\nRijksmuseum Kröller-Müller, Otterlo, 1982.",
+      "legacy_src": "../../gif/kinetiek/kromulBW.jpg"
+    },
+    {
+      "src": "/images/kinetics/standing-waves/CarstenNicolai_milch80hz-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "CarstenNicolai_milch80hz-S.jpg"
+    }
+  ],
+  "out_links": []
+}

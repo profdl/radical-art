@@ -1,0 +1,291 @@
+{
+  "slug": "algorithmic-art/chance",
+  "legacy_path": "AlgorithmicArt/chance/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "art & chance",
+  "heading": "chance art",
+  "description": "Art and Chance.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "chance art",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "[a.k.a. probabilistic / stochastic / aleatoric art]",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "From the earliest days of algorithmic art, the probabilistic approach\nto art generation has been very popular. Its modus operandi\ncan be summarized as follows: (1) a space of possibilities is defined\nin explicit, mathematical terms; (2) a probability distribution is\ndefined over this space; (3) an algorithm is executed which draws\nrandom samples from the space, in accordance with the probability\ndistribution.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The idea of chance-based art was first broached in\nthe early twentieth century by Lewis Carroll, Marcel Duchamp, and\nTristan Tzara. Its consistent application was pioneered in the 1950's\nby Ellsworth Kelly, François Morellet and John Cage; it was\ncontinued by a large number of artists which includes Mark\nBoyle, Karl-Otto Götz, Jackson Mac Low, Kenneth Martin, Manfred\nMohr, Frieder Nake, Georg Nees, A. Michael Noll, Peter Struycken,\nZdenek Sykora, Herman de Vries, and Ryszard Winiarski.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Random Grids.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/any",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Random\nScatterings.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/scatter",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Random Lines.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/line",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Random samples from the surface of the earth.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/boyle",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quotes about Chance Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/qchance-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Chance",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/chance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quotes about Chance",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/qchance",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "To add: Random Photographs (De Vries; Müller-Pohle? Winogrand?)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Different approaches to probabilistic art",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Random Sampling",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The computer may be used to make abstract\nart at a new level of abstraction. One may implement formal definitions\nof visual styles, and then use chance operations to sample pieces\nwithin that style. This was done, for instance, by Martin, Mohr, Nake,\nNees and Sykora; Noll's Mondriaan simulation is another obvious instance.\nThe best representative of this approach is perhaps Harold Cohen's\nprogram-sequence AARON, which was developed somewhat later and is\nsignificantly more complex.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Programs of this sort are sometimes viewed as models\nof a human artist. Because it is the role of the random sampling\noperation to create a certain amount of unpredictability within\nthe program's style, this operation may then be viewed as the locus\nof \"creativity\" (Nees, 1969) or the placeholder for \"intuition\" (Nake, 1974). This is misleading; real variety and unpredictability\ndepend on the complexity of the program's style.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Celebrating Chance",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Several artists made work which does\nnot merely employ random sampling operations, but uses chance in a\nmore prominent role: to avoid choice and to symbolize arbitrariness.\nWork of this sort is created by drawing random samples from very elementary\nspaces (all possible grids, all possible dot configurations, all possible\nline configurations), or from spaces which themselves were chosen\nat random. Examples are Duchamp's Erratum Musical, Morellet, Cage\nand De Vries. Technically, such work is \"algorithmic art\".\nContent-wise, it is close to the traditions of the readymade and the\nmonochrome. All of the artists just mentioned also made non-probabilistic\nwork which shows this: Duchamp invented the readymade, and emphasized\nhow the choice of his readymades was \"based on a reaction\nof visual indifference with at the same time a total absence of good\nor bad taste ... in fact a complete anesthesia\" (Duchamp,\n1961). One of Morellet's favorite themes is the empty grid. Cage wrote\nsilent pieces (4'33\", 0'00\"), and lectured on \"Nothing\".\nDe Vries painted white monochromes and published an empty book.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The intrinsic connection between\nchance art and the monochrome is well-known from Information Theory\ntextbooks: for human perception, strictly uniform patterns and strictly\nrandom patterns provide similarly boring, almost indistinguishable\nexperiences; total order and total disorder are equivalent. For\ninstance: randomly colored grids are perceptually indistinguishable\nfrom each other. If the cells of a random black-and-white grid are\nsufficiently small, it looks uniformly colored: grey.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Many chance-artists made very similar-looking pieces. The content\nof such pieces may nonetheless be radically different: Kelly's work\nis about perception; Morellet is ironically philosophical (\"esprit\");\nCage and De Vries used chance in an almost figurative way, evoking nature; Struijcken is concerned with objectivity (being right).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Art after the End of Art",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "To be aware of art history as a meaningless process\nof stylistic innovation, and yet to be part of that tradition, implies\nthe desire to make a qualitatively different step: to not just add\na few more styles, but to transcend the whole process. (Constructive\npostmodernism.) An unusually explicit articulation of this an ambition\nis the idea of the \"arbitrary artwork\" – the piece\nwhich is sampled at random from the space of all possible artworks,\nwithout any subjective aesthetic decisions.\n\n\n\nHard-core chance art as pioneered by Morellet and De Vries (random\ngrids etc.) does not carry out this idea, but it symbolizes\nit. That was a necessary first step. To actually produce random artworks\nrequires a long-term scientific research project: to develop\nan explicit analytical description of the space of all possible artworks,\nnot in terms of pixel grids, but in terms of Gestalt structures as\nperceived by human observers. The IAAA project Artificial\nis a modest attempt in this direction. [Cf. Scha\n(1988), Harry (1992), Van\nWeelden (1994), Scha (1998),\nScha (2001).]",
+      "links": [
+        {
+          "text": "Artificial",
+          "href": "http://radicalart.info/artificial/index.html",
+          "external": true
+        },
+        {
+          "text": "Scha (1988)",
+          "href": "http://radicalart.info/rs/artkunstE.html",
+          "external": true
+        },
+        {
+          "text": "Harry (1992)",
+          "href": "http://radicalart.info/hh/pose.html",
+          "external": true
+        },
+        {
+          "text": "Van Weelden (1994)",
+          "href": "http://radicalart.info/artificial/papers/weeldenE.html",
+          "external": true
+        },
+        {
+          "text": "Scha (1998)",
+          "href": "http://radicalart.info/rs/wiederhaE.html",
+          "external": true
+        },
+        {
+          "text": "Scha (2001)",
+          "href": "http://iaaa.nl/rs/LierEnBoog.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gottfried Boehm: \"Zur Analyse eines\nkünstlerischen Problems bei F. Morellet.\" In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nKristin Brenneman:\nChance in Art, 1994.\n\n\n\nJohn Cage: \"Experimental Music.\" (1957) In: Silence.\nLectures and Writings by John Cage. Middletown, Connecticut:\nWesleyan University Press, 1973, pp. 7 - 12.\n\n\n\nJohn Cage: \"Lecture on Nothing.\" Incontri Musicali,\nAugust, 1959.\n\n\n\nMichael Challinor: \"Change, chance and structure: randomness and\nformalism in art.\" Leonardo 4 (1971), pp. 1-11.\n\n\n\nYa-Ling Chen:\nErratum Musical, Tout-Fait, Vol. 1, nr. 1 (December 1999).\n\n\n\nMarcel Duchamp: \"Erratum Musical.\" In: Michel Sabouillet\nand Elmer Peterson (eds.): The Essential Writings of Marcel Duchamp.\nLondon: Thames and Hudson, 1975.",
+      "links": [
+        {
+          "text": "Chance in Art,",
+          "href": "http://www.dartmouth.edu/%7Echance/course/student_projects/Kristin/Kristin.html",
+          "external": true
+        },
+        {
+          "text": "Erratum Musica",
+          "href": "http://www.toutfait.com/issues/issue_1/Music/erratum.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp: Apropos of 'Readymades'.\nLecture at the Museum of Modern Art, New York, October 19, 1961.\nPublished in: Art and Artists, 1, 4 (July 1966).\n\n\n\nThierry de Duve: Au nom de l'art. Pour une archéologie\nde la modernité. (Paris: Les Éditions de Minuit,\n1989), p. 118.\n\n\n\nHuge\nHarry: \"On the Role of Machines\nand Human Persons in the Art of the Future.\" Pose 8\n(September 1992), pp. 30-35.\n\n\n\nDick Higgins: Computers for the Arts. Somerville, Mass.:\nAbyss Publications, 1968/1970. [Including \"Hank and Mary\"\nby Dick Higgins, and \"Proposition No. 2 for Emmett Williams\" by Alison Knowles.]",
+      "links": [
+        {
+          "text": "\"On the Role of Machines and Human Persons in the Art of the Future.\"",
+          "href": "http://iaaa.nl/hh/pose.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "François Morellet: \"Pour une peinture\nexpérimentale programmée.\" (1962). In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nFrançois Morellet: \"Du spectateur au spectateur ou l'art\nde déballer son pique-nique.\" (1971) In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nFrançois Morellet: \"Avertissement.\" (1972) In Exhibition\nCatalogue François Morellet, Nationalgalerie Berlin,\n1977.\n\n\n\nMihai Nadin: \"Alea\niacta est.\"\n\n\n\nFrieder Nake: Ästhetik als Informationsverarbeitung. Grundlagen\nund Anwendungen der Informatik im Bereich ästhetischer Produktion\nund Kritik. (Vienna/New York: Springer Verlag, 1974), p. 53.",
+      "links": [
+        {
+          "text": "\"Alea iacta est.\"",
+          "href": "http://www.emohr.com/ww2_out.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Georg Nees: Generative Computergraphik (Berlin/Munich:\nSiemens AG, 1969), p. 49.\n\n\n\nRemko\nScha: \"Artificial Art.\"\nInformatie en Informatiebeleid 6, 4 (1988), pp. 73-80.\n\n\n\n\nRemko Scha: \"Readymades,\nArtificial Art, New Media.\" In: Annette W. Balkema and\nHenk Slager (eds.): Exploding Aesthetics. L&B Series of Philosophy\nof Art and Art Theory, Vol. 16. Amsterdam & Atlanta: Rodopi,\n2001, pp. 40-47.",
+      "links": [
+        {
+          "text": "\"Artificial Art.\"",
+          "href": "http://iaaa.nl/rs/artkunstE.html",
+          "external": true
+        },
+        {
+          "text": "\"Readymades, Artificial Art, New Media.\"",
+          "href": "http://iaaa.nl/rs/LierEnBoog.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko\nScha: \"Towards an Architecture\nof Chance.\" In: Hans Konstapel, Gerard Rijntjes and Eric\nVreedenburgh (eds.): De Onvermijdelijke Culturele Revolutie.\n(The Hague: Stichting Maatschappij en Onderneming, 1998), pp. 105-114.\n\n\n\nherman de vries: wit. arnhem: m.j. israel,\n1962.\n\n\n\nherman de vries: \"Random Objectivations.\" In: Revue Nul=0, 2 (1963), pp. 34-35.\n\n\n\nDirk van Weelden: \"An\nideal, a name, an explorer\", Perspektief 47/48,\nDigital Issue(s) (June 1994), pp. 42-51.",
+      "links": [
+        {
+          "text": "\"Towards an Architecture of Chance.\"",
+          "href": "http://iaaa.nl/rs/wiederhaE.html",
+          "external": true
+        },
+        {
+          "text": "\"An ideal, a name, an explorer\",",
+          "href": "http://iaaa.nl/artificial/papers/weeldenE.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2002/2006",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/chance/boyle",
+    "/algorithmic-art/chance/chance",
+    "/algorithmic-art/chance/qchance",
+    "/algorithmic-art/chance/qchance-art",
+    "/algorithmic-art/grid/any",
+    "/algorithmic-art/line",
+    "/algorithmic-art/scatter"
+  ]
+}

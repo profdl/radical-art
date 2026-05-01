@@ -1,0 +1,383 @@
+{
+  "slug": "concept/scores",
+  "legacy_path": "concept/scores.html",
+  "section": "concept",
+  "archetype": "essay",
+  "title": "Scores as Concepts",
+  "heading": "Word Pieces : Scores as Concepts",
+  "description": "The origin of concept art in music: the score as concept.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Word Pieces: Scores as Concepts",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "\"In conceptual art the idea or concept is the most important aspect of the work [. . .] all planning and decisions are made beforehand and the execution is a perfunctory affair. The idea becomes the machine that makes the art.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: \"Paragraphs on Conceptual Art,\" Artforum, summer issue, 1967.",
+      "links": [
+        {
+          "text": "Paragraphs on Conceptual Art",
+          "href": "/concept/le-witt/paragraphs",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The classical painting is a material object with\na virtually infinite number of unspecified and unspecifiable properties\nwhich are nonetheless considered to be constitutive for the identity\nof the work, because they were supposedly witnessed (and\nthus endorsed) by the artist. That is why art galleries exhibit\noriginal paintings, rather than copies or descriptions. (Cf. Nelson\nGoodman on copies and fakes in Languages of Art.)\n\n\n\nBut when art is in fact created by realizing explicit, discursively\narticulated concepts, the possibility arises to skip the realization\nof the work, and to communicate the underlying concept directly\nto the \"spectator\". In classical music, this possibility\nhas existed already for several centuries, because it is always\nbased on the execution of scores which specify the intended properties\nof a piece in great detail. Some people do in fact read music,\nbut playing and listening have always remained more popular.\n\n\n\nThe musical score is one of the most conspicuous roots of the \"concept\nart\" tradition in modern art. Around 1960, several New York composers and their overseas associates in the \"International Fluxus Movement\" started to write verbal pieces that were\ninspired by the teachings of John Cage (specifically: his generalization of music to include theatre, his interest in indeterminacy, and his emphasis on abstract temporal structures). These pieces\n(by George Brecht, La\nMonte Young, Henry Flynt, Tony Conrad, Dick Higgins, Yoko Ono, Eric Andersen, Ben Vautier and several others) were often fairly vague, or had nothing to do with sound, or were\nobviously nicer to read than to execute, or were impossible\nto perform in the first place. They were verbal artworks without\nbeing literature, using conventional, literal language to denote\nclasses of things, events, or concepts. The \"score\" is treated as\nan autonomous artwork which can be displayed in books or magazines without any intentions regarding its possible execution. (Nonetheless, many word pieces can be (and have been) \"played\". The performable ones among the Fluxus pieces were often executed as \"events\" in the context of \"concerts\"; and some of them have also been realized as visual art works. (The exhibition Pop Art Redefined (Hayward Gallery, London, 1969), for instance, included realizations of some pieces by George Brecht.))\n\n\n\nLater conceptual artists such as Lawrence Weiner, Sol LeWitt and Robert Barry presented their \"word pieces\" in a visual arts context. Weiner treated his verbal descriptions as autonomous artworks, which could be displayed on gallery walls without any intentions regarding their possible execution; the description thus replaces the work. Sol LeWitt's pieces, on the other hand, were obviously intended to be realized rather than contemplated. They constitute a direct visual equivalent of the scores of traditional classical composers.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Fluxus compositions were disseminated through private correspondence, low circulation magazines, and small-scale \"concerts\". The work of later, more visually oriented \"conceptual artists\" (Weiner, LeWitt, Barry, Kosuth, Art & Language) was sold to commercial art galleries and major museums; it thus entered more easily into the canonical narratives of modern art history.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Fluxus: Generalized Music",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "George Brecht's Events",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/brecht",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Musical Fluxus Pieces",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/fluxus-music",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Theatrical Fluxus Pieces",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/fluxus-theatre",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fluxus Exercises",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/fluxus-exercise",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Impossible and Undefined Pieces",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/impossible",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Conceptual Art: Visual Scores",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawrence Weiner: Material and Topological Concepts",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/weiner",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sol LeWitt: Visual Concepts",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/le-witt",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Barry: Meta-Concepts",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/meta-concepts",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art & Language: Invisible Pieces",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/invisible",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "About music without sound",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus the heavenly motions are nothing but a kind of perennial concert, rational rather than audible or vocal.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Johannes Kepler: Gesammelte Werke (Max Caspar, ed.), Vol. VI. Munich, 1940, p.328.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage hat 1952 in einem Multimedia-Happening im Eßsaal des Black Mountain College in Asheville/North Carolina nur den Zeitverlauf durch \"Zeitklammern\", nicht aber die auszuführenden Handlungen, organisiert. Die \"Zeitklammern\" füllten nacheinander und simultan außer John Cage auch der Tänzer Merce Cunningham, der Künstler Robert Rauschenberg, der Dichter Charles Olson, die Dichterin Mary Caroline Richards sowie die Musiker David Tudor und Jay Watt u. a.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas Dreher, 2000.",
+      "links": [
+        {
+          "text": "Thomas Dreher, 2000.",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Where do we go from here? Towards theatre... We have eyes as well as ears, and it is our business while we are alive to use them.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage, 1957.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cage's influence on contemporary music, on 'musicians' is such that the entire metaphor of music could change to such an extent that – time being uppermost as a definition of music – the ultimate result would be a music that wouldn't necessarily involve anything but the presence of people ... It seems to me that the most radical redefinition of music would be one that defines 'music' without reference to sound.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Ashley, 1961. (In: Michael Nyman, 1974, p. 10.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich glaube wir wissen heute noch nicht, ob Musik Klang haben muss – ob Musik notwendigerweise Klang in sich schliesst, oder ob nicht.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tatsächlich gibt's vielleicht überhaupt nichts, was nicht musikalisch wäre. Vielleicht gibt's keinen Moment im Leben, der nicht musikalisch wäre.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George Brecht [In: Martin (1967)]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "music is sometimes music\n\nand sometimes not",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dick Higgins, 1968, p. 191.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La musique, ce n'est pas simplement ce qu'on écoute et ce qu'on entend, mais c'est tout ce qui se passe.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "George Brecht [In: Lebeer, 1973]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: Experimental Music, 1957.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas Dreher: \"Art & Language UK (1966-72): Maps and Models.\" In: Oliver Jahraus, Nina Ort & Benjamin Marius Schmidt (eds.): Beobachtungen des Unbeobachtbaren. Konzepte radikaler Theoriebildung in den Geisteswissenschaften. Weilerswist: Velbrück Verlag. 2000, pp.169-198.",
+      "links": [
+        {
+          "text": "Art & Language UK (1966-72): Maps and Models.",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas Dreher: Aktions- und Konzept Kunst. 2001.",
+      "links": [
+        {
+          "text": "Aktions- und Konzept Kunst.",
+          "href": "http://dreher.netzliteratur.net/1_Aktions-u.Konzeptkunst.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ken Friedman, Owen Smith & Lauren Sawchyn (eds.): THE FLUXUS PERFORMANCE WORKBOOK, 2002.",
+      "links": [
+        {
+          "text": "THE FLUXUS PERFORMANCE WORKBOOK",
+          "href": "http://www.thing.net/%7Egrist/ld/fluxus.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dick Higgins: \"thrice seven\", 1968. In: FOEW & OMBWHNW. New York: Something Else Press, 1969.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Irmeline Lebeer: \"Propos recueillis\" (Interview with George Brecht), Chroniques de l'Art Vivant, No. 39 (Paris, 1973). Reprinted in: Schmidt-Miescher & Gachnang (1978).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henry Martin: \"An Interview with George Brecht.\" Art International XI , 9 (Lugano, 1967).) German translation (\"Ein Interview mit George Brecht\") in: Schmidt-Miescher & Gachnang (1978).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Nyman: Experimental Music. Cage and Beyond. London: Studio Vista, 1974.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Russell & Suzi Gablik: Pop Art Redefined. London: Thames and Hudson, 1969.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marianne Schmidt-Miescher & Johannes Gachnang: Jenseits von Ereignissen: Texte zu einer Heterospektive von George Brecht. Kunsthalle Bern, 1978.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Further external links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier 1.",
+      "links": [
+        {
+          "text": "Ben Vautier 1.",
+          "href": "http://www.ben-vautier.com/fluxus/fluxus_tout.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier 2.",
+      "links": [
+        {
+          "text": "Ben Vautier 2",
+          "href": "http://www.ben-vautier.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Fluxus Bibliography.",
+      "links": [
+        {
+          "text": "Fluxus Bibliography.",
+          "href": "http://www.artpool.hu/Fluxusbibliography/default.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Exercise",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(Ph.D. Thesis): Make an anthology of \"word pieces\" with an introduction. Since the pieces tend to be very short, you can try to make it fairly complete. Also include (or at least discuss) antecedents such as Georg Lichtenberg and Marcel Duchamp.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha – May 14, 2002",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/concept/brecht",
+    "/concept/fluxus-exercise",
+    "/concept/fluxus-music",
+    "/concept/fluxus-theatre",
+    "/concept/impossible",
+    "/concept/invisible",
+    "/concept/le-witt",
+    "/concept/le-witt/paragraphs",
+    "/concept/meta-concepts",
+    "/concept/weiner"
+  ]
+}

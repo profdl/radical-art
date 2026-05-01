@@ -1,0 +1,111 @@
+{
+  "slug": "nothing/mirrors/richter",
+  "legacy_path": "nothing/mirrors/Richter/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Gerhard Richter",
+  "heading": "",
+  "description": "Mirrors by Gerhard Richter",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirrors by Gerhard Richter",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/81Spiegel-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1981 (oil on canvas)",
+      "width": "277",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/81Spiegel-B-S.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1981 (oil on canvas)",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/86Spiegel-B-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1986",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/86Spiegel-S.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1986",
+      "width": "220",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/91SpiegelBlutrot-s.jpg",
+      "alt": "",
+      "caption": "Spiegel (Blutrot), 1991",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/richter/91SpiegelGrau-M.jpg",
+      "alt": "",
+      "caption": "Spiegel (Grau), 1991",
+      "width": "147",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/richter/81Spiegel-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1981 (oil on canvas)",
+      "legacy_src": "81Spiegel-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter/81Spiegel-B-S.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1981 (oil on canvas)",
+      "legacy_src": "81Spiegel-B-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter/86Spiegel-B-s.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1986",
+      "legacy_src": "86Spiegel-B-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter/86Spiegel-S.jpg",
+      "alt": "",
+      "caption": "Spiegel, 1986",
+      "legacy_src": "86Spiegel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter/91SpiegelBlutrot-s.jpg",
+      "alt": "",
+      "caption": "Spiegel (Blutrot), 1991",
+      "legacy_src": "91SpiegelBlutrot-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/richter/91SpiegelGrau-M.jpg",
+      "alt": "",
+      "caption": "Spiegel (Grau), 1991",
+      "legacy_src": "91SpiegelGrau-M.jpg"
+    }
+  ],
+  "out_links": []
+}

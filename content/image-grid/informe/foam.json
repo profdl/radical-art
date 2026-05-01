@@ -1,0 +1,80 @@
+{
+  "slug": "informe/foam",
+  "legacy_path": "informe/foam/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "Foam",
+  "heading": "",
+  "description": "unstable media: foam: gutai & david medalla",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "unstable media: foam",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/foam/ToshioYoshidaFoam-A-1956-S.jpg",
+      "alt": "",
+      "caption": "Toshio Yoshida: Foam A, 1956",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/foam/medallaBubbleMchne1963-S.jpg",
+      "alt": "",
+      "caption": "David Medalla:\n\nBubble Machine, 1963",
+      "width": "110",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/foam/MedallaCloudGates1964C-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "241",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/foam/MedallaCloudGates1964B-S.jpg",
+      "alt": "",
+      "caption": "David Medalla: Cloud Gates, 1964",
+      "width": "122",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/foam/ToshioYoshidaFoam-A-1956-S.jpg",
+      "alt": "",
+      "caption": "Toshio Yoshida: Foam A, 1956",
+      "legacy_src": "ToshioYoshidaFoam-A-1956-S.jpg"
+    },
+    {
+      "src": "/images/informe/foam/medallaBubbleMchne1963-S.jpg",
+      "alt": "",
+      "caption": "David Medalla:\n\nBubble Machine, 1963",
+      "legacy_src": "medallaBubbleMchne1963-S.jpg"
+    },
+    {
+      "src": "/images/informe/foam/MedallaCloudGates1964C-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MedallaCloudGates1964C-S.jpg"
+    },
+    {
+      "src": "/images/informe/foam/MedallaCloudGates1964B-S.jpg",
+      "alt": "",
+      "caption": "David Medalla: Cloud Gates, 1964",
+      "legacy_src": "MedallaCloudGates1964B-S.jpg"
+    }
+  ],
+  "out_links": []
+}

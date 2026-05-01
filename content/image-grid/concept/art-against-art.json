@@ -1,0 +1,142 @@
+{
+  "slug": "concept/art-against-art",
+  "legacy_path": "concept/ArtAgainstArt/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Art against Art",
+  "heading": "Art against Art",
+  "description": "Art against art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Art against Art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben-61-PasDArt-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Pas d'Art\", 1961",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ImmendorffHoertAufZuMalen!-.jpg",
+      "alt": "",
+      "caption": "Jörg Immendorf: \"Hört auf zu malen!\", 1966",
+      "width": "349",
+      "height": "350",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/ben-65-Inutile-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier: \"L'Art est Inutile /\n\nPas d'Art /\nA Bas l'Art\", 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/TimmUlrichs1975-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs:\n\n\"Ich kann keine Kunst mehr sehen!\", 1975",
+      "width": "252",
+      "height": "350",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/art-against-art/71boring-M.jpg",
+      "alt": "",
+      "caption": "John Baldessari: \"I will not make any more boring art\", 1971",
+      "width": "407",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Leicht ist in diesem Zusammenhang\nzu zeigen, warum ranghohe Kunst in der Moderne so oft sich\nin einer Ästhetik der\nSprödigkeit, der Verweigerung und der Negativität bewegt.\nDenn große Kunst in einem Zeitalter der Verwüstungen\nkann nicht zugleich an sich selbst glauben und an der Beifall einer\nMenge, die als Agentin der Verwüstungen auffällt. Sie\nkann nicht Einverständnis suchen mit Menschen, die einverstanden\nsind mit dem Inbegriff der Greuel, die eine moderne Alltäglichkeit\nausmachen. In solcher Unversöhnlichkeit bedeutender moderner\nKunst revoltiert die utopische Anthropologie der Künstler\ngegen die realistische Anthropologie der positiven soziologen mit\nihren zynischen Kompensationslehren. [...] Darum ist ein Großteil\nder bedeutenden modernen Kunst zu recht eine Kunst des unglücklichen\nBewußtseins; aber die Kunst der Negativität ist eine,\ndie ihrem Wesen nach enden will; sie muß den Willen haben,\nsich zuletzt selbst zu negieren und überflüssig zu machen;\ndenn alles, was nur Antwort ist auf Schmerz und Verfehlung, steht\nunter der sehr korrekten mephistophelischen Devise, daß es\nbesser wär', wenn nichts entstünde.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peter Sloterdijk: \"Taugenichts\nkehrt heim oder das Ende eines Alibis. Auch eine Theorie vom Ende\nder Kunst.\" In: Heinz Friedrich (ed.): Ende der Kunst — Zukunft\nder Kunst. München: Deutscher Kunstverlag, 1985,\npp. 108-136. [pp. 118/119]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More art against art",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Hans\nReimann: \"Die Wahrheit\" (1917)",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/art-against-art/reimann",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "More\nanti-art paintings by Ben Vautier",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/art-against-art/ben",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/art-against-art/ben-61-PasDArt-S.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Pas d'Art\", 1961",
+      "legacy_src": "Ben/61-PasDArt-S.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ImmendorffHoertAufZuMalen!-.jpg",
+      "alt": "",
+      "caption": "Jörg Immendorf: \"Hört auf zu malen!\", 1966",
+      "legacy_src": "ImmendorffHoertAufZuMalen!-.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/ben-65-Inutile-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Ben/65-Inutile-S.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/TimmUlrichs1975-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs:\n\n\"Ich kann keine Kunst mehr sehen!\", 1975",
+      "legacy_src": "TimmUlrichs1975-s.jpg"
+    },
+    {
+      "src": "/images/concept/art-against-art/71boring-M.jpg",
+      "alt": "",
+      "caption": "John Baldessari: \"I will not make any more boring art\", 1971",
+      "legacy_src": "71boring-M.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/art-against-art/ben",
+    "/concept/art-against-art/reimann"
+  ]
+}

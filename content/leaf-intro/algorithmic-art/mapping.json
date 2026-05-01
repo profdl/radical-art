@@ -1,0 +1,251 @@
+{
+  "slug": "algorithmic-art/mapping",
+  "legacy_path": "AlgorithmicArt/mapping/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "leaf-intro",
+  "title": "mappings",
+  "heading": "Mappings",
+  "description": "mapping as an art-generating strategy",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mappings",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "[Automatic transformation of external or user-defined input]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Visual-to-visual",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Distorting\nmirrors\n\nMyron Kruger's early pieces\n\nMorphing\n\nPhotoshop\n\nBit-101\nLaboratory: 02 jan 20\n\nShane Cooper: Parasight,\n2002 (digital mirror finds matching person)",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        },
+        {
+          "text": "Parasight",
+          "href": "http://www.shanecooper.com/Parasight/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Music Visualization",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Sound-to-Image",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Winamp\nPlug-ins",
+      "links": [
+        {
+          "text": "Winamp Plug-ins",
+          "href": "http://classic.winamp.com/plugins/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tone\nColor",
+      "links": [
+        {
+          "text": "Tone Color",
+          "href": "http://www.imaja.com/change/tonecolor/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "MIDI-to-image",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Jared Tarbell\n(Levitated): Moonlight,\n2002.",
+      "links": [
+        {
+          "text": "Moonlight",
+          "href": "http://www.levitated.net/exhibit/darkside/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Data-Visualization",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisa Jevbratt / C5: 1:1 (1999)\n\nBenjamin Fry: Valence\n(1999)\n\nLeander Seige:\nTDSFB. (Interactive 3D Data Directory Visualization.)\n\n\n\nLev Manovich:\nInformation Aesthetics, 2000/2001",
+      "links": [
+        {
+          "text": "1:1",
+          "href": "http://artport.whitney.org/exhibitions/biennial2002/jevbratt.shtml",
+          "external": true
+        },
+        {
+          "text": "Valence",
+          "href": "http://acg.media.mit.edu/people/fry/valence/",
+          "external": true
+        },
+        {
+          "text": "TDSFB.",
+          "href": "http://www.hgb-leipzig.de/%7Eleander/TDFSB",
+          "external": true
+        },
+        {
+          "text": "Information Aesthetics,",
+          "href": "http://www.manovich.net/IA/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/mapping/MSchroeder68PrimeSpectrum-s.jpg",
+      "alt": "",
+      "caption": "Manfred Schroeder:\n\nPrime Spectrum, 1968",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Text-to-text",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Eliza\n\nMachine Translation",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Music generation",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Any one-dimensional signal or sequence\ncan be translated into a sound signal or MIDI-sequence in various\nways.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Text-to-MIDI",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "C. Church:\nTransMid.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Image-to-sound",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Artificial\nMusic",
+      "links": [
+        {
+          "text": "Artificial Music",
+          "href": "http://www.iaaa.nl/music/artificial.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nvOICe",
+      "links": [
+        {
+          "text": "The vOICe",
+          "href": "http://www.visualprosthesis.com/javoice.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Data-to-sound",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "John Cage: Atlas Eclipticalis,\n1961. Composed from astronomical charts.\n\nCharles Dodge: The Earth's Magnetic Field (1970).\nFluctuations in the magnetic field of the Earth translated\ninto sound.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Universität Bielefeld\n- Technische Fakultät - AG Neuroinformatik: Sonification\nExamples",
+      "links": [
+        {
+          "text": "Sonification Examples",
+          "href": "http://www.techfak.uni-bielefeld.de/%7Ethermann/projects/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gregory Kramer et al.:\nSonification\nReport, 1997.",
+      "links": [
+        {
+          "text": "Sonification Report",
+          "href": "http://www.icad.org/websiteV2.0/References/nsf.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonification\nlinks.\n\nLuka Princic: Music\nfor Hard Disks. (2001)\n\nEdwin van der Heijden: MsWord.",
+      "links": [
+        {
+          "text": "Sonification links.",
+          "href": "http://www.sonification.de/",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/mapping/MSchroeder68PrimeSpectrum-s.jpg",
+      "alt": "",
+      "caption": "Manfred Schroeder:\n\nPrime Spectrum, 1968",
+      "legacy_src": "MSchroeder68PrimeSpectrum-s.jpg"
+    }
+  ],
+  "out_links": []
+}

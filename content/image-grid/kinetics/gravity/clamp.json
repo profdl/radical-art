@@ -1,0 +1,141 @@
+{
+  "slug": "kinetics/gravity/clamp",
+  "legacy_path": "kinetics/gravity/clamp/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Clamp",
+  "heading": "to clamp",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to clamp",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/jkounellis-1988-SenzaTitolo-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 1988",
+      "width": "357",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/jkounellis-ST(1999)-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 1999",
+      "width": "299",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/jkounellis-2000-Composition-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Composition, 2000",
+      "width": "209",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/jkounellis-2005-Unt-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 2005",
+      "width": "388",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/serra-1968-Prop-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Prop, 1968",
+      "width": "186",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/serra-1969--Right-Angle-Prop-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Right Angle Prop, 1969",
+      "width": "272",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/serra_T-Junction[1988-1999-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: T-Junction, 1988/1999",
+      "width": "404",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/clamp/jkounellis-unt-2006-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 2006",
+      "width": "206",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/clamp/jkounellis-1988-SenzaTitolo-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 1988",
+      "legacy_src": "JKounellis/1988-SenzaTitolo-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/jkounellis-ST(1999)-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 1999",
+      "legacy_src": "JKounellis/ST(1999)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/jkounellis-2000-Composition-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Composition, 2000",
+      "legacy_src": "JKounellis/2000-Composition-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/jkounellis-2005-Unt-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 2005",
+      "legacy_src": "JKounellis/2005-Unt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/serra-1968-Prop-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Prop, 1968",
+      "legacy_src": "Serra/1968-Prop-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/serra-1969--Right-Angle-Prop-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Right Angle Prop, 1969",
+      "legacy_src": "Serra/1969--Right-Angle-Prop-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/serra_T-Junction[1988-1999-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: T-Junction, 1988/1999",
+      "legacy_src": "serra_T-Junction%5B1988-1999-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/clamp/jkounellis-unt-2006-s.jpg",
+      "alt": "",
+      "caption": "Jannis Kounellis: Senza Titolo, 2006",
+      "legacy_src": "JKounellis/unt-2006-s.jpg"
+    }
+  ],
+  "out_links": []
+}

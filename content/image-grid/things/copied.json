@@ -1,0 +1,166 @@
+{
+  "slug": "things/copied",
+  "legacy_path": "things/copied/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "copies",
+  "heading": "Copied Objects",
+  "description": "Replicated objects as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: things process\nart radical\nart",
+      "links": [
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Copied Objects",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/johns-60PaintedBronze.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nPainted Bronze, 1960",
+      "width": "126",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/johns-60-AleCans.jpg",
+      "alt": "",
+      "caption": "Jasper Johns: Ale Cans, 1960\n\n\n\n\n\n\n\n\n\nClaes Oldenburg:\n\nIce Cream Being Tasted, 1964",
+      "width": "212",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/oldenburg-64IceCreamBeingTasted.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "127",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/62-BillyAppleApples-S.jpg",
+      "alt": "",
+      "caption": "Billy Apple: Apples, 1962\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaes Oldenburg: Meat, 1964",
+      "width": "220",
+      "height": "98",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/oldenburg-64Meat-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/warhol-Warhol64BrilloBoxes-S.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Brillo Boxes, 1964",
+      "width": "213",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/92BarkerTableWYellowJug.jpg",
+      "alt": "",
+      "caption": "Clive Barker:\n\nTable with Yellow Jug, 1992",
+      "width": "171",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/copied/2003HandmadeTrowel-s.jpg",
+      "alt": "",
+      "caption": "Daniel Dewar, Grégory Gicquel &\n\nWilfrid Almendra:\n\nHandmade Trowel, 2003",
+      "width": "230",
+      "height": "144",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/copied/johns-60PaintedBronze.jpg",
+      "alt": "",
+      "caption": "Jasper Johns:\n\nPainted Bronze, 1960",
+      "legacy_src": "johns/60PaintedBronze.jpg"
+    },
+    {
+      "src": "/images/things/copied/johns-60-AleCans.jpg",
+      "alt": "",
+      "caption": "Jasper Johns: Ale Cans, 1960\n\n\n\n\n\n\n\n\n\nClaes Oldenburg:\n\nIce Cream Being Tasted, 1964",
+      "legacy_src": "johns/60-AleCans.jpg"
+    },
+    {
+      "src": "/images/things/copied/oldenburg-64IceCreamBeingTasted.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Oldenburg/64IceCreamBeingTasted.jpg"
+    },
+    {
+      "src": "/images/things/copied/62-BillyAppleApples-S.jpg",
+      "alt": "",
+      "caption": "Billy Apple: Apples, 1962\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaes Oldenburg: Meat, 1964",
+      "legacy_src": "62-BillyAppleApples-S.jpg"
+    },
+    {
+      "src": "/images/things/copied/oldenburg-64Meat-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Oldenburg/64Meat-S.jpg"
+    },
+    {
+      "src": "/images/things/copied/warhol-Warhol64BrilloBoxes-S.jpg",
+      "alt": "",
+      "caption": "Andy Warhol: Brillo Boxes, 1964",
+      "legacy_src": "Warhol/Warhol64BrilloBoxes-S.jpg"
+    },
+    {
+      "src": "/images/things/copied/92BarkerTableWYellowJug.jpg",
+      "alt": "",
+      "caption": "Clive Barker:\n\nTable with Yellow Jug, 1992",
+      "legacy_src": "92BarkerTableWYellowJug.jpg"
+    },
+    {
+      "src": "/images/things/copied/2003HandmadeTrowel-s.jpg",
+      "alt": "",
+      "caption": "Daniel Dewar, Grégory Gicquel &\n\nWilfrid Almendra:\n\nHandmade Trowel, 2003",
+      "legacy_src": "2003HandmadeTrowel-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process",
+    "/things"
+  ]
+}

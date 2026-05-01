@@ -1,0 +1,184 @@
+{
+  "slug": "algorithmic-art",
+  "legacy_path": "AlgorithmicArt/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "link-hub",
+  "title": "Algorithmic Art",
+  "heading": "algorithmic art",
+  "description": "Algorithmic Art: Genres, Approaches, Techniques.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "algorithmic art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "formalizing the image",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "algorithmic approaches",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "grids\n\n\n\nscatters\n\n\n\nlines\n\n\n\ngrammars\n\n\n\nalgebras",
+      "links": [
+        {
+          "text": "grids",
+          "href": "/algorithmic-art/grid",
+          "external": false
+        },
+        {
+          "text": "scatters",
+          "href": "/algorithmic-art/scatter",
+          "external": false
+        },
+        {
+          "text": "lines",
+          "href": "/algorithmic-art/line",
+          "external": false
+        },
+        {
+          "text": "grammars",
+          "href": "/algorithmic-art/grammar",
+          "external": false
+        },
+        {
+          "text": "algebras",
+          "href": "/algorithmic-art/algebra",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "enumeration\n\n\n\nchance\n\n\n\noptimization\n\n\n\nevolution\n\n\n\ninteractivity\n\n\n\n\nmapping\n\n\n\nemergence",
+      "links": [
+        {
+          "text": "enumeration",
+          "href": "/algorithmic-art/enumeration",
+          "external": false
+        },
+        {
+          "text": "chance",
+          "href": "/algorithmic-art/chance",
+          "external": false
+        },
+        {
+          "text": "optimization",
+          "href": "/algorithmic-art/optimization",
+          "external": false
+        },
+        {
+          "text": "evolution",
+          "href": "/algorithmic-art/evolutie",
+          "external": false
+        },
+        {
+          "text": "interactivity",
+          "href": "/algorithmic-art/interactivity",
+          "external": false
+        },
+        {
+          "text": "mapping",
+          "href": "/algorithmic-art/mapping",
+          "external": false
+        },
+        {
+          "text": "emergence",
+          "href": "/algorithmic-art/moire",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "introduction: about algorithmic\nart\n\n\n\nexternal\nlinks about algorithmic art",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/intro",
+          "external": false
+        },
+        {
+          "text": "about algorithmic art",
+          "href": "/algorithmic-art/intro",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/links",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "quotes about algorithmic art\n\n\n\nquotes\nabout art, science and technology\n\n\n\nquotes from frieder nake: ästhetik als informationsverarbeitung\n\n\n\nsome\nimage generation programs",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/quotes",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/quotes-art-science",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/nake",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/paint",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "unsorted quotes about art and aesthetics",
+      "links": [
+        {
+          "text": "",
+          "href": "/aesthetics",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/aesthetics",
+    "/algorithmic-art/algebra",
+    "/algorithmic-art/chance",
+    "/algorithmic-art/enumeration",
+    "/algorithmic-art/evolutie",
+    "/algorithmic-art/grammar",
+    "/algorithmic-art/grid",
+    "/algorithmic-art/interactivity",
+    "/algorithmic-art/intro",
+    "/algorithmic-art/line",
+    "/algorithmic-art/links",
+    "/algorithmic-art/mapping",
+    "/algorithmic-art/moire",
+    "/algorithmic-art/nake",
+    "/algorithmic-art/optimization",
+    "/algorithmic-art/paint",
+    "/algorithmic-art/quotes",
+    "/algorithmic-art/quotes-art-science",
+    "/algorithmic-art/scatter"
+  ]
+}

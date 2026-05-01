@@ -1,0 +1,146 @@
+{
+  "slug": "nothing/space/holes/steven-parrino",
+  "legacy_path": "nothing/space/holes/StevenParrino/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes by Steven Parrino",
+  "heading": "",
+  "description": "Holes in the oeuvre of Steven Parrino.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Holes by Steven Parrino",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/86-BigHole-s.jpg",
+      "alt": "",
+      "caption": "Big Hole, 1986",
+      "width": "183",
+      "height": "224",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/88-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1988",
+      "width": "137",
+      "height": "226",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/89-95-Touch_and_go-s.jpg",
+      "alt": "",
+      "caption": "Touch and Go, 1989-1995",
+      "width": "168",
+      "height": "224",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/88-2003-TheSelfMutilationB(TOG)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "248",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Self-Mutilation Bootleg\n\n(The Open Grave), 1988-2003",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/90-Absence[slash]Shift-s.jpg",
+      "alt": "",
+      "caption": "Absence/Shift, 1990",
+      "width": "244",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/92-95-Warped_Hole-s.jpg",
+      "alt": "",
+      "caption": "Warped Hole, 1992-1995",
+      "width": "179",
+      "height": "226",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/2000-Spin-OutVortex2-s.jpg",
+      "alt": "",
+      "caption": "Spin-Out Vortex 2, 2000",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/steven-parrino/[hole-in-blue]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "202",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/86-BigHole-s.jpg",
+      "alt": "",
+      "caption": "Big Hole, 1986",
+      "legacy_src": "86-BigHole-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/88-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1988",
+      "legacy_src": "88-Unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/89-95-Touch_and_go-s.jpg",
+      "alt": "",
+      "caption": "Touch and Go, 1989-1995",
+      "legacy_src": "89-95-Touch_and_go-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/88-2003-TheSelfMutilationB(TOG)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "88-2003-TheSelfMutilationB(TOG)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/90-Absence[slash]Shift-s.jpg",
+      "alt": "",
+      "caption": "Absence/Shift, 1990",
+      "legacy_src": "90-Absence%5Bslash%5DShift-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/92-95-Warped_Hole-s.jpg",
+      "alt": "",
+      "caption": "Warped Hole, 1992-1995",
+      "legacy_src": "92-95-Warped_Hole-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/2000-Spin-OutVortex2-s.jpg",
+      "alt": "",
+      "caption": "Spin-Out Vortex 2, 2000",
+      "legacy_src": "2000-Spin-OutVortex2-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/steven-parrino/[hole-in-blue]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "%5Bhole-in-blue%5D-s.jpg"
+    }
+  ],
+  "out_links": []
+}

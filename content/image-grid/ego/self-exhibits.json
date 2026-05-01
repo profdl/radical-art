@@ -1,0 +1,313 @@
+{
+  "slug": "ego/self-exhibits",
+  "legacy_path": "ego/self-exhibits/index.html",
+  "section": "ego",
+  "archetype": "image-grid",
+  "title": "self-exhibits",
+  "heading": "",
+  "description": "Artists presenting themselves as artworks. (",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "the artist as artwork: self-exhibits",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/ManzoniOnMagicBase61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "167",
+      "height": "302",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Piero Manzoni:\n\nMagic Base, 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/morris61U(Box4Standing)-m.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "181",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Morris: Untitled\n\n(Box for standing), 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/RS-65-Middelheim-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "144",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha: Remko Scha\n\nPark Middelheim, Antwerp, 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/ulrichs-Ulrichs6191Slbstausstllng-m.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Das erste lebende Kunstwerk, Galerie Patio, Frankfurt/M,\n1966 [1991 remake]",
+      "width": "210",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/gilbert-george-gilbertgeorge-bw-s.jpg",
+      "alt": "",
+      "caption": "Gilbert & George:\n\nOur New Sculpture, 1969",
+      "width": "230",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/75-henkjurriaans-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "213",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henk Jurriaans\n\nStedelijk Museum, Amsterdam, 1975",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Filliou: Yes (Action Poem).",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Performance for poet and lecturer. The poet sits in a chair, silent and motionless. Behind him, the lecturer presents a fairly extensive lecture describing the body parts and bodily functions of the poet. After the lecture, the poet recites a brief poem stating his ideal of \"sitting quietly, doing nothing\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Performed in 1965 at the Café au Go-Go in New York by Robert Filliou (poet) and Alison Knowles (lecturer).",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/ben-BenSculptureVivante1962-m.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Sculpture Vivante, 1962",
+      "width": "230",
+      "height": "241",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/Rchtr&KonradLueg63LbnMtPp-m.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter & Konrad Lueg: Leben mit Pop, 1963",
+      "width": "376",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/burden-ChrisBurden1972Jaizu-s.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Jaizu, 1972",
+      "width": "200",
+      "height": "239",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/GottfriedBechtold72-HTAIK-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "178",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gottfried Bechtold:\n\n100 Tage Anwesenheit in Kassel, 1972",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/ben-VautierRegardezMoi1966-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1966",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/KeithArnatt72-s.jpg",
+      "alt": "",
+      "caption": "Keith Arnatt, 1972",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/Nitsch62Aktion-m.jpg",
+      "alt": "",
+      "caption": "Hermann Nitsch: Aktion I, 1962",
+      "width": "300",
+      "height": "223",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/burden-Burden-74-Transfixed.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Transfixed, 1974",
+      "width": "196",
+      "height": "218",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/Event4LateralSuspension78-M.jpg",
+      "alt": "",
+      "caption": "Stelarc: Event for Lateral Suspension, 1978",
+      "width": "179",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/self-exhibits/MusafaDancesSacr&Prof82-m.jpg",
+      "alt": "",
+      "caption": "Musafa: Dances Sacred and Profane, 1982",
+      "width": "171",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Obscure sources:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Filliou: \"Yes. An action poem.\" In: A Filliou Sampler. New York: Something Else Press, 1967, pp. 5-10.\n\n\n\nHenk Jurriaans: M'n Leven als Kunstwerk. Amsterdam: Contact, 1976.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ego/self-exhibits/ManzoniOnMagicBase61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "ManzoniOnMagicBase61-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/morris61U(Box4Standing)-m.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "morris61U(Box4Standing)-m.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/RS-65-Middelheim-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RS-65-Middelheim-S.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/ulrichs-Ulrichs6191Slbstausstllng-m.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Das erste lebende Kunstwerk, Galerie Patio, Frankfurt/M,\n1966 [1991 remake]",
+      "legacy_src": "Ulrichs/Ulrichs6191Slbstausstllng-m.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/gilbert-george-gilbertgeorge-bw-s.jpg",
+      "alt": "",
+      "caption": "Gilbert & George:\n\nOur New Sculpture, 1969",
+      "legacy_src": "GilbertGeorge/gilbertgeorge-bw-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/75-henkjurriaans-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "75-henkjurriaans-M.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/ben-BenSculptureVivante1962-m.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Sculpture Vivante, 1962",
+      "legacy_src": "Ben/BenSculptureVivante1962-m.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/Rchtr&KonradLueg63LbnMtPp-m.jpg",
+      "alt": "",
+      "caption": "Gerhard Richter & Konrad Lueg: Leben mit Pop, 1963",
+      "legacy_src": "Rchtr&KonradLueg63LbnMtPp-m.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/burden-ChrisBurden1972Jaizu-s.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Jaizu, 1972",
+      "legacy_src": "Burden/ChrisBurden1972Jaizu-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/GottfriedBechtold72-HTAIK-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "GottfriedBechtold72-HTAIK-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/ben-VautierRegardezMoi1966-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1966",
+      "legacy_src": "Ben/VautierRegardezMoi1966-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/KeithArnatt72-s.jpg",
+      "alt": "",
+      "caption": "Keith Arnatt, 1972",
+      "legacy_src": "KeithArnatt72-s.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/Nitsch62Aktion-m.jpg",
+      "alt": "",
+      "caption": "Hermann Nitsch: Aktion I, 1962",
+      "legacy_src": "Nitsch62Aktion-m.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/burden-Burden-74-Transfixed.jpg",
+      "alt": "",
+      "caption": "Chris Burden: Transfixed, 1974",
+      "legacy_src": "Burden/Burden-74-Transfixed.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/Event4LateralSuspension78-M.jpg",
+      "alt": "",
+      "caption": "Stelarc: Event for Lateral Suspension, 1978",
+      "legacy_src": "Event4LateralSuspension78-M.jpg"
+    },
+    {
+      "src": "/images/ego/self-exhibits/MusafaDancesSacr&Prof82-m.jpg",
+      "alt": "",
+      "caption": "Musafa: Dances Sacred and Profane, 1982",
+      "legacy_src": "MusafaDancesSacr&Prof82-m.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "nothing/monochrome",
+  "legacy_path": "nothing/monochrome/index.html",
+  "section": "nothing",
+  "archetype": "link-hub",
+  "title": "monochrome",
+  "heading": "monochrome",
+  "description": "monochrome painting and its history",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "monochrome",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "history",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "les\nincohérents\n\n\n\nkazimir\nmalevich &\naleksandr rodchenko\n\n\n\nyves\nklein\n\n\n\nrobert\nrauschenberg",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/incoherents",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/malevich-rodchenko",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space/klein",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/rauschenberg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "surface",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "black\n\n\n\nwhite\n\n\n\ngrey\n\n\n\ngold\n\n\n\ncolored\n\n\n\nmirrors\n\n\n\n\ncanvas\nbacks",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/black",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/white",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/grey",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/gold",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/colored",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/mirrors",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/back",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "space",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "darkness\n\n\n\n\nuniform\nlight\n\n\n\nempty\nspace\n\n\n\nundifferentiated\nvolume",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/darkness",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/light",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/space",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/something",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "line",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "undifferentiated\nline",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/1-d",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/nothing/darkness",
+    "/nothing/mirrors",
+    "/nothing/monochrome/1-d",
+    "/nothing/monochrome/back",
+    "/nothing/monochrome/black",
+    "/nothing/monochrome/colored",
+    "/nothing/monochrome/gold",
+    "/nothing/monochrome/grey",
+    "/nothing/monochrome/incoherents",
+    "/nothing/monochrome/light",
+    "/nothing/monochrome/malevich-rodchenko",
+    "/nothing/monochrome/rauschenberg",
+    "/nothing/monochrome/white",
+    "/nothing/space",
+    "/nothing/space/klein",
+    "/something"
+  ]
+}

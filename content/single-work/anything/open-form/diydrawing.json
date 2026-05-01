@@ -1,0 +1,86 @@
+{
+  "slug": "anything/open-form/diydrawing",
+  "legacy_path": "anything/OpenForm/DIYDrawing.html",
+  "section": "anything",
+  "archetype": "single-work",
+  "title": "Do It Yourself Drawing",
+  "heading": "",
+  "description": "Open Form: Do It Yourself Drawing",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "open form: do it yourself drawing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "gutai",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"please write\", 1956",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diydrawing/VeuillezEcrire-Gutai-1956-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diydrawing/RotGummibandbild-61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/diydrawing/RotGummibandbild61-012s.jpg",
+      "alt": "",
+      "caption": "dieter rot",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "gummibandbild, 1961",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "ieder kan das macen vi er\nvil\n\n\n\nkinder macen oft blumen und männeken shife und hoiser\n\n\n\nervaxene macen für gevönlic mist",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/open-form/diydrawing/VeuillezEcrire-Gutai-1956-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "VeuillezEcrire-Gutai-1956-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diydrawing/RotGummibandbild-61-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RotGummibandbild-61-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/diydrawing/RotGummibandbild61-012s.jpg",
+      "alt": "",
+      "caption": "dieter rot",
+      "legacy_src": "RotGummibandbild61-012s.jpg"
+    }
+  ],
+  "out_links": []
+}

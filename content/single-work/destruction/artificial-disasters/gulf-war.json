@@ -1,0 +1,87 @@
+{
+  "slug": "destruction/artificial-disasters/gulf-war",
+  "legacy_path": "destruction/ArtificialDisasters/GulfWar.html",
+  "section": "destruction",
+  "archetype": "single-work",
+  "title": "Gulf War",
+  "heading": "the gulf war",
+  "description": "The beauty of the Gulf War.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back to:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "destruction",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "radical\nart",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "the gulf war",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "werner herzog: lektionen in\nfinsterniss, 1992",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF5.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "197",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/natuur/FireS/HerzogLiF1.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/natuur/FireS/HerzogLiF2.jpg"
+    },
+    {
+      "src": "/images/destruction/artificial-disasters/gulf-war/fire-s-HerzogLiF5.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../gif/natuur/FireS/HerzogLiF5.jpg"
+    }
+  ],
+  "out_links": []
+}

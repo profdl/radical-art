@@ -1,0 +1,186 @@
+{
+  "slug": "ego/ben",
+  "legacy_path": "ego/ben.html",
+  "section": "ego",
+  "archetype": "image-grid",
+  "title": "ben vautier as artwork",
+  "heading": "ben vautier: art = ben",
+  "description": "Ben Vautier presents Ben Vautier as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "ben vautier: art = ben",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-ben-1958-[signature]-S.jpg",
+      "alt": "",
+      "caption": "1958",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-BenRegardezMoi-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-BenjaminVautier-B-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "126",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-ben-1959-moi-S.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "230",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-ben-1964-ArtIsBen-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-BenjaminVautier-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-BenSculptureVivante1962-m.jpg",
+      "alt": "",
+      "caption": "Sculpture Vivante, 1962",
+      "width": "230",
+      "height": "241",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-VautierRegardezMoi1966-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "width": "172",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/ego/ben/ben-BenLookAtMe-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "161",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "other work by ben vautier",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "tautologies",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "word paintings",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/ego/ben/ben-ben-1958-[signature]-S.jpg",
+      "alt": "",
+      "caption": "1958",
+      "legacy_src": "statements/Ben/ben-1958-%5Bsignature%5D-S.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-BenRegardezMoi-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "statements/Ben/BenRegardezMoi-s.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-BenjaminVautier-B-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "statements/Ben/BenjaminVautier-B-s.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-ben-1959-moi-S.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "statements/Ben/ben-1959-moi-S.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-ben-1964-ArtIsBen-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "statements/Ben/ben-1964-ArtIsBen-S.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-BenjaminVautier-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "statements/Ben/BenjaminVautier-s.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-BenSculptureVivante1962-m.jpg",
+      "alt": "",
+      "caption": "Sculpture Vivante, 1962",
+      "legacy_src": "self-exhibits/Ben/BenSculptureVivante1962-m.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-VautierRegardezMoi1966-s.jpg",
+      "alt": "",
+      "caption": "1966",
+      "legacy_src": "self-exhibits/Ben/VautierRegardezMoi1966-s.jpg"
+    },
+    {
+      "src": "/images/ego/ben/ben-BenLookAtMe-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "statements/Ben/BenLookAtMe-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/tautology/ben"
+  ]
+}

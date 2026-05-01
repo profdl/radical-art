@@ -1,0 +1,90 @@
+{
+  "slug": "nothing/space/holes/klein",
+  "legacy_path": "nothing/space/holes/klein/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes / Yves Klein",
+  "heading": "",
+  "description": "Paintings with  holes by Yves Klein (1957).",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Yves Klein:\n\n\n\nPaintings with holes,\n\n1957",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/klein/57KleinCaNeVautRien-S.jpg",
+      "alt": "",
+      "caption": "\"Tentative des Vides dans\nle tableau\n\nfiguratif de 1955 [monochrome en 49].\n\nÇa ne vaut rien!\"",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/klein/57-klein-IKB22-S.jpg",
+      "alt": "",
+      "caption": "IKB 22",
+      "width": "263",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/klein/57-klein-IKB35-s.jpg",
+      "alt": "",
+      "caption": "IKB 35",
+      "width": "272",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Related work by Yves Klein:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Le\nVide\n\n\n\nMonochromes\n\n\n\nPeintures\nde Feu",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/klein",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process/burn/klein",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/klein/57KleinCaNeVautRien-S.jpg",
+      "alt": "",
+      "caption": "\"Tentative des Vides dans\nle tableau\n\nfiguratif de 1955 [monochrome en 49].\n\nÇa ne vaut rien!\"",
+      "legacy_src": "57KleinCaNeVautRien-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/klein/57-klein-IKB22-S.jpg",
+      "alt": "",
+      "caption": "IKB 22",
+      "legacy_src": "57-klein-IKB22-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/klein/57-klein-IKB35-s.jpg",
+      "alt": "",
+      "caption": "IKB 35",
+      "legacy_src": "57-klein-IKB35-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/space/klein",
+    "/process/burn/klein"
+  ]
+}

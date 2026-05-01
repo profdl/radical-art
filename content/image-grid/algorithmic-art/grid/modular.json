@@ -1,0 +1,339 @@
+{
+  "slug": "algorithmic-art/grid/modular",
+  "legacy_path": "AlgorithmicArt/grid/modular/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Modules",
+  "heading": "Cellular Modules",
+  "description": "Constructing images out of square modular cells.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Cellular Modules",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Sebastien Truchet\n\n(1704)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet-tiles-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "280",
+      "height": "64",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet20x20-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet41.gif",
+      "alt": "",
+      "caption": "",
+      "width": "135",
+      "height": "135",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet31.gif",
+      "alt": "",
+      "caption": "",
+      "width": "144",
+      "height": "145",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet21.gif",
+      "alt": "",
+      "caption": "Dominique Douat: Méthode pour faire une\ninfinité de desseins différents avec des carreaux\nmi-partis de deux couleurs par une Ligne diagonale. Paris, 1722.",
+      "width": "144",
+      "height": "145",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "E.H. Gombrich: The Sense of Order. A Study in the\nPsychology of Decorative Art. Oxford: Phaidon Press, 1979, pp. 70-72.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Eric\nW. Weisstein: Truchet Tiling.",
+      "links": [
+        {
+          "text": "Eric W. Weisstein: Truchet Tiling .",
+          "href": "http://mathworld.wolfram.com/TruchetTiling.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Naomi Pitcairn: The Rotator Engine.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Philippe Esperet & Denis Girou: \"Coloriage\ndu pavage dit 'de Truchet'\", Cahiers Gutenberg, #\n31 (December 1998), pp. 5-18.",
+      "links": [
+        {
+          "text": "\"Coloriage du pavage dit 'de Truchet'\"",
+          "href": "/pdf/truchet-pdf",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Marjory Pratt",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Marjory B. Pratt: Formal Designs from Ten Shakespeare\nSonnets. Privately printed, 1940.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Susanne B. Langer: Mind. An Essay on Human Feeling. Baltimore: Johns Hopkins University Press, 1967, pp. 183-185.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "François Morellet",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Répartition aléatoire de triangles\nsuivant les chiffres pairs et impairs d'un annuaire de téléphone,\n1958.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "François Morellet: Exhibition Catalogue\nNationalgalerie Berlin, 1977, pp. 147-150.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/58-morellet-morellet-58-SS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Fred Attneave",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "F. Attneave: \"Stochastic Composition Processes.\"\nJournal of Aesthetics and Art Criticism 17 (1959),\npp. 183-193.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Rul Gunzenhaüser",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Rul Gunzenhaüser: Maß und Information\nals ästhetische Kategorien. Einführung in die ästhetische\nTheorie G.D. Birkhoffs und die Informationsästhetik, 1962.\n[Extended edition: Baden-Baden: Agis, 1975.]\n\n\n\nRemko\nScha and Rens Bod: \"Computationele\nEsthetica.\" Informatie en Informatiebeleid 11, 1 (1993),\npp. 54-63. [English translation: \"Computational\nEsthetics.\"]",
+      "links": [
+        {
+          "text": "\"Computationele Esthetica.\"",
+          "href": "http://iaaa.nl/rs/compest.html",
+          "external": true
+        },
+        {
+          "text": "\"Computational Esthetics.\"",
+          "href": "http://iaaa.nl/rs/compestE.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Peter Struycken: Computer Structures / OSTRE / METRO",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean Leering: Programmi Sistematici. (Ricerca\nContemporanea 4.) Milano: Vanni Scheiwiller, 1975.\n\nPeter Struycken: Beelden en Projecten. Otterlo: Rijksmuseum Kröller-Müller,\n1977, pp. 37-39.\n\nPeter Struycken: Structuur Elementen 1969 1980. Rotterdam: Museum\nBoymans-van Beuningen, 1980, pp. 8-13.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Manuel Barbadillo & Michael Thompson",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Manuel Barbadillo: \"Modules/Structures/Relationships:\nIdeograms of Universal Rapport.\" PAGE 12. Bulletin of the\nComputer Arts Society, November 1970.\n\n\n\nMichael Thompson: \"Computer Art: A Visual Model for the Modular\nPictures of Manuel Barbadillo.\" Leonardo 5, 3 (Summer\n1972).\n\n\n\nMichael Thompson: \"All done by graphs (undirected).\" PAGE 31. Bulletin of the Computer Arts Society, October 1973.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Martin Schwencke",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Martin Schwencke: Denken in de Ruimte. Uitgave\nin eigen beheer: Martin J. Schwencke, Zeist, 1973. [Tentoonstelling:\nPloegh-huis, Amersfoort.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Zdenek Sykora: Tegelvloer, Gorcum, 1974.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Antoinette Hilgemann & Rien Robijns (eds.):\nSymposium Gorinchem 1974.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Groupe Belfort (G.F. Kammerer-Luka, Jean-Baptiste Kempf,\nMarcel Kibler, Claude Noll, Yves Normand, Anne-Marie Quemar)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "IBM Deutschland: Computerkunst, 1975, pp. 72-75.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Paul Panhuysen & Johan Goedhart, 1977",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko\nJ. H. Scha: \"Visuele patronen volgens formele procedees.\"\nIn: Paul Panhuysen. Schilderijen, situasies, ordeningssystemen\nen omgevingsontwerpen. Exhibition Catalogue. Eindhoven: Van Abbemuseum,\n1978, pp. 38-59. [English translation by Lucas Van Beeck: \"Visual\npatterns according to formal procedures.\" In: Paul Panhuysen\n(ed.): Number Made Visible. The story of the magic square of 8\nby Benjamin Franklin. Eindhoven: Het Apollohuis / Breda:\nTijdschrift # 11, 1997.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Anni Albers",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/78-anni-albers-78-2ndMovementIV-s.jpg",
+      "alt": "",
+      "caption": "Second Movement IV, 1978",
+      "width": "230",
+      "height": "229",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/modular/78-anni-albers-TriangulatedIntaglio-s.jpg",
+      "alt": "",
+      "caption": "Triangulated Intaglio",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Bos: Padded Tile Piece, 1979. (J. Fields Gallery, New\nYork.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Brian P. Hoke: Cellular\nAutomata and Art (Section VI: Creating Cellular Automata Art),\n1996.",
+      "links": [
+        {
+          "text": "Cellular Automata and Art",
+          "href": "http://www.dartmouth.edu/%7Ematc/math5.pattern/FinalProject/Hoke.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet-tiles-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Truchet/truchet-tiles-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet20x20-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Truchet/truchet20x20-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet41.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Truchet/truchet41.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet31.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Truchet/truchet31.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/truchet-truchet21.gif",
+      "alt": "",
+      "caption": "Dominique Douat: Méthode pour faire une\ninfinité de desseins différents avec des carreaux\nmi-partis de deux couleurs par une Ligne diagonale. Paris, 1722.",
+      "legacy_src": "Truchet/truchet21.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/58-morellet-morellet-58-SS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "58-Morellet/morellet-58-SS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/78-anni-albers-78-2ndMovementIV-s.jpg",
+      "alt": "",
+      "caption": "Second Movement IV, 1978",
+      "legacy_src": "78-AnniAlbers/78-2ndMovementIV-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/modular/78-anni-albers-TriangulatedIntaglio-s.jpg",
+      "alt": "",
+      "caption": "Triangulated Intaglio",
+      "legacy_src": "78-AnniAlbers/TriangulatedIntaglio-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/pdf/truchet-pdf"
+  ]
+}

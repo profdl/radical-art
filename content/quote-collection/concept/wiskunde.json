@@ -1,0 +1,247 @@
+{
+  "slug": "concept/wiskunde",
+  "legacy_path": "concept/wiskunde.html",
+  "section": "concept",
+  "archetype": "quote-collection",
+  "title": "The Aesthetics of Mathematics",
+  "heading": "The æsthetics \n      of mathematics",
+  "description": "The aesthetics of mathematics. (Quotes from René Descartes, Novalis, Ludwig Wittgenstein, Henri Poincaré, Frederik van Eeden, L.E.J. Brouwer, James Joseph Sylvester, Bertrand Russell, Havelock Ellis, Norbert Wiener.)",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The æsthetics\nof mathematics",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Descartes",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, for example, when I imagine a triangle, even though there may perhaps be no such figure anywhere in the world outside of my thought, nor ever have been, nevertheless the figure cannot help having a certain determinate nature... or essence, which is immutable and eternal, which I have not invented and which does not in any way depend on my mind.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "René Descartes: Meditationes de Prima Philosophia, 1641.\n\n[English translation: Meditations. New York: Liberal Arts Press, 1951, p.61.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Novalis",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Die Mathematik ist ächte\nWissenschaft, weil sie gemachte Kenntnisse enthält,\nProducte geistiger Selbstthätigkeit, weil sie methodisch\ngenialisirt. Sie ist auch Kunst, weil sie genialisches\nVerfahren in Regeln gebracht hat, weil sie lehrt Genie\nzu seyn, weil sie die Natur durch Vernunft ersetzt.\" [p.\n145]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Aechte Mathematik\nist das eigentliche Element des Magiers. -- In der Musik\nerscheint sie förmlich als Offenbarung, als schaffender\nIdealismus. – Hier legitimirt sie sich als himmlische\nGesandtin. Aller Genuß ist musikalisch, mithin\nmathematisch. – Das höchste Leben ist Mathematik.\"\n[p. 147]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Der ächte\nMathematiker ist Enthusiast per se. Ohne Enthusiasmus\nkeine Mathematik. – Das Leben der Götter ist\nMathematik. – Alle göttliche Gesandten müssen\nMathematiker seyn. – Reine Mathematik ist Religion.\n– Zur Mathematik gelangt man nur durch eine Theophanie.\"\n[p. 147]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Die Mathematiker sind die einzig\nGlücklichen.\nDer Mathematiker weiß alles. Er könnte es,\nwenn er es nicht wüßte.\" [p. 147/148]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Wer ein mathematisches Buch nicht\nmit Andacht ergreift, und es wie Gottes-Wort liest, der\nversteht es nicht.\" [p. 148]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Novalis: Schriften , Vol. II. (Eds.: Ludwig\nTieck & Friedrich Schlegel.) Fifth Edition. Berlin: G. Reimer, 1837.\n\nFragmente vermischten Inhalts. Part I. Philosophie und Physik\n(pp. 105-169).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sylvester",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "One is surprised\nto reflect on the change which has come over the face of\nAlgebra in the last quarter of a century. It is now possible\nto enlarge to an almost unlimited extent on any branch\nof it. These thirty lectures, embracing only a fragment\nof the theory of reciprocants, might be compared to an\nunfinished epic in thirty cantos. Does it not seem as if\nAlgebra had attained to the character of a fine art, in\nwhich the workman has a free hand to develop his conceptions\nas in a musical theme or a subject for painting? Formerly\nit consisted almost exclusively of detached theorems, but\nnow-a-days it has reached a point in which every properly\ndeveloped algebraical composition, like a skilful landscape,\nis expected to suggest the notion of an infinite distance\nlying beyond the limits of the canvas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "James Joseph Sylvester: \"Lectures on the Theory of Reciprocants\" [Lectures XVII-XXIV],\n\nAmerican Journal of Mathematics IX, 2 (January 1887). pp. 113-161. [p. 136]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Poincaré",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Le savant digne de ce nom, le géomètre surtout, éprouve en face de son œuvre la même impression que l'artiste; sa jouissance est aussi grande et de même nature.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Henri Poincaré: \"Notice sur Halphen,\" Journal de l'École Polytechnique (Paris, 1890), 60ème cahier, p. 143.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Van Eeden",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Alleen mathesis is zuiver symbolisch.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wij kunnen ook geen wiskunstige lijnen tekenen; maar moeten het doen met strepen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frederik van Eeden: Redekunstige Grondslag van Verstandhouding, 1897, # 32.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Russell",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Mathematics, rightly viewed, possesses not only truth, but supreme beauty — a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bertrand Russell: \"The Study of Mathematics\" (1902) New Quarterly, November 1907.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Brouwer",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "De wiskunde is een vrije schepping, onafhankelijk van de ervaring.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "L.E.J. Brouwer: Over de Grondslagen der Wiskunde. Amsterdam/Leipzig, 1907.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Havelock Ellis",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, where we reach the sphere of mathematics, we are among processes which seem to some the most inhuman of all human activities and the most remote from poetry. Yet it is here that the artist has the fullest scope for his imagination. \"Mathematics,\" says Bertrand Russell in his Mysticism and Logic, \"may be denned as the subject in which we never know what we are talking about, nor whether what we are saying is true.\" We are in the imaginative sphere of art, and the mathematician is engaged in a work of creation which resembles music in its orderliness, and is yet reproducing on another plane the order of the universe, and so becoming as it were a music of the spheres.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Havelock Ellis: The Dance of Life, 1923, Ch. III.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wiener",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Our thesis is not that the arts are an expression of mathematics through the senses, but that mathematics itself is in the strictest sense of the word, a fine art. In this the author finds himself in complete agreement with the views expressed by Havelock Ellis in The Dance of Life. The author is fully conscious of the quicksands on which every commentator on general æsthetics must tread. However, he considers that he shall establish his point if he succeeds in maintaining the following theses: that mathematical work may produce an emotion indistinguishable from that of æsthetic contemplation; that mathematical work may and often does have as its goal the production of a work capable of exciting this emotion; that the creative mathematician is limited by the requirements of rigor only as any creative artist is limited by the nature of his medium; and finally, that mathematics has participated intrinsically in all the larger movements common to the several arts.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Norbert Wiener: \"Mathematics and Art. Fundamental Identities in the Emotional Aspects of Each.\"\n\nThe Technology Review 32, 3 (January 1929), pp. 129-132, 160, 162. [p. 129]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Wittgenstein",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Die größere \"Reinheit\"\nder nicht auf die Sinne wirkenden Gegenstände, z. B., der\nZahlen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein,\n1937. [Vermischte Bemerkungen. Frankfurt am Main: Suhrkamp, 1977, p. 56.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Mathematiker (Pascal), der die Schönheit eines Theorems der Zahlentheorie bewundert; er bewundert gleichsam eine Naturschönheit. Es ist wunderbar, sagt er, welch herrliche Eigenschaften die Zahlen haben. Es ist, als bewunderte er die Regelmässigkeiten einer art von Krystall.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man könnte sagen: welch herrliche Gesetze hat der Schöpfer in die Zahlen gelegt!",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ludwig Wittgenstein, 1942. [Vermischte Bemerkungen. Frankfurt am Main: Suhrkamp, 1977, pp. 83/84.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Literature on Novalis and mathematics",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Martin Dyck: Novalis and Mathematics. Chapel Hill: University\nof North Carolina Press, 1959.\n\n\n\nKäte Hamburger: \"Novalis und die Mathematik.\" Romantik-Forschungen\n16 (1929), pp. 113-184.\n\n\n\nJohannes Hegener: Die Poetisierung der Wissenschaften bei\nNovalis. Bonn, 1975.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Material for mathematics and literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Olaf Helmer: \"Languages with expressions of infinite length.\"\nErkenntnis 7, 3 (1938), pp. 138-141.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha – May 2002 / October 2011",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

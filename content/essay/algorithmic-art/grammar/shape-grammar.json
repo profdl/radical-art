@@ -1,0 +1,285 @@
+{
+  "slug": "algorithmic-art/grammar/shape-grammar",
+  "legacy_path": "AlgorithmicArt/grammar/ShapeGrammar/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Shape Grammar",
+  "heading": "Shape Grammar",
+  "description": "Shape grammar.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Shape Grammar",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "The Shape Grammar formalism, developed in the 1970's\nby George Stiny and James Gips, was inspired by the rewrite grammars\nof Chomskyan formal language theory. It differs from classical rewrite\ngrammars in two respects:\n\n(1) The distinction between terminal and non-terminal symbols is abolished.\nThe symbols that are rewritten are the same symbols that occur in the\nfinal design.\n\n(2) It is claimed that the symbols that are rewritten are geometrical\nentities (for instance: line segments) rather than discrete symbols\nthat represent such entities.\n\n\n\nThe earliest Shape Grammars worked with line segments, but extensions\nwere developed that deal with color and with three-dimensional shape.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "C. Carlson, R. McKelvey and R. Woodbury: \"An\nintroduction to structures and structure grammars,\" Environment\nand Planning B: Planning and Design 18 (1991), pp.\n417-426.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Gips: Shape Grammars and\ntheir Uses. Basel: Birkhauser, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Terry Knight's\nShape Grammar Site",
+      "links": [
+        {
+          "text": "Shape Grammar Site",
+          "href": "http://www.mit.edu/%7Etknight/IJDC/frameset_abstract.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Color grammars:\ndesigning with lines and colors,\" Environment and Planning\nB: Planning and Design 16 (1989), pp. 417-449.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Designing\nwith Grammars\". In: G. N. Schmitt (ed.): Computer-Aided\nArchitectural Design. Wiesbaden: Vieweg, 1992, pp. 33-48.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Color Grammars:\nthe Representation of Form and Color in Design,\" Leonardo\n26 (1993), pp. 117-124",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Shape grammars\nand color grammars in design,\" Environment and Planning\nB: Planning and Design 21 (1994), pp. 705-735.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Designing\na Shape Grammar\". In: J. S. Gero & F. Sudweeks (eds.): Artificial Intelligence in Design Ô98. Kluwer, 1998,\np. 514.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "T. W. Knight: \"Shape grammars:\nsix types,\" Environment and Planning B: Planning and\nDesign 26 (1999), pp. 15-31.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R.G. Lauzzana & L. Pocock-Williams:\n\"A Rule System for Aesthetic Research in the Visual Arts,\"\nLeonardo 21, No. 4 (1988).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny: Pictorial and Formal\nAspects of Shape and Shape Grammars. Basel: Birkhauser, 1975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny & J. Gips: \"Shape\nGrammars and the Generative Specification of Painting and Sculpture\".\nIn: C. V. Freiman (ed.): Information Processing 71. Amsterdam:\nNorth Holland, 1972, pp. 1460-1465.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny & J. Gips: Algorithmic\nAesthetics. Berkeley, CA: University of California Press,\n1978.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny: \"Two exercises\nin formal composition,\" Environment and Planning B\n3 (1976), pp. 187-210.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny: \"Introduction to Shape\nand Shape Grammars,\" Environment and Planning B 7\n(1980).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny: \"Kindergarten\ngrammars: designing with Froebel's building gifts,\" Environment\nand Planning B 7 (1980), pp. 409-462.\n\nM. Tapia: From Shape to Style. Shape Grammars: Issues in Representation\nand Computation, PhD Thesis, Department of Computer Science,\nUniversity of Toronto, Toronto, Canada (1996).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "M. Tapia: \"A visual implementation\nof a shape grammar system,\" Environment and Planning B:\nPlanning and Design 26 (1999), pp. 59-73.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Style simulation with Shape Grammars",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Joan L. Kirsch & Russell\nA. Kirsch: \"The\nStructure of Paintings: Formal Grammar and Design,\"\nEnvironment and Planning B: Planning and Design, 13 (1986),\npp. 163-176.\n\n\n\nJoan Kirsch, Russell Kirsch & Sanford Ressler: \"Computers\nViewing Artists at Work,\" Proceedings of Syntactic and\nStructural Pattern Recognition, March, 1987.",
+      "links": [
+        {
+          "text": "\"The Structure of Paintings: Formal Grammar and Design,\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1986_structure.pdf",
+          "external": true
+        },
+        {
+          "text": "\"Computers Viewing Artists at Work,\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1988_compt_view.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Joan L. Kirsch & Russell A. Kirsch: \"The\nAnatomy of Painting Style: Description with Computer Rules\",\nLeonardo, Vol. 21, No 4 (December 1988).\n\n\n\nJoan L. Kirsch & Russell A. Kirsch: \"Storing\nart images in intelligent computers\", Proceedings of\nthe First International Symposium on Electronic Art, Netherlands,\nSeptember 1988, published as Leonardo, Electronic Art Supplemental\nIssue, pp. 47-54, 1988, and also as Leonardo, Vol\n23, No 1, (1990), pp. 99-106. [Simulations of Diebenkorn and\nMiró.]",
+      "links": [
+        {
+          "text": "\"The Anatomy of Painting Style: Description with Computer Rules\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1988_anatomy.pdf",
+          "external": true
+        },
+        {
+          "text": "\"Storing art images in intelligent computers\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1990_storing_art.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Joan L. Kirsch & Russell A. Kirsch: \"Computer grammars for the syntactical analysis of paintings\",\nin I. Lavin (ed.) World Art: Themes of Unity in Diversity,\nActs of the 26th International Congress of the History of\nArt, Pennsylvania State University Press, University Park,\nPA, 1989.",
+      "links": [
+        {
+          "text": "\"Computer grammars for the syntactical analysis of paintings\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1989_world_art.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Russell A. Kirsch: \"The\nHistory of Art History in the 21st Century, as Viewed from\nComputer Science: 20-20 Hindsight from the Year of the Same\nName,\" Visual Resources, Vol VI, 1990, pp.\n267-278.",
+      "links": [
+        {
+          "text": "\"The History of Art History in the 21st Century, as Viewed from Computer Science: 20-20 Hindsight from the Year of the Same Name,\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1990_history_21.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Russell A. Kirsch: \"Using\nComputers to Describe Style,\" In: Steven M. Freers\n(ed.): American Indian Rock Art, Vol 22 (1998), pp.\n153-160.\n\n\n\nT. W. Knight, \"The generation of Hepplewhite-style chair\nback designs,\" Environment and Planning B: Planning\nand Design 7 (1980): 227-238.\n\n\n\nT. W. Knight, \"Transformations of the Meander Motif on\nGreek Geometric Pottery,\" Design Computing 1 (1986):\n29-67.",
+      "links": [
+        {
+          "text": "\"Using Computers to Describe Style,\"",
+          "href": "http://www.nist.gov/msidlibrary/doc/kirsch_1998_computer_style.pdf",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Shape Grammars for style simulation in architecture.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "H. Buelinckx: \"Wren's language\nof City church designs: a formal generative classification,\"\nEnvironment and Planning B: Planning and Design 20\n(1993), pp. 645-676.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "S.-C. Chiou & R. Krishnamurti: \"The\ngrammar of Taiwanese traditional vernacular dwellings,\"\nEnvironment and Planning B: Planning and Design 22\n(1995), pp. 689-720.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "F. Downing & U. Flemming: \"The bungalows\nof Buffalo,\" Environment and Planning B: 8\n(1981), pp. 269- 293.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "José Duarte: Shape\nGrammar for Álvaro Siza's patio houses in Malagueira.\nPh. D. Thesis Project, MIT.",
+      "links": [
+        {
+          "text": "Shape Grammar for Álvaro Siza's patio houses in Malagueira.",
+          "href": "http://www.civil.ist.utl.pt/%7Ejduarte/malag/Malag/info.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "U. Flemming: \"More than the sum of\nits parts: the grammar of Queen Anne houses,\" Environment\nand Planning B: Planning and Design 14 (1987),\npp. 323-350.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "U. Flemming: \"Syntactic Structures\nin Architecture\". In: M. McCullough, W. J. Mitchell & P. Purcell (eds.): The Electronic Design Studio. Cambridge,\nMA: MIT Press, 1990, pp. 31-47.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "N. L. R. Hanson & A. D. Radford: \"On\nModelling the Work of the Architect Glenn Murcutt,\" Design\nComputing (1986), pp. 189-203.\n\n\n\nH. Koning & J. Eizenburg: \"The Language\nof the Prairie: Frank Lloyd Wright's Prairie Houses,\" Environment\nand Planning B: Planning and Design 8 (1981).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A. I. Li: \"A 12th century Chinese building\nmanual: descriptions and a shape grammar,\" Thresholds\n17 (1998), pp. 25-30.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A. I. Li: \"Expressing Parametric Dependence\nin Shape Grammars, with an Example from Traditional Chinese\nArchitecture,\" Proceedings of the fourth conference of\nthe Association of Computer Aided Architectural Design Research\nin Asia (CAADRIA), Shanghai (1999), pp. 265-274.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "L. March: \"Rulebound unruliness,\"\nEnvironment and Planning B: Planning and Design 23\n(1996), p. 396.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "L. March: \"Architectonics of proportion:\na shape grammatical depiction of classical theory,\" Environment\nand Planning B: Planning and Design 26 (1999),\npp. 91-100.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Rollo: \"Triangle and t-square: the\nwindows of Frank Lloyd Wright,\" Environment and Planning\nB: Planning and Design 22 (1995), pp. 75-92.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "S G. Stiny: \"Ice-ray: a note on Chinese\nlattice designs,\" Environment and Planning B 4\n(1977), pp. 89-98.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny & W. J. Mitchell, \"The\nPalladian grammar,\" Environment and Planning B\n5 (1978), pp. 5-18.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "G. Stiny & W. J. Mitchell, \"The\ngrammar of paradise: on the generation of Mughul gardens,\"\nEnvironment and Planning B 7 (1980), pp. 209-226.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y. Wang & J. P. Duarte:\n\"Synthesizing 3D forms: shape grammars and rapid prototyping,\"\nWorkshop on Generative Design, Artificial Intelligence\nin Design '98 Conference, Lisbon, Portugal, 1998, pp.\n7-18.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

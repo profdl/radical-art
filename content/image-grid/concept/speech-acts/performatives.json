@@ -1,0 +1,209 @@
+{
+  "slug": "concept/speech-acts/performatives",
+  "legacy_path": "concept/SpeechActs/Performatives/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Performatives",
+  "heading": "Performatives",
+  "description": "Concept art: Text pieces: Speech acts: Performatives: Greetings, curses, creation.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Performatives",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Creation",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Rauschenberg:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"This is a portrait of Iris Clert if I say so\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/creation-61rauschIrisClert-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "397",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Curses",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/curses-63RuschaOof-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"Oof\" – 1963",
+      "width": "189",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/curses-vautier-malheur-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\n\"Malheur à par qui le scandale arrive\"",
+      "width": "230",
+      "height": "188",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/curses-ChristopherWool1992-s.jpg",
+      "alt": "",
+      "caption": "Christopher Wool: \"Fuckem if they can't take a joke\" – 1992",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Salutes",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-68BPSalutePeterNormanTommieSmithJohnCarlos-s.jpg",
+      "alt": "",
+      "caption": "Peter Norman, Tommie Smith,\n\nJohn Carlos: The Black Panther\n\nSalute, 1968",
+      "width": "170",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-KlausStaeck68WirSetzenUnsDurch-s.jpg",
+      "alt": "",
+      "caption": "Klaus Staeck:\n\nWir setzen uns durch, 1968",
+      "width": "179",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-Ben84-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ciao viva!\" – 1984",
+      "width": "230",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-FinlayJeVousSalueMarat90-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ian Hamilton Finlay:\n\n\"Je vous salue Marat\" – 1990",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-steinbach2004Yo-s.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach: \"Yo.\" – 2004",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/speech-acts/performatives/greetings-TraceyEmin06-IKissYou-s.jpg",
+      "alt": "",
+      "caption": "Tracey Emin: \"I kiss you\" – 2006",
+      "width": "230",
+      "height": "170",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/speech-acts/performatives/creation-61rauschIrisClert-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Creation/61rauschIrisClert-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/curses-63RuschaOof-s.jpg",
+      "alt": "",
+      "caption": "Edward Ruscha: \"Oof\" – 1963",
+      "legacy_src": "Curses/63RuschaOof-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/curses-vautier-malheur-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier:\n\n\"Malheur à par qui le scandale arrive\"",
+      "legacy_src": "Curses/vautier-malheur-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/curses-ChristopherWool1992-s.jpg",
+      "alt": "",
+      "caption": "Christopher Wool: \"Fuckem if they can't take a joke\" – 1992",
+      "legacy_src": "Curses/ChristopherWool1992-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-68BPSalutePeterNormanTommieSmithJohnCarlos-s.jpg",
+      "alt": "",
+      "caption": "Peter Norman, Tommie Smith,\n\nJohn Carlos: The Black Panther\n\nSalute, 1968",
+      "legacy_src": "Greetings/68BPSalutePeterNormanTommieSmithJohnCarlos-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-KlausStaeck68WirSetzenUnsDurch-s.jpg",
+      "alt": "",
+      "caption": "Klaus Staeck:\n\nWir setzen uns durch, 1968",
+      "legacy_src": "Greetings/KlausStaeck68WirSetzenUnsDurch-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-Ben84-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: \"Ciao viva!\" – 1984",
+      "legacy_src": "Greetings/Ben84-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-FinlayJeVousSalueMarat90-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Greetings/FinlayJeVousSalueMarat90-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-steinbach2004Yo-s.jpg",
+      "alt": "",
+      "caption": "Haim Steinbach: \"Yo.\" – 2004",
+      "legacy_src": "Greetings/steinbach2004Yo-s.jpg"
+    },
+    {
+      "src": "/images/concept/speech-acts/performatives/greetings-TraceyEmin06-IKissYou-s.jpg",
+      "alt": "",
+      "caption": "Tracey Emin: \"I kiss you\" – 2006",
+      "legacy_src": "Greetings/TraceyEmin06-IKissYou-s.jpg"
+    }
+  ],
+  "out_links": []
+}

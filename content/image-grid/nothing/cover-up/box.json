@@ -1,0 +1,153 @@
+{
+  "slug": "nothing/cover-up/box",
+  "legacy_path": "nothing/cover-up/box/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Box In",
+  "heading": "",
+  "description": "Secrets as artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sealed Boxes",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier: Boîtes Mystères",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/secret-vautier-mystere-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "boîte mystère\n\nà l'instant où elle sera ouverte elle perd toute valeur\nesthétique\n\n(1960)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/secret-BenVautierMystere-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "CREATION NOV. 1960 – BOÎTE\nMYSTÈRE No 61. – NE PAS OUVRIR\n\nCette boîte perd toute sa valeur et signification\nesthétique en tant qu'oeuvre d'art (mystère) à\nl'instant où elle est ouverte.\n\nFERMÉE LE 21/12/65 PAR BEN – TOUT\nNo 13. FLUXUS",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sol LeWitt: The Buried Cube,\n1968",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/le-witt-cube-LewittAndCube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "80",
+      "height": "116",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/le-witt-cube-Cube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "112",
+      "height": "111",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/le-witt-cube-LewittTheBuriedCube.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "118",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/le-witt-cube-Lewitt_BuriedCube2.jpg",
+      "alt": "",
+      "caption": "[Metal Cube with unknown contents\nis buried in the garden of the art collectors Martin & Mia\nVisser, Bergeyk, The Netherlands.]",
+      "width": "116",
+      "height": "118",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ray Johnson: Untitled, 1970.\n(Sealed Box)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/cover-up/box/secret-RayJnsn70-U(SealedBox)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/cover-up/box/secret-vautier-mystere-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/vautier-mystere-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/secret-BenVautierMystere-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/BenVautierMystere-S.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/le-witt-cube-LewittAndCube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/LeWittCube/LewittAndCube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/le-witt-cube-Cube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/LeWittCube/Cube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/le-witt-cube-LewittTheBuriedCube.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/LeWittCube/LewittTheBuriedCube.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/le-witt-cube-Lewitt_BuriedCube2.jpg",
+      "alt": "",
+      "caption": "[Metal Cube with unknown contents\nis buried in the garden of the art collectors Martin & Mia\nVisser, Bergeyk, The Netherlands.]",
+      "legacy_src": "../../concept/secret/LeWittCube/Lewitt_BuriedCube2.jpg"
+    },
+    {
+      "src": "/images/nothing/cover-up/box/secret-RayJnsn70-U(SealedBox)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../concept/secret/RayJnsn70-U(SealedBox)-S.jpg"
+    }
+  ],
+  "out_links": []
+}

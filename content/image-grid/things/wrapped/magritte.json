@@ -1,0 +1,118 @@
+{
+  "slug": "things/wrapped/magritte",
+  "legacy_path": "things/wrapped/Magritte/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Magritte",
+  "heading": "Wrappings by René Magritte",
+  "description": "Wrappings by René Magritte.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: secrets cover-up wrapping readymades radical\nart",
+      "links": [
+        {
+          "text": "secrets",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "wrapping",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Wrappings by René Magritte",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/magritte/Les_Amants_1925-S.gif",
+      "alt": "",
+      "caption": "Les Amants, 1925",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/magritte/RM-1927-The-LoversII-S.jpg",
+      "alt": "",
+      "caption": "Les Amants II, 1927",
+      "width": "230",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/magritte/RM-28-l-invention-de-la-vie.jpg",
+      "alt": "",
+      "caption": "L'Invention de la Vie, 1928",
+      "width": "230",
+      "height": "159",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/magritte/RM-lHistoireCentrale1928-S.jpg",
+      "alt": "",
+      "caption": "L'Histoire Centrale, 1928",
+      "width": "139",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/magritte/Les_Amants_1925-S.gif",
+      "alt": "",
+      "caption": "Les Amants, 1925",
+      "legacy_src": "Les_Amants_1925-S.gif"
+    },
+    {
+      "src": "/images/things/wrapped/magritte/RM-1927-The-LoversII-S.jpg",
+      "alt": "",
+      "caption": "Les Amants II, 1927",
+      "legacy_src": "RM-1927-The-LoversII-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/magritte/RM-28-l-invention-de-la-vie.jpg",
+      "alt": "",
+      "caption": "L'Invention de la Vie, 1928",
+      "legacy_src": "RM-28-l-invention-de-la-vie.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/magritte/RM-lHistoireCentrale1928-S.jpg",
+      "alt": "",
+      "caption": "L'Histoire Centrale, 1928",
+      "legacy_src": "RM-lHistoireCentrale1928-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/wrapped"
+  ]
+}

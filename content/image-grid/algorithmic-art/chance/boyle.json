@@ -1,0 +1,185 @@
+{
+  "slug": "algorithmic-art/chance/boyle",
+  "legacy_path": "AlgorithmicArt/chance/boyle/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Mark Boyle",
+  "heading": "",
+  "description": "Mark Boyle: Random selections from the surface of the earth.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Mark Boyle:\n\nRandom selections from the surface of the earth.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/66HumanFootprintsInSand.jpg",
+      "alt": "",
+      "caption": "Human Footprints in Sand, 1966",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/67-LondonStudy.jpg",
+      "alt": "",
+      "caption": "London Study, 1967",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/67ParkAvenueStudy-s.jpg",
+      "alt": "",
+      "caption": "Park Avenue Study, 1967",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/69-AddisonCrescentStie-s.jpg",
+      "alt": "",
+      "caption": "Addison Crescent Study, 1969",
+      "width": "195",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/69FieldStudy-s.jpg",
+      "alt": "",
+      "caption": "Field Study, 1969",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/72LondonSeries.jpg",
+      "alt": "",
+      "caption": "London Series, 1972",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/72-73CorporateYardStudy-s.jpg",
+      "alt": "",
+      "caption": "Corporate Yard Study, 1972/73",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/78-79-TheSwissSite.jpg",
+      "alt": "",
+      "caption": "The Swiss Site, 1978/79",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/79-TanamiDesert-s.jpg",
+      "alt": "",
+      "caption": "Tanami Desert, 1979",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/ES-TanamiDesert-s.jpg",
+      "alt": "",
+      "caption": "Earth Study, Tanami Desert",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/chance/boyle/85BrokenPath.jpg",
+      "alt": "",
+      "caption": "Broken Path, 1985",
+      "width": "299",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/chance/boyle/66HumanFootprintsInSand.jpg",
+      "alt": "",
+      "caption": "Human Footprints in Sand, 1966",
+      "legacy_src": "66HumanFootprintsInSand.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/67-LondonStudy.jpg",
+      "alt": "",
+      "caption": "London Study, 1967",
+      "legacy_src": "67-LondonStudy.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/67ParkAvenueStudy-s.jpg",
+      "alt": "",
+      "caption": "Park Avenue Study, 1967",
+      "legacy_src": "67ParkAvenueStudy-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/69-AddisonCrescentStie-s.jpg",
+      "alt": "",
+      "caption": "Addison Crescent Study, 1969",
+      "legacy_src": "69-AddisonCrescentStie-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/69FieldStudy-s.jpg",
+      "alt": "",
+      "caption": "Field Study, 1969",
+      "legacy_src": "69FieldStudy-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/72LondonSeries.jpg",
+      "alt": "",
+      "caption": "London Series, 1972",
+      "legacy_src": "72LondonSeries.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/72-73CorporateYardStudy-s.jpg",
+      "alt": "",
+      "caption": "Corporate Yard Study, 1972/73",
+      "legacy_src": "72-73CorporateYardStudy-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/78-79-TheSwissSite.jpg",
+      "alt": "",
+      "caption": "The Swiss Site, 1978/79",
+      "legacy_src": "78-79-TheSwissSite.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/79-TanamiDesert-s.jpg",
+      "alt": "",
+      "caption": "Tanami Desert, 1979",
+      "legacy_src": "79-TanamiDesert-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/ES-TanamiDesert-s.jpg",
+      "alt": "",
+      "caption": "Earth Study, Tanami Desert",
+      "legacy_src": "ES-TanamiDesert-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/chance/boyle/85BrokenPath.jpg",
+      "alt": "",
+      "caption": "Broken Path, 1985",
+      "legacy_src": "85BrokenPath.jpg"
+    }
+  ],
+  "out_links": []
+}

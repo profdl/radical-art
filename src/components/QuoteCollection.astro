@@ -1,0 +1,56 @@
+---
+import Paragraph from "./Paragraph.astro";
+
+interface Block { type: string; [k: string]: any; }
+interface Props { blocks: Block[]; pageTitle: string; }
+
+const { blocks, pageTitle } = Astro.props;
+
+type Entry = { heading?: Block; body: Block[] };
+
+// Any heading starts a new entry. We track the first encountered level so
+// we can render the *first* heading (often a section overview) larger than
+// subsequent peer headings.
+const entries: Entry[] = [];
+let cur: Entry | null = null;
+let firstLevel: number | null = null;
+
+for (const b of blocks) {
+  if (b.type === "heading") {
+    const isTop = b.text.trim().toLowerCase() === pageTitle.trim().toLowerCase();
+    if (isTop) continue;
+    if (firstLevel === null) firstLevel = b.level ?? 3;
+    if (cur) entries.push(cur);
+    cur = { heading: b, body: [] };
+  } else if (b.type === "paragraph") {
+    if (!cur) cur = { body: [] };
+    cur.body.push(b);
+  }
+}
+if (cur) entries.push(cur);
+
+const baseLevel = firstLevel ?? 3;
+const renderEntries = entries.map((e, idx) => {
+  const lvl = e.heading?.level ?? 3;
+  const isTopOverview = idx === 0 && lvl <= baseLevel;
+  return { entry: e, isTopOverview };
+});
+---
+
+<div class="space-y-10 max-w-[44rem]">
+  {
+    renderEntries.map(({ entry: e, isTopOverview }) => (
+      <article class="border-t border-[color:var(--color-rule-light)] pt-6">
+        {e.heading && isTopOverview && (
+          <h2 class="h-detail mb-3">{e.heading.text}</h2>
+        )}
+        {e.heading && !isTopOverview && (
+          <p class="section-label mb-3">{e.heading.text}</p>
+        )}
+        <div class="prose-archive">
+          {e.body.map((p) => <Paragraph text={p.text} links={p.links} />)}
+        </div>
+      </article>
+    ))
+  }
+</div>

@@ -1,0 +1,170 @@
+{
+  "slug": "concept/tautology/anastasi",
+  "legacy_path": "concept/tautology/anastasi/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "William Anastasi",
+  "heading": "",
+  "description": "Wiliam Anastasi's Tautologies.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "William Anastasi's Tautologies",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Anastasi64Unt[Polaroids]-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1964",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Words[AWord](1).jpg",
+      "alt": "",
+      "caption": "",
+      "width": "120",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/AWord[Words](2).jpg",
+      "alt": "",
+      "caption": "Words / A Word",
+      "width": "120",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Anastasi66Unt(SixSites)-S.jpg",
+      "alt": "",
+      "caption": "Untitled (Six Sites), 1966/1967",
+      "width": "244",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Anastasi66-Passion.jpg",
+      "alt": "",
+      "caption": "Passion, 1966/1994",
+      "width": "250",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/AnastasiWall67-s.jpg",
+      "alt": "",
+      "caption": "1967",
+      "width": "238",
+      "height": "110",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Anastasi-1967-Label-S.jpg",
+      "alt": "",
+      "caption": "Label, 1967",
+      "width": "329",
+      "height": "130",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/67-9PolroidsOfAMrr-S.jpg",
+      "alt": "",
+      "caption": "Nine Polaroid Portraits of a Mirror, 1967",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/anastasi68FreeWill-S.jpg",
+      "alt": "",
+      "caption": "Free Will, 1968",
+      "width": "168",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi/Anastasi68Transfer-S.jpg",
+      "alt": "",
+      "caption": "Transfer, 1968",
+      "width": "163",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/anastasi/Anastasi64Unt[Polaroids]-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1964",
+      "legacy_src": "Anastasi64Unt%5BPolaroids%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/Words[AWord](1).jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Words%5BAWord%5D(1).jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/AWord[Words](2).jpg",
+      "alt": "",
+      "caption": "Words / A Word",
+      "legacy_src": "AWord%5BWords%5D(2).jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/Anastasi66Unt(SixSites)-S.jpg",
+      "alt": "",
+      "caption": "Untitled (Six Sites), 1966/1967",
+      "legacy_src": "Anastasi66Unt(SixSites)-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/Anastasi66-Passion.jpg",
+      "alt": "",
+      "caption": "Passion, 1966/1994",
+      "legacy_src": "Anastasi66-Passion.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/AnastasiWall67-s.jpg",
+      "alt": "",
+      "caption": "1967",
+      "legacy_src": "AnastasiWall67-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/Anastasi-1967-Label-S.jpg",
+      "alt": "",
+      "caption": "Label, 1967",
+      "legacy_src": "Anastasi-1967-Label-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/67-9PolroidsOfAMrr-S.jpg",
+      "alt": "",
+      "caption": "Nine Polaroid Portraits of a Mirror, 1967",
+      "legacy_src": "67-9PolroidsOfAMrr-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/anastasi68FreeWill-S.jpg",
+      "alt": "",
+      "caption": "Free Will, 1968",
+      "legacy_src": "anastasi68FreeWill-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi/Anastasi68Transfer-S.jpg",
+      "alt": "",
+      "caption": "Transfer, 1968",
+      "legacy_src": "Anastasi68Transfer-S.jpg"
+    }
+  ],
+  "out_links": []
+}

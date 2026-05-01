@@ -1,0 +1,82 @@
+{
+  "slug": "physics",
+  "legacy_path": "physics/index.html",
+  "section": "physics",
+  "archetype": "link-hub",
+  "title": "physics",
+  "heading": "physics as art",
+  "description": "physics as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "radical\nart",
+      "links": [
+        {
+          "text": "",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "physics as art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "gravity\n\n\n\nvacuum",
+      "links": [
+        {
+          "text": "",
+          "href": "/physics/gravity",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/physics/vacuum",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nworld is not a totality of things, nor is it a totality of facts;\nit is a potential of infinite possibilities. When we perform a scientific\nexperiment, we explore this potential by observing the outcome of\ndeliberately contrived conditions. These days, this exploration tends\nto occur in a distanced, theoretically mediated way. Prototypical\nscientific experiments yield measurements: sequences of numbers\nwhich raise our interest only to the extent that they corroborate\nor undermine theoretical hypotheses. This distance, however, is not\nan intrinsic property of the experimental procedure; it is the result\nof the increasing complexity of theories and technologies. In the\nearly days of experimental science, the experiments often produced\ndirectly observable \"artificial phenomena\" which, independently\nof any theorizing, demonstrated new dimensions of reality and invited\nnew perspectives on the world. Experiments were often performed in\npublic, and many researchers exploited the entertainment value of\ntheir discoveries. Experimental science was in many ways akin to the\nperforming arts.\n\n\n\nToday's technological art, in its turn, shows close affinities with\nscientific experimentation. A new continuity thus emerges, which suggests\na new vantage point for looking at the intertwined histories of art,\nscience and technology.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Über das Theatralische des Jahrmarckts und des Experimentirens –\n\nJede Glastafel ist eine Bühne –\n\nein Laboratorium – eine Kunstkammer ist ein Theater.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Novalis, Fragmente # 963",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Das exakt Wissenschaftliche ist das absolut Poetische.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Novalis",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The innovative stages of scientific investigation involve a definitely aesthetic mode of perceiving and thinking. When observing a phenomenon which is felt to be not understood, the empirical scientist must cast preconceptions aside, and avoid the conventional, classificatory perspective. Since he believes that his existing conceptual system is inadequate to grasp the phenomenon, he must prepare the emergence of new, possibly incommensurable concepts by embedding the concrete experience of the phenomenon in a rich network of analogical and associative projections across different domains. The move to a new conceptual system can only occur through the conscious experience of a formally incoherent state which is strongly reminiscent of the paradoxical \"aesthetic concept\" (which is emphatically not a concept!) invoked in Kant's Kritik der Urteilskraft.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/index",
+    "/physics/gravity",
+    "/physics/vacuum"
+  ]
+}

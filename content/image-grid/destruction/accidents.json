@@ -1,0 +1,174 @@
+{
+  "slug": "destruction/accidents",
+  "legacy_path": "destruction/Accidents/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "Accidental Disasters",
+  "heading": "",
+  "description": "Accidental disasters in art. Accidental disasters as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back to:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "destruction",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "process\nart",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "radical\nart",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "large-scale accidents",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Joseph Turner: The Burning of the Houses of Lords and Commons,\n1834.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/turner-fire-turnerTBOTHOP1834[black].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "274",
+      "height": "204",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/turner-fire-Turner1834-TBOTHOP.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "273",
+      "height": "205",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/turner-fire-turnerTBrngOTHssOPrl1834-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/turner-fire-turnerBrngOTHssOLdsACs34-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier: Accidents and Catastrophes,\n1961.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The plastic beauty of certain photos of catastrophes,\nof accidents, led me in June 1961 to set my signature to the crushed\nand tangled bodywork of a car that had hit a tree.\n\n\n\nThen, carried away by my creative élan, I signed:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "AGADIR: Earthquake (board carrying documentation)\n\n\n\n\nFRÉJUS: The dam which, giving way, caused the death of\n300 people.\n\n\n\nHIROSHIMA: As I remember is one of the most successful examples\nof this category of artwork created by the genius of man, and\neven if artistic intention was lacking, we can only congratulate\nourselves on its esthetic reality.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/Warhol129DIJ(PlaneCrash)62.jpg",
+      "alt": "",
+      "caption": "129 Die In Jet (Plane Crash), 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/accidents/TunafishDisaster-63.gif",
+      "alt": "",
+      "caption": "Tuna Fish Disaster, 1963",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Davis, Lee Allyn. Environmental Disasters: a Chronicle\nof Individual, Industrial, and Governmental Carelessness. New\nYork, NY: Facts on File, 1998.\n\n\n\nBen Vautier: Moi Ben Je Signe, 1963. [English translation by\nDavid Mayor: Me Ben I Sign, Surrey (UK): Beau Geste Press,\n1975.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2005",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/accidents/turner-fire-turnerTBOTHOP1834[black].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TurnerFire/turnerTBOTHOP1834%5Bblack%5D.jpg"
+    },
+    {
+      "src": "/images/destruction/accidents/turner-fire-Turner1834-TBOTHOP.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TurnerFire/Turner1834-TBOTHOP.jpg"
+    },
+    {
+      "src": "/images/destruction/accidents/turner-fire-turnerTBrngOTHssOPrl1834-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TurnerFire/turnerTBrngOTHssOPrl1834-S.jpg"
+    },
+    {
+      "src": "/images/destruction/accidents/turner-fire-turnerBrngOTHssOLdsACs34-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "TurnerFire/turnerBrngOTHssOLdsACs34-S.jpg"
+    },
+    {
+      "src": "/images/destruction/accidents/Warhol129DIJ(PlaneCrash)62.jpg",
+      "alt": "",
+      "caption": "129 Die In Jet (Plane Crash), 1962",
+      "legacy_src": "Warhol129DIJ(PlaneCrash)62.jpg"
+    },
+    {
+      "src": "/images/destruction/accidents/TunafishDisaster-63.gif",
+      "alt": "",
+      "caption": "Tuna Fish Disaster, 1963",
+      "legacy_src": "TunafishDisaster-63.gif"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "kinetics/shove",
+  "legacy_path": "kinetics/Shove/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Shove",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "shove",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "Ray Staakman",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Beams or panels that move slowly\nacross the exhibition space. The spectator is pushed out\nof the room by the artwork, or ends up being completely enclosed.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/shove/staakman-1969-Mach_1.969-M.jpg",
+      "alt": "",
+      "caption": "Machine No.1.969, 1969",
+      "width": "610",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/shove/staakman-1970-MachineNo.1.170-s.jpg",
+      "alt": "",
+      "caption": "Machine No.1.170\n\nGroninger Museum, 1970",
+      "width": "339",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/shove/staakman-1973-MachineNo.1.273-s.jpg",
+      "alt": "",
+      "caption": "Machine No. 1.273\n\nLucy Milton Gallery, London, 1973",
+      "width": "241",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/shove/staakman-1973-1.173[Ernst,Hann]-1-s.jpg",
+      "alt": "",
+      "caption": "Machine 1.173 – Galerie Ernst, Hannover, 1973",
+      "width": "293",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/shove/staakman-1973-1.173[Ernst,Hann]-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "290",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Anon.: Ray Staakman. 6\npp. brochure. Eindhoven: Van Abbemuseum, 1974.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Carel Blotkamp: \"Ray Staakman.\" Museumjournaal 17,\n5 (October 1972), pp. 209-214.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Poul ter Hofstede: \"Bonies en Staakman.\" Museumjournaal 15,\n2 (April 1970), pp. 96-97.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/shove/staakman-1969-Mach_1.969-M.jpg",
+      "alt": "",
+      "caption": "Machine No.1.969, 1969",
+      "legacy_src": "Staakman/1969-Mach_1.969-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/shove/staakman-1970-MachineNo.1.170-s.jpg",
+      "alt": "",
+      "caption": "Machine No.1.170\n\nGroninger Museum, 1970",
+      "legacy_src": "Staakman/1970-MachineNo.1.170-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/shove/staakman-1973-MachineNo.1.273-s.jpg",
+      "alt": "",
+      "caption": "Machine No. 1.273\n\nLucy Milton Gallery, London, 1973",
+      "legacy_src": "Staakman/1973-MachineNo.1.273-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/shove/staakman-1973-1.173[Ernst,Hann]-1-s.jpg",
+      "alt": "",
+      "caption": "Machine 1.173 – Galerie Ernst, Hannover, 1973",
+      "legacy_src": "Staakman/1973-1.173%5BErnst,Hann%5D-1-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/shove/staakman-1973-1.173[Ernst,Hann]-2-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Staakman/1973-1.173%5BErnst,Hann%5D-2-s.jpg"
+    }
+  ],
+  "out_links": []
+}

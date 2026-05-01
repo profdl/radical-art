@@ -1,0 +1,214 @@
+{
+  "slug": "algorithmic-art/grid/cellular/3-d",
+  "legacy_path": "AlgorithmicArt/grid/cellular/3D/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "3-Dimensional Automata",
+  "heading": "Three-Dimensional \n      Cellular Automata",
+  "description": "Three-dimensional cellular automata.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Three-Dimensional\nCellular Automata",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Computer Science",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/SchrandtUlam70(Cf-CMHerr)-s.jpg",
+      "alt": "",
+      "caption": "R. Schrandt & S. Ulam, 1970\n\n[Reconstruction by C.M. Herr.]",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/NKS0183-3D-D.jpg",
+      "alt": "",
+      "caption": "Stephen Wolfram, 2002",
+      "width": "479",
+      "height": "93",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "R. Schrandt & S. Ulam: \"On Recursively Defined Geometrical\nObjects and Patterns of Growth.\" In: A. Burks (ed.): Essays\non Cellular Automata. Urbana: University of Illinois Press, 1970,\npp. 232-243.\n\n\n\nStephen Wolfram: A New\nKind of Science. Champaign, IL: Wolfram Media, 2002.",
+      "links": [
+        {
+          "text": "A New Kind of Science",
+          "href": "http://www.wolframscience.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Architecture",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/Krawczyk2003-a03-s.jpg",
+      "alt": "",
+      "caption": "Robert J. Krawczyk & Ying-Chun Hsu:\n\nArchitectural Interpretation of Cellular Automata, 2003.",
+      "width": "230",
+      "height": "163",
+      "links": [
+        {
+          "text": "Architectural Interpretation of Cellular Automata",
+          "href": "http://www.iit.edu/%7Ekrawczyk/nks2003/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/Krawczyk-2003-a01-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/CMHerrGameOfLife-D.jpg",
+      "alt": "",
+      "caption": "C.M. Herr: 3D representation of\n\nGame of Life evolution, 2003.\n\n\n\n(From: C.M. Herr: Using\nCellular Automata to Challenge Cookie-Cutter Architecture.)",
+      "width": "226",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Erwin\nDriessens & Maria Verstappen: Breed,\n2000.",
+      "links": [
+        {
+          "text": "Breed",
+          "href": "http://www.xs4all.nl/%7Enotnot/breed/BREEDinfo.html",
+          "external": true
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Breed\"\nis an \"evolutionary voxel object generator\". It employs\n3-D automata whose update rules describe how a filled voxel splits\ninto filled voxels and empty voxels. A genetic algorithm is used\nto evolve rules which create connected objects.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-056split.gif",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-DV-Breed271-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-DV-breed-borg-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "258",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Online software",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Trujillo: Inventory\nof online 3D Cellular Automata software.\n\n\n\nAlexander Mieczyslaw Kasprzyk: Tresvita,\n1999.",
+      "links": [
+        {
+          "text": "Inventory of online 3D Cellular Automata software.",
+          "href": "http://www.geocities.com/robisais/3dca.html",
+          "external": true
+        },
+        {
+          "text": "Tresvita",
+          "href": "http://www.kasprzyk.demon.co.uk/www/TresvitaDocs.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/SchrandtUlam70(Cf-CMHerr)-s.jpg",
+      "alt": "",
+      "caption": "R. Schrandt & S. Ulam, 1970\n\n[Reconstruction by C.M. Herr.]",
+      "legacy_src": "SchrandtUlam70(Cf-CMHerr)-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/NKS0183-3D-D.jpg",
+      "alt": "",
+      "caption": "Stephen Wolfram, 2002",
+      "legacy_src": "NKS0183-3D-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/Krawczyk2003-a03-s.jpg",
+      "alt": "",
+      "caption": "Robert J. Krawczyk & Ying-Chun Hsu:\n\nArchitectural Interpretation of Cellular Automata, 2003.",
+      "legacy_src": "Krawczyk2003-a03-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/Krawczyk-2003-a01-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Krawczyk-2003-a01-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/CMHerrGameOfLife-D.jpg",
+      "alt": "",
+      "caption": "C.M. Herr: 3D representation of\n\nGame of Life evolution, 2003.\n\n\n\n(From: C.M. Herr: Using\nCellular Automata to Challenge Cookie-Cutter Architecture.)",
+      "legacy_src": "CMHerrGameOfLife-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-056split.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../DV/056split.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-DV-Breed271-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../DV/DV-Breed271-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/3-d/dv-DV-breed-borg-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../DV/DV-breed-borg-S.jpg"
+    }
+  ],
+  "out_links": []
+}

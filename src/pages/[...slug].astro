@@ -1,0 +1,101 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import Breadcrumb from "~/components/Breadcrumb.astro";
+import ImageGrid from "~/components/ImageGrid.astro";
+import Essay from "~/components/Essay.astro";
+import Hub from "~/components/Hub.astro";
+import QuoteCollection from "~/components/QuoteCollection.astro";
+import Score from "~/components/Score.astro";
+import { unwrap, sectionLabel } from "~/lib/text";
+
+export async function getStaticPaths() {
+  const all = await getCollection("pages");
+  const pagesBySlug = new Map(all.map((p) => [p.data.slug, p.data]));
+
+  return all
+    .filter(
+      (p) =>
+        p.data.slug && p.data.slug !== "index" && p.data.archetype !== "site-home",
+    )
+    .map((p) => {
+      // Find immediate children whose slug starts with this slug + "/".
+      const prefix = p.data.slug + "/";
+      const childLinks: { href: string; label: string }[] = [];
+      for (const [slug, data] of pagesBySlug) {
+        if (slug === p.data.slug) continue;
+        if (!slug.startsWith(prefix)) continue;
+        // Only direct children (one path segment deeper).
+        const rest = slug.slice(prefix.length);
+        if (rest.includes("/")) continue;
+        childLinks.push({
+          href: "/" + slug,
+          label: data.title || sectionLabel(rest),
+        });
+      }
+      childLinks.sort((a, b) => a.label.localeCompare(b.label));
+
+      return {
+        params: { slug: p.data.slug },
+        props: { page: p.data, childLinks },
+      };
+    });
+}
+
+const { page, childLinks } = Astro.props;
+const heading = page.heading ? unwrap(page.heading) : page.title;
+const description = page.description ? unwrap(page.description) : "";
+const sectionSlug = page.section
+  .replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-")
+  .toLowerCase();
+
+// Strip blocks whose text duplicates the page title (the legacy site often
+// repeated the title as the first heading).
+const blocks = page.blocks.filter((b: any) => {
+  if (b.type !== "heading") return true;
+  const t = unwrap(b.text || "").trim().toLowerCase();
+  return t !== unwrap(page.title || "").trim().toLowerCase() &&
+         t !== heading.trim().toLowerCase();
+});
+---
+
+<BaseLayout title={page.title} description={description} current={sectionSlug}>
+  <header class="mb-6">
+    <Breadcrumb slug={page.slug} section={page.section} />
+    <h1 class="h-page mt-4">{heading}</h1>
+    {
+      description && (
+        <p class="mt-2 prose-archive max-w-3xl text-[color:var(--color-ink-muted)]">
+          {description}
+        </p>
+      )
+    }
+  </header>
+  <hr class="rule" />
+
+  <div class="pt-8">
+    {
+      page.archetype === "image-grid" || page.archetype === "single-work" ? (
+        <ImageGrid blocks={blocks} />
+      ) : page.archetype === "essay" || page.archetype === "long-essay" ? (
+        <Essay blocks={blocks} />
+      ) : page.archetype === "link-hub" ||
+        page.archetype === "hub-with-essay" ||
+        page.archetype === "leaf-intro" ? (
+        <Hub blocks={blocks} pageTitle={heading} childLinks={childLinks} />
+      ) : page.archetype === "quote-collection" ? (
+        <QuoteCollection blocks={blocks} pageTitle={heading} />
+      ) : page.archetype === "score" ? (
+        <Score blocks={blocks} />
+      ) : page.archetype === "bio-credit" ? (
+        <Essay blocks={blocks} />
+      ) : (
+        <div class="prose-archive max-w-2xl">
+          <p class="text-[color:var(--color-ink-faint)] italic">
+            [{page.archetype} layout not yet implemented.]
+          </p>
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

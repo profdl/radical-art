@@ -1,0 +1,196 @@
+{
+  "slug": "kinetics/turn/kinetic-painting/von-graevenitz",
+  "legacy_path": "kinetics/Turn/KineticPainting/VonGraevenitz/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Von Graevenitz",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Alexander von Graevenitz: Kinetische Objekte",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1962KinetObjekt.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "229",
+      "height": "235",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kinetisches Objekt\n\n1962",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1963-RotatieWit-s.jpg",
+      "alt": "",
+      "caption": "Mouvement. Reflektierende\n\nY-Lamellen auf\nWeiß. 1963",
+      "width": "235",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1965-19BlackDotsOnWhite-s.jpg",
+      "alt": "",
+      "caption": "Neunzehn schwarze Punkte auf Weiß\n\n1965",
+      "width": "233",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/VG-16SchwarzeOvaleAufWss-s.jpg",
+      "alt": "",
+      "caption": "Sechzehn schwarze Ovale auf Weiß",
+      "width": "235",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1971KinOb.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt",
+      "width": "221",
+      "height": "215",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1971",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1971-SchwrzeSchbeAufSchw-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Sceibe auf Schwarz",
+      "width": "220",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1971",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1967-KinetischesObjekt-s.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt\n\n1967",
+      "width": "230",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1975KinOb.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt\n1975",
+      "width": "220",
+      "height": "221",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1975-4Strepen-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "226",
+      "height": "228",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Kinetisches Objekt. Vier\nexzentrische\n\nStreifen, je zwei synchron. 1975",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1978-2StrepenKinetisch-s.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt. Zwei exzentrische\n\nStreifen vom Mittelpunkt augehend. 1978",
+      "width": "172",
+      "height": "235",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1962KinetObjekt.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962KinetObjekt.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1963-RotatieWit-s.jpg",
+      "alt": "",
+      "caption": "Mouvement. Reflektierende\n\nY-Lamellen auf\nWeiß. 1963",
+      "legacy_src": "1963-RotatieWit-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1965-19BlackDotsOnWhite-s.jpg",
+      "alt": "",
+      "caption": "Neunzehn schwarze Punkte auf Weiß\n\n1965",
+      "legacy_src": "1965-19BlackDotsOnWhite-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/VG-16SchwarzeOvaleAufWss-s.jpg",
+      "alt": "",
+      "caption": "Sechzehn schwarze Ovale auf Weiß",
+      "legacy_src": "VG-16SchwarzeOvaleAufWss-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1971KinOb.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt",
+      "legacy_src": "1971KinOb.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1971-SchwrzeSchbeAufSchw-s.jpg",
+      "alt": "",
+      "caption": "Schwarze Sceibe auf Schwarz",
+      "legacy_src": "1971-SchwrzeSchbeAufSchw-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1967-KinetischesObjekt-s.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt\n\n1967",
+      "legacy_src": "1967-KinetischesObjekt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1975KinOb.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt\n1975",
+      "legacy_src": "1975KinOb.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1975-4Strepen-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1975-4Strepen-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/kinetic-painting/von-graevenitz/1978-2StrepenKinetisch-s.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt. Zwei exzentrische\n\nStreifen vom Mittelpunkt augehend. 1978",
+      "legacy_src": "1978-2StrepenKinetisch-s.jpg"
+    }
+  ],
+  "out_links": []
+}

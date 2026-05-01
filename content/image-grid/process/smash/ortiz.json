@@ -1,0 +1,97 @@
+{
+  "slug": "process/smash/ortiz",
+  "legacy_path": "process/smash/ortiz/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "ortiz: piano smashings",
+  "heading": "raphael \n      montañez ortiz: \n      destroyed pianos",
+  "description": "piano destruction pieces by raphael montanez ortiz",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: smash process process\nart radical\nart",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        },
+        {
+          "text": "process",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "raphael\nmontañez ortiz:\ndestroyed pianos",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/ortiz/OrtizPianoDestruction.jpeg",
+      "alt": "",
+      "caption": "piano destruction, 1966",
+      "width": "118",
+      "height": "149",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/ortiz/RaphaelMontanezOrtizPiano.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "321",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/smash/ortiz/Ortiz04SprngCnRllyHngYUTM-S.jpg",
+      "alt": "",
+      "caption": "\"spring can really hang you up the most\", 2004\n\n(smashed toy pianos)",
+      "width": "487",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/smash/ortiz/OrtizPianoDestruction.jpeg",
+      "alt": "",
+      "caption": "piano destruction, 1966",
+      "legacy_src": "OrtizPianoDestruction.jpeg"
+    },
+    {
+      "src": "/images/process/smash/ortiz/RaphaelMontanezOrtizPiano.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaphaelMontanezOrtizPiano.jpg"
+    },
+    {
+      "src": "/images/process/smash/ortiz/Ortiz04SprngCnRllyHngYUTM-S.jpg",
+      "alt": "",
+      "caption": "\"spring can really hang you up the most\", 2004\n\n(smashed toy pianos)",
+      "legacy_src": "Ortiz04SprngCnRllyHngYUTM-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/smash"
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "slug": "nothing/space/holes/burri-jute",
+  "legacy_path": "nothing/space/holes/BurriJute/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Sacchi",
+  "heading": "Alberto Burri: Sacchi",
+  "description": "Alberto Burri's \"Sacchi\"",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Alberto Burri: Sacchi",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/52GrandeSacco-S.jpg",
+      "alt": "",
+      "caption": "Grande Sacco, 1952",
+      "width": "331",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/52GrandeBianco-s.jpg",
+      "alt": "",
+      "caption": "Grande Bianco, 1952",
+      "width": "328",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/52Gobbo-M.jpg",
+      "alt": "",
+      "caption": "Gobbo, 1952",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/burri-52-sacco-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1952",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/53-SaccoEOro-M.jpg",
+      "alt": "",
+      "caption": "Sacco e Oro, 1953",
+      "width": "230",
+      "height": "257",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/Burri53Sacco.jpg",
+      "alt": "",
+      "caption": "Sacco, 1953",
+      "width": "200",
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/53Sacco-M.jpg",
+      "alt": "",
+      "caption": "Sacco, 1953",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/Burri-54-SaccoST-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "width": "230",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/54-SaccoERosso-B-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1954",
+      "width": "230",
+      "height": "202",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/54-Sacco-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "width": "345",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/54-SaccoERosso-m.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1954",
+      "width": "205",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/54Sacco-M.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/54-saccoIV-s.jpg",
+      "alt": "",
+      "caption": "Sacco IV, 1954",
+      "width": "149",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/55CompositionEnBlanc-s.jpg",
+      "alt": "",
+      "caption": "Composition in White, 1955",
+      "width": "285",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/55SaccoNeroERosso-m.jpg",
+      "alt": "",
+      "caption": "Sacco Nero e Rosso, 1955",
+      "width": "291",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/Burri56Sacco_rosso-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1956",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/56SaccoEVerde-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Verde, 1956",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/56-SaccoSP1-m.jpg",
+      "alt": "",
+      "caption": "Sacco SP 1, 1956",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/[Sacco2]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/burri-jute/[Sacco]-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/burri-jute/52GrandeSacco-S.jpg",
+      "alt": "",
+      "caption": "Grande Sacco, 1952",
+      "legacy_src": "52GrandeSacco-S.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/52GrandeBianco-s.jpg",
+      "alt": "",
+      "caption": "Grande Bianco, 1952",
+      "legacy_src": "52GrandeBianco-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/52Gobbo-M.jpg",
+      "alt": "",
+      "caption": "Gobbo, 1952",
+      "legacy_src": "52Gobbo-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/burri-52-sacco-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1952",
+      "legacy_src": "burri-52-sacco-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/53-SaccoEOro-M.jpg",
+      "alt": "",
+      "caption": "Sacco e Oro, 1953",
+      "legacy_src": "53-SaccoEOro-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/Burri53Sacco.jpg",
+      "alt": "",
+      "caption": "Sacco, 1953",
+      "legacy_src": "Burri53Sacco.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/53Sacco-M.jpg",
+      "alt": "",
+      "caption": "Sacco, 1953",
+      "legacy_src": "53Sacco-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/Burri-54-SaccoST-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "legacy_src": "Burri-54-SaccoST-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/54-SaccoERosso-B-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1954",
+      "legacy_src": "54-SaccoERosso-B-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/54-Sacco-s.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "legacy_src": "54-Sacco-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/54-SaccoERosso-m.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1954",
+      "legacy_src": "54-SaccoERosso-m.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/54Sacco-M.jpg",
+      "alt": "",
+      "caption": "Sacco, 1954",
+      "legacy_src": "54Sacco-M.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/54-saccoIV-s.jpg",
+      "alt": "",
+      "caption": "Sacco IV, 1954",
+      "legacy_src": "54-saccoIV-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/55CompositionEnBlanc-s.jpg",
+      "alt": "",
+      "caption": "Composition in White, 1955",
+      "legacy_src": "55CompositionEnBlanc-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/55SaccoNeroERosso-m.jpg",
+      "alt": "",
+      "caption": "Sacco Nero e Rosso, 1955",
+      "legacy_src": "55SaccoNeroERosso-m.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/Burri56Sacco_rosso-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Rosso, 1956",
+      "legacy_src": "Burri56Sacco_rosso-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/56SaccoEVerde-s.jpg",
+      "alt": "",
+      "caption": "Sacco e Verde, 1956",
+      "legacy_src": "56SaccoEVerde-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/56-SaccoSP1-m.jpg",
+      "alt": "",
+      "caption": "Sacco SP 1, 1956",
+      "legacy_src": "56-SaccoSP1-m.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/[Sacco2]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "%5BSacco2%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/burri-jute/[Sacco]-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "%5BSacco%5D-M.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "nothing/depiction/maps",
+  "legacy_path": "nothing/depiction/maps/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Empty Maps",
+  "heading": "",
+  "description": "Empty maps: Lewis Carroll and Art & Language.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Empty maps",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lewis Carroll\n\n\n\nThe\nHunting of the Snark, 1876.",
+      "links": [
+        {
+          "text": "The Hunting of the Snark",
+          "href": "http://www.literature.org/authors/carroll-lewis/the-hunting-of-the-snark/",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "[From: Fit\nthe Second. The Bellman's Speech.]",
+      "links": [
+        {
+          "text": "Fit the Second. The Bellman's Speech",
+          "href": "http://www.literature.org/authors/carroll-lewis/the-hunting-of-the-snark/chapter-02.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "He had bought a large map representing\nthe sea,\n\nwithout the least vestige of land.\n\nAnd the crew were much pleased when they found it to be\n\na map they could all understand.\n\n\n\n\"What's the good of Mercator's\n\nNorth Poles and Equators,\n\nTropics, Zones, and Meridian Lines?\"\n\nso the Bellman would cry,\n\nand the crew would reply:\n\n\"They are merely conventional signs!\"\n\n\n\n\"Other maps are such shapes,\n\nwith their islands and capes!\n\nBut we've got our brave Captain to thank,\"\n\n(so the crew would protest)\n\n\"that he's bought us the best –\n\na perfect and absolute blank!\"",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/maps/lewis-carroll-map-S.jpg",
+      "alt": "",
+      "caption": "Henry Holiday: Illustration of \"The Bellman's\nSpeech\"",
+      "width": "314",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/maps/lewis-carroll-AtkinsonBaldwin67Sahara-S.jpg",
+      "alt": "",
+      "caption": "Terry Atkinson & Michael Baldwin:\n\nMap\nof the Sahara Desert after Lewis Carroll, 1967",
+      "width": null,
+      "height": null,
+      "links": [
+        {
+          "text": "",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild2b.html",
+          "external": true
+        },
+        {
+          "text": "Map of the Sahara Desert after Lewis Carroll",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild2b.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/depiction/maps/lewis-carroll-AtkinsonBaldwin67Pacific.jpg",
+      "alt": "",
+      "caption": "Terry Atkinson & Michael Baldwin:\n\nMap\nof a thirty-six square mile surface area of the Pacific Ocean west\nof Oahu, 1967",
+      "width": "182",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild3b.html",
+          "external": true
+        },
+        {
+          "text": "Map of a thirty-six square mile surface area of the Pacific Ocean west of Oahu",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2Bild3b.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An empty map is a physically uniform surface which\ndepicts a conceptually uniform surface through an explicitly defined\nisomorphism. Empty maps are thus related to (as well as distinct\nfrom) the \"pictorial\" monochromes of the \"Salon\ndes Incohérents\" which employ the conventions of\nrealist painting to depict visually uniform (but conceptually differentiated)\nscenes. The empty map signifies \"nothing\" (the absence\nof things) because it is a statement of a pictorial \"language\";\nit signifies in virtue of its (empty) structure. (In contrast, most\ntwentieth-century monochrome painting signifies in virtue of visual\nsimilarity (Yves Klein,\nAnish Kapoor) or exemplification\n(Rodchenko,\nRauschenberg).)",
+      "links": [
+        {
+          "text": "Salon des Incohérents",
+          "href": "/nothing/monochrome/incoherents",
+          "external": false
+        },
+        {
+          "text": "Yves Klein",
+          "href": "/nothing/space/klein",
+          "external": false
+        },
+        {
+          "text": "Anish Kapoor",
+          "href": "/nothing/darkness",
+          "external": false
+        },
+        {
+          "text": "Rodchenko",
+          "href": "/nothing/monochrome/malevich-rodchenko",
+          "external": false
+        },
+        {
+          "text": "Rauschenberg",
+          "href": "/nothing/monochrome/rauschenberg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Exercises:\n\n\n\n1. Elaborate the above paragraph into a complete publishable\nessay. Articulate the allusions to C.S. Peirce (symbol vs. icon)\nand to Nelson Goodman\"s Languages of Art (exemplification).\nTake into account the relevant parts of Dreher (2000).\n\n2. Discuss the empty map in the context of Engelhardt's (2002)\n\"Language of Graphics\". Pay special attention to\nthe notion of \"meaningful space\".\n\n3. Atkinson & Baldwin explicitly acknowledge that their\nempty maps are derived from the Bellman's Map in Lewis Carroll's\nepic poem. Nevertheless, Baldwin (1967) claims there is a profound\ndifference. (\"It can't be said that we are relying on old-fashioned\nlogical postulates.\") Find out what he might mean.\n\n\n\n[Note: all 3 exercises may be combined in one essay.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Art and Language: \"Title\nequals text n° 12\" (1967). [About ambiguity and vagueness.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Baldwin: \"Remarks\non Air-Conditioning.\" In: Arts Magazine, November\n1967.\n\n\n\nMichael Baldwin, Charles Harrison and Mel Ramsden: Art & Language in Practice. Vol. 1. Illustrated Handbook. Catalogue Fundacion Antoni Tapies. Barcelona, 1999.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thomas\nDreher: \"Art\n& Language UK (1966-72): Maps and Models.\" In: Oliver\nJahraus, Nina Ort and Benjamin Marius Schmidt (eds.): Beobachtungen\ndes Unbeobachtbaren. Konzepte radikaler Theoriebildung in\nden Geisteswissenschaften. Weilerswist: Velbrück Verlag,\n2000, pp. 169-198.\n\n\n\nJörg von Engelhardt: The Language of\nGraphics. A framework for the analysis of syntax and meaning\nin maps, charts and diagrams. University of Amsterdam, 2002.\n(ILLC Dissertation Series 2002-03.)",
+      "links": [
+        {
+          "text": "\"Art & Language UK (1966-72): Maps and Models.\"",
+          "href": "http://dreher.netzliteratur.net/3_Konzeptkunst_Art_Lang2.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Smithson: \"A Museum of\nLanguage and the Vicinity of Art\" (1968). In: Writings of\nRobert Smithson, New York, 1979.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/depiction/maps/lewis-carroll-map-S.jpg",
+      "alt": "",
+      "caption": "Henry Holiday: Illustration of \"The Bellman's\nSpeech\"",
+      "legacy_src": "LewisCarroll/map-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/maps/lewis-carroll-AtkinsonBaldwin67Sahara-S.jpg",
+      "alt": "",
+      "caption": "Terry Atkinson & Michael Baldwin:\n\nMap\nof the Sahara Desert after Lewis Carroll, 1967",
+      "legacy_src": "LewisCarroll/AtkinsonBaldwin67Sahara-S.jpg"
+    },
+    {
+      "src": "/images/nothing/depiction/maps/lewis-carroll-AtkinsonBaldwin67Pacific.jpg",
+      "alt": "",
+      "caption": "Terry Atkinson & Michael Baldwin:\n\nMap\nof a thirty-six square mile surface area of the Pacific Ocean west\nof Oahu, 1967",
+      "legacy_src": "LewisCarroll/AtkinsonBaldwin67Pacific.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/darkness",
+    "/nothing/monochrome/incoherents",
+    "/nothing/monochrome/malevich-rodchenko",
+    "/nothing/monochrome/rauschenberg",
+    "/nothing/space/klein"
+  ]
+}

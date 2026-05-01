@@ -1,0 +1,66 @@
+{
+  "slug": "informe/dirt",
+  "legacy_path": "informe/dirt/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "dirt",
+  "heading": "dirt",
+  "description": "Dirt as art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "dirt",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/dirt/RR52-53DrtPntng(4JC)-s.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nDirt Painting (For John Cage),\n\n1952/1953",
+      "width": "230",
+      "height": "228",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/dirt/Smthsn66TarPoolAGravelPit-S.jpg",
+      "alt": "",
+      "caption": "Robert Smithson:\n\nTar Pool and Gravel Pit, 1966",
+      "width": "230",
+      "height": "98",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/dirt/deMaria50m3MetersOfDirt-68.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n50 m3 of Dirt, 1968",
+      "width": null,
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/dirt/RR52-53DrtPntng(4JC)-s.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nDirt Painting (For John Cage),\n\n1952/1953",
+      "legacy_src": "RR52-53DrtPntng(4JC)-s.jpg"
+    },
+    {
+      "src": "/images/informe/dirt/Smthsn66TarPoolAGravelPit-S.jpg",
+      "alt": "",
+      "caption": "Robert Smithson:\n\nTar Pool and Gravel Pit, 1966",
+      "legacy_src": "Smthsn66TarPoolAGravelPit-S.jpg"
+    },
+    {
+      "src": "/images/informe/dirt/deMaria50m3MetersOfDirt-68.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n50 m3 of Dirt, 1968",
+      "legacy_src": "deMaria50m3MetersOfDirt-68.jpg"
+    }
+  ],
+  "out_links": []
+}

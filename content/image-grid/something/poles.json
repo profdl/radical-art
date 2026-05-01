@@ -1,0 +1,66 @@
+{
+  "slug": "something/poles",
+  "legacy_path": "something/poles/index.html",
+  "section": "something",
+  "archetype": "image-grid",
+  "title": "something",
+  "heading": "",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "poles",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/poles/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1960",
+      "width": "146",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/poles/hdv-1961_paal-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\npaal, 1961",
+      "width": "167",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/poles/hdv-1961_untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nuntitled, 1961",
+      "width": "150",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/poles/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nzonder titel, 1960",
+      "legacy_src": "hdv/1960-Unt(WhiteStick)-s.jpg"
+    },
+    {
+      "src": "/images/something/poles/hdv-1961_paal-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\npaal, 1961",
+      "legacy_src": "hdv/1961_paal-s.jpg"
+    },
+    {
+      "src": "/images/something/poles/hdv-1961_untitled-s.jpg",
+      "alt": "",
+      "caption": "herman de vries:\n\nuntitled, 1961",
+      "legacy_src": "hdv/1961_untitled-s.jpg"
+    }
+  ],
+  "out_links": []
+}

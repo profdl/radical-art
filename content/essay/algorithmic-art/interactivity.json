@@ -1,0 +1,102 @@
+{
+  "slug": "algorithmic-art/interactivity",
+  "legacy_path": "AlgorithmicArt/interactivity.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Interactivity",
+  "heading": "Interactive digital art",
+  "description": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Interactive digital art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Environments.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "User-driven exploration. Passive,\nstatic environments. The user navigates. The computer is\nessentially a storage device. [Typically: Network topologies:\nhypertext, hypermedia.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Games.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Interactive, dynamic environments. [Often: simulated\n3D environment (\"virtual reality\").]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Tools.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The user gets building blocks, to make whatever she wants.\nTypically, the space of possibilities is virtually infinite.\nFor instance: programming languages, paint programs, virtual\nlego.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieter Daniel: Art\nand Media in the XX. century. [History of MultiMedia\n/ Intermedia / Interactive Art.]",
+      "links": [
+        {
+          "text": "Art and Media in the XX. century.",
+          "href": "http://www.hgb-leipzig.de/index.php?p=197",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Söke Dinkla:\n\"The\nHistory of the Interface in Interactive Art\" Proceedings\nISEA 1994.\n\n\n\nLev Manovich: On\nTotalitarian Interactivity, 1996. [On interactivity\nas manipulation]",
+      "links": [
+        {
+          "text": "\"The History of the Interface in Interactive Art\"",
+          "href": "http://www.maryflanagan.com/courses/2002/web/HistoryofInterface.html",
+          "external": true
+        },
+        {
+          "text": "On Totalitarian Interactivity",
+          "href": "http://www.heise.de/tp/english/inhalt/co/2062/2.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ron Pellegrino: Levels\nof Algorithmic Composition, 1998. [On \"end-user-art\"]\n\n\n\nAlexei Shulgin: Art,\nPower, and Communication, 1996. [On interactivity as\nmanipulation]",
+      "links": [
+        {
+          "text": "Art, Power, and Communication",
+          "href": "http://sunsite.cs.msu.su/wwwart/apc.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ".",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

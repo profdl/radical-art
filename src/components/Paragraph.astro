@@ -1,0 +1,53 @@
+---
+import { paragraphs } from "~/lib/text";
+
+interface Link {
+  text: string;
+  href: string;
+  external?: boolean;
+}
+
+interface Props {
+  text: string;
+  links?: Link[];
+}
+
+const { text, links = [] } = Astro.props;
+const ps = paragraphs(text);
+
+// Annotate links by exact text match — caller passes the link list and we
+// inline replace the first occurrence of each link's text with an <a>.
+function renderWithLinks(p: string): string {
+  let out = escapeHtml(p);
+  for (const l of links) {
+    if (!l.text) continue;
+    const escaped = escapeHtml(l.text);
+    if (!out.includes(escaped)) continue;
+    const target = l.external ? ' target="_blank" rel="noreferrer"' : "";
+    out = out.replace(
+      escaped,
+      `<a href="${escapeAttr(l.href)}"${target}>${escaped}</a>`,
+    );
+  }
+  return out;
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(
+    /[&<>"']/g,
+    (c) =>
+      ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;",
+      })[c]!,
+  );
+}
+function escapeAttr(s: string): string {
+  return s.replace(/"/g, "&quot;");
+}
+---
+
+{ps.map((p) => <p set:html={renderWithLinks(p)} />)}

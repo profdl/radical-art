@@ -1,0 +1,201 @@
+{
+  "slug": "informe/hang",
+  "legacy_path": "informe/hang/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "hang",
+  "heading": "hang down",
+  "description": "rope, hanging and soft materials in twentieth-century art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: informe radical\nart",
+      "links": [
+        {
+          "text": "informe",
+          "href": "/informe",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "hang down",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/ToshioYoshidaCa1956-S.jpg",
+      "alt": "",
+      "caption": "Toshio Yoshida, 1956",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/hoehmeS'amje-1957-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Hoehme: S'amje, 1957",
+      "width": "216",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/beuysTableWAggregate1958-S.jpg",
+      "alt": "",
+      "caption": "Joseph\nBeuys:\n\nTable with aggregate, 1958",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/BruceConner-rat-purse-59-M.jpg",
+      "alt": "",
+      "caption": "Bruce Conner:\n\nRat Purse, 1959",
+      "width": "123",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/Hesse-untitled_65-S.jpg",
+      "alt": "",
+      "caption": "Eva Hesse:\n\nUntitled, 1965",
+      "width": "142",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/Morris64PieceOfRope-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nPiece of Rope, 1964",
+      "width": "160",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/Oldnbrg65-4SDormeyerMxersS.jpg",
+      "alt": "",
+      "caption": "Claes Oldenburg:\n\nFour Soft Dormeyer Mixers, 1965",
+      "width": "241",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/Ruthenbeck66UmhllteEisnkgl.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nUmhüllte Eisenkugel, 1966",
+      "width": "195",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/FlanaganBleachI-1970.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan: Bleach I, 1970",
+      "width": "198",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/hang/PeetersTheAndrewSisters97-S.jpg",
+      "alt": "",
+      "caption": "Henk Peeters: The Andrews Sisters, 1997",
+      "width": "296",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Literature re Gerhard Hoehme",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Heinz Althöfer & Claudia Posca: Informel.\nDer Anfang nach dem Ende. Dortmund: Museum am Ostwall, 1999,\npp. 80-97, 98-150.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/hang/ToshioYoshidaCa1956-S.jpg",
+      "alt": "",
+      "caption": "Toshio Yoshida, 1956",
+      "legacy_src": "ToshioYoshidaCa1956-S.jpg"
+    },
+    {
+      "src": "/images/informe/hang/hoehmeS'amje-1957-S.jpg",
+      "alt": "",
+      "caption": "Gerhard Hoehme: S'amje, 1957",
+      "legacy_src": "hoehmeS'amje-1957-S.jpg"
+    },
+    {
+      "src": "/images/informe/hang/beuysTableWAggregate1958-S.jpg",
+      "alt": "",
+      "caption": "Joseph\nBeuys:\n\nTable with aggregate, 1958",
+      "legacy_src": "beuysTableWAggregate1958-S.jpg"
+    },
+    {
+      "src": "/images/informe/hang/BruceConner-rat-purse-59-M.jpg",
+      "alt": "",
+      "caption": "Bruce Conner:\n\nRat Purse, 1959",
+      "legacy_src": "BruceConner-rat-purse-59-M.jpg"
+    },
+    {
+      "src": "/images/informe/hang/Hesse-untitled_65-S.jpg",
+      "alt": "",
+      "caption": "Eva Hesse:\n\nUntitled, 1965",
+      "legacy_src": "Hesse-untitled_65-S.jpg"
+    },
+    {
+      "src": "/images/informe/hang/Morris64PieceOfRope-S.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nPiece of Rope, 1964",
+      "legacy_src": "Morris64PieceOfRope-S.jpg"
+    },
+    {
+      "src": "/images/informe/hang/Oldnbrg65-4SDormeyerMxersS.jpg",
+      "alt": "",
+      "caption": "Claes Oldenburg:\n\nFour Soft Dormeyer Mixers, 1965",
+      "legacy_src": "Oldnbrg65-4SDormeyerMxersS.jpg"
+    },
+    {
+      "src": "/images/informe/hang/Ruthenbeck66UmhllteEisnkgl.jpg",
+      "alt": "",
+      "caption": "Reiner Ruthenbeck:\n\nUmhüllte Eisenkugel, 1966",
+      "legacy_src": "Ruthenbeck66UmhllteEisnkgl.jpg"
+    },
+    {
+      "src": "/images/informe/hang/FlanaganBleachI-1970.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan: Bleach I, 1970",
+      "legacy_src": "FlanaganBleachI-1970.jpg"
+    },
+    {
+      "src": "/images/informe/hang/PeetersTheAndrewSisters97-S.jpg",
+      "alt": "",
+      "caption": "Henk Peeters: The Andrews Sisters, 1997",
+      "legacy_src": "PeetersTheAndrewSisters97-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/informe"
+  ]
+}

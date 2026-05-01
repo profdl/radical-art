@@ -1,0 +1,110 @@
+{
+  "slug": "nothing/space/holes/ben",
+  "legacy_path": "nothing/space/holes/Ben/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Holes / Ben",
+  "heading": "",
+  "description": "Holes by Ben Vautier.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Holes by Ben Vautier",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/60-ben-trou-s.jpg",
+      "alt": "",
+      "caption": "Trou, 1960",
+      "width": "210",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/60BenTheFirstPortableHole.jpg",
+      "alt": "",
+      "caption": "The first portable hole, 1960",
+      "width": "162",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/64-ben-trou-s.jpg",
+      "alt": "",
+      "caption": "\"Ce trou me plaît\", 1964",
+      "width": "231",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/BenNoir[ToileCoupee].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/BenWenn[ToileCoupee]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/holes/ben/BenBlanc[ToileCoupee].jpg",
+      "alt": "",
+      "caption": "",
+      "width": "185",
+      "height": "159",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/holes/ben/60-ben-trou-s.jpg",
+      "alt": "",
+      "caption": "Trou, 1960",
+      "legacy_src": "60-ben-trou-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/ben/60BenTheFirstPortableHole.jpg",
+      "alt": "",
+      "caption": "The first portable hole, 1960",
+      "legacy_src": "60BenTheFirstPortableHole.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/ben/64-ben-trou-s.jpg",
+      "alt": "",
+      "caption": "\"Ce trou me plaît\", 1964",
+      "legacy_src": "64-ben-trou-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/ben/BenNoir[ToileCoupee].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BenNoir%5BToileCoupee%5D.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/ben/BenWenn[ToileCoupee]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BenWenn%5BToileCoupee%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/holes/ben/BenBlanc[ToileCoupee].jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BenBlanc%5BToileCoupee%5D.jpg"
+    }
+  ],
+  "out_links": []
+}

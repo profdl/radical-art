@@ -1,0 +1,110 @@
+{
+  "slug": "nothing/mirrors/koons",
+  "legacy_path": "nothing/mirrors/koons/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Jeff Koons",
+  "heading": "Mirrors by Jeff Koons",
+  "description": "Mirrors by Jeff Koons",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirrors by Jeff Koons",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons/Koons88ChristAndTheLamb-s.jpg",
+      "alt": "",
+      "caption": "Christ and the Lamb, 1988",
+      "width": "147",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons/Koons88WishingWell-S.jpg",
+      "alt": "",
+      "caption": "Wishing Well, 1988",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons/koons-1994-2000-Moon.jpg",
+      "alt": "",
+      "caption": "Moon, 1994/2000",
+      "width": "146",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons/KoonsPlayboyBunnyEars-s.jpg",
+      "alt": "",
+      "caption": "Playboy Bunny Ears",
+      "width": "155",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/koons/KoonsAreTheseBearSEarsQ-S.jpg",
+      "alt": "",
+      "caption": "Are These Bear's Ears?",
+      "width": "136",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "See also: Casts\nby Jeff Koons",
+      "links": [
+        {
+          "text": "Casts by Jeff Koons",
+          "href": "/things/cast",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/koons/Koons88ChristAndTheLamb-s.jpg",
+      "alt": "",
+      "caption": "Christ and the Lamb, 1988",
+      "legacy_src": "Koons88ChristAndTheLamb-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/koons/Koons88WishingWell-S.jpg",
+      "alt": "",
+      "caption": "Wishing Well, 1988",
+      "legacy_src": "Koons88WishingWell-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/koons/koons-1994-2000-Moon.jpg",
+      "alt": "",
+      "caption": "Moon, 1994/2000",
+      "legacy_src": "koons-1994-2000-Moon.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/koons/KoonsPlayboyBunnyEars-s.jpg",
+      "alt": "",
+      "caption": "Playboy Bunny Ears",
+      "legacy_src": "KoonsPlayboyBunnyEars-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/koons/KoonsAreTheseBearSEarsQ-S.jpg",
+      "alt": "",
+      "caption": "Are These Bear's Ears?",
+      "legacy_src": "KoonsAreTheseBearSEarsQ-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/things/cast"
+  ]
+}

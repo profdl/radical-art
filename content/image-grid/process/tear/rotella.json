@@ -1,0 +1,857 @@
+{
+  "slug": "process/tear/rotella",
+  "legacy_path": "process/tear/Rotella/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Mimmo Rotella",
+  "heading": "Mimmo Rotella : Décollages",
+  "description": "Décollages by Mimmo Rotella.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: décollage destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "décollage",
+          "href": "/process/tear",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Mimmo Rotella : Décollages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/49ImpronteRicavate.jpg",
+      "alt": "",
+      "caption": "Impronte Ricavate, 1949",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/54ST1954.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "width": "227",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/54Nor-s.jpg",
+      "alt": "",
+      "caption": "Nor, 1954",
+      "width": "225",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/54ST-c-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "width": "140",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/54-ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "width": "133",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/55ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1955",
+      "width": "145",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/55Trio1955.jpg",
+      "alt": "",
+      "caption": "Trio, 1955",
+      "width": "220",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/55-ST.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1955",
+      "width": "200",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/56ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "width": "230",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/57ERosso1957-S.jpg",
+      "alt": "",
+      "caption": "E Rosso, 1957",
+      "width": "164",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/56ST-c-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "width": "230",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/56ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/58Mondiale-s.jpg",
+      "alt": "",
+      "caption": "Mondiale, 1958",
+      "width": "230",
+      "height": "143",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/59ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1959",
+      "width": "219",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/61LaFinestra-s.jpg",
+      "alt": "",
+      "caption": "La Finestra, 1961",
+      "width": "223",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/61SchizzoNero-s.jpg",
+      "alt": "",
+      "caption": "Schizzo Nero, 1961",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62ChiVa...ChiViene-ss.jpg",
+      "alt": "",
+      "caption": "Chi Va ... Chi Viene, 1962",
+      "width": "230",
+      "height": "161",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/61ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1961",
+      "width": "230",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/61-IlGiuramento-S.jpg",
+      "alt": "",
+      "caption": "Il Giuramento, 1961",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62ClassicoEModerno-s.jpg",
+      "alt": "",
+      "caption": "Classico e Moderno, 1962",
+      "width": "175",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62IlFucile-s.jpg",
+      "alt": "",
+      "caption": "Il Fucile, 1962",
+      "width": "208",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62Gioventu-s.jpg",
+      "alt": "",
+      "caption": "Gioventù, 1962",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62MarilynTruccata-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Truccata, 1962",
+      "width": "145",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62LaGattaSulTetto-s.jpg",
+      "alt": "",
+      "caption": "La Gatta sul Tetto, 1962",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62InAscolto-B-s.jpg",
+      "alt": "",
+      "caption": "In Ascolto, 1962",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62MitologiaInNeroERosso-s.jpg",
+      "alt": "",
+      "caption": "Mitologia in Nero e Rosso, 1962",
+      "width": "179",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/Marilyn-s.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1962",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62LaTigre-s.jpg",
+      "alt": "",
+      "caption": "La Tigre, 1962",
+      "width": "194",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62InModoPerfetto-s.jpg",
+      "alt": "",
+      "caption": "In Modo Perfetto, 1962",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/62PeterSellers-s.jpg",
+      "alt": "",
+      "caption": "Peter Sellers, 1962",
+      "width": "226",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63-28Novembre1963-s.jpg",
+      "alt": "",
+      "caption": "28 Novembre 1963",
+      "width": "215",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63Acrobazie-s.jpg",
+      "alt": "",
+      "caption": "Acrobazie, 1963",
+      "width": "230",
+      "height": "164",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63Curiosita-s.jpg",
+      "alt": "",
+      "caption": "Curiosita, 1963",
+      "width": "225",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63MarilynMonroe-B-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Monroe, 1963",
+      "width": "174",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63MarilynMonroe-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Monroe, 1963",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63-LAssalto-s.jpg",
+      "alt": "",
+      "caption": "L'Assalto, 1963",
+      "width": "181",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63SportsMeeting-s.jpg",
+      "alt": "",
+      "caption": "Sports Meeting, 1963",
+      "width": "169",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63Vai.jpg",
+      "alt": "",
+      "caption": "Vai, 1963",
+      "width": "230",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/63-64-Comanceros-s.jpg",
+      "alt": "",
+      "caption": "Comanceros, 1963/1964",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/72Elvis-s.jpg",
+      "alt": "",
+      "caption": "Elvis, 1972",
+      "width": "157",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/Sophia_Loren-s.jpg",
+      "alt": "",
+      "caption": "Sophia Loren",
+      "width": "207",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/74DianaRoss-s.jpg",
+      "alt": "",
+      "caption": "Diana Ross, 1974",
+      "width": "212",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/79Marylin-s.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1979",
+      "width": "216",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/79Pepsi-s.jpg",
+      "alt": "",
+      "caption": "Pepsi, 1979",
+      "width": "230",
+      "height": "194",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/2003-IlRelaxDeRita-s.jpg",
+      "alt": "",
+      "caption": "Il Relax de Rita, 2003",
+      "width": "230",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/2004OmaggioAAndy-s.jpg",
+      "alt": "",
+      "caption": "Omaggio a Andy, 2004",
+      "width": "190",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/BluMarilyn-s.jpg",
+      "alt": "",
+      "caption": "Blu Marilyn",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/2004GiovannaDArco-s.jpg",
+      "alt": "",
+      "caption": "Giovanna d'Arco, 2004",
+      "width": "177",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/2005LaPreda-s.jpg",
+      "alt": "",
+      "caption": "La Preda, 2005",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/LaDolceVita-s.jpg",
+      "alt": "",
+      "caption": "La Dolce Vita",
+      "width": "174",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/Cleopatra-s.jpg",
+      "alt": "",
+      "caption": "Cleopatra",
+      "width": "204",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/rotella/rotella-copertura-80CoperturaViola-s.jpg",
+      "alt": "",
+      "caption": "Copertura Viola, 1980",
+      "width": null,
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Internal link:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Coperture",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "by Mimmo Rotella",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "External link:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mark Kostabi on Mimmo Rotella",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/tear/rotella/49ImpronteRicavate.jpg",
+      "alt": "",
+      "caption": "Impronte Ricavate, 1949",
+      "legacy_src": "49ImpronteRicavate.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/54ST1954.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "legacy_src": "54ST1954.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/54Nor-s.jpg",
+      "alt": "",
+      "caption": "Nor, 1954",
+      "legacy_src": "54Nor-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/54ST-c-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "legacy_src": "54ST-c-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/54-ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1954",
+      "legacy_src": "54-ST-B-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/55ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1955",
+      "legacy_src": "55ST-B-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/55Trio1955.jpg",
+      "alt": "",
+      "caption": "Trio, 1955",
+      "legacy_src": "55Trio1955.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/55-ST.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1955",
+      "legacy_src": "55-ST.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/56ST-B-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "legacy_src": "56ST-B-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/57ERosso1957-S.jpg",
+      "alt": "",
+      "caption": "E Rosso, 1957",
+      "legacy_src": "57ERosso1957-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/56ST-c-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "legacy_src": "56ST-c-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/56ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1956",
+      "legacy_src": "56ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/58Mondiale-s.jpg",
+      "alt": "",
+      "caption": "Mondiale, 1958",
+      "legacy_src": "58Mondiale-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/59ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1959",
+      "legacy_src": "59ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/61LaFinestra-s.jpg",
+      "alt": "",
+      "caption": "La Finestra, 1961",
+      "legacy_src": "61LaFinestra-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/61SchizzoNero-s.jpg",
+      "alt": "",
+      "caption": "Schizzo Nero, 1961",
+      "legacy_src": "61SchizzoNero-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62ChiVa...ChiViene-ss.jpg",
+      "alt": "",
+      "caption": "Chi Va ... Chi Viene, 1962",
+      "legacy_src": "62ChiVa...ChiViene-ss.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/61ST-s.jpg",
+      "alt": "",
+      "caption": "Senza Titolo, 1961",
+      "legacy_src": "61ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/61-IlGiuramento-S.jpg",
+      "alt": "",
+      "caption": "Il Giuramento, 1961",
+      "legacy_src": "61-IlGiuramento-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62ClassicoEModerno-s.jpg",
+      "alt": "",
+      "caption": "Classico e Moderno, 1962",
+      "legacy_src": "62ClassicoEModerno-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62IlFucile-s.jpg",
+      "alt": "",
+      "caption": "Il Fucile, 1962",
+      "legacy_src": "62IlFucile-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62Gioventu-s.jpg",
+      "alt": "",
+      "caption": "Gioventù, 1962",
+      "legacy_src": "62Gioventu-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62MarilynTruccata-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Truccata, 1962",
+      "legacy_src": "62MarilynTruccata-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62LaGattaSulTetto-s.jpg",
+      "alt": "",
+      "caption": "La Gatta sul Tetto, 1962",
+      "legacy_src": "62LaGattaSulTetto-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62InAscolto-B-s.jpg",
+      "alt": "",
+      "caption": "In Ascolto, 1962",
+      "legacy_src": "62InAscolto-B-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62MitologiaInNeroERosso-s.jpg",
+      "alt": "",
+      "caption": "Mitologia in Nero e Rosso, 1962",
+      "legacy_src": "62MitologiaInNeroERosso-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/Marilyn-s.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1962",
+      "legacy_src": "Marilyn-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62LaTigre-s.jpg",
+      "alt": "",
+      "caption": "La Tigre, 1962",
+      "legacy_src": "62LaTigre-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62InModoPerfetto-s.jpg",
+      "alt": "",
+      "caption": "In Modo Perfetto, 1962",
+      "legacy_src": "62InModoPerfetto-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/62PeterSellers-s.jpg",
+      "alt": "",
+      "caption": "Peter Sellers, 1962",
+      "legacy_src": "62PeterSellers-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63-28Novembre1963-s.jpg",
+      "alt": "",
+      "caption": "28 Novembre 1963",
+      "legacy_src": "63-28Novembre1963-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63Acrobazie-s.jpg",
+      "alt": "",
+      "caption": "Acrobazie, 1963",
+      "legacy_src": "63Acrobazie-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63Curiosita-s.jpg",
+      "alt": "",
+      "caption": "Curiosita, 1963",
+      "legacy_src": "63Curiosita-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63MarilynMonroe-B-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Monroe, 1963",
+      "legacy_src": "63MarilynMonroe-B-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63MarilynMonroe-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Monroe, 1963",
+      "legacy_src": "63MarilynMonroe-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63-LAssalto-s.jpg",
+      "alt": "",
+      "caption": "L'Assalto, 1963",
+      "legacy_src": "63-LAssalto-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63SportsMeeting-s.jpg",
+      "alt": "",
+      "caption": "Sports Meeting, 1963",
+      "legacy_src": "63SportsMeeting-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63Vai.jpg",
+      "alt": "",
+      "caption": "Vai, 1963",
+      "legacy_src": "63Vai.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/63-64-Comanceros-s.jpg",
+      "alt": "",
+      "caption": "Comanceros, 1963/1964",
+      "legacy_src": "63-64-Comanceros-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/72Elvis-s.jpg",
+      "alt": "",
+      "caption": "Elvis, 1972",
+      "legacy_src": "72Elvis-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/Sophia_Loren-s.jpg",
+      "alt": "",
+      "caption": "Sophia Loren",
+      "legacy_src": "Sophia_Loren-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/74DianaRoss-s.jpg",
+      "alt": "",
+      "caption": "Diana Ross, 1974",
+      "legacy_src": "74DianaRoss-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/79Marylin-s.jpg",
+      "alt": "",
+      "caption": "Marilyn, 1979",
+      "legacy_src": "79Marylin-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/79Pepsi-s.jpg",
+      "alt": "",
+      "caption": "Pepsi, 1979",
+      "legacy_src": "79Pepsi-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/2003-IlRelaxDeRita-s.jpg",
+      "alt": "",
+      "caption": "Il Relax de Rita, 2003",
+      "legacy_src": "2003-IlRelaxDeRita-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/2004OmaggioAAndy-s.jpg",
+      "alt": "",
+      "caption": "Omaggio a Andy, 2004",
+      "legacy_src": "2004OmaggioAAndy-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/BluMarilyn-s.jpg",
+      "alt": "",
+      "caption": "Blu Marilyn",
+      "legacy_src": "BluMarilyn-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/2004GiovannaDArco-s.jpg",
+      "alt": "",
+      "caption": "Giovanna d'Arco, 2004",
+      "legacy_src": "2004GiovannaDArco-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/2005LaPreda-s.jpg",
+      "alt": "",
+      "caption": "La Preda, 2005",
+      "legacy_src": "2005LaPreda-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/LaDolceVita-s.jpg",
+      "alt": "",
+      "caption": "La Dolce Vita",
+      "legacy_src": "LaDolceVita-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/Cleopatra-s.jpg",
+      "alt": "",
+      "caption": "Cleopatra",
+      "legacy_src": "Cleopatra-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/rotella/rotella-copertura-80CoperturaViola-s.jpg",
+      "alt": "",
+      "caption": "Copertura Viola, 1980",
+      "legacy_src": "../RotellaCopertura/80CoperturaViola-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/tear"
+  ]
+}

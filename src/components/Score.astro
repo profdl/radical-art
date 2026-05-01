@@ -1,0 +1,24 @@
+---
+interface Block { type: string; [k: string]: any; }
+interface Props { blocks: Block[]; }
+
+const { blocks } = Astro.props;
+---
+
+<div class="max-w-[40rem] space-y-8">
+  {
+    blocks.map((b) => {
+      if (b.type === "heading") {
+        return <h2 class="h-detail">{b.text}</h2>;
+      }
+      if (b.type === "paragraph") {
+        return (
+          <p class="prose-archive whitespace-pre-line text-[1rem]">
+            {b.text}
+          </p>
+        );
+      }
+      return null;
+    })
+  }
+</div>

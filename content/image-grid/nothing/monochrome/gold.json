@@ -1,0 +1,221 @@
+{
+  "slug": "nothing/monochrome/gold",
+  "legacy_path": "nothing/monochrome/gold/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "gold",
+  "heading": "Gold Monochromes",
+  "description": "Gold monochrome paintings.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Gold Monochromes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/53-Burri-SackingAndGold.jpg",
+      "alt": "",
+      "caption": "Alberto Burri:\n\nSacco e Oro, 1953",
+      "width": "177",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/55RschnbrgGoldPainting-S.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nGold Painting, 1955",
+      "width": "197",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/PeterBlake59GoldPainting-s.jpg",
+      "alt": "",
+      "caption": "Peter Blake:\n\nGold Painting, 1959",
+      "width": "159",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/59-Goeritz-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "181",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mathias Goeritz:\n\nMensaje, 1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/59-MG20-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "146",
+      "height": "201",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Yves Klein:\n\nMonogold (MG 20), 1959",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/60nevelsonGoldBox-S.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson:\n\nGold Box, 1960",
+      "width": "182",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/73ContratPourUnCorpsNr3-S.jpg",
+      "alt": "",
+      "caption": "Michel Journiac:\n\nContrat Pour Un Corps # 3, 1973",
+      "width": "185",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/89-EckartDetailPaintingNr532[b]-s.jpg",
+      "alt": "",
+      "caption": "Christian Eckart:\n\nDetail Painting Nr 532, 1989",
+      "width": "200",
+      "height": "190",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/91-JLByarsWorldFlag-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nWorld Flag, 1991",
+      "width": "141",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "More",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Sacchi by Alberto Burri",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/space/holes/burri-jute",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Monochromes by Robert Rauschenberg (White, Black, Gold, Red)",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/rauschenberg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Monogolds by Yves Klein",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/gold/klein",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gold pieces by Mathias Goeritz",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/gold/mathias-goeritz",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/gold/53-Burri-SackingAndGold.jpg",
+      "alt": "",
+      "caption": "Alberto Burri:\n\nSacco e Oro, 1953",
+      "legacy_src": "53-Burri-SackingAndGold.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/55RschnbrgGoldPainting-S.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg:\n\nGold Painting, 1955",
+      "legacy_src": "55RschnbrgGoldPainting-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/PeterBlake59GoldPainting-s.jpg",
+      "alt": "",
+      "caption": "Peter Blake:\n\nGold Painting, 1959",
+      "legacy_src": "PeterBlake59GoldPainting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/59-Goeritz-Mensaje-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59-Goeritz-Mensaje-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/59-MG20-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "59-MG20-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/60nevelsonGoldBox-S.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson:\n\nGold Box, 1960",
+      "legacy_src": "60nevelsonGoldBox-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/73ContratPourUnCorpsNr3-S.jpg",
+      "alt": "",
+      "caption": "Michel Journiac:\n\nContrat Pour Un Corps # 3, 1973",
+      "legacy_src": "73ContratPourUnCorpsNr3-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/89-EckartDetailPaintingNr532[b]-s.jpg",
+      "alt": "",
+      "caption": "Christian Eckart:\n\nDetail Painting Nr 532, 1989",
+      "legacy_src": "89-EckartDetailPaintingNr532%5Bb%5D-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/91-JLByarsWorldFlag-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nWorld Flag, 1991",
+      "legacy_src": "91-JLByarsWorldFlag-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/monochrome/gold/klein",
+    "/nothing/monochrome/gold/mathias-goeritz",
+    "/nothing/monochrome/rauschenberg",
+    "/nothing/space/holes/burri-jute"
+  ]
+}

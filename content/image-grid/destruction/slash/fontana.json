@@ -1,0 +1,391 @@
+{
+  "slug": "destruction/slash/fontana",
+  "legacy_path": "destruction/slash/Fontana/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "Slash",
+  "heading": "Lucio Fontana: Concetto Spatiale – Attese",
+  "description": "Lucio Fontana's Slash Paintings (Concetto Spatiale - Attese).",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "see also: holes by fontana ––– back\nto: destruction radical\nart",
+      "links": [
+        {
+          "text": "holes by fontana",
+          "href": "/nothing/space/holes/fontana",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Lucio Fontana: Concetto Spatiale – Attese",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/59CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1959",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/59CS-Vijfhoek-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1959",
+      "width": "220",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/60ConcSpaz-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1960",
+      "width": "235",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/60CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1960",
+      "width": "169",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/60CSAttese1960red-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese,\n1960",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CS-Attese1962.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1962",
+      "width": "150",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CS-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1962",
+      "width": "316",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CS-NewYork2-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 2, 1962",
+      "width": "150",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CS-NewYork7-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 7, 1962",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CSNewYork10-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 10, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/62CS1962(copper)-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale, 1962",
+      "width": "408",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/63CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1963",
+      "width": "165",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/63CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1963",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/64-CSAttesa100-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964",
+      "width": "145",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/64-65CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964/1965",
+      "width": "167",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/64-65CS-Attese(framed)-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964/1965",
+      "width": "159",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/65CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1965",
+      "width": "158",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/66CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1966",
+      "width": "155",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/67CSAttese-Ca1967-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "width": "164",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/67CSAttese-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/67CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/68aCS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1968",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/slash/fontana/68Concetto_spaziale-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1968",
+      "width": "152",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/slash/fontana/59CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1959",
+      "legacy_src": "59CSAttese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/59CS-Vijfhoek-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1959",
+      "legacy_src": "59CS-Vijfhoek-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/60ConcSpaz-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1960",
+      "legacy_src": "60ConcSpaz-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/60CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1960",
+      "legacy_src": "60CSAttese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/60CSAttese1960red-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese,\n1960",
+      "legacy_src": "60CSAttese1960red-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CS-Attese1962.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1962",
+      "legacy_src": "62CS-Attese1962.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CS-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1962",
+      "legacy_src": "62CS-S.gif"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CS-NewYork2-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 2, 1962",
+      "legacy_src": "62CS-NewYork2-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CS-NewYork7-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 7, 1962",
+      "legacy_src": "62CS-NewYork7-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CSNewYork10-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale –\n\nNew York 10, 1962",
+      "legacy_src": "62CSNewYork10-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/62CS1962(copper)-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale, 1962",
+      "legacy_src": "62CS1962(copper)-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/63CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1963",
+      "legacy_src": "63CS-Attese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/63CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1963",
+      "legacy_src": "63CSAttese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/64-CSAttesa100-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964",
+      "legacy_src": "64-CSAttesa100-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/64-65CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964/1965",
+      "legacy_src": "64-65CSAttese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/64-65CS-Attese(framed)-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1964/1965",
+      "legacy_src": "64-65CS-Attese(framed)-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/65CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1965",
+      "legacy_src": "65CS-Attese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/66CS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1966",
+      "legacy_src": "66CS-Attese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/67CSAttese-Ca1967-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "legacy_src": "67CSAttese-Ca1967-S.gif"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/67CSAttese-S.gif",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "legacy_src": "67CSAttese-S.gif"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/67CSAttese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1967",
+      "legacy_src": "67CSAttese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/68aCS-Attese-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1968",
+      "legacy_src": "68aCS-Attese-S.jpg"
+    },
+    {
+      "src": "/images/destruction/slash/fontana/68Concetto_spaziale-S.jpg",
+      "alt": "",
+      "caption": "Concetto Spatiale – Attese, 1968",
+      "legacy_src": "68Concetto_spaziale-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/nothing/space/holes/fontana"
+  ]
+}

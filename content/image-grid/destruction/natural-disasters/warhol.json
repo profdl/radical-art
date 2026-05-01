@@ -1,0 +1,105 @@
+{
+  "slug": "destruction/natural-disasters/warhol",
+  "legacy_path": "destruction/NaturalDisasters/warhol/index.html",
+  "section": "destruction",
+  "archetype": "image-grid",
+  "title": "Natural Disasters",
+  "heading": "",
+  "description": "Natural disasters in art. Natural disasters as readymade artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back to:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "natural\ndisasters",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "destruction",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "artificial\nart",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "iaaa",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Andy Warhol's Vesuvius Paintings (1985)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/natural-disasters/warhol/warhol_vesuvius1985.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "245",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985a-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "253",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985c.JPG",
+      "alt": "",
+      "caption": "",
+      "width": "246",
+      "height": "195",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985d.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "252",
+      "height": "195",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/destruction/natural-disasters/warhol/warhol_vesuvius1985.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "warhol_vesuvius1985.jpg"
+    },
+    {
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985a-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "WarholVesuvius1985a-S.jpg"
+    },
+    {
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985c.JPG",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "WarholVesuvius1985c.JPG"
+    },
+    {
+      "src": "/images/destruction/natural-disasters/warhol/WarholVesuvius1985d.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "WarholVesuvius1985d.jpg"
+    }
+  ],
+  "out_links": []
+}

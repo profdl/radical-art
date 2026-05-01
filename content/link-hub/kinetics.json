@@ -1,0 +1,420 @@
+{
+  "slug": "kinetics",
+  "legacy_path": "kinetics/index.html",
+  "section": "kinetics",
+  "archetype": "link-hub",
+  "title": "kinetic art",
+  "heading": "",
+  "description": "an overview of different kinds of kinetic art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "radical\nart homepage",
+      "links": [
+        {
+          "text": "",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "mechanics as art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "stasis (equilibrium)",
+      "links": [
+        {
+          "text": "stasis (equilibrium)",
+          "href": "/kinetics/gravity/stasis",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "stand",
+      "links": [
+        {
+          "text": "stand",
+          "href": "/kinetics/gravity/stand",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "lean",
+      "links": [
+        {
+          "text": "lean",
+          "href": "/kinetics/gravity/lean",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "lie",
+      "links": [
+        {
+          "text": "lie",
+          "href": "/kinetics/gravity/lie",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "float",
+      "links": [
+        {
+          "text": "float",
+          "href": "/kinetics/gravity/float",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "stretch",
+      "links": [
+        {
+          "text": "stretch",
+          "href": "/kinetics/gravity/stretch",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "hang",
+      "links": [
+        {
+          "text": "hang",
+          "href": "/kinetics/gravity/suspension",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "tether",
+      "links": [
+        {
+          "text": "tether",
+          "href": "/kinetics/gravity/tether",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "clamp",
+      "links": [
+        {
+          "text": "clamp",
+          "href": "/kinetics/gravity/clamp",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "events (disturbance)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "topple",
+      "links": [
+        {
+          "text": "topple",
+          "href": "/kinetics/gravity/topple",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "hoist",
+      "links": [
+        {
+          "text": "hoist",
+          "href": "/kinetics/gravity/hoist",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "drop",
+      "links": [
+        {
+          "text": "drop",
+          "href": "/kinetics/gravity/drop",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "drip",
+      "links": [
+        {
+          "text": "drip",
+          "href": "/kinetics/gravity/drip",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "throw",
+      "links": [
+        {
+          "text": "throw",
+          "href": "/kinetics/gravity/throw",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "pour",
+      "links": [
+        {
+          "text": "pour",
+          "href": "/kinetics/gravity/pour",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "jump",
+      "links": [
+        {
+          "text": "jump",
+          "href": "/kinetics/gravity/jump",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "dive",
+      "links": [
+        {
+          "text": "dive",
+          "href": "/kinetics/gravity/dive",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "fly",
+      "links": [
+        {
+          "text": "fly",
+          "href": "/kinetics/gravity/fly",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "fall",
+      "links": [
+        {
+          "text": "fall",
+          "href": "/kinetics/gravity/fall",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "ongoing motion (kinetic art)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "turn",
+      "links": [
+        {
+          "text": "turn",
+          "href": "/kinetics/turn",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "spin",
+      "links": [
+        {
+          "text": "spin",
+          "href": "/kinetics/spin",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "vibrate",
+      "links": [
+        {
+          "text": "vibrate",
+          "href": "/kinetics/standing-waves",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "rock",
+      "links": [
+        {
+          "text": "rock",
+          "href": "/kinetics/gravity/rock",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "roll",
+      "links": [
+        {
+          "text": "roll",
+          "href": "/kinetics/gravity/roll",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "swing",
+      "links": [
+        {
+          "text": "swing",
+          "href": "/kinetics/gravity/swing",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "shove",
+      "links": [
+        {
+          "text": "shove",
+          "href": "/kinetics/shove",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "related genres",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "light-space\nmodulators\n\n\n\nprocess\nart\n\n\n\ninteractive\nart\n\n\n\nsimulated\nmovement",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/light",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/anything/open-form",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/movement",
+          "external": false
+        }
+      ],
+      "level": 6
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/movement",
+    "/anything/open-form",
+    "/index",
+    "/kinetics/gravity/clamp",
+    "/kinetics/gravity/dive",
+    "/kinetics/gravity/drip",
+    "/kinetics/gravity/drop",
+    "/kinetics/gravity/fall",
+    "/kinetics/gravity/float",
+    "/kinetics/gravity/fly",
+    "/kinetics/gravity/hoist",
+    "/kinetics/gravity/jump",
+    "/kinetics/gravity/lean",
+    "/kinetics/gravity/lie",
+    "/kinetics/gravity/pour",
+    "/kinetics/gravity/rock",
+    "/kinetics/gravity/roll",
+    "/kinetics/gravity/stand",
+    "/kinetics/gravity/stasis",
+    "/kinetics/gravity/stretch",
+    "/kinetics/gravity/suspension",
+    "/kinetics/gravity/swing",
+    "/kinetics/gravity/tether",
+    "/kinetics/gravity/throw",
+    "/kinetics/gravity/topple",
+    "/kinetics/light",
+    "/kinetics/shove",
+    "/kinetics/spin",
+    "/kinetics/standing-waves",
+    "/kinetics/turn",
+    "/process"
+  ]
+}

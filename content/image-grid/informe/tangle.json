@@ -1,0 +1,80 @@
+{
+  "slug": "informe/tangle",
+  "legacy_path": "informe/tangle/index.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "tangle",
+  "heading": "",
+  "description": "Some of Alan Saret's tangled wire pieces.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "tangle: alan saret",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/tangle/saret-AlanSaret67SunRegister.jpg",
+      "alt": "",
+      "caption": "Sun Register, 1967",
+      "width": "240",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/tangle/saret-Saret80AutumnCumulus.jpg",
+      "alt": "",
+      "caption": "Autumn Cumulus, 1980",
+      "width": "246",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/tangle/saret-Saret81ParaCongregata.jpg",
+      "alt": "",
+      "caption": "Para Congregata, 1981",
+      "width": "357",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/tangle/saret-Saret-82-3-TieredCopper.jpg",
+      "alt": "",
+      "caption": "Three-Tiered Copper, 1982",
+      "width": "146",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/tangle/saret-AlanSaret67SunRegister.jpg",
+      "alt": "",
+      "caption": "Sun Register, 1967",
+      "legacy_src": "Saret/AlanSaret67SunRegister.jpg"
+    },
+    {
+      "src": "/images/informe/tangle/saret-Saret80AutumnCumulus.jpg",
+      "alt": "",
+      "caption": "Autumn Cumulus, 1980",
+      "legacy_src": "Saret/Saret80AutumnCumulus.jpg"
+    },
+    {
+      "src": "/images/informe/tangle/saret-Saret81ParaCongregata.jpg",
+      "alt": "",
+      "caption": "Para Congregata, 1981",
+      "legacy_src": "Saret/Saret81ParaCongregata.jpg"
+    },
+    {
+      "src": "/images/informe/tangle/saret-Saret-82-3-TieredCopper.jpg",
+      "alt": "",
+      "caption": "Three-Tiered Copper, 1982",
+      "legacy_src": "Saret/Saret-82-3-TieredCopper.jpg"
+    }
+  ],
+  "out_links": []
+}

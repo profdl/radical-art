@@ -1,0 +1,256 @@
+{
+  "slug": "kinetics/turn/simple-rotation",
+  "legacy_path": "kinetics/Turn/SimpleRotation/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Simple Rotation",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "turn 1: simple rotation",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Around 1810, Johann von Bohnenberger\nof Tübingen University designed a \"machine\" to demonstrate\nthe laws of the earth's rotation. This was essentially the first\ngyroscope. It was first mentioned by Poisson (1813), and described in\ndetail by Bohnenberger in 1817.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-1813-Buzengeiger--s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "204",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-Smithsonian-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "169",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint,New York-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "189",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bohnenberger's original design, as\n\nexecuted by Johann Buzengeiger,\n\nca. 1810",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A later nineteenth-century\n\nmodel, in the collection of\n\nthe Smithsonian Institute",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "An early 20th-century model\n\n(US Military Academy at\n\nWest Point, New York)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Johann Gottlieb Friedrich Bohnenberger:\n\"Beschreibung einer Maschine zur Erläuterung der Geseze\nder Umdrehung der Erde um ihre Axe, und der Veränderung der\nLage der letzteren.\" Tübinger Blätter\nfür Naturwissenschaften und Arzneikunde 3 (1817),\npp. 72-83.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Denis Poisson: \"Mémoire\nSur un Cas particulier du Mouvement de rotation des Corps pesans.\"\nJournal de l'École\nPolytechnique 9, 16 (1813), pp. 247-262.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Wagner, H. Sorg, and A. Renz:\n\"The Machine of Bohnenberger.\" European\nJournal of Navigation 3, 4 (2005), pp. 69-77.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1848-Electrodynamic-RevolvingRing--ProbablyDanielDavis.jpg",
+      "alt": "",
+      "caption": "Daniel Davis:\n\nElectrodynamic Revolving Ring\n\n1848",
+      "width": "181",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1848-Revolving-Spur-Wheel-DanielDavis.jpg",
+      "alt": "",
+      "caption": "Daniel Davis:\n\nRevolving Spur-Wheel\n\n1848",
+      "width": "172",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860's-MagneticMotor-French.jpg",
+      "alt": "",
+      "caption": "Magnetic Motor\n\nFrench, 1860's",
+      "width": "176",
+      "height": "262",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/1913-Roue-s.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nRoue de Bicyclette\n\n1913",
+      "width": "155",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/index.html",
+      "alt": "",
+      "caption": "Michael Sailstorfer:\n\nZeit Ist Keine Autobahn\n\n2006",
+      "width": "217",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow,WoodTurningMachine.jpg",
+      "alt": "",
+      "caption": "H.C. Westermann:\n\nSlow, Wood Turning Machine\n\n1966",
+      "width": "171",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/1972-TimmUlrichs-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Olympische Marathon – Tretmühle, 1972",
+      "width": "341",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(\"Ich absolviere täglich\neinen Marathonlauf – auf der Stelle tretend.\")",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/1967-PietVerdonk-LP-s.jpg",
+      "alt": "",
+      "caption": "Piet VerdonK:\n\nBeautiful Music, 1967",
+      "width": "193",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Automatic musical instrument]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita+Statoflor-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nColorita and Statoflor, 1968",
+      "width": "373",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-1813-Buzengeiger--s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Bohnenberger/1813-Buzengeiger--s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-Smithsonian-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Bohnenberger/Smithsonian-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint,New York-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Bohnenberger/19xx-UnitedStatesMilitaryAcademyAtWestPoint,New%20York-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1848-Electrodynamic-RevolvingRing--ProbablyDanielDavis.jpg",
+      "alt": "",
+      "caption": "Daniel Davis:\n\nElectrodynamic Revolving Ring\n\n1848",
+      "legacy_src": "19thCentury/1848-Electrodynamic-RevolvingRing--ProbablyDanielDavis.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1848-Revolving-Spur-Wheel-DanielDavis.jpg",
+      "alt": "",
+      "caption": "Daniel Davis:\n\nRevolving Spur-Wheel\n\n1848",
+      "legacy_src": "19thCentury/1848-Revolving-Spur-Wheel-DanielDavis.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860's-MagneticMotor-French.jpg",
+      "alt": "",
+      "caption": "Magnetic Motor\n\nFrench, 1860's",
+      "legacy_src": "19thCentury/1860's-MagneticMotor-French.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/1913-Roue-s.jpg",
+      "alt": "",
+      "caption": "Marcel Duchamp:\n\nRoue de Bicyclette\n\n1913",
+      "legacy_src": "1913-Roue-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/index.html",
+      "alt": "",
+      "caption": "Michael Sailstorfer:\n\nZeit Ist Keine Autobahn\n\n2006",
+      "legacy_src": "index.html"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow,WoodTurningMachine.jpg",
+      "alt": "",
+      "caption": "H.C. Westermann:\n\nSlow, Wood Turning Machine\n\n1966",
+      "legacy_src": "1966-H.C.Westermann-Slow,WoodTurningMachine.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/1972-TimmUlrichs-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Olympische Marathon – Tretmühle, 1972",
+      "legacy_src": "1972-TimmUlrichs-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/1967-PietVerdonk-LP-s.jpg",
+      "alt": "",
+      "caption": "Piet VerdonK:\n\nBeautiful Music, 1967",
+      "legacy_src": "1967-PietVerdonk-LP-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita+Statoflor-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers:\n\nColorita and Statoflor, 1968",
+      "legacy_src": "1968-WTS-Colorita+Statoflor-s.jpg"
+    }
+  ],
+  "out_links": []
+}

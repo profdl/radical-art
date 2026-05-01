@@ -1,0 +1,96 @@
+{
+  "slug": "process/burn/arman",
+  "legacy_path": "process/burn/arman.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Arman",
+  "heading": "Arman: Burnt Instruments",
+  "description": "Arman: burnt Instruments",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Arman: Burnt Instruments",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/arman/fire-s-ArmanPaganinisFuneral1966.jpg",
+      "alt": "",
+      "caption": "\"Paganini's Funeral\"\n\n1966",
+      "width": "113",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/arman/fire-s-ArmanToHellWithPaganini1966.jpg",
+      "alt": "",
+      "caption": "\"To Hell with Paganini\"\n\n1966",
+      "width": "109",
+      "height": "343",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/arman/fire-s-ArmanTorturedViolin1969.jpg",
+      "alt": "",
+      "caption": "\"Tortured Violin\"\n\n1969",
+      "width": "164",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/arman/fire-s-ArmanBurntViolin.jpg",
+      "alt": "",
+      "caption": "Burnt Violin",
+      "width": "200",
+      "height": "242",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/arman/fire-s-ArmanBurntViolinII.jpg",
+      "alt": "",
+      "caption": "Burnt Violin II",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/arman/fire-s-ArmanPaganinisFuneral1966.jpg",
+      "alt": "",
+      "caption": "\"Paganini's Funeral\"\n\n1966",
+      "legacy_src": "../../gif/natuur/FireS/ArmanPaganinisFuneral1966.jpg"
+    },
+    {
+      "src": "/images/process/burn/arman/fire-s-ArmanToHellWithPaganini1966.jpg",
+      "alt": "",
+      "caption": "\"To Hell with Paganini\"\n\n1966",
+      "legacy_src": "../../gif/natuur/FireS/ArmanToHellWithPaganini1966.jpg"
+    },
+    {
+      "src": "/images/process/burn/arman/fire-s-ArmanTorturedViolin1969.jpg",
+      "alt": "",
+      "caption": "\"Tortured Violin\"\n\n1969",
+      "legacy_src": "../../gif/natuur/FireS/ArmanTorturedViolin1969.jpg"
+    },
+    {
+      "src": "/images/process/burn/arman/fire-s-ArmanBurntViolin.jpg",
+      "alt": "",
+      "caption": "Burnt Violin",
+      "legacy_src": "../../gif/natuur/FireS/ArmanBurntViolin.jpg"
+    },
+    {
+      "src": "/images/process/burn/arman/fire-s-ArmanBurntViolinII.jpg",
+      "alt": "",
+      "caption": "Burnt Violin II",
+      "legacy_src": "../../gif/natuur/FireS/ArmanBurntViolinII.jpg"
+    }
+  ],
+  "out_links": []
+}

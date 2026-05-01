@@ -1,0 +1,628 @@
+{
+  "slug": "nothing/monochrome/black",
+  "legacy_path": "nothing/monochrome/black/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Black",
+  "heading": "Paint It Black",
+  "description": "Monochrome black painting.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Paint It Black",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Trägt nicht alles, was uns begeistert, die Farbe der Nacht?\"\n\nNovalis:\nHymnen an die Nacht",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/1882PBilhaud.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "270",
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Bilhaud: \"Combat de nègres dans un tunnel,\" 1882.\n\n[Black canvas with gold frame; reproduced in Allais (1897)\n\nas \"Combat de nègres dans une cave, pendant la nuit\" .]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/30-ManRay-PhotoNoire-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "175",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man Ray: Photo Noire, 1930.\n\n(\"À Robert Desnos – plein des\n\nchoses qui absorbent la lumière\")",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/89EndreTotDadaMesseInBrln-S.jpg",
+      "alt": "",
+      "caption": "Endre Tot: Dada-Messe in Berlin, 1989",
+      "width": "350",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/13-23malevichBlackSq-S.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nBlack Square, 1915",
+      "width": "203",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/18RodchenkoComp64-68.jpg",
+      "alt": "",
+      "caption": "Aleksandr Rodchenko:\n\nComposition 64-68, 1918",
+      "width": "187",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/28-LeonTutundjian-ST-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "228",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Léon Tutundjian:\n\nSans Titre, 1928",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/56NevelsonRelief.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson:\n\nRelief, 1956",
+      "width": "158",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/ARMANDO-61-21Bouten-S.jpg",
+      "alt": "",
+      "caption": "Armando:\n\n21 Bouten, 1961",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/48soulages-ST-S.jpg",
+      "alt": "",
+      "caption": "Pierre Soulages:\n\nSans Titre, 1948",
+      "width": "132",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/53RainerGitterbild-S.jpg",
+      "alt": "",
+      "caption": "Arnulf Rainer:\n\nGitterbild, 1953",
+      "width": "175",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/51RauschenbergUnt(GlBlP).jpg",
+      "alt": "",
+      "caption": "",
+      "width": "183",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Rauschenberg:\n\nUntitled (Glossy Black Painting),\n\n1951",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/57FrancoBemporadCatrame-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Franco Bemporad:\n\nCatrame, 1957",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/herbert-zangs-58-BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "236",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbert Zangs:\n\nSchwarzarbeit, 1958",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/59BramBogartEmigre1959.jpg",
+      "alt": "",
+      "caption": "Bram Bogart: Émigré, 1959",
+      "width": "244",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/60FontanaCS1960-s.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spaciale, 1960",
+      "width": "246",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/59MichioYoshiharaUnt.jpg",
+      "alt": "",
+      "caption": "Mishio Yushihara: Untitled, 1959\n\n\n\n\n\n\n\n\n\nAlbert Burri: Nero Legno, 1961",
+      "width": "210",
+      "height": "157",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/61BurriNeroLegno.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/1958-reinhardt-1954-1958-Painting-s.jpg",
+      "alt": "",
+      "caption": "Ad Reinhardt: Painting, 1954-1958",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/90HiroshiSugimotoIonianSeaS.jpg",
+      "alt": "",
+      "caption": "Hiroshi Sugimoto: Ionian Sea, 1990",
+      "width": "230",
+      "height": "178",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Reinhardt's \"Last paintings\" and Sugimoto's\nseascape photographs are not \"monochromes\" in the strictest\nsense, though they would look uniformly black\nto the casual glance of a passer-by. These pieces demand a very active\nkind of observation, which reveals\n(very simple) patterns, created by different tones of black. The ambiguity\nwhich constitutes their perceptual essence is impossible\nto reproduce through a small-scale image on a computer screen. Nonetheless,\nthey cannot be skipped in this anthology.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/59-LJByars-Unt-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nUntitled, 1959",
+      "width": "85",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/95StevenParrinoUnt-S.jpg",
+      "alt": "",
+      "caption": "Steven Parrino:\n\nUntitled, 1995",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/00AubertinMonochromeNoirS.jpg",
+      "alt": "",
+      "caption": "Bernard Aubertin:\n\nMonochrome Noir, 2000",
+      "width": "154",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/59-HigginsBlackMirror-M.jpg",
+      "alt": "",
+      "caption": "Dick Higgins:\n\nBlack Mirror, 1959",
+      "width": "132",
+      "height": "530",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/64VenetReliefCarton.jpg",
+      "alt": "",
+      "caption": "Bernar Venet:\n\nRelief Carton, 1964",
+      "width": "172",
+      "height": "225",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/74QuentinMorrisUnt-s.jpg",
+      "alt": "",
+      "caption": "Quentin Morris: Untitled, 1974",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/74-Serra-Zadikians-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Zadikians, 1974",
+      "width": "372",
+      "height": "239",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/NoriyukiHaraguchi81UntCD40S.jpg",
+      "alt": "",
+      "caption": "Noriyuki Haraguchi:\n\nUntitled (CD 40), 1981",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/82-91-McC-PlstrSurrogate-S.jpg",
+      "alt": "",
+      "caption": "Allan McCollum:\n\nPlaster Surrogate, 1982/1991",
+      "width": "169",
+      "height": "180",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/87KapoorAtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nAt the Hub of Things, 1987",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/GunterUmberg1991Unt-s.jpg",
+      "alt": "",
+      "caption": "Gunter Umberg:\n\nUntitled, 1991",
+      "width": "168",
+      "height": "193",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/04-SLevineBlackMirror-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine:\n\nBlack Mirror, 2004",
+      "width": "152",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/black/06EricDoeringerVMBlack-s.jpg",
+      "alt": "",
+      "caption": "Eric Doeringer:\n\nBlack Video Monochrome, 2006",
+      "width": "230",
+      "height": "178",
+      "links": [
+        {
+          "text": "Black Video Monochrome",
+          "href": "http://www.ericdoeringer.com/VideoMonochromes.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "More black paintings:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Malevich\n& Rodchenko: From Suprematism to the monochrome.\n\n\n\nRauschenberg's\nmonochromes (white, black, red, gold).\n\n\n\nHerbert\nZangs: Schwarzarbeiten.\n\n\n\nÜbermalung\n(Soulages, Rauschenberg, Rainer, Hoehme).",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/malevich-rodchenko",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/rauschenberg",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/monochrome/black/herbert-zangs",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Übermalung:\nSoulages.",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung/soulages",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Übermalung:\nRainer.",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/cover-up/uebermalung/rainer",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "References",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Alphonse Allais: Album Primo-Avrilesque. Paris: Ollendorf, 1897. [Préface.]",
+      "links": [
+        {
+          "text": "[Préface.]",
+          "href": "http://alph-allais.chez.tiscali.fr/Album0104.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Denys Riout: La\npeinture monochrome. Histoire et archéologie d'un genre.\n\nÉdition revue et augmentée. Paris: Gallimard, 2006.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/black/1882PBilhaud.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1882PBilhaud.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/30-ManRay-PhotoNoire-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "30-ManRay-PhotoNoire-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/89EndreTotDadaMesseInBrln-S.jpg",
+      "alt": "",
+      "caption": "Endre Tot: Dada-Messe in Berlin, 1989",
+      "legacy_src": "89EndreTotDadaMesseInBrln-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/13-23malevichBlackSq-S.jpg",
+      "alt": "",
+      "caption": "Kazimir Malevich:\n\nBlack Square, 1915",
+      "legacy_src": "13-23malevichBlackSq-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/18RodchenkoComp64-68.jpg",
+      "alt": "",
+      "caption": "Aleksandr Rodchenko:\n\nComposition 64-68, 1918",
+      "legacy_src": "18RodchenkoComp64-68.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/28-LeonTutundjian-ST-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "28-LeonTutundjian-ST-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/56NevelsonRelief.jpg",
+      "alt": "",
+      "caption": "Louise Nevelson:\n\nRelief, 1956",
+      "legacy_src": "56NevelsonRelief.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/ARMANDO-61-21Bouten-S.jpg",
+      "alt": "",
+      "caption": "Armando:\n\n21 Bouten, 1961",
+      "legacy_src": "ARMANDO-61-21Bouten-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/48soulages-ST-S.jpg",
+      "alt": "",
+      "caption": "Pierre Soulages:\n\nSans Titre, 1948",
+      "legacy_src": "48soulages-ST-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/53RainerGitterbild-S.jpg",
+      "alt": "",
+      "caption": "Arnulf Rainer:\n\nGitterbild, 1953",
+      "legacy_src": "53RainerGitterbild-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/51RauschenbergUnt(GlBlP).jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "51RauschenbergUnt(GlBlP).jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/57FrancoBemporadCatrame-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "57FrancoBemporadCatrame-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/herbert-zangs-58-BlackReliefPainting-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "HerbertZangs/58-BlackReliefPainting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/59BramBogartEmigre1959.jpg",
+      "alt": "",
+      "caption": "Bram Bogart: Émigré, 1959",
+      "legacy_src": "59BramBogartEmigre1959.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/60FontanaCS1960-s.jpg",
+      "alt": "",
+      "caption": "Lucio Fontana: Concetto Spaciale, 1960",
+      "legacy_src": "60FontanaCS1960-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/59MichioYoshiharaUnt.jpg",
+      "alt": "",
+      "caption": "Mishio Yushihara: Untitled, 1959\n\n\n\n\n\n\n\n\n\nAlbert Burri: Nero Legno, 1961",
+      "legacy_src": "59MichioYoshiharaUnt.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/61BurriNeroLegno.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "61BurriNeroLegno.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/1958-reinhardt-1954-1958-Painting-s.jpg",
+      "alt": "",
+      "caption": "Ad Reinhardt: Painting, 1954-1958",
+      "legacy_src": "1958-Reinhardt/1954-1958-Painting-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/90HiroshiSugimotoIonianSeaS.jpg",
+      "alt": "",
+      "caption": "Hiroshi Sugimoto: Ionian Sea, 1990",
+      "legacy_src": "90HiroshiSugimotoIonianSeaS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/59-LJByars-Unt-s.jpg",
+      "alt": "",
+      "caption": "James Lee Byars:\n\nUntitled, 1959",
+      "legacy_src": "59-LJByars-Unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/95StevenParrinoUnt-S.jpg",
+      "alt": "",
+      "caption": "Steven Parrino:\n\nUntitled, 1995",
+      "legacy_src": "95StevenParrinoUnt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/00AubertinMonochromeNoirS.jpg",
+      "alt": "",
+      "caption": "Bernard Aubertin:\n\nMonochrome Noir, 2000",
+      "legacy_src": "00AubertinMonochromeNoirS.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/59-HigginsBlackMirror-M.jpg",
+      "alt": "",
+      "caption": "Dick Higgins:\n\nBlack Mirror, 1959",
+      "legacy_src": "59-HigginsBlackMirror-M.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/64VenetReliefCarton.jpg",
+      "alt": "",
+      "caption": "Bernar Venet:\n\nRelief Carton, 1964",
+      "legacy_src": "64VenetReliefCarton.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/74QuentinMorrisUnt-s.jpg",
+      "alt": "",
+      "caption": "Quentin Morris: Untitled, 1974",
+      "legacy_src": "74QuentinMorrisUnt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/74-Serra-Zadikians-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Zadikians, 1974",
+      "legacy_src": "74-Serra-Zadikians-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/NoriyukiHaraguchi81UntCD40S.jpg",
+      "alt": "",
+      "caption": "Noriyuki Haraguchi:\n\nUntitled (CD 40), 1981",
+      "legacy_src": "NoriyukiHaraguchi81UntCD40S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/82-91-McC-PlstrSurrogate-S.jpg",
+      "alt": "",
+      "caption": "Allan McCollum:\n\nPlaster Surrogate, 1982/1991",
+      "legacy_src": "82-91-McC-PlstrSurrogate-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/87KapoorAtTheHubOfThings.jpg",
+      "alt": "",
+      "caption": "Anish Kapoor:\n\nAt the Hub of Things, 1987",
+      "legacy_src": "87KapoorAtTheHubOfThings.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/GunterUmberg1991Unt-s.jpg",
+      "alt": "",
+      "caption": "Gunter Umberg:\n\nUntitled, 1991",
+      "legacy_src": "GunterUmberg1991Unt-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/04-SLevineBlackMirror-S.jpg",
+      "alt": "",
+      "caption": "Sherry Levine:\n\nBlack Mirror, 2004",
+      "legacy_src": "04-SLevineBlackMirror-S.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/black/06EricDoeringerVMBlack-s.jpg",
+      "alt": "",
+      "caption": "Eric Doeringer:\n\nBlack Video Monochrome, 2006",
+      "legacy_src": "06EricDoeringerVMBlack-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/nothing/cover-up/uebermalung",
+    "/nothing/cover-up/uebermalung/rainer",
+    "/nothing/cover-up/uebermalung/soulages",
+    "/nothing/monochrome/black/herbert-zangs",
+    "/nothing/monochrome/malevich-rodchenko",
+    "/nothing/monochrome/rauschenberg"
+  ]
+}

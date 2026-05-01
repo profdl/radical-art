@@ -1,0 +1,259 @@
+{
+  "slug": "process/burn",
+  "legacy_path": "process/burn/index.html",
+  "section": "process",
+  "archetype": "link-hub",
+  "title": "fire",
+  "heading": "the art of fire: burning, melting & smoke",
+  "description": "fire in twentieth-century  process-art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"What should we do without fire and death?\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Nathaniel\nHawthorne, American Notebooks, March 9, 1853.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "the art of fire: burning, melting & smoke",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "raoul ubac:\n\nprints of burnt\n\nphoto-negatives\n\n1938-1939",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "john latham:\n\nbook burnings\n\n1958-1966",
+      "links": [
+        {
+          "text": "john latham: book burnings 1958-1966",
+          "href": "/process/burn/latham",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "alberto\nburri:\n\ncombustiones\n\n1958-1972",
+      "links": [
+        {
+          "text": "alberto burri: combustiones 1958-1972",
+          "href": "/process/burn/burri",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "henk\npeeters:\n\npyrografieën\n\n1959",
+      "links": [
+        {
+          "text": "henk peeters: pyrografieën 1959",
+          "href": "/process/burn/peeters",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "raphael\nmontañez ortiz: archeological finds, 1961",
+      "links": [
+        {
+          "text": "raphael montañez ortiz: archeological finds , 1961",
+          "href": "/process/burn/raphael-montanez-ortiz",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "otto\npiene:\n\nrauchbilder\n\n1961-2000",
+      "links": [
+        {
+          "text": "otto piene: rauchbilder 1961-2000",
+          "href": "/process/burn/piene",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "yves klein:\n\npeintures de feu\n\n1961",
+      "links": [
+        {
+          "text": "yves klein: peintures de feu 1961",
+          "href": "/process/burn/klein",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "ben vautier:\n\npyromania projects\n\n1962-1966",
+      "links": [
+        {
+          "text": "ben vautier: pyromania projects 1962-1966",
+          "href": "/process/burn/vautier",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "bernard\naubertin:\n\nlivres brûlés &\n\ndessins de feu\n\n1962-1974",
+      "links": [
+        {
+          "text": "bernard aubertin: livres brûlés & dessins de feu 1962-1974",
+          "href": "/process/burn/aubertin",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "mark\nboyle:\n\nburnt slides\n\n1966",
+      "links": [
+        {
+          "text": "mark boyle: burnt slides 1966",
+          "href": "/process/burn/boyle",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "arman:\n\nburnt instruments\n\n1966-1970",
+      "links": [
+        {
+          "text": "arman: burnt instruments 1966-1970",
+          "href": "/process/burn/arman",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "gordon matta-clark:\n\n\"photo-fry\"\n\n1969",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "werner herzog:\n\n\"lektionen in\n\nfinsterniss\"\n\n1992",
+      "links": [
+        {
+          "text": "werner herzog: \"lektionen in finsterniss\" 1992",
+          "href": "/destruction/artificial-disasters/gulf-war",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "marco breuer:\n\npyro-photography\n\n1996",
+      "links": [
+        {
+          "text": "marco breuer: pyro-photography 1996",
+          "href": "/process/burn/breuer",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Other overviews",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Brandspuren. Das Element\nFeuer in der neueren Skulptur.\" Folkwang Museum, Essen,\n1991.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "H. Draxler (ed.): DAS BRENNENDE\nBILD: Eine Kunstgeschichte des Feuers in der Neueren Zeit. Special\nIssue of Kunstforum International, 2001, Vol. 87.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Assignments",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "(Computational:)\nDesign and implement a computer simulation of fire and its effects.\n(First decide which effects you intend to focus on, and develop\na mathematical model of them.)",
+          "links": []
+        },
+        {
+          "text": "(Theoretical:)\nWrite an essay analysing the meaning of these art forms.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/destruction",
+    "/destruction/artificial-disasters/gulf-war",
+    "/index",
+    "/process",
+    "/process/burn/arman",
+    "/process/burn/aubertin",
+    "/process/burn/boyle",
+    "/process/burn/breuer",
+    "/process/burn/burri",
+    "/process/burn/klein",
+    "/process/burn/latham",
+    "/process/burn/peeters",
+    "/process/burn/piene",
+    "/process/burn/raphael-montanez-ortiz",
+    "/process/burn/vautier"
+  ]
+}

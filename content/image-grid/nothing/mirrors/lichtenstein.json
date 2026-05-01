@@ -1,0 +1,246 @@
+{
+  "slug": "nothing/mirrors/lichtenstein",
+  "legacy_path": "nothing/mirrors/Lichtenstein/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Lichtenstein",
+  "heading": "Mirrors by Roy Lichtenstein",
+  "description": "Mirrors by Roy Lichtenstein",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirrors by Roy Lichtenstein",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/64GirlInMirror-S.jpg",
+      "alt": "",
+      "caption": "Girl in Mirror, 1964",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Mirror #1, 1969",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/69MirrorNo1-S.jpg",
+      "alt": "",
+      "caption": "Mirror # 1, 1969",
+      "width": "153",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNr1-s.jpg",
+      "alt": "",
+      "caption": "Mirror # 1, 1972",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNr3.jpg",
+      "alt": "",
+      "caption": "Mirror # 3, 1972",
+      "width": "188",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/72Mirror-B-S.jpg",
+      "alt": "",
+      "caption": "Mirror, 1972",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNo6-S.jpg",
+      "alt": "",
+      "caption": "Mirror # 6, 1972",
+      "width": "140",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/MirrorNo8-L-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "129",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/MirrorNo8-R-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/70MirrorNo10-s.jpg",
+      "alt": "",
+      "caption": "Mirror # 10, 1970",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/76MirrorI-s.jpg",
+      "alt": "",
+      "caption": "Mirror I, 1976",
+      "width": "128",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/77MirrorII-s.jpg",
+      "alt": "",
+      "caption": "Mirror II, 1977",
+      "width": "123",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/78SelfPortrait-S.jpg",
+      "alt": "",
+      "caption": "Self Portrait, 1978",
+      "width": "152",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/90-Mirror-s.jpg",
+      "alt": "",
+      "caption": "Mirror, 1990",
+      "width": "143",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/lichtenstein/90ReflctionsOnAComicStrip-s.jpg",
+      "alt": "",
+      "caption": "Reflections on a Comic Strip,\n\n1990",
+      "width": "118",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/64GirlInMirror-S.jpg",
+      "alt": "",
+      "caption": "Girl in Mirror, 1964",
+      "legacy_src": "64GirlInMirror-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/69-LsteinMirrorNr1-S.gif",
+      "alt": "",
+      "caption": "Mirror #1, 1969",
+      "legacy_src": "69-LsteinMirrorNr1-S.gif"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/69MirrorNo1-S.jpg",
+      "alt": "",
+      "caption": "Mirror # 1, 1969",
+      "legacy_src": "69MirrorNo1-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNr1-s.jpg",
+      "alt": "",
+      "caption": "Mirror # 1, 1972",
+      "legacy_src": "72MirrorNr1-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNr3.jpg",
+      "alt": "",
+      "caption": "Mirror # 3, 1972",
+      "legacy_src": "72MirrorNr3.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/72Mirror-B-S.jpg",
+      "alt": "",
+      "caption": "Mirror, 1972",
+      "legacy_src": "72Mirror-B-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/72MirrorNo6-S.jpg",
+      "alt": "",
+      "caption": "Mirror # 6, 1972",
+      "legacy_src": "72MirrorNo6-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/MirrorNo8-L-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MirrorNo8-L-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/MirrorNo8-R-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "MirrorNo8-R-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/70MirrorNo10-s.jpg",
+      "alt": "",
+      "caption": "Mirror # 10, 1970",
+      "legacy_src": "70MirrorNo10-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/76MirrorI-s.jpg",
+      "alt": "",
+      "caption": "Mirror I, 1976",
+      "legacy_src": "76MirrorI-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/77MirrorII-s.jpg",
+      "alt": "",
+      "caption": "Mirror II, 1977",
+      "legacy_src": "77MirrorII-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/78SelfPortrait-S.jpg",
+      "alt": "",
+      "caption": "Self Portrait, 1978",
+      "legacy_src": "78SelfPortrait-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/90-Mirror-s.jpg",
+      "alt": "",
+      "caption": "Mirror, 1990",
+      "legacy_src": "90-Mirror-s.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/lichtenstein/90ReflctionsOnAComicStrip-s.jpg",
+      "alt": "",
+      "caption": "Reflections on a Comic Strip,\n\n1990",
+      "legacy_src": "90ReflctionsOnAComicStrip-s.jpg"
+    }
+  ],
+  "out_links": []
+}

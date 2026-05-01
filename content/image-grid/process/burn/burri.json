@@ -1,0 +1,201 @@
+{
+  "slug": "process/burn/burri",
+  "legacy_path": "process/burn/burri/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Fire",
+  "heading": "Alberto \n    Burri: Combustiones",
+  "description": "Natural phenomena as works of visual art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Alberto\nBurri: Combustiones",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriWoodCombustion1955-S.jpg",
+      "alt": "",
+      "caption": "Wood Combustion, 1955",
+      "width": "321",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/burri-grande-legno1959-S.jpg",
+      "alt": "",
+      "caption": "Grande Legno, 1959",
+      "width": "232",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriCombPlastica58-S.gif",
+      "alt": "",
+      "caption": "Combustione Plastica, 1958",
+      "width": "230",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriRedPlastic1962-S.jpg",
+      "alt": "",
+      "caption": "Red Plastic, 1962",
+      "width": "245",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/fire-s-BURRI-grandeRossoP18-1964.jpg",
+      "alt": "",
+      "caption": "Grande Rosso P18, 1964",
+      "width": "200",
+      "height": "222",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/burri-rosso-plastica1964-S.jpg",
+      "alt": "",
+      "caption": "Rosso Plastica, 1964",
+      "width": "269",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/burriRedPlastic1964-S.jpg",
+      "alt": "",
+      "caption": "Red Plastic, 1964",
+      "width": "260",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriCombustione1964B-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1964",
+      "width": "142",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriCombustione1964-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1964",
+      "width": "151",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/BurriCombustione1968-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1968",
+      "width": "169",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/fire-s-BurriBianco-plasticaB3-1972.gif",
+      "alt": "",
+      "caption": "Bianco Plastica B3, 1972",
+      "width": "200",
+      "height": "265",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/burn/burri/burriCombustione1973-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1973",
+      "width": "225",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/burn/burri/BurriWoodCombustion1955-S.jpg",
+      "alt": "",
+      "caption": "Wood Combustion, 1955",
+      "legacy_src": "BurriWoodCombustion1955-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/burri-grande-legno1959-S.jpg",
+      "alt": "",
+      "caption": "Grande Legno, 1959",
+      "legacy_src": "burri-grande-legno1959-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/BurriCombPlastica58-S.gif",
+      "alt": "",
+      "caption": "Combustione Plastica, 1958",
+      "legacy_src": "BurriCombPlastica58-S.gif"
+    },
+    {
+      "src": "/images/process/burn/burri/BurriRedPlastic1962-S.jpg",
+      "alt": "",
+      "caption": "Red Plastic, 1962",
+      "legacy_src": "BurriRedPlastic1962-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/fire-s-BURRI-grandeRossoP18-1964.jpg",
+      "alt": "",
+      "caption": "Grande Rosso P18, 1964",
+      "legacy_src": "../../../gif/natuur/FireS/BURRI-grandeRossoP18-1964.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/burri-rosso-plastica1964-S.jpg",
+      "alt": "",
+      "caption": "Rosso Plastica, 1964",
+      "legacy_src": "burri-rosso-plastica1964-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/burriRedPlastic1964-S.jpg",
+      "alt": "",
+      "caption": "Red Plastic, 1964",
+      "legacy_src": "burriRedPlastic1964-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/BurriCombustione1964B-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1964",
+      "legacy_src": "BurriCombustione1964B-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/BurriCombustione1964-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1964",
+      "legacy_src": "BurriCombustione1964-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/BurriCombustione1968-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1968",
+      "legacy_src": "BurriCombustione1968-S.jpg"
+    },
+    {
+      "src": "/images/process/burn/burri/fire-s-BurriBianco-plasticaB3-1972.gif",
+      "alt": "",
+      "caption": "Bianco Plastica B3, 1972",
+      "legacy_src": "../../../gif/natuur/FireS/BurriBianco-plasticaB3-1972.gif"
+    },
+    {
+      "src": "/images/process/burn/burri/burriCombustione1973-S.jpg",
+      "alt": "",
+      "caption": "Combustione, 1973",
+      "legacy_src": "burriCombustione1973-S.jpg"
+    }
+  ],
+  "out_links": []
+}

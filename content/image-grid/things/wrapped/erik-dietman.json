@@ -1,0 +1,163 @@
+{
+  "slug": "things/wrapped/erik-dietman",
+  "legacy_path": "things/wrapped/ErikDietman/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Dietman",
+  "heading": "Wrappings by Erik Dietman",
+  "description": "Wrappings by Erik Dietman",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: secrets cover-up wrapping readymades radical\nart",
+      "links": [
+        {
+          "text": "secrets",
+          "href": "/nothing/concept/secret",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "wrapping",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Wrappings by Erik Dietman",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/60TableauMalade-s.jpg",
+      "alt": "",
+      "caption": "Tableau Malade, 1960",
+      "width": "230",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/61TheUnwellSaw-S.jpg",
+      "alt": "",
+      "caption": "The Sick Saw, 1961",
+      "width": "450",
+      "height": "142",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/62BodyArt-S.jpg",
+      "alt": "",
+      "caption": "Body Art, 1962",
+      "width": "132",
+      "height": "221",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/6yUnt-S.jpg",
+      "alt": "",
+      "caption": "Untitled",
+      "width": "125",
+      "height": "209",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/63-Sparadrap.jpg",
+      "alt": "",
+      "caption": "\"Quelques Mètres et Centimètres de Sparadrap.\" A short Story by Erik Dietman, 1963",
+      "width": "138",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/63LaCoiffeuseS.jpg",
+      "alt": "",
+      "caption": "La Coiffeuse, 1963",
+      "width": "230",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/wrapped/erik-dietman/64QuelquesMEtCmDAlbuplast-s.jpg",
+      "alt": "",
+      "caption": "Quelques Mètres et Centimètres d'Albuplast, 1964.",
+      "width": "191",
+      "height": "244",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/wrapped/erik-dietman/60TableauMalade-s.jpg",
+      "alt": "",
+      "caption": "Tableau Malade, 1960",
+      "legacy_src": "60TableauMalade-s.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/61TheUnwellSaw-S.jpg",
+      "alt": "",
+      "caption": "The Sick Saw, 1961",
+      "legacy_src": "61TheUnwellSaw-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/62BodyArt-S.jpg",
+      "alt": "",
+      "caption": "Body Art, 1962",
+      "legacy_src": "62BodyArt-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/6yUnt-S.jpg",
+      "alt": "",
+      "caption": "Untitled",
+      "legacy_src": "6yUnt-S.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/63-Sparadrap.jpg",
+      "alt": "",
+      "caption": "\"Quelques Mètres et Centimètres de Sparadrap.\" A short Story by Erik Dietman, 1963",
+      "legacy_src": "63-Sparadrap.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/63LaCoiffeuseS.jpg",
+      "alt": "",
+      "caption": "La Coiffeuse, 1963",
+      "legacy_src": "63LaCoiffeuseS.jpg"
+    },
+    {
+      "src": "/images/things/wrapped/erik-dietman/64QuelquesMEtCmDAlbuplast-s.jpg",
+      "alt": "",
+      "caption": "Quelques Mètres et Centimètres d'Albuplast, 1964.",
+      "legacy_src": "64QuelquesMEtCmDAlbuplast-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/concept/secret",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/wrapped"
+  ]
+}

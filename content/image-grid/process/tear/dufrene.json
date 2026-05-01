@@ -1,0 +1,267 @@
+{
+  "slug": "process/tear/dufrene",
+  "legacy_path": "process/tear/Dufrene/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "François Dufrêne",
+  "heading": "François Dufrêne: Décollages",
+  "description": "Process Art: Décollage.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: décollage destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "décollage",
+          "href": "/process/tear",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "François Dufrêne: Décollages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/58MaPalissade-s.jpg",
+      "alt": "",
+      "caption": "Ma Palissade, 1958",
+      "width": "172",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/59[b]-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "191",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/60LaChinePopulaire-s.jpg",
+      "alt": "",
+      "caption": "La Chine Populaire, 1960",
+      "width": "230",
+      "height": "136",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/59-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/61ArtArctique-s.gif",
+      "alt": "",
+      "caption": "Art Arctique, 1961",
+      "width": "230",
+      "height": "169",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/61LaDemiSoeurDeLInconnu-s.jpg",
+      "alt": "",
+      "caption": "La Demi-Soeur de l'Inconnu, 1961",
+      "width": "192",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/66Au136DuBlvdStGermain,ZB-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Au 136 du Boulevard Saint Germain,\n\nZone Bleue, 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/71-Entre-Deux-Mers-s.jpg",
+      "alt": "",
+      "caption": "Entre-Deux-Mers, 1971",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/FrancoisDufrene-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/72EtGoliath1972.jpg",
+      "alt": "",
+      "caption": "Et Goliath, 1972",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/73LePrestigeDeMozart-s.jpg",
+      "alt": "",
+      "caption": "Le Prestige de Mozart, 1973",
+      "width": "230",
+      "height": "181",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/73Geometrie.jpg",
+      "alt": "",
+      "caption": "Le fruit de la géométrie dans le temps proustillant d'un petit pan de mur, 1973",
+      "width": "195",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/73LaCirque-s.jpg",
+      "alt": "",
+      "caption": "La Cirque, 1973",
+      "width": "200",
+      "height": "247",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/dufrene/73SurpoliTailleCoton-s.jpg",
+      "alt": "",
+      "caption": "Surpoli Taille Coton, 1973",
+      "width": "200",
+      "height": "245",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/tear/dufrene/58MaPalissade-s.jpg",
+      "alt": "",
+      "caption": "Ma Palissade, 1958",
+      "legacy_src": "58MaPalissade-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/59[b]-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "59%5Bb%5D-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/60LaChinePopulaire-s.jpg",
+      "alt": "",
+      "caption": "La Chine Populaire, 1960",
+      "legacy_src": "60LaChinePopulaire-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/59-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "59-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/61ArtArctique-s.gif",
+      "alt": "",
+      "caption": "Art Arctique, 1961",
+      "legacy_src": "61ArtArctique-s.gif"
+    },
+    {
+      "src": "/images/process/tear/dufrene/61LaDemiSoeurDeLInconnu-s.jpg",
+      "alt": "",
+      "caption": "La Demi-Soeur de l'Inconnu, 1961",
+      "legacy_src": "61LaDemiSoeurDeLInconnu-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/66Au136DuBlvdStGermain,ZB-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "66Au136DuBlvdStGermain,ZB-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/71-Entre-Deux-Mers-s.jpg",
+      "alt": "",
+      "caption": "Entre-Deux-Mers, 1971",
+      "legacy_src": "71-Entre-Deux-Mers-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/FrancoisDufrene-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "FrancoisDufrene-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/72EtGoliath1972.jpg",
+      "alt": "",
+      "caption": "Et Goliath, 1972",
+      "legacy_src": "72EtGoliath1972.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/73LePrestigeDeMozart-s.jpg",
+      "alt": "",
+      "caption": "Le Prestige de Mozart, 1973",
+      "legacy_src": "73LePrestigeDeMozart-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/73Geometrie.jpg",
+      "alt": "",
+      "caption": "Le fruit de la géométrie dans le temps proustillant d'un petit pan de mur, 1973",
+      "legacy_src": "73Geometrie.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/73LaCirque-s.jpg",
+      "alt": "",
+      "caption": "La Cirque, 1973",
+      "legacy_src": "73LaCirque-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/dufrene/73SurpoliTailleCoton-s.jpg",
+      "alt": "",
+      "caption": "Surpoli Taille Coton, 1973",
+      "legacy_src": "73SurpoliTailleCoton-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/tear"
+  ]
+}

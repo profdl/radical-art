@@ -1,0 +1,67 @@
+{
+  "slug": "concept/art-against-art/reimann",
+  "legacy_path": "concept/ArtAgainstArt/Reimann.html",
+  "section": "concept",
+  "archetype": "score",
+  "title": "Art Against Art",
+  "heading": "",
+  "description": "Art against art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Hans\nReimann: \"Die Wahrheit\". In: Kobolz.\n\n\nLeipzig: Kurt Wolff Verlag, 1917, p. 31.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hans Reimann",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Die Wahrheit",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Um es ganz aufrichtig und ehrlich zu sagen, so halte ich ~ menschlich\n~ jeden beliebigen Kaufmann für tausendmal wertvoller als irgendeinen\nKünstler.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Man wird mir diesen Satz nicht glauben ~ um so\nweniger, als ich heftig beteuere, ihn durchweg ernst zu meinen.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Aber: ich halte zehn gute Kaufleute, Gott straf\nmich, für tausendmal wichtiger ~ menschlich ~ als einen halben\nGymnasiallehrer.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Auch diesen Satz wird mir niemand glauben.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Nun denn, ganz aufrichtig und ehrlich: ich halte\nweder Kaufmann noch Lehrer für wichtig, geschweige denn für wertvoll.\nDen Künstler erst recht nicht.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Dies ist voller Ernst und mein letztes Wort in\ndieser Sache. Punktum.",
+      "links": [],
+      "level": 6
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

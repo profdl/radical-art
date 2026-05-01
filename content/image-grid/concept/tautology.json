@@ -1,0 +1,1246 @@
+{
+  "slug": "concept/tautology",
+  "legacy_path": "concept/tautology/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Tautologies",
+  "heading": "Tautologies",
+  "description": "Artworks as analytical propositions.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Tautologies",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Tautological self-description",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The tautology is the conceptual equivalent of the monochrome.\nIt is the proposition which is necessarily true; stating its truth thus conveys\nno information. (In Kantian terms: a tautology expresses an analytic judgment.) Prototypical tautologies are the truths of logic and mathematics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A circular statement may be tautological\nin that its very form guarantees its truth. (\"Dit\nis Nederlands.\" \"This sentence consists of six words.\")\nSuch self-referentially true statements are sometimes presented\nas visual artworks: painted verbal descriptions which state\na self-evident property of the painting itself.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In conceptual art, this strategy is used so often that it is sometimes taken to be the defining characteristic of this artistic genre. Commenting on On Kawara's Date\nPaintings, Gudrun Inboden asserts: \"Dass die einzelne Arbeit nichts mitteilt, was über den ablesbaren Tatbestand hinausginge, und nichts außer sich selbst verkörpert (hier ihre an einen bestimmten Tag geknüpfte Entstehung), ist das spezifische Merkmal von Konzeptkunst.\" [Cf. Staatsgalerie Stuttgart: On Kawara.]",
+      "links": [
+        {
+          "text": "Staatsgalerie Stuttgart: On Kawara",
+          "href": "http://www.staatsgalerie.de/gemaeldeundskulpturen/n45_rundg.php?id=12",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-referential statements need not be\ntautological. They may be contingently true, contingently false,\nor paradoxical. The latter case arises when a statement implies\nits own falsehood; i.e., its circularity is vicious.\n(The prototype example is the liar paradox: \"I am\nlying now.\" ) Paradoxical statements constitute a\ndistinct subgenre of conceptual art; we anthologize it on a separate\npage.",
+      "links": [
+        {
+          "text": "separate page",
+          "href": "/concept/paradox",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/GerhardRuehm-1955-Bild-ss.jpg",
+      "alt": "",
+      "caption": "Gerhard Rühm: Ein-wort-tafel, 1955",
+      "width": "200",
+      "height": "91",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/72TimmUlrichsBild-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Bild, 1972",
+      "width": "210",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben-ben-1958-art-ss.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Art, 1958",
+      "width": "177",
+      "height": "150",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/62-lichtenstein-Lichtenstein-62-ART-s.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Art, 1962",
+      "width": "230",
+      "height": "121",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "ART",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth (From Nine Paintings\n\nwith Words as Art), 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben-ben-1958-rouge-SS.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Rouge, 1958",
+      "width": "200",
+      "height": "77",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/62-LeWitt-RSWL.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt: Red Square, White Letters, 1962",
+      "width": "230",
+      "height": "229",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/kosuth-kosuthRED-s.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth: Wittgenstein's Color, 1989",
+      "width": "200",
+      "height": "130",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This piece",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "is its name.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tony Conrad, 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/on-kawara-63-NSE-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "153",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On Kawara:\n\nNothing, Something, Everything, 1963.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/90hdevries-hdevries-90-this-S.jpg",
+      "alt": "",
+      "caption": "herman de vries, 1990",
+      "width": "230",
+      "height": "115",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/62-lichtenstein-RL-Masterpiece1962-s.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Masterpiece, 1962",
+      "width": "230",
+      "height": "231",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/96-EngelsWellPainted-s.jpg",
+      "alt": "",
+      "caption": "Pieter Engels: Well painted, 1996.",
+      "width": "173",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/Kounellis-Unt(Paint)1965-S.jpg",
+      "alt": "",
+      "caption": "Yannis Kounellis:\n\nUntitled (\"Paint\"), 1965",
+      "width": "150",
+      "height": "144",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "PAINTING",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth:\n\nNine Paintings with Words as Art, 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/68Ramsden-100PctAbstractS.jpg",
+      "alt": "",
+      "caption": "Mel Ramsden: 100 % Abstract, 1968",
+      "width": "222",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben-ben-1965-toile-SS.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Toile, 1965",
+      "width": "200",
+      "height": "128",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "CANVAS",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth:\n\nNine Paintings with Words as Art, 1966",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/DerekJarmanLightSculpture.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "96",
+      "height": "151",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Derek Jarman:\n\nLight Sculpture,\n\nca. 1970",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/neon-Kosuth65Neon-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth:\n\n\"Neon\", 1965",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/70bruce_naumann-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bruce Naumann:\n\n\"none sing / neon sign\", 1970",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2004TraceyEminRWAFB-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "167",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tracey Emin:\n\nRed, White & Fucking Blue, 2004",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2006ReynaldDrouhinKeyword-s.jpg",
+      "alt": "",
+      "caption": "Reynald Drouhin: Keyword, 2006",
+      "width": "230",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/ben-ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1966",
+      "width": "200",
+      "height": "163",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/bochner-BochnerMsrmntRoom1969-S.jpg",
+      "alt": "",
+      "caption": "Mel Bochner: Measurement Room, 1969 (detail)",
+      "width": null,
+      "height": null,
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/measurement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/anastasi-AnastasiWall67-s.jpg",
+      "alt": "",
+      "caption": "William Anastasi, 1967",
+      "width": null,
+      "height": null,
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/anastasi",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/arman-ArmanAccumulation73Detail.jpg",
+      "alt": "",
+      "caption": "Arman: Accumulation, 1973 (detail)",
+      "width": "145",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/90hdevries-hermandevriesChange1991-s.jpg",
+      "alt": "",
+      "caption": "herman de vries, 1991",
+      "width": "230",
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/91FredEerdekens-TIADBN&O-s.jpg",
+      "alt": "",
+      "caption": "Fred Eerdekens: The image as distance between name and object, 1991.",
+      "width": "230",
+      "height": "145",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/weiner-1996-s.gif",
+      "alt": "",
+      "caption": "Lawrence Weiner:\"A translation from one language to another / Een vertaling van de ene taal naar de andere\", 1996.",
+      "width": "198",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/CealFloyer2005RsrvdRvrsd-s.jpg",
+      "alt": "",
+      "caption": "Ceal Floyer:\n\nReserved/Reversed, 2005",
+      "width": "200",
+      "height": "148",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/67Dietman67-s.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: \"Pain\", 1967",
+      "width": "230",
+      "height": "112",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2001MathieuMercierCaracteresS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "122",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mathieu Mercier:\n\n\"Caractères\", 2001",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2003Holzer-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "229",
+      "height": "183",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jenny Holzer:\n\n\"Scrivendi sui muri di notte\", 2003",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/99-stefan-brueggemann-99[conceptual]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "193",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Stefan Brüggemann:\n\n\"Looks Conceptual\", 1999",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2004AnnikaStroem-Kosutt-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "171",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Annika Stroem:\n\n\"This work refers to Joseph Kosutt\", 2004",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Trivial self-description",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Bordering on the tautological, there are self-referential artworks\nwhich convey unremarkable (but contingent)\ninformation about themselves.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/BillyAppleForSale1960-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Billy Apple:\n\nFor Sale, 1960",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2004BjarneMelgaardUnt-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "148",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bjarne Melgaard:\n\nUntitled, 2004",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2005ArnaudLabelle-Rojoux-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "175",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arnaud Labelle-Rojoux:\n\n\"Profitez-en – l'art est encore en vente libre!\", 2005",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/2005-MatthieuLaurette-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Matthieu Lorette:\n\n\"Let's make lots of money\", 2005",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/annika-stroem-Support-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Annika Ström:\n\n\"This piece is made to support me\"",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/61MorrisBoxWTSOIOM-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "185",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Morris:\n\nBox with the sound of its own making, 1961",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/68BaldessariDocumentation-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "295",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Baldessari:\n\nA painting that is its own documentation, 1968",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lewis Carroll: \"the country itself, as its own map\".\n\n\n\n\n“That’s another thing we’ve learned from your Nation,” said Mein Herr, “map-making. But we’ve carried it much further than you. What do you consider the largest map that would be really useful?”\n“About six inches to the mile.”\n“Only six inches!” exclaimed Mein Herr. “We very soon got to six yards to the mile. Then we tried a hundred yards to the mile. And then came the grandest idea of all! We actually made a map of the country, on the scale of a mile to the mile!”\n”Have you used it much?” I enquired.\n“It has never been spread\nout, yet,” said Mein Herr: “the farmers objected:\nthey said it would cover the whole country, and shut out\nthe sunlight! So we now use the country itself, as its\nown map, and I assure you it does nearly as well.\"\n\n\n\nSylvie and Bruno Concluded, 1893 [Chapter XI: The Man in the Moon.]",
+      "links": [
+        {
+          "text": "Chapter XI: The Man in the Moon.",
+          "href": "http://www.hoboes.com/html/FireBlade/Carroll/Sylvie/Concluded/Chapter11.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Self-denotation.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "As the tautology is the redundant\nproposition, the self-representing image is the redundant sign.\nThis kind of vacuous mimesis is displayed, for instance, by Marcel\nDuchamp's readymades, Aleksandr Rodchenko's monochromes, and\nJasper Johns' flags. (Self-denotation constitutes by no means\nthe only possible interpretation of these works one,\nbut it is the most parsimonious one. Noting that the very emptiness\nof these works invites hallucinatory over-interpretation, one\nmay decide to decline the invitation.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth acknowledged\nthe connection between pop and conceptual art: \"And in Jasper\nJohns' work – such as his 'Target' and 'Flag' paintings\nand his ale cans – one has a particularly good example of\nart existing as analytical proposition.\" [ \"Art after\nPhilosophy, Part II.\" Studio International, November\n1969, p. 161.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur Danto: \"Some\ninteresting attempts in contemporary art have been made, pre-eminently,\nI think, by Jasper Johns, to collapse the distance between\nvehicle and content, making the properties of the thing shown\ncoincident with the properties of the vehicle, and hence destroying\nthe semantical space between reality and art. Needless to say,\nI regard all such attempts as logically foredoomed.\" [In:\n\"The Transfiguration of the Commonplace.\" The\nJournal of Aesthetics and Art Criticism, Vol. 33, No.\n2 (Winter, 1974), pp. 139--148\n(p. 148).]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/CornelisGijsbrechtsCa1670.jpeg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "149",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome/back",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cornelis Gijsbrechts:\n\nCanvas, 1670",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/flesrekS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel Duchamp:\n\nPorte-bouteilles, 1914",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/Rodchenko21-PureBlueColor.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "166",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aleksandr Rodchenko:\n\nPure Blue Color, 1921",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/condition-31-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "René Magritte:\n\nLa Belle Captive, 1931",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/johns-JohnsFlag1954-55-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/johns",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jasper Johns:\n\nFlag, 1954-55",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/indiana-zero_indiana_1964-SS.gif",
+      "alt": "",
+      "caption": "Robert Indiana: Zero, 1964",
+      "width": "125",
+      "height": "150",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/indiana",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/AtkinsonBaldwin67MOI-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "150",
+      "height": "141",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Terry Atkinson and Michael Baldwin:\n\nMap of an area of dimension 12''x12'' indicating 2.304 1/4\" squares (Map of itself), 1967 (detail).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This 'map' has no correspondence with anything else but itself in terms of the spatial indices. It is 'the country itself'.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Baldwin, Charles Harrison, Mel Ramsden:\n\nArt & Language in Practice. Vol. 1. Illustrated Handbook.\n\nCatalogue Fundació Antoni Tàpies. Barcelona, 1999.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Tautology in Software Art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Patrick May: Lightswitch,\n2000. A self-documenting web-page.",
+      "links": [
+        {
+          "text": "Lightswitch",
+          "href": "http://www.sylloge.com/5k/entries/16/lightswitch.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RiXtA (3SC): Self Disassembler,\n2000. A program which prints out its own code.\n\n(Assembly code for MSDOS. Download here.)",
+      "links": [
+        {
+          "text": "Download here.",
+          "href": "/concept/tautology/selfdasm-zip",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "More tautological and self-denoting works by:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "René Magritte",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/magritte",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben Vautier",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/ben",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jasper Johns",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/johns",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Indiana",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/indiana",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "William Anastasi",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/anastasi",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On Kawara",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/on-kawara",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Joseph Kosuth",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/kosuth",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mel Bochner",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/measurement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Stefan Brüggemann",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/99-stefan-brueggemann",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Tautology: Related genres",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Redundant\nPhotography",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/photo",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Redundant Video",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/video",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art\nAbout Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/art-about-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Measurement\nPieces",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/measurement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Monochromes",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/monochrome",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Readymades",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/readymade",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Is all art tautological?",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Discussion at the end of the Kosuth page",
+      "links": [
+        {
+          "text": "",
+          "href": "/concept/tautology/kosuth",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2002-2008",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jochem van der Spek suggested one of the links.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/GerhardRuehm-1955-Bild-ss.jpg",
+      "alt": "",
+      "caption": "Gerhard Rühm: Ein-wort-tafel, 1955",
+      "legacy_src": "GerhardRuehm-1955-Bild-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/72TimmUlrichsBild-s.jpg",
+      "alt": "",
+      "caption": "Timm Ulrichs: Bild, 1972",
+      "legacy_src": "72TimmUlrichsBild-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben-ben-1958-art-ss.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Art, 1958",
+      "legacy_src": "ben/ben-1958-art-ss.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/62-lichtenstein-Lichtenstein-62-ART-s.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Art, 1962",
+      "legacy_src": "62-Lichtenstein/Lichtenstein-62-ART-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben-ben-1958-rouge-SS.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Rouge, 1958",
+      "legacy_src": "ben/ben-1958-rouge-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/62-LeWitt-RSWL.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt: Red Square, White Letters, 1962",
+      "legacy_src": "62-LeWitt-RSWL.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/kosuth-kosuthRED-s.jpg",
+      "alt": "",
+      "caption": "Joseph Kosuth: Wittgenstein's Color, 1989",
+      "legacy_src": "kosuth/kosuthRED-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/on-kawara-63-NSE-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "OnKawara/63-NSE-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/90hdevries-hdevries-90-this-S.jpg",
+      "alt": "",
+      "caption": "herman de vries, 1990",
+      "legacy_src": "90hdevries/hdevries-90-this-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/62-lichtenstein-RL-Masterpiece1962-s.jpg",
+      "alt": "",
+      "caption": "Roy Lichtenstein: Masterpiece, 1962",
+      "legacy_src": "62-Lichtenstein/RL-Masterpiece1962-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/96-EngelsWellPainted-s.jpg",
+      "alt": "",
+      "caption": "Pieter Engels: Well painted, 1996.",
+      "legacy_src": "96-EngelsWellPainted-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/Kounellis-Unt(Paint)1965-S.jpg",
+      "alt": "",
+      "caption": "Yannis Kounellis:\n\nUntitled (\"Paint\"), 1965",
+      "legacy_src": "Kounellis-Unt(Paint)1965-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/68Ramsden-100PctAbstractS.jpg",
+      "alt": "",
+      "caption": "Mel Ramsden: 100 % Abstract, 1968",
+      "legacy_src": "68Ramsden-100PctAbstractS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben-ben-1965-toile-SS.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Toile, 1965",
+      "legacy_src": "ben/ben-1965-toile-SS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/DerekJarmanLightSculpture.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "DerekJarmanLightSculpture.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/neon-Kosuth65Neon-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "kosuth/neon/Kosuth65Neon-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/70bruce_naumann-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "70bruce_naumann-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2004TraceyEminRWAFB-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004TraceyEminRWAFB-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2006ReynaldDrouhinKeyword-s.jpg",
+      "alt": "",
+      "caption": "Reynald Drouhin: Keyword, 2006",
+      "legacy_src": "2006ReynaldDrouhinKeyword-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/ben-ben-1966-toile45cm-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier, 1966",
+      "legacy_src": "ben/ben-1966-toile45cm-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/bochner-BochnerMsrmntRoom1969-S.jpg",
+      "alt": "",
+      "caption": "Mel Bochner: Measurement Room, 1969 (detail)",
+      "legacy_src": "measurement/bochner/BochnerMsrmntRoom1969-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/anastasi-AnastasiWall67-s.jpg",
+      "alt": "",
+      "caption": "William Anastasi, 1967",
+      "legacy_src": "anastasi/AnastasiWall67-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/arman-ArmanAccumulation73Detail.jpg",
+      "alt": "",
+      "caption": "Arman: Accumulation, 1973 (detail)",
+      "legacy_src": "arman/ArmanAccumulation73Detail.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/90hdevries-hermandevriesChange1991-s.jpg",
+      "alt": "",
+      "caption": "herman de vries, 1991",
+      "legacy_src": "90hdevries/hermandevriesChange1991-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/91FredEerdekens-TIADBN&O-s.jpg",
+      "alt": "",
+      "caption": "Fred Eerdekens: The image as distance between name and object, 1991.",
+      "legacy_src": "91FredEerdekens-TIADBN&O-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/weiner-1996-s.gif",
+      "alt": "",
+      "caption": "Lawrence Weiner:\"A translation from one language to another / Een vertaling van de ene taal naar de andere\", 1996.",
+      "legacy_src": "weiner-1996-s.gif"
+    },
+    {
+      "src": "/images/concept/tautology/CealFloyer2005RsrvdRvrsd-s.jpg",
+      "alt": "",
+      "caption": "Ceal Floyer:\n\nReserved/Reversed, 2005",
+      "legacy_src": "CealFloyer2005RsrvdRvrsd-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/67Dietman67-s.jpg",
+      "alt": "",
+      "caption": "Erik Dietman: \"Pain\", 1967",
+      "legacy_src": "67Dietman67-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2001MathieuMercierCaracteresS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2001MathieuMercierCaracteresS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2003Holzer-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2003Holzer-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/99-stefan-brueggemann-99[conceptual]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "99StefanBrueggemann/99%5Bconceptual%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2004AnnikaStroem-Kosutt-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004AnnikaStroem-Kosutt-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/BillyAppleForSale1960-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "BillyAppleForSale1960-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2004BjarneMelgaardUnt-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2004BjarneMelgaardUnt-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2005ArnaudLabelle-Rojoux-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2005ArnaudLabelle-Rojoux-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/2005-MatthieuLaurette-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2005-MatthieuLaurette-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/annika-stroem-Support-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AnnikaStroem/Support-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/61MorrisBoxWTSOIOM-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "61MorrisBoxWTSOIOM-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/68BaldessariDocumentation-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "68BaldessariDocumentation-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/CornelisGijsbrechtsCa1670.jpeg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "CornelisGijsbrechtsCa1670.jpeg"
+    },
+    {
+      "src": "/images/concept/tautology/flesrekS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "flesrekS.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/Rodchenko21-PureBlueColor.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Rodchenko21-PureBlueColor.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/condition-31-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "magritte/Condition/31-LaBelleCaptive-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/johns-JohnsFlag1954-55-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Johns/JohnsFlag1954-55-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/indiana-zero_indiana_1964-SS.gif",
+      "alt": "",
+      "caption": "Robert Indiana: Zero, 1964",
+      "legacy_src": "Indiana/zero_indiana_1964-SS.gif"
+    },
+    {
+      "src": "/images/concept/tautology/AtkinsonBaldwin67MOI-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "AtkinsonBaldwin67MOI-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/concept/art-about-art",
+    "/concept/paradox",
+    "/concept/tautology/99-stefan-brueggemann",
+    "/concept/tautology/anastasi",
+    "/concept/tautology/ben",
+    "/concept/tautology/indiana",
+    "/concept/tautology/johns",
+    "/concept/tautology/kosuth",
+    "/concept/tautology/magritte",
+    "/concept/tautology/measurement",
+    "/concept/tautology/on-kawara",
+    "/concept/tautology/photo",
+    "/concept/tautology/selfdasm-zip",
+    "/concept/tautology/video",
+    "/nothing/monochrome",
+    "/nothing/monochrome/back",
+    "/things/readymade"
+  ]
+}

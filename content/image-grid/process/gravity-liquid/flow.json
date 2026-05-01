@@ -1,0 +1,898 @@
+{
+  "slug": "process/gravity-liquid/flow",
+  "legacy_path": "process/gravity-liquid/flow/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "flowing and trickling",
+  "heading": "flowing and trickling",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "flowing and trickling",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Ellsworth Kelly",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jackson Pollock",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1950-kelly-AutomaticDrwing-s.jpg",
+      "alt": "",
+      "caption": "Automatic Drawing, 1950",
+      "width": "349",
+      "height": "260",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1950-Pollock-PouredBlckShpe-s.jpg",
+      "alt": "",
+      "caption": "Poured Black Shape, 1950",
+      "width": "325",
+      "height": "260",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Morris Louis",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1954_isis-s.jpg",
+      "alt": "",
+      "caption": "Isis, 1954",
+      "width": "376",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-acrylic-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1954",
+      "width": "228",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-3.jpg",
+      "alt": "",
+      "caption": "1954",
+      "width": "213",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-Untitled[4].jpg",
+      "alt": "",
+      "caption": "Untitled, 1954",
+      "width": "373",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1958-tet-s.jpg",
+      "alt": "",
+      "caption": "Tet, 1958",
+      "width": "458",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Yves Klein",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1956-ikb40-s.jpg",
+      "alt": "",
+      "caption": "Monochrome bleu sans titre (coulée)\n\n(IKB 40), 1956",
+      "width": "324",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1957-YM(M8)-s.jpg",
+      "alt": "",
+      "caption": "Monochrome Jaune\n\n(M 8), 1957",
+      "width": "222",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1957-M17-s.jpg",
+      "alt": "",
+      "caption": "Monochrome Noir\n\n(M 17), 1957",
+      "width": "125",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Markus Prachensky",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1959-prachensky-Picture-1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "349",
+      "height": "210",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peinture liquide. Red paint flowing down three\nlarge white panels.\n\nLive performance, Theater am Fleischmarkt, Vienna,\n1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hermann Nitsch",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1962_Blutorgelbild.jpg",
+      "alt": "",
+      "caption": "Blutorgelbild, 1962",
+      "width": "1010",
+      "height": "226",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1960-BrotUndWein-s.jpg",
+      "alt": "",
+      "caption": "Brot und Wein, 1960",
+      "width": "273",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1963Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 1963",
+      "width": "191",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1986-Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 1986",
+      "width": "347",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sadamasa Motonaga",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1961-sadamasa-motonaga-1961Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "width": "446",
+      "height": "280",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Niki de St. Phalle",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1961StPhalleTirALaCarabineS.jpg",
+      "alt": "",
+      "caption": "Tir à la Carabine, 1961",
+      "width": "247",
+      "height": "280",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "William Anastasi",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1966-Anastasi-Unt(1Gallon)-s.jpg",
+      "alt": "",
+      "caption": "One Gallon Industrial High Enamel,\nPoured (1966)",
+      "width": "189",
+      "height": "280",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Dieter Roth",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-motorradfahrer-motocycliste-s.jpg",
+      "alt": "",
+      "caption": "Motorradfahrer, 1969",
+      "width": "367",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-roth-1970-Kaeserennen-s.png",
+      "alt": "",
+      "caption": "Käserennen, 1970",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Smithson",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-1969GluePour-C-S.jpg",
+      "alt": "",
+      "caption": "Glue Pour, 1969",
+      "width": "225",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-69-glue_on_glass-s.jpg",
+      "alt": "",
+      "caption": "Glue on Glass, 1969",
+      "width": "193",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-69-AsphaltRundown-s.jpg",
+      "alt": "",
+      "caption": "Asphalt Rundown, 1969",
+      "width": "259",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-AsphaltOnErodedClff69.jpg",
+      "alt": "",
+      "caption": "Asphalt on Cliff, 1969",
+      "width": "270",
+      "height": "198",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Larry Poons",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-72DeSelect-s.jpg",
+      "alt": "",
+      "caption": "De Select, 1972",
+      "width": "171",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled1974c-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "width": "174",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-79-Marywillow1979.jpg",
+      "alt": "",
+      "caption": "Marywillow, 1979",
+      "width": "144",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-HalfwayIsland.jpg",
+      "alt": "",
+      "caption": "Halfway Island",
+      "width": "151",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled1974b-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "width": "161",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "width": "169",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Andy Warhol",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "John Armleder",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Ben Vautier",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1978-warhol-piss-Warhol1978PissPainting-M.jpg",
+      "alt": "",
+      "caption": "Piss Painting, 1978",
+      "width": "225",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1986-JohnArmleder-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1986",
+      "width": "198",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/Ben-Zufall_IstDa-s.jpg",
+      "alt": "",
+      "caption": "\"Zufall ist da.\"",
+      "width": "202",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/Ben-DerZufallWollteEsSo-s.jpg",
+      "alt": "",
+      "caption": "\"Der Zufall wollte es so.\"",
+      "width": "230",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Pat Steir",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1988-ChineseWaterfall-s.jpg",
+      "alt": "",
+      "caption": "Chinese Waterfall, 1988",
+      "width": "182",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1988-Waterfall-pat-steir-s.jpg",
+      "alt": "",
+      "caption": "Waterfall, 1988",
+      "width": "123",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1991-2000-AfterTheFall_IV-s.jpg",
+      "alt": "",
+      "caption": "After the Fall IV, 1991-2000",
+      "width": "238",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-[GreenOnWall]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "206",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-1994-Red,White+GreyWaterfall-s.jpg",
+      "alt": "",
+      "caption": "Red, White and Grey Waterfall,\n\n1994",
+      "width": "128",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-2001-PeacockWtrfall-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "126",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Peacock Waterfall,\n\n2001",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/selectie-2005-BlueRiver-C.jpg",
+      "alt": "",
+      "caption": "Blue River, 2005",
+      "width": "478",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Roxy Paine",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-1997-PaintDipper-s.jpg",
+      "alt": "",
+      "caption": "Paint Dipper, 1997",
+      "width": "240",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-1999-2000-PMU(PntngMnfctreUnit)-s.jpg",
+      "alt": "",
+      "caption": "Painting Manufacture Unit (PMU), 1999-2000",
+      "width": "318",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-2003-PMU_No.12-s.jpg",
+      "alt": "",
+      "caption": "PMU No. 12, 2003",
+      "width": "351",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-dripper[qm]-778806-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "365",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-2005-pmu_no._17-s.jpg",
+      "alt": "",
+      "caption": "PMU No. 17, 2005",
+      "width": "367",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Holton Rower",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-holton_rower_01-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "409",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-pour07-s.jpg",
+      "alt": "",
+      "caption": "Tall Paintings (Poured), 2010/2011",
+      "width": "259",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-2011-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 2011",
+      "width": "234",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Smithson: 'Entropy and the New Monuments'. 1966",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/flow/1950-kelly-AutomaticDrwing-s.jpg",
+      "alt": "",
+      "caption": "Automatic Drawing, 1950",
+      "legacy_src": "1950-kelly-AutomaticDrwing-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1950-Pollock-PouredBlckShpe-s.jpg",
+      "alt": "",
+      "caption": "Poured Black Shape, 1950",
+      "legacy_src": "1950-Pollock-PouredBlckShpe-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1954_isis-s.jpg",
+      "alt": "",
+      "caption": "Isis, 1954",
+      "legacy_src": "1954-MorrisLouis/Selectie/1954_isis-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-acrylic-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1954",
+      "legacy_src": "1954-MorrisLouis/Selectie/1954-acrylic-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-3.jpg",
+      "alt": "",
+      "caption": "1954",
+      "legacy_src": "1954-MorrisLouis/Selectie/1954-3.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1954-Untitled[4].jpg",
+      "alt": "",
+      "caption": "Untitled, 1954",
+      "legacy_src": "1954-MorrisLouis/Selectie/1954-Untitled%5B4%5D.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1958-tet-s.jpg",
+      "alt": "",
+      "caption": "Tet, 1958",
+      "legacy_src": "1954-MorrisLouis/Selectie/1958-tet-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1956-ikb40-s.jpg",
+      "alt": "",
+      "caption": "Monochrome bleu sans titre (coulée)\n\n(IKB 40), 1956",
+      "legacy_src": "1957-klein/1956-ikb40-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1957-YM(M8)-s.jpg",
+      "alt": "",
+      "caption": "Monochrome Jaune\n\n(M 8), 1957",
+      "legacy_src": "1957-klein/1957-YM(M8)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1957-klein-1957-M17-s.jpg",
+      "alt": "",
+      "caption": "Monochrome Noir\n\n(M 17), 1957",
+      "legacy_src": "1957-klein/1957-M17-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1959-prachensky-Picture-1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1959-Prachensky/Picture-1.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1962_Blutorgelbild.jpg",
+      "alt": "",
+      "caption": "Blutorgelbild, 1962",
+      "legacy_src": "1960-HermannNitsch/Selectie/1962_Blutorgelbild.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1960-BrotUndWein-s.jpg",
+      "alt": "",
+      "caption": "Brot und Wein, 1960",
+      "legacy_src": "1960-HermannNitsch/Selectie/1960-BrotUndWein-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1963Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 1963",
+      "legacy_src": "1960-HermannNitsch/Selectie/1963Schuettbild-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1986-Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 1986",
+      "legacy_src": "1960-HermannNitsch/Selectie/1986-Schuettbild-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1961-sadamasa-motonaga-1961Unt.jpg",
+      "alt": "",
+      "caption": "Untitled, 1961",
+      "legacy_src": "1961-SadamasaMotonaga/1961Unt.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1961StPhalleTirALaCarabineS.jpg",
+      "alt": "",
+      "caption": "Tir à la Carabine, 1961",
+      "legacy_src": "1961StPhalleTirALaCarabineS.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1966-Anastasi-Unt(1Gallon)-s.jpg",
+      "alt": "",
+      "caption": "One Gallon Industrial High Enamel,\nPoured (1966)",
+      "legacy_src": "1966-Anastasi-Unt(1Gallon)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-motorradfahrer-motocycliste-s.jpg",
+      "alt": "",
+      "caption": "Motorradfahrer, 1969",
+      "legacy_src": "1969-Roth/1969-motorradfahrer/motocycliste-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-roth-1970-Kaeserennen-s.png",
+      "alt": "",
+      "caption": "Käserennen, 1970",
+      "legacy_src": "1969-Roth/1970-Kaeserennen-s.png"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-1969GluePour-C-S.jpg",
+      "alt": "",
+      "caption": "Glue Pour, 1969",
+      "legacy_src": "1969-Smithson/1969GluePour-C-S.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-69-glue_on_glass-s.jpg",
+      "alt": "",
+      "caption": "Glue on Glass, 1969",
+      "legacy_src": "1969-Smithson/69-glue_on_glass-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-69-AsphaltRundown-s.jpg",
+      "alt": "",
+      "caption": "Asphalt Rundown, 1969",
+      "legacy_src": "1969-Smithson/69-AsphaltRundown-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1969-smithson-AsphaltOnErodedClff69.jpg",
+      "alt": "",
+      "caption": "Asphalt on Cliff, 1969",
+      "legacy_src": "1969-Smithson/AsphaltOnErodedClff69.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-72DeSelect-s.jpg",
+      "alt": "",
+      "caption": "De Select, 1972",
+      "legacy_src": "1972-poons/72DeSelect-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled1974c-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "legacy_src": "1972-poons/74-Untitled1974c-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-79-Marywillow1979.jpg",
+      "alt": "",
+      "caption": "Marywillow, 1979",
+      "legacy_src": "1972-poons/79-Marywillow1979.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-HalfwayIsland.jpg",
+      "alt": "",
+      "caption": "Halfway Island",
+      "legacy_src": "1972-poons/HalfwayIsland.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled1974b-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "legacy_src": "1972-poons/74-Untitled1974b-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1972-poons-74-Untitled-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1974",
+      "legacy_src": "1972-poons/74-Untitled-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1978-warhol-piss-Warhol1978PissPainting-M.jpg",
+      "alt": "",
+      "caption": "Piss Painting, 1978",
+      "legacy_src": "1978-Warhol-Piss/Warhol1978PissPainting-M.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1986-JohnArmleder-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1986",
+      "legacy_src": "1986-JohnArmleder-Unt-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/Ben-Zufall_IstDa-s.jpg",
+      "alt": "",
+      "caption": "\"Zufall ist da.\"",
+      "legacy_src": "Ben-Zufall_IstDa-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/Ben-DerZufallWollteEsSo-s.jpg",
+      "alt": "",
+      "caption": "\"Der Zufall wollte es so.\"",
+      "legacy_src": "Ben-DerZufallWollteEsSo-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1988-ChineseWaterfall-s.jpg",
+      "alt": "",
+      "caption": "Chinese Waterfall, 1988",
+      "legacy_src": "1988-PatSteir/Selectie/1988-ChineseWaterfall-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1988-Waterfall-pat-steir-s.jpg",
+      "alt": "",
+      "caption": "Waterfall, 1988",
+      "legacy_src": "1988-PatSteir/Selectie/1988-Waterfall-pat-steir-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1991-2000-AfterTheFall_IV-s.jpg",
+      "alt": "",
+      "caption": "After the Fall IV, 1991-2000",
+      "legacy_src": "1988-PatSteir/Selectie/1991-2000-AfterTheFall_IV-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-[GreenOnWall]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1988-PatSteir/Selectie/%5BGreenOnWall%5D-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-1994-Red,White+GreyWaterfall-s.jpg",
+      "alt": "",
+      "caption": "Red, White and Grey Waterfall,\n\n1994",
+      "legacy_src": "1988-PatSteir/Selectie/1994-Red,White+GreyWaterfall-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-2001-PeacockWtrfall-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1988-PatSteir/Selectie/2001-PeacockWtrfall-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/selectie-2005-BlueRiver-C.jpg",
+      "alt": "",
+      "caption": "Blue River, 2005",
+      "legacy_src": "1988-PatSteir/Selectie/2005-BlueRiver-C.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-1997-PaintDipper-s.jpg",
+      "alt": "",
+      "caption": "Paint Dipper, 1997",
+      "legacy_src": "1997-RoxyPaine/1997-PaintDipper-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-1999-2000-PMU(PntngMnfctreUnit)-s.jpg",
+      "alt": "",
+      "caption": "Painting Manufacture Unit (PMU), 1999-2000",
+      "legacy_src": "1997-RoxyPaine/1999-2000-PMU(PntngMnfctreUnit)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-2003-PMU_No.12-s.jpg",
+      "alt": "",
+      "caption": "PMU No. 12, 2003",
+      "legacy_src": "1997-RoxyPaine/2003-PMU_No.12-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-dripper[qm]-778806-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1997-RoxyPaine/dripper%5Bqm%5D-778806-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/1997-roxy-paine-2005-pmu_no._17-s.jpg",
+      "alt": "",
+      "caption": "PMU No. 17, 2005",
+      "legacy_src": "1997-RoxyPaine/2005-pmu_no._17-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-holton_rower_01-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "2011-Holton%20Rower/holton_rower_01-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-pour07-s.jpg",
+      "alt": "",
+      "caption": "Tall Paintings (Poured), 2010/2011",
+      "legacy_src": "2011-Holton%20Rower/pour07-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/flow/2011-holton-rower-2011-Unt-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 2011",
+      "legacy_src": "2011-Holton%20Rower/2011-Unt-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

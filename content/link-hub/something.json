@@ -1,0 +1,159 @@
+{
+  "slug": "something",
+  "legacy_path": "something/index.html",
+  "section": "something",
+  "archetype": "link-hub",
+  "title": "something",
+  "heading": "something",
+  "description": "elementary shapes and elementary non-shapes",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "something",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "[elementary shapes and elementary non-shapes]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/something/On_Kawara-63-Something-NSE-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "300",
+      "height": "199",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On Kawara: \"Something\", 1963\n\n[From: Nothing/Something/Everything]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Within the realm of objective, unexpressive, \"anti-artistic\" art,\nsome of the most common strategies\nare defined by the notions of everything (the\nwhole world), anything (chance),\nand nothing (empty\nspace, monochrome painting, etc.). The virtually vacuous\nnotion of something completes this list.\nIt is a convenient label for another important strategy,\nthat is perhaps a bit more subtle\nand less easy to identify: an art of pure facticity, which\nforsakes painting and turns to material objects, but which\nalso wishes to avoid sculpture and construction because\nit is not interested in non-trivial shape. It seems to\naim for the impossible three-dimensional equivalent of\nmonochrome painting: the object which presents pure objecthood.",
+      "links": [
+        {
+          "text": "everything",
+          "href": "/everything",
+          "external": false
+        },
+        {
+          "text": "anything",
+          "href": "/anything",
+          "external": false
+        },
+        {
+          "text": "nothing",
+          "href": "/nothing",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "blocks",
+      "links": [
+        {
+          "text": "blocks",
+          "href": "/something/blocks",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "balls",
+      "links": [
+        {
+          "text": "balls",
+          "href": "/something/balls",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "bags",
+      "links": [
+        {
+          "text": "bags",
+          "href": "/something/bags",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "poles rolls",
+      "links": [
+        {
+          "text": "poles",
+          "href": "/something/poles",
+          "external": false
+        },
+        {
+          "text": "rolls",
+          "href": "/something/rolls",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Related genres:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "L'Informe",
+      "links": [
+        {
+          "text": "",
+          "href": "/informe",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nReadymade",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/readymade",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/something/On_Kawara-63-Something-NSE-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "On_Kawara-63-Something-NSE-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/anything",
+    "/everything",
+    "/informe",
+    "/nothing",
+    "/something/bags",
+    "/something/balls",
+    "/something/blocks",
+    "/something/poles",
+    "/something/rolls",
+    "/things/readymade"
+  ]
+}

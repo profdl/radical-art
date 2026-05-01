@@ -1,0 +1,44 @@
+{
+  "slug": "anything/open-form",
+  "legacy_path": "anything/OpenForm/index.html",
+  "section": "anything",
+  "archetype": "leaf-intro",
+  "title": "Open Form",
+  "heading": "",
+  "description": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "open form: the unfinished artwork",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[pieces meant to be constructed, modified or rearranged\nat will by the spectator, the collector, or the curator]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Bruce Nauman: \"I mistrust audience participation.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Exhibition catalogue, Minneapolis, Walker Art Center, 1994, p. 77.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The trouble with participation, it seems, is that apart from making us forget what art's all about, and inducing the very restlessnes of mind which it's supposed to ease, it makes people behave like wild beasts [...].\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michael Shepherd: Review of Robert Morris Retrospective. Sunday Telegraph, 9 May 1971. [Quoted in Jon Bird: \"Minding the Body: Robert Morris's 1971 Tate Gallery Retrospective.\" In: Michael Newman & Jon Bird (eds): Rewriting Conceptual Art. London: Reaktion Books, 1999, p. 88.]",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

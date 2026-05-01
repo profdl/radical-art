@@ -1,0 +1,377 @@
+{
+  "slug": "process",
+  "legacy_path": "process/index.html",
+  "section": "process",
+  "archetype": "link-hub",
+  "title": "process",
+  "heading": "physical \n    processes generating works of art",
+  "description": "physical/chemical processes     generating works of visual art",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "radical\nart homepage",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "physical\nprocesses\n\ngenerating works of art",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "vibrations",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "plates, rods & pendulums\n\n\n\nmechanical machines\n\n\n\nanimal art",
+      "links": [
+        {
+          "text": "plates, rods & pendulums",
+          "href": "/process/vibration/chladni-lissajous",
+          "external": false
+        },
+        {
+          "text": "mechanical machines",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        },
+        {
+          "text": "animal art",
+          "href": "/process/vibration/animal",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "solid dynamics",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "drop",
+      "links": [
+        {
+          "text": "drop",
+          "href": "/process/drop",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "liquid dynamics",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "drip",
+      "links": [
+        {
+          "text": "drip",
+          "href": "/process/gravity-liquid/drip",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "(onto horizontal plane)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "pour",
+      "links": [
+        {
+          "text": "pour",
+          "href": "/process/gravity-liquid/pour",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "(onto horizontal plane)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "flow\n& trickle",
+      "links": [
+        {
+          "text": "flow & trickle",
+          "href": "/process/gravity-liquid/flow",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "(along\nvertical plane)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "throw",
+      "links": [
+        {
+          "text": "throw",
+          "href": "/process/gravity-liquid/throw",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "thrash",
+      "links": [
+        {
+          "text": "thrash",
+          "href": "/process/gravity-liquid/thrash",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "swirl",
+      "links": [
+        {
+          "text": "swirl",
+          "href": "/process/gravity-liquid/swirl",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "phase transition",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "condensation",
+      "links": [
+        {
+          "text": "condensation",
+          "href": "/process/condensation",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "viscosity",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "liquid\nprojections",
+      "links": [
+        {
+          "text": "liquid projections",
+          "href": "/process/liquid-projection",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "mechanical transformations",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "grind",
+      "links": [
+        {
+          "text": "grind",
+          "href": "/process/grind",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "tear",
+      "links": [
+        {
+          "text": "tear",
+          "href": "/process/tear",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "shatter",
+      "links": [
+        {
+          "text": "shatter",
+          "href": "/process/shatter",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "smash",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "squeeze",
+      "links": [
+        {
+          "text": "squeeze",
+          "href": "/process/squeeze",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "suck",
+      "links": [
+        {
+          "text": "suck",
+          "href": "/process/implosion",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "chemical reactions",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "rust",
+      "links": [
+        {
+          "text": "rust",
+          "href": "/process/rust",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "burn",
+      "links": [
+        {
+          "text": "burn",
+          "href": "/process/burn",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "blast",
+      "links": [
+        {
+          "text": "blast",
+          "href": "/process/blast",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "related genres:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "art generation by means of simulated physics: cellular automata",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "art generation by means of simulated movement",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/movement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "website by remko scha, 2007-2012",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/grid/cellular",
+    "/algorithmic-art/movement",
+    "/process/blast",
+    "/process/burn",
+    "/process/condensation",
+    "/process/drop",
+    "/process/gravity-liquid/drip",
+    "/process/gravity-liquid/flow",
+    "/process/gravity-liquid/pour",
+    "/process/gravity-liquid/swirl",
+    "/process/gravity-liquid/thrash",
+    "/process/gravity-liquid/throw",
+    "/process/grind",
+    "/process/implosion",
+    "/process/liquid-projection",
+    "/process/rust",
+    "/process/shatter",
+    "/process/smash",
+    "/process/squeeze",
+    "/process/tear",
+    "/process/vibration/animal",
+    "/process/vibration/chladni-lissajous",
+    "/process/vibration/metamatic"
+  ]
+}

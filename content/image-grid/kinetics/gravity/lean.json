@@ -1,0 +1,231 @@
+{
+  "slug": "kinetics/gravity/lean",
+  "legacy_path": "kinetics/gravity/Lean/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Lean",
+  "heading": "to lean",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to lean",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1964-Morris-Wall-Floor_Slab-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nWall-Floor Slab, 1964",
+      "width": "267",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1965-LeWitt-Unt-s.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt:\n\nUntitled, 1965",
+      "width": "236",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1967-JMcC-RightDown-s.jpg",
+      "alt": "",
+      "caption": "John McCracken:\n\nRight Down, 1967",
+      "width": "169",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1970-balanced_serra-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra:\n\nBalanced, 1970",
+      "width": "262",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1967-Serra-Chunk[VulcRubber]-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Chunk, 1967\n\n[Vulcanized Rubber]",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1967-JMcC-RedPlank-s.jpg",
+      "alt": "",
+      "caption": "John McCracken:\n\nRed Plank , 1967",
+      "width": "136",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1968-eurasienstab-Eurasienstab-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys:\n\nEurasienstab, 1968",
+      "width": "162",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1968-bollinger-1969-Screen[Leaning]-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Screen, 1969",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1968-bollinger-1970-WaterPipe[]-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Water Pipe, 1970",
+      "width": "221",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1971-ScottGrieger-Imp(RS)-s.jpg",
+      "alt": "",
+      "caption": "Scott Grieger: Impersonations\n\n(Richard Serra), 1971",
+      "width": "200",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1971-ScottGriegerImp(JMcC-s.jpg",
+      "alt": "",
+      "caption": "Scott Grieger: Impersonations\n\n(John McCracken), 1971",
+      "width": "203",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1987-OT{2Parts]-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1987",
+      "width": "198",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1988-OT_ulrich-ruckriem-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1988",
+      "width": "194",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1989-OT_ulrich-ruckriem-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1989",
+      "width": "198",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/lean/1964-Morris-Wall-Floor_Slab-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nWall-Floor Slab, 1964",
+      "legacy_src": "1964-Morris-Wall-Floor_Slab-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1965-LeWitt-Unt-s.jpg",
+      "alt": "",
+      "caption": "Sol LeWitt:\n\nUntitled, 1965",
+      "legacy_src": "1965-LeWitt-Unt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1967-JMcC-RightDown-s.jpg",
+      "alt": "",
+      "caption": "John McCracken:\n\nRight Down, 1967",
+      "legacy_src": "1967-JMcC-RightDown-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1970-balanced_serra-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra:\n\nBalanced, 1970",
+      "legacy_src": "1970-balanced_serra-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1967-Serra-Chunk[VulcRubber]-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Chunk, 1967\n\n[Vulcanized Rubber]",
+      "legacy_src": "1967-Serra-Chunk%5BVulcRubber%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1967-JMcC-RedPlank-s.jpg",
+      "alt": "",
+      "caption": "John McCracken:\n\nRed Plank , 1967",
+      "legacy_src": "1967-JMcC-RedPlank-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1968-eurasienstab-Eurasienstab-s.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys:\n\nEurasienstab, 1968",
+      "legacy_src": "1968-Eurasienstab/Eurasienstab-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1968-bollinger-1969-Screen[Leaning]-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Screen, 1969",
+      "legacy_src": "1968-Bollinger/1969-Screen%5BLeaning%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1968-bollinger-1970-WaterPipe[]-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Water Pipe, 1970",
+      "legacy_src": "1968-Bollinger/1970-WaterPipe%5B%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1971-ScottGrieger-Imp(RS)-s.jpg",
+      "alt": "",
+      "caption": "Scott Grieger: Impersonations\n\n(Richard Serra), 1971",
+      "legacy_src": "1971-ScottGrieger-Imp(RS)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1971-ScottGriegerImp(JMcC-s.jpg",
+      "alt": "",
+      "caption": "Scott Grieger: Impersonations\n\n(John McCracken), 1971",
+      "legacy_src": "1971-ScottGriegerImp(JMcC-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1987-OT{2Parts]-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1987",
+      "legacy_src": "1982-UlrichRueckriem/1987-OT%7B2Parts%5D-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1988-OT_ulrich-ruckriem-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1988",
+      "legacy_src": "1982-UlrichRueckriem/1988-OT_ulrich-ruckriem-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lean/1982-ulrich-rueckriem-1989-OT_ulrich-ruckriem-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1989",
+      "legacy_src": "1982-UlrichRueckriem/1989-OT_ulrich-ruckriem-s.jpg"
+    }
+  ],
+  "out_links": []
+}

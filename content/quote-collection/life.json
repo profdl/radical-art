@@ -1,0 +1,232 @@
+{
+  "slug": "life",
+  "legacy_path": "Life/index.html",
+  "section": "Life",
+  "archetype": "quote-collection",
+  "title": "life & art (table of contents)",
+  "heading": "",
+  "description": "Life as art, art as life, etc.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "The dialectics of life and art",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[The aesthetization of\nlife & the pragmatization of art]",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Life vs. art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "It has often been suggested\nthat life is more important than art.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nprimacy of life",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/life-above-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Some artists and philosophers deprecate the realm of art because of its aesthetic limitations. They maintain that the beautiful and the sublime are better experienced outside of the art-context – in our perception of the mind, of nature, or of the world at large.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The beauty of the soul",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/soul",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The experience of living",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/breathing",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The\naesthetics of reality",
+      "links": [
+        {
+          "text": "",
+          "href": "/things/readymade/aesthetics-of-reality",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Life is art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Some artists and philosophers entertain a very broad notion of art, which encompasses all of human life. They observe that all behaviour is unavoidably expressive, or that any activity can be carried out with conscious creative intent.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyone\nis an artist",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/everyone-is-an-artist",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Art is life",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Many artists feel that their life and their person partake in the aesthetic aura of their artworks. For some of them, the artist or his life is the only or ultimate artwork.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dandyism",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/dandyism",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The artist's life",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/the-artists-life",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Living as an art performance",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/performance-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A life as an art object",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/life-is-artwork",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The artist as an art object",
+      "links": [
+        {
+          "text": "",
+          "href": "/ego",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Life shall be art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Some artists and social\nreformers aim for a society where art is not a specialized\nsector anymore, and everyone can be an artist.\nSome artists and philosophers call for a radical transformation\nof the nature of art; they envisage a future when art will\nencompass all of life. Some prophesy that art will be\nthe ultimate religion, creating universal mystic harmony.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Everyone\nshall be an artist",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/everyone-shall-be-an-artist",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art\nshall encompass life",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/life-will-be-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Art\nshall be the universal religion",
+      "links": [
+        {
+          "text": "",
+          "href": "/life/art-shall-be-religion",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/ego",
+    "/life/art-shall-be-religion",
+    "/life/breathing",
+    "/life/dandyism",
+    "/life/everyone-is-an-artist",
+    "/life/everyone-shall-be-an-artist",
+    "/life/life-above-art",
+    "/life/life-is-artwork",
+    "/life/life-will-be-art",
+    "/life/performance-art",
+    "/life/soul",
+    "/life/the-artists-life",
+    "/things/readymade/aesthetics-of-reality"
+  ]
+}

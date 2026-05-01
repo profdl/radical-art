@@ -1,0 +1,323 @@
+{
+  "slug": "destruction",
+  "legacy_path": "destruction/index.html",
+  "section": "destruction",
+  "archetype": "link-hub",
+  "title": "destruction",
+  "heading": "destruction in art",
+  "description": "Destruction and death in contemporary art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "related: process\nart – zoom out: radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "destruction in art",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "destructive processes in art production",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "blast",
+      "links": [
+        {
+          "text": "blast",
+          "href": "/process/blast",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "burn",
+      "links": [
+        {
+          "text": "burn",
+          "href": "/process/burn",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "dissolve",
+      "links": [
+        {
+          "text": "dissolve",
+          "href": "/destruction/dissolve",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "grind",
+      "links": [
+        {
+          "text": "grind",
+          "href": "/process/grind",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "pierce",
+      "links": [
+        {
+          "text": "pierce",
+          "href": "/destruction/pierce",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "rip",
+      "links": [
+        {
+          "text": "rip",
+          "href": "/destruction/rip",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "rub",
+      "links": [
+        {
+          "text": "rub",
+          "href": "/process/rub",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "shatter",
+      "links": [
+        {
+          "text": "shatter",
+          "href": "/process/shatter",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "slash",
+      "links": [
+        {
+          "text": "slash",
+          "href": "/destruction/slash/fontana",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "slice",
+      "links": [
+        {
+          "text": "slice",
+          "href": "/destruction/slice",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "smash",
+      "links": [
+        {
+          "text": "smash",
+          "href": "/process/smash",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "squeeze",
+      "links": [
+        {
+          "text": "squeeze",
+          "href": "/process/squeeze",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "suck",
+      "links": [
+        {
+          "text": "suck",
+          "href": "/process/implosion",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "tear",
+      "links": [
+        {
+          "text": "tear",
+          "href": "/process/tear",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "wipe",
+      "links": [
+        {
+          "text": "wipe",
+          "href": "/destruction/wipe",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "destruction as art:\n\ndisaster & murder",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "natural\ndisaster\n\n\n\naccidental disaster\n\n\n\nartificial disaster\n\n\n\nnegative architecture\n\n\n\nassassination",
+      "links": [
+        {
+          "text": "natural disaster",
+          "href": "/destruction/natural-disasters",
+          "external": false
+        },
+        {
+          "text": "accidental disaster",
+          "href": "/destruction/accidents",
+          "external": false
+        },
+        {
+          "text": "artificial disaster",
+          "href": "/destruction/artificial-disasters",
+          "external": false
+        },
+        {
+          "text": "negative architecture",
+          "href": "/destruction/architecture",
+          "external": false
+        },
+        {
+          "text": "assassination",
+          "href": "/destruction/assassination",
+          "external": false
+        }
+      ],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "references",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "gustav metzger: auto-destructive art manifestos, 1959-1961",
+      "links": [
+        {
+          "text": "auto-destructive art manifestos",
+          "href": "/destruction/metzger",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "richard galpin: erasure\nin art: destruction, deconstruction, and palimpsest, 1998",
+      "links": [
+        {
+          "text": "erasure in art: destruction, deconstruction, and palimpsest,",
+          "href": "http://www.users.zetnet.co.uk/richart/texts/erasure.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "© 2007, remko scha, iaaa",
+      "links": [
+        {
+          "text": "iaaa",
+          "href": "http://iaaa.nl",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/destruction/accidents",
+    "/destruction/architecture",
+    "/destruction/artificial-disasters",
+    "/destruction/assassination",
+    "/destruction/dissolve",
+    "/destruction/metzger",
+    "/destruction/natural-disasters",
+    "/destruction/pierce",
+    "/destruction/rip",
+    "/destruction/slash/fontana",
+    "/destruction/slice",
+    "/destruction/wipe",
+    "/index",
+    "/process",
+    "/process/blast",
+    "/process/burn",
+    "/process/grind",
+    "/process/implosion",
+    "/process/rub",
+    "/process/shatter",
+    "/process/smash",
+    "/process/squeeze",
+    "/process/tear"
+  ]
+}

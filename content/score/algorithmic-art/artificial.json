@@ -1,0 +1,93 @@
+{
+  "slug": "algorithmic-art/artificial",
+  "legacy_path": "AlgorithmicArt/Artificial.html",
+  "section": "AlgorithmicArt",
+  "archetype": "score",
+  "title": "Every Image",
+  "heading": "",
+  "description": "The challenge of Generative Art: All possible artworks.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The challenge of Generative Art:\nthe Space of Aesthetic Spaces",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Man kann soweit gehen, große Teile des ästhetischen\nProduktionsprozesses unter dem Anzahlaspekt zu betrachten: Künstler\nwechseln den ästhetischen Raum, wenn eine genügend\ngroße Anzahl von Objekten darin realisiert worden ist\n- vom Künstler selbst oder von anderen; wenn sie herausfinden,\ndaß ein solcher Raum schon besetzt ist; Künstler\nsuchen sich \"große\", \"offene\" Räume. Die Definition\nder ästhetischen Räume selbst ist natürlich das\neigentliche Problem. Die zwei extremfälle sind der Raum\naller überhaupt möglicher Bilder, der alle anderen\nästhetischen Räume enthält, sowie die durch jedes\neinzelne realisierte Bild definierten Räume, die keinen\nanderen Raum enthalten.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik\nals Informationsverarbeitung. Vienna/New York: Springer\nVerlag, 1974, p. 104.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nake proposes to analyse artistic styles as \"aesthetic\nspaces\": sets of possible pieces. Individual artworks evoke\nthe spaces they inhabit, and become superfluous once these spaces\nhave become sufficiently well-established. Art history is thus a\ntrajectory through the set of all possible \"aesthetic spaces\".\n\n\n\nGenerative Art implements explicit mathematical definitions of Nake's\naesthetic spaces. It thus may speed up the art-historical process:\nevery program is a style, rather than an individual piece.\n\n\n\nNake's set of all aesthetic spaces has the structure of a semi-lattice.\nAt the bottom of this directed graph are all individual art pieces;\nthe graph has a unique root which is the aesthetic space encompassing\nall other aesthetic spaces.\n\n\n\nMost generative art has implemented very constrained aesthetic spaces:\nslight generalizations of individual artworks, with less variety\nthan a short period from the oeuvre of a mediocre formalist artist.\nThe speed-up of art history is not realized in this way; this branch\nof generative art is therefore rightly ignored by the museum scene.\n\n\n\nNake's formulation, however, immediately suggests a much more interesting\nchallenge: to articulate the semi-lattice of all aesthetic spaces,\ni.e., the definition of an all-encompassing \"style to end all\nstyles\", which subsumes all (and only all) styles and substyles\ndown to the level of individual pieces. To actually do this, is\na research project which will take at least several decades. At\nthe Institute of Artificial Art Amsterdam the project \"Artificial\"\nis a first attempt in this direction.\n\n\n\nIt is not obvious that the semi-lattice of all possible aesthetic\nspaces has one objectively valid structure. It may turn out that\nits definition involves many decisions which manifest the personal\ncommitments of its designers. Though the project starts out in a\ncompletely scientific spirit, it may thus end up being an \"art\nproject\" in a traditional sense, with subjective, expressive\ncomponents. The step is nonetheless worth taking, because the project\nwill certainly be able to transcend the arbitrary and idiosyncratic\nnature of current art.",
+      "links": [
+        {
+          "text": "\"Artificial\"",
+          "href": "/algorithmic-art/http-iaaa-nl/artificial",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bibliography\n\n\n\nPeter\nvan Emde Boas: \"Mechanized\nArt and the Mad Mathematician.\" In: Hein Eberson (ed.): Artificial.\nTrademark™, Amsterdam, 1993.\n\nHuge\nHarry: \"On the Role of Machines\nand Human Persons in the Art of the Future.\" Pose 8\n(September 1992), pp. 30-35.\n\nHuge\nHarry: \"Humans and computers;\ncopies and creations.\" Lecture at Artis, 's Hertogenbosch (exhibition\nTools & Tales), January 30, 1994.\n\n\nHuge\nHarry: \"A Computer's View\non the Future of Art and Photography.\" In: Si Yuill (ed.): STRUT.\nAn Elevator Publication. Street Level Gallery, Glasgow, 1997.\n\n\nRemko\nScha: \"Artificial Art.\"\nInformatie en Informatiebeleid 6, 4 (1988), pp. 73-80.\n\n\nRemko\nScha: \"Computer/Art/Photography.\"\nPerspektief 37 (1989), pp. 4-10.\n\n\nRemko\nScha: \"On Art History.\"\nIn: Hein Eberson (ed.): Artificial. Trademark™, Amsterdam,\n1993, pp. 50-51.\n\nRemko\nScha: \"Towards an Architecture\nof Chance.\" In: Hans Konstapel, Gerard Rijntjes and Eric Vreedenburgh\n(eds.): De Onvermijdelijke Culturele Revolutie. (Den Haag:\nStichting Maatschappij en Onderneming, 1998), pp. 105-114.\n\n\nDirk\nvan Weelden: \"An ideal, a name, an explorer.\" In: Perspektief\n47/48, Digital Issue(s) (June 1994), pp. 42-51.",
+      "links": [
+        {
+          "text": "\"Mechanized Art and the Mad Mathematician.\"",
+          "href": "http://iaaa.nl/artificial/papers/boas.html",
+          "external": true
+        },
+        {
+          "text": "\"On the Role of Machines and Human Persons in the Art of the Future.\"",
+          "href": "http://iaaa.nl/hh/pose.html",
+          "external": true
+        },
+        {
+          "text": "\"Humans and computers; copies and creations.\"",
+          "href": "http://iaaa.nl/hh/art/copy.html",
+          "external": true
+        },
+        {
+          "text": "\"A Computer's View on the Future of Art and Photography.\"",
+          "href": "http://iaaa.nl/hh/melbourn.html",
+          "external": true
+        },
+        {
+          "text": "\"Artificial Art.\"",
+          "href": "http://iaaa.nl/rs/artkunstE.html",
+          "external": true
+        },
+        {
+          "text": "\"Computer/Art/Photography.\"",
+          "href": "http://iaaa.nl/rs/photo.html",
+          "external": true
+        },
+        {
+          "text": "\"On Art History.\"",
+          "href": "http://iaaa.nl/rs/arthistory.html",
+          "external": true
+        },
+        {
+          "text": "\"Towards an Architecture of Chance.\"",
+          "href": "http://iaaa.nl/rs/wiederhaE.html",
+          "external": true
+        },
+        {
+          "text": "\"An ideal, a name, an explorer.\"",
+          "href": "http://iaaa.nl/artificial/papers/weeldenE.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/http-iaaa-nl/artificial"
+  ]
+}

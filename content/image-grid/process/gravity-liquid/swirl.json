@@ -1,0 +1,416 @@
+{
+  "slug": "process/gravity-liquid/swirl",
+  "legacy_path": "process/gravity-liquid/Swirl/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "swirling",
+  "heading": "swirling (spin paintings)",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "swirling (spin paintings)",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "An anonymous Wikipedia\nauthor attributes the invention of \"spin art\" to\nEugene R. Pera, who made artworks by applying paint\nto a vertically mounted spinning canvas. He\ndemonstrated this semi-automatic technique\non the American tv shows What's\nMy Line and I've\nGot a Secret in 1958 and 1959. The timing\nof the invention fits the art-historical\nmoment which marks the \"Death of Art\" and\nthe beginning of the new era of \"Artificial\nArt\".\n(At the same time in Paris, Jean Tinguely launched\na mechanical approach to painting through his Metamatic machines.\nThe first international museum show by painting monkeys\nhad been launched at the London ICA in 1957, and\ntoured the US in 1958. (After abstract\nexpressionism and art\ninformel had\nculminated in the gestural performances of Jackson\nPollock and Georges Mathieu, the only well-motivated\ncontinuation of modern art was through automation\nand parody.))",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pera's work was\nfoolishly ignored by the art museums and galleries,\nbut the idea was picked up by professionals catering\nfor children's entertainment through fairgrounds,\nhobby magazines, and television programs. A horizontal\nversion of Pera's machine became fairly popular.\nThus, in 1975, a nine year old Damien Hirst watched\na \"Patent Picture Painter\" on\nthe British tv show Blue\nPeter. Hirst: \"I grew\nup with Blue Peter. I got my idea for the spin paintings\nfrom an episode in the 1970s. I never thought it\nwas real art. I remember thinking: 'That's fun, whereas\nart is something more serious.' And then as I got\nolder, I started thinking about Van Gogh and all\nthose painters, and cutting your ear off when you're\npainting, and at that point I just thought: 'Why\ndoes it have to be like that?' I thought: 'No, actually,\nthe better art is the art made with the spin machine.'\" [The\nGuardian, 29 August 2012]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Viennese painter\nAlfons Schilling independently reinvented Pera's\nmethod, building his first vertical rotator in 1961.\nIn December of that year, after settling down in\nParis, he started the production of a series of \"Rotationsbilder\".\nInitially, the rotator was operated at the modest\nspeed of 1 revolution per second, which suffices\nto enhance the element of chance in manually produced\naction paintings. Soon, the speeds were increased,\neffectuating the centrifugal expulsion of the ego.\nSchilling (February 1962):\n\"Ich habe meine Scheibe auf\n50 Umdrehungen gesteigert. Ich weiss, ich weiss,\ndas ist viel verhängnisvoller.\nDas ist genau der Punkt, wo man nur noch in allerhöchster\nKonzentration wahrnehmen kann was überhaupt\nda ist. Es ist fast zum verrückt werden, so\ntoll. Ich wette fast es ist meine Flucht aus dem\nAbendland.\" [Klocker, 1997]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Around 1970,\nAnnick Gendron (Paris) was the first to appropriate\nfairground-style spin painting as a technique to\ncreate postmodernist highbrow art. She was followed\nby Walter Robinson (New York) in the mid-eighties\nand Damien Hirst and Andy Shaw (London) in the early\nnineties. Hirst's auction\nprices made spin paintings\nmore respectable than\never. In the first decade of the 21st century, they\nbecame increasingly ubiquitous in retro-modern interior\ndesign.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, December\n2012",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Alfons Schilling: Rotationsbilder (1962)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Early-Drbild_a.JPG",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Early-1962-OT[1_rps]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "249",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-1962-88-OT(Rotationsbild)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "247",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Drebild_b.JPG",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Spin_001_casd-s.gif",
+      "alt": "",
+      "caption": "",
+      "width": "248",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Spin-1962-OT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Annick Gendron",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1970-annick-gendron-1970_annick_gendron-s.jpg",
+      "alt": "",
+      "caption": "1970",
+      "width": "374",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1970-annick-gendron-Unt-1970-s.jpg",
+      "alt": "",
+      "caption": "1970",
+      "width": "180",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Walter Robinson",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1985-intrigues-and-innumerable-jealousies-s.jpg",
+      "alt": "",
+      "caption": "Intrigues\nand innumerable jealousies, 1985",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1986-TheGapingMouthOfHell-s.jpg",
+      "alt": "",
+      "caption": "The\ngaping mouth of hell, 1986",
+      "width": "251",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1987-Paradigm-s.jpg",
+      "alt": "",
+      "caption": "Paradigm, 1987",
+      "width": "251",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Damien Hirst",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1992-BWhereDidAllTheColourGoP-s.jpg",
+      "alt": "",
+      "caption": "Beautiful where did all the\n\ncolours go painting, 1992",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1993-BExplodingSpinningSpiralDr-s.jpg",
+      "alt": "",
+      "caption": "Beautiful exploding spinning\n\nspiral drawing, 1993",
+      "width": "178",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1996-s.jpg",
+      "alt": "",
+      "caption": "Beautiful kiss my fucking\n\ntits painting, 1996",
+      "width": "251",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Late 20th\n& early 21st century",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/1996-andy-shaw-1996-AndyShaw-s.jpg",
+      "alt": "",
+      "caption": "Andy Shaw, 1996",
+      "width": "250",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/2008-trevor-knapp-2008-Unt-s.jpg",
+      "alt": "",
+      "caption": "Trevor Knapp: Untitled, 2008",
+      "width": "191",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/2009-mark-chadwick-2009-ASP_1-s.jpg",
+      "alt": "",
+      "caption": "Mark Chadwick, 2009",
+      "width": "252",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/2011-abraham-de-la-torre-BigMouthStrikesAgain-s.jpg",
+      "alt": "",
+      "caption": "Abraham de la Torre:\n\nBig Mouth Strikes Again, 2011",
+      "width": "246",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/2011-mandii-pope-kiwifruit_burst-s.jpg",
+      "alt": "",
+      "caption": "Mandii Pope:\n\nKiwi Fruit Burst Te Puke, 2011",
+      "width": "246",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/swirl/rose-popay-nigel-oddy-2011-Gloss-Spin-05-s.jpg",
+      "alt": "",
+      "caption": "Rose Popay & Nigel Oddy:\n\nGloss Spin, 2011",
+      "width": "253",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Literature",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Mark Brown: \"Damien\nHirst credits Blue Peter with idea for his controversial spin paintings.\nArtist says 'patent picture painter' demonstrated by John Noakes\non the show in 1975 inspired him as a child.\" The Guardian,\nWednesday 29 August, 2012.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hubert\nKlocker: \"Die ersten\nJahre. Wien, Paris 1956-1962.\" In: Alfons Schilling: Ich/Auge/Welt.\nThe Art of Vision. Springer, 1997.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Desmond\nMorris: The Biology of Art. London: Methuen & Co., 1962.",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Early-Drbild_a.JPG",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/Early-Drbild_a.JPG"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Early-1962-OT[1_rps]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/Early-1962-OT%5B1_rps%5D-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-1962-88-OT(Rotationsbild)-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/1962-88-OT(Rotationsbild)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Drebild_b.JPG",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/Drebild_b.JPG"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Spin_001_casd-s.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/Spin_001_casd-s.gif"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1962-alfons-schilling-Spin-1962-OT-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "1962-AlfonsSchilling/Spin-1962-OT-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1970-annick-gendron-1970_annick_gendron-s.jpg",
+      "alt": "",
+      "caption": "1970",
+      "legacy_src": "1970-AnnickGendron/1970_annick_gendron-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1970-annick-gendron-Unt-1970-s.jpg",
+      "alt": "",
+      "caption": "1970",
+      "legacy_src": "1970-AnnickGendron/Unt-1970-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1985-intrigues-and-innumerable-jealousies-s.jpg",
+      "alt": "",
+      "caption": "Intrigues\nand innumerable jealousies, 1985",
+      "legacy_src": "1985-WalterRobinson/1985-intrigues-and-innumerable-jealousies-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1986-TheGapingMouthOfHell-s.jpg",
+      "alt": "",
+      "caption": "The\ngaping mouth of hell, 1986",
+      "legacy_src": "1985-WalterRobinson/1986-TheGapingMouthOfHell-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1985-walter-robinson-1987-Paradigm-s.jpg",
+      "alt": "",
+      "caption": "Paradigm, 1987",
+      "legacy_src": "1985-WalterRobinson/1987-Paradigm-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1992-BWhereDidAllTheColourGoP-s.jpg",
+      "alt": "",
+      "caption": "Beautiful where did all the\n\ncolours go painting, 1992",
+      "legacy_src": "1992-DamienHirstSpinPaintings/1992-BWhereDidAllTheColourGoP-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1993-BExplodingSpinningSpiralDr-s.jpg",
+      "alt": "",
+      "caption": "Beautiful exploding spinning\n\nspiral drawing, 1993",
+      "legacy_src": "1992-DamienHirstSpinPaintings/1993-BExplodingSpinningSpiralDr-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1992-damien-hirst-spin-paintings-1996-s.jpg",
+      "alt": "",
+      "caption": "Beautiful kiss my fucking\n\ntits painting, 1996",
+      "legacy_src": "1992-DamienHirstSpinPaintings/1996-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/1996-andy-shaw-1996-AndyShaw-s.jpg",
+      "alt": "",
+      "caption": "Andy Shaw, 1996",
+      "legacy_src": "1996-AndyShaw/1996-AndyShaw-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/2008-trevor-knapp-2008-Unt-s.jpg",
+      "alt": "",
+      "caption": "Trevor Knapp: Untitled, 2008",
+      "legacy_src": "2008-TrevorKnapp/2008-Unt-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/2009-mark-chadwick-2009-ASP_1-s.jpg",
+      "alt": "",
+      "caption": "Mark Chadwick, 2009",
+      "legacy_src": "2009-MarkChadwick/2009-ASP_1-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/2011-abraham-de-la-torre-BigMouthStrikesAgain-s.jpg",
+      "alt": "",
+      "caption": "Abraham de la Torre:\n\nBig Mouth Strikes Again, 2011",
+      "legacy_src": "2011-AbrahamDeLaTorre/BigMouthStrikesAgain-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/2011-mandii-pope-kiwifruit_burst-s.jpg",
+      "alt": "",
+      "caption": "Mandii Pope:\n\nKiwi Fruit Burst Te Puke, 2011",
+      "legacy_src": "2011-MandiiPope/kiwifruit_burst-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/swirl/rose-popay-nigel-oddy-2011-Gloss-Spin-05-s.jpg",
+      "alt": "",
+      "caption": "Rose Popay & Nigel Oddy:\n\nGloss Spin, 2011",
+      "legacy_src": "2011-RosePopay/RosePopay+NigelOddy-2011/Gloss-Spin-05-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

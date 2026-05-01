@@ -1,0 +1,723 @@
+{
+  "slug": "algorithmic-art/grid/repetition/62-warhol",
+  "legacy_path": "AlgorithmicArt/grid/repetition/62Warhol/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Warhol Grids",
+  "heading": "Grids by Andy Warhol",
+  "description": "Andy Warhol. The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Grids by Andy Warhol",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Three-Coke-Bottles-s.jpg",
+      "alt": "",
+      "caption": "Three Coke Bottles , 1962",
+      "width": "156",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/62-GreenCoca-ColaBottles-s.jpg",
+      "alt": "",
+      "caption": "Green Coca Cola Bottles, 1962",
+      "width": "173",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-210CocaColaBottles-s.jpg",
+      "alt": "",
+      "caption": "210 Coca Cola Bottles, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/62-25ColoredMarilyns-s.jpg",
+      "alt": "",
+      "caption": "25 Colored Marilyns, 1962",
+      "width": "190",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62MarilynDiptych-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Diptych, 1962",
+      "width": "353",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis[Cyclope]-M.jpg",
+      "alt": "",
+      "caption": "Double Elvis",
+      "width": "147",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-DoubleElvis-M.jpg",
+      "alt": "",
+      "caption": "Double Elvis, 1963",
+      "width": "162",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-double_elvis-s.jpg",
+      "alt": "",
+      "caption": "Double Elvis, 1963",
+      "width": "230",
+      "height": "242",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-TripleElvis-close-s.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1962",
+      "width": "143",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63--triple-Elvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1963",
+      "width": "181",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64TripleElvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1964",
+      "width": "200",
+      "height": "234",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis(1)-M.jpg",
+      "alt": "",
+      "caption": "Single Elvis, 1963",
+      "width": "147",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62TripleElvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1962",
+      "width": "353",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-Troy-s.jpg",
+      "alt": "",
+      "caption": "Troy, 1962",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie+Wood-s.jpg",
+      "alt": "",
+      "caption": "Natalie, 1962",
+      "width": "214",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-SilverLizAsCleopatra-s.jpg",
+      "alt": "",
+      "caption": "Silver Liz as Cleopatra, 1963",
+      "width": "193",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63TenLizes-s.jpg",
+      "alt": "",
+      "caption": "Ten Lizes, 1963",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-3MonaLisas-s.jpg",
+      "alt": "",
+      "caption": "Three Mona Lisas, 1963",
+      "width": "352",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63DoubleMonaLisa-s.jpg",
+      "alt": "",
+      "caption": "Double Mona Lisa, 1963",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-four-mona-lisas-M.jpg",
+      "alt": "",
+      "caption": "Four Mona Lisas, 1963",
+      "width": "168",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-thirty-are-better-than1s.jpg",
+      "alt": "",
+      "caption": "Thirty Are Better Than One, 1963",
+      "width": "188",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Gold-Monas-s.jpg",
+      "alt": "",
+      "caption": "Gold Monas",
+      "width": "230",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80-4WoWAnd4GoWMonaLisas-s.jpg",
+      "alt": "",
+      "caption": "Four White and Four Gold Mona Lisas, 1980",
+      "width": "301",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80-twelve-white-mona-lisas-.jpg",
+      "alt": "",
+      "caption": "Twelve White Mona Lisas, 1980",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63BellevueII-s.jpg",
+      "alt": "",
+      "caption": "Bellevue II, 1963",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-greencarcrash-s.jpg",
+      "alt": "",
+      "caption": "Green Car Crash, 1963",
+      "width": "179",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64BirminghamRaceRiot-s.jpg",
+      "alt": "",
+      "caption": "Birmingham Race Riot, 1964",
+      "width": "219",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-JackieTheWeekThatWas-s.jpg",
+      "alt": "",
+      "caption": "Jackie The Week That Was, 1963",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-16Jackies-B-s.jpg",
+      "alt": "",
+      "caption": "16 Jackies, 1964",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-16Jackies-s.jpg",
+      "alt": "",
+      "caption": "16 Jackies, 1964",
+      "width": "200",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-NineJackies-s.jpg",
+      "alt": "",
+      "caption": "Nine Jackies, 1964",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-NineJackies-B-s.jpg",
+      "alt": "",
+      "caption": "Nine Jackies, 1964",
+      "width": "201",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-20Jackies-s.jpg",
+      "alt": "",
+      "caption": "Twenty Jackies, 1964",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64DoubleJackie.jpg",
+      "alt": "",
+      "caption": "Double Jackie, 1964",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-JackieII-s.jpg",
+      "alt": "",
+      "caption": "Jackie II, 1965",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-JackieFrieze-s.jpg",
+      "alt": "",
+      "caption": "Jackie Frieze",
+      "width": "228",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-81DoubleMickeyMouse-s.jpg",
+      "alt": "",
+      "caption": "Double Mickey Mouse, 1981",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-mickey-mouse.jpg",
+      "alt": "",
+      "caption": "Mickey Mouse",
+      "width": "201",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82DollarSigns-s.jpg",
+      "alt": "",
+      "caption": "Dollar Signs, 1982",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-2-s.jpg",
+      "alt": "",
+      "caption": "Dollar Quadrant, 1982",
+      "width": "162",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-s.jpg",
+      "alt": "",
+      "caption": "Dollar Quadrant, 1982",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80LastSupper.jpg",
+      "alt": "",
+      "caption": "The Last Supper, 1986",
+      "width": "185",
+      "height": "174",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last+Supper-s.jpg",
+      "alt": "",
+      "caption": "The Last Supper, 1986",
+      "width": "400",
+      "height": "135",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Judd and Foucault about Andy Warhol's Grid Paintings",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "It seems that the salient metaphysical question lately is: \"Why does Andy Warhol paint Campbell Soup cans?\" The only available answer is \"Why not?\" (...) Actually it is not very interesting to think about the reasons, since it is easy to imagine Warhol's paintings without such subject matter, simply as \"overall\" paintings of repated elements. The novelty and the absurdity of the repeated images of Marilyn Monroe, Troy Donahue, and Coca-Cola bottles is not great. Although Warhol thought of using these subjects, he certainly did not think of the format. (...) The gist of this is that Warhol's work is able but general. It certainly has possibilities, but it is so far not exceptional.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Donald Judd: \"Andy Warhol,\" Arts Magazine 37 (January 1963), p. 49.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": ". . . in concentrating on this boundless monotony, we find the sudden illumination of multiplicity itself – with nothing at its center, at its highest point, or beyond it – a flickering of light that travels even faster than the eyes and successively lights up the moving labels and the captive snapshots that refer to each other to eternity, without ever saying anything: suddenly, arising from the old inertia of equivalence, the striped form of the event tears through the darkness, and the eternal phantasm informs that soup can, that singular and depthless face.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Foucault: \"Theatrum Philosophicum\", Language Counter-Memory Practice ,\n\ntrans. Donald F. Bouchard and Sherry Simon (Ithaca, 1977), p. 189.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A day will come when, by means of similitude relayed along the length of a series, the image itself, along with the name it bears, will lose its identity. Campbell, Campbell, Campbell, Campbell.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Michel Foucault: This is Not a Pipe, trans. James Harkness (Los Angeles, 1983), p. 54.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sources",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Donald Judd's review is entirely reprinted in: Alan R. Pratt (ed.): The Critical Response to Andy Warhol. Westport, CT: Greenwood Press, 1997, pp. 2-3.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foucault quotes are from Gary Shapiro: \"Art and its Doubles: Danto, Foucault, and their Simulacra\" In: Mark Rollins (ed.): Danto and his critics (Oxford: Blackwell, 1993), pp. 134-135 and p. 129.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "RS, 2006",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Three-Coke-Bottles-s.jpg",
+      "alt": "",
+      "caption": "Three Coke Bottles , 1962",
+      "legacy_src": "s/Three-Coke-Bottles-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/62-GreenCoca-ColaBottles-s.jpg",
+      "alt": "",
+      "caption": "Green Coca Cola Bottles, 1962",
+      "legacy_src": "62-GreenCoca-ColaBottles-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-210CocaColaBottles-s.jpg",
+      "alt": "",
+      "caption": "210 Coca Cola Bottles, 1962",
+      "legacy_src": "s/62-210CocaColaBottles-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/62-25ColoredMarilyns-s.jpg",
+      "alt": "",
+      "caption": "25 Colored Marilyns, 1962",
+      "legacy_src": "62-25ColoredMarilyns-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62MarilynDiptych-s.jpg",
+      "alt": "",
+      "caption": "Marilyn Diptych, 1962",
+      "legacy_src": "s/62MarilynDiptych-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis[Cyclope]-M.jpg",
+      "alt": "",
+      "caption": "Double Elvis",
+      "legacy_src": "s/DoubleElvis%5BCyclope%5D-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-DoubleElvis-M.jpg",
+      "alt": "",
+      "caption": "Double Elvis, 1963",
+      "legacy_src": "s/63-DoubleElvis-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-double_elvis-s.jpg",
+      "alt": "",
+      "caption": "Double Elvis, 1963",
+      "legacy_src": "s/63-double_elvis-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-TripleElvis-close-s.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1962",
+      "legacy_src": "s/62-TripleElvis-close-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63--triple-Elvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1963",
+      "legacy_src": "s/63--triple-Elvis-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64TripleElvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1964",
+      "legacy_src": "s/64TripleElvis-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis(1)-M.jpg",
+      "alt": "",
+      "caption": "Single Elvis, 1963",
+      "legacy_src": "s/63Elvis(1)-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62TripleElvis-M.jpg",
+      "alt": "",
+      "caption": "Triple Elvis, 1962",
+      "legacy_src": "s/62TripleElvis-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-62-Troy-s.jpg",
+      "alt": "",
+      "caption": "Troy, 1962",
+      "legacy_src": "s/62-Troy-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie+Wood-s.jpg",
+      "alt": "",
+      "caption": "Natalie, 1962",
+      "legacy_src": "s/Natalie+Wood-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-SilverLizAsCleopatra-s.jpg",
+      "alt": "",
+      "caption": "Silver Liz as Cleopatra, 1963",
+      "legacy_src": "s/63-SilverLizAsCleopatra-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63TenLizes-s.jpg",
+      "alt": "",
+      "caption": "Ten Lizes, 1963",
+      "legacy_src": "s/63TenLizes-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-3MonaLisas-s.jpg",
+      "alt": "",
+      "caption": "Three Mona Lisas, 1963",
+      "legacy_src": "s/3MonaLisas-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63DoubleMonaLisa-s.jpg",
+      "alt": "",
+      "caption": "Double Mona Lisa, 1963",
+      "legacy_src": "s/63DoubleMonaLisa-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-four-mona-lisas-M.jpg",
+      "alt": "",
+      "caption": "Four Mona Lisas, 1963",
+      "legacy_src": "s/63-four-mona-lisas-M.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-thirty-are-better-than1s.jpg",
+      "alt": "",
+      "caption": "Thirty Are Better Than One, 1963",
+      "legacy_src": "s/63-thirty-are-better-than1s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Gold-Monas-s.jpg",
+      "alt": "",
+      "caption": "Gold Monas",
+      "legacy_src": "s/Gold-Monas-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80-4WoWAnd4GoWMonaLisas-s.jpg",
+      "alt": "",
+      "caption": "Four White and Four Gold Mona Lisas, 1980",
+      "legacy_src": "s/80-4WoWAnd4GoWMonaLisas-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80-twelve-white-mona-lisas-.jpg",
+      "alt": "",
+      "caption": "Twelve White Mona Lisas, 1980",
+      "legacy_src": "s/80-twelve-white-mona-lisas-.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63BellevueII-s.jpg",
+      "alt": "",
+      "caption": "Bellevue II, 1963",
+      "legacy_src": "s/63BellevueII-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-greencarcrash-s.jpg",
+      "alt": "",
+      "caption": "Green Car Crash, 1963",
+      "legacy_src": "s/greencarcrash-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64BirminghamRaceRiot-s.jpg",
+      "alt": "",
+      "caption": "Birmingham Race Riot, 1964",
+      "legacy_src": "s/64BirminghamRaceRiot-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63-JackieTheWeekThatWas-s.jpg",
+      "alt": "",
+      "caption": "Jackie The Week That Was, 1963",
+      "legacy_src": "s/63-JackieTheWeekThatWas-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-16Jackies-B-s.jpg",
+      "alt": "",
+      "caption": "16 Jackies, 1964",
+      "legacy_src": "s/64-16Jackies-B-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-16Jackies-s.jpg",
+      "alt": "",
+      "caption": "16 Jackies, 1964",
+      "legacy_src": "s/64-16Jackies-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-NineJackies-s.jpg",
+      "alt": "",
+      "caption": "Nine Jackies, 1964",
+      "legacy_src": "s/64-NineJackies-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-NineJackies-B-s.jpg",
+      "alt": "",
+      "caption": "Nine Jackies, 1964",
+      "legacy_src": "s/64-NineJackies-B-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64-20Jackies-s.jpg",
+      "alt": "",
+      "caption": "Twenty Jackies, 1964",
+      "legacy_src": "s/64-20Jackies-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-64DoubleJackie.jpg",
+      "alt": "",
+      "caption": "Double Jackie, 1964",
+      "legacy_src": "s/64DoubleJackie.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-JackieII-s.jpg",
+      "alt": "",
+      "caption": "Jackie II, 1965",
+      "legacy_src": "s/JackieII-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-JackieFrieze-s.jpg",
+      "alt": "",
+      "caption": "Jackie Frieze",
+      "legacy_src": "s/JackieFrieze-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-81DoubleMickeyMouse-s.jpg",
+      "alt": "",
+      "caption": "Double Mickey Mouse, 1981",
+      "legacy_src": "s/81DoubleMickeyMouse-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-mickey-mouse.jpg",
+      "alt": "",
+      "caption": "Mickey Mouse",
+      "legacy_src": "s/mickey-mouse.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82DollarSigns-s.jpg",
+      "alt": "",
+      "caption": "Dollar Signs, 1982",
+      "legacy_src": "s/82DollarSigns-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-2-s.jpg",
+      "alt": "",
+      "caption": "Dollar Quadrant, 1982",
+      "legacy_src": "s/82Quadrant$-2-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-s.jpg",
+      "alt": "",
+      "caption": "Dollar Quadrant, 1982",
+      "legacy_src": "s/82Quadrant$-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-80LastSupper.jpg",
+      "alt": "",
+      "caption": "The Last Supper, 1986",
+      "legacy_src": "s/80LastSupper.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last+Supper-s.jpg",
+      "alt": "",
+      "caption": "The Last Supper, 1986",
+      "legacy_src": "s/Last+Supper-s.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "kinetics/gravity/stasis",
+  "legacy_path": "kinetics/gravity/stasis.html",
+  "section": "kinetics",
+  "archetype": "essay",
+  "title": "gravity",
+  "heading": "",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "static positions in a gravitational\nfield",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "It is not true that what we\nneed is to \"accept instability.\" That is again the\neasy way. We need STATIC VALUES! ... we need faith! ... we need\nGod! We need cathedrals and pyramids! We need a greater, a meaningful\nart!",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Mathias Goeritz in a pamphlet\ndistributed outside the Museum\nof Modern Art on the occasion of the performance of\nJean Tinguely's Hommage\nà New York, January\n1960.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "stand",
+      "links": [
+        {
+          "text": "stand",
+          "href": "/kinetics/gravity/stand",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "lean",
+      "links": [
+        {
+          "text": "lean",
+          "href": "/kinetics/gravity/lean",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "lie",
+      "links": [
+        {
+          "text": "lie",
+          "href": "/kinetics/gravity/lie",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "float",
+      "links": [
+        {
+          "text": "float",
+          "href": "/kinetics/gravity/float",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "stretch",
+      "links": [
+        {
+          "text": "stretch",
+          "href": "/kinetics/gravity/stretch",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "hang",
+      "links": [
+        {
+          "text": "hang",
+          "href": "/kinetics/gravity/suspension",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "tether",
+      "links": [
+        {
+          "text": "tether",
+          "href": "/kinetics/gravity/tether",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "clamp",
+      "links": [
+        {
+          "text": "clamp",
+          "href": "/kinetics/gravity/clamp",
+          "external": false
+        }
+      ],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "lying or standing vs. hanging; and lying vs. standing",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "\"At this point,\nsomeone still might desire the explanation of the difference\nbetween hanging and lying, to which the answer is that we take\na body for hanging, if its heaviness-center is under or in the\nsurface on which it rests; but if the heaviness-center is above\nthat, we take it to lie, to stand, or to sit. To lie, if the longest\nside of the body extends along the horizon; to stand, if it is\northogonal to that. That is also why the die (since all its sides\nare equally long) is just as properly said to stand as to lie,\nand to lie as to stand. Sitting is something between lying and\nstanding.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon Stevin: The\nPrinciples of the Science of Weight. Leyden, 1586 (First\nBook, p. 24.)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stasis/morris-1961-two-columns.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Two Columns, 1961",
+      "width": "248",
+      "height": "291",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stasis/morris-1962-2Slabs-M.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Two Slabs, 1962",
+      "width": "475",
+      "height": "291",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stasis/stasis-1974-Hilgemann-3=Volumes-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Three Equal Volumes.\n\nGorinchem, 1974",
+      "width": "231",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stasis/stasis-1974-75-Serra-Delineator-M.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Delineator, 1974/1975\n\n[Two steel plates, 3 x 8 m.]",
+      "width": "427",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Sources",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "The Mathias Goeritz pamphlet\nwas quoted by Gregory\nBattcock in his Introduction to: Minimal\nArt; a Critical Anthology (New\nYork: Dutton, 1968).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The Stevin quote was translated from the Dutch\noriginal. With modernized\nspelling, this runs as follows:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Iemand mocht hier nog de\nverklaring begeren des verschils tussen hangen en liggen, waarop\nd'antwoord is dat wij een lichaam voor hangend houden, als zijn zwaarheids-middelpunt\nis onder of in 't genaaksel daar 't op rust; maar 't zwaarheids-middelpunt\ndaar boven zijnde, dan houden wij 't voor liggen, staan, of zitten.\nLiggen, als de langste zijde des lichaams zich strekt langs de zichteinder;\nstaan, als zij daarop rechthoekig is. Daarom is 't ook dat wij de\nteerling (vermits zijn zijden alle even lang zijn) net zo eigenlijk\nzeggen te staan als te liggen, ende te liggen als te staan. Zitten\nis wat tussen liggen en staan.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The source text is:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Simon Stevin: De Beghinselen\nder Weeghconst. Leyden,\n1586. (1e Bouck, p. 24.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, june 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stasis/morris-1961-two-columns.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Two Columns, 1961",
+      "legacy_src": "Stasis/Morris/1961-two-columns.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stasis/morris-1962-2Slabs-M.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Two Slabs, 1962",
+      "legacy_src": "Stasis/Morris/1962-2Slabs-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stasis/stasis-1974-Hilgemann-3=Volumes-s.jpg",
+      "alt": "",
+      "caption": "Ewerdt Hilgemann: Three Equal Volumes.\n\nGorinchem, 1974",
+      "legacy_src": "Stasis/1974-Hilgemann-3=Volumes-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stasis/stasis-1974-75-Serra-Delineator-M.jpg",
+      "alt": "",
+      "caption": "Richard Serra: Delineator, 1974/1975\n\n[Two steel plates, 3 x 8 m.]",
+      "legacy_src": "Stasis/1974-75-Serra-Delineator-M.jpg"
+    }
+  ],
+  "out_links": [
+    "/kinetics/gravity/clamp",
+    "/kinetics/gravity/float",
+    "/kinetics/gravity/lean",
+    "/kinetics/gravity/lie",
+    "/kinetics/gravity/stand",
+    "/kinetics/gravity/stretch",
+    "/kinetics/gravity/suspension",
+    "/kinetics/gravity/tether"
+  ]
+}

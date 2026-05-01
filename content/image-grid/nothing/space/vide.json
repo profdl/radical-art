@@ -1,0 +1,193 @@
+{
+  "slug": "nothing/space/vide",
+  "legacy_path": "nothing/space/vide/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Empty Space",
+  "heading": "Empty Rooms",
+  "description": "Empty space in modern art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Empty Rooms",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/vides_centrepompidou-09-s.gif",
+      "alt": "",
+      "caption": "Remake of \"Le Vide\", Centre Georges Pompidou, 2009",
+      "width": "326",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Yves Klein:\n\nZones de sensibilité picturales immatérielles",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Les surfaces et blocs de sensibilité picturale invisible\", Galerie Colette Allendy, Paris, 1957. (Exhibition of monochrome paintings and an empty room.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Le Vide\", Galerie Iris Clert, Paris, 1958. (Empty gallery, walls painted white.)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Participation Immatérielle\", Hessenhuis, Antwerp, 1959.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Participation Immatérielle\", Galerie Apollinaire, Milano, 1960.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Zones de sensibilité picturales immatérielles\", Exhibition \"Antagonismes\", Musée des Arts Décoratifs, Paris, 1960.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Raum der Leere\", Museum Haus Lange, Krefeld, 1961.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Christo Javacheff:\n\nStore Front",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "(Documenta 4, Kassel, 1968)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/Christo68-Storefront-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "260",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Irwin: Experimental Situation",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "(Ace Gallery, Los Angeles, 1970)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "\"The gallery space will be empty for a period of 1 month (October), for Robert Irwin to visit the space daily to conceive the different possibilities of artworks for the space.\"",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Raphael Juliard:",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Espaces Vides",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "(Various locations, 2004)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "\"Série d'expositions sans oeuvres, avec des lieux définis mais inaccessibles au public.\"",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/RaphaelJulliard-2004-EV-1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "231",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Espace Vide # 1: À l'Attaque!\n\nsur une idée de Seth Siegelaub.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/RaphaelJuliard-04-EV-2-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Espace Vide # 2: Mehr Licht!\n\nd'après le MOMAS de Martin Kippenberger.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/vide/ThomasMarquet2008-s.jpg",
+      "alt": "",
+      "caption": "Thomas Marquet: \"The White Cube\", 2008",
+      "width": "500",
+      "height": "388",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/space/vide/vides_centrepompidou-09-s.gif",
+      "alt": "",
+      "caption": "Remake of \"Le Vide\", Centre Georges Pompidou, 2009",
+      "legacy_src": "vides_centrepompidou-09-s.gif"
+    },
+    {
+      "src": "/images/nothing/space/vide/Christo68-Storefront-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Christo68-Storefront-s.jpg"
+    },
+    {
+      "src": "/images/nothing/space/vide/RaphaelJulliard-2004-EV-1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaphaelJulliard-2004-EV-1.jpg"
+    },
+    {
+      "src": "/images/nothing/space/vide/RaphaelJuliard-04-EV-2-ss.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "RaphaelJuliard-04-EV-2-ss.jpg"
+    },
+    {
+      "src": "/images/nothing/space/vide/ThomasMarquet2008-s.jpg",
+      "alt": "",
+      "caption": "Thomas Marquet: \"The White Cube\", 2008",
+      "legacy_src": "ThomasMarquet2008-s.jpg"
+    }
+  ],
+  "out_links": []
+}

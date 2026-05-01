@@ -1,0 +1,440 @@
+{
+  "slug": "kinetics/gravity/lie",
+  "legacy_path": "kinetics/gravity/Lie/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "lie",
+  "heading": "to lie",
+  "description": "Horizontal floor sculpture. (Yielding to gravity.)",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "to lie",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "horizontal sculpture (linear: rolls & pipes)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/baggy-1961-Beuys-Unt-ss.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Ohne Titel, 1961",
+      "width": "265",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/baggy-BarryFlanagan-1967-L.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan, 1967",
+      "width": "326",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Pipe, 1968",
+      "width": "326",
+      "height": "218",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra:\n\nSlow Roll (for Philip Glass), 1968",
+      "width": "189",
+      "height": "284",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "horizontal sculpture (linear: beams & rows)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/beams-1962-ben-black-box-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Black Box, 1962",
+      "width": "281",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/beams-1966-DEMaria-HighEnergyBar.jpg",
+      "alt": "",
+      "caption": "Walter de Maria: High Energy Bar, 1966",
+      "width": "429",
+      "height": "176",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece(Bench)-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Floor Piece (Bench), 1964",
+      "width": "237",
+      "height": "303",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/andre-1966-Andre-Lever-C.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Lever, 1966",
+      "width": "286",
+      "height": "303",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/andre-1998-Rackblox-M.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Rackblox, 1998",
+      "width": "402",
+      "height": "303",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/KilianRuethemann,Unt-2009-s.jpg",
+      "alt": "",
+      "caption": "Kilian Rüthemann: Untitled, 2009",
+      "width": "276",
+      "height": "303",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "horizontal sculpture (two-dimensional)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/schippers-1962-1997-Utrecht-PKV-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Peanut Butter Floor, 1962\n\n[This photo: Installation\nin Centraal Museum, Utrecht, 1997]",
+      "width": "339",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/andre-1967-10x10AltstadtCpprSqr-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 10 x 10 Altstadt Copper Square, 1967",
+      "width": "323",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Equivalent V, 1966",
+      "width": "307",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1979",
+      "width": "337",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Variant Arrangement, 1966",
+      "width": "353",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
+      "width": "360",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Steel Inside/Outside Piece, 1970",
+      "width": "308",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/rueckriem-1978-Vierteilung-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Vierteilung, 1978",
+      "width": "375",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/parallel-inventions-1971-32PartReciprocalInv-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 32 Part\n\nReciprocal Invention, 1971",
+      "width": "172",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/de-maria-1979-Broken-Kilometer-M.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nBroken Kilometer, 1979",
+      "width": "435",
+      "height": "240",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "horizontal sculpture (space-filling)",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/schippers-1962-Zoutkamer.gif",
+      "alt": "",
+      "caption": "Wim T. Schippers: Salt Room, 1962\n\n(Museum Fodor, Amsterdam)",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/schippers-1962-glaszaal-s.gif",
+      "alt": "",
+      "caption": "Wim T. Schippers: Glass Room, 1962\n\n(Museum Fodor, Amsterdam)",
+      "width": "350",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/andre-1967-5x20AltstadtRect-KonradFischer-Duesseldorf-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 5 x 20 Altstadt Rectangle, 1967\n\n(Galerie Konrad Fischer, Düsseldorf)",
+      "width": "350",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger:\n\nGraphite Piece, 1969",
+      "width": "349",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/stuff-morris68untitled-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled, 1968",
+      "width": "320",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/lie/de-maria-1968-50m3MetersOfDirt-68.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n50 Cubic Meters of Dirt, 1968",
+      "width": "195",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "compiled by remko scha, july 2012",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/lie/baggy-1961-Beuys-Unt-ss.jpg",
+      "alt": "",
+      "caption": "Joseph Beuys: Ohne Titel, 1961",
+      "legacy_src": "baggy/1961-Beuys-Unt-ss.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/baggy-BarryFlanagan-1967-L.jpg",
+      "alt": "",
+      "caption": "Barry Flanagan, 1967",
+      "legacy_src": "baggy/BarryFlanagan-1967-L.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger: Pipe, 1968",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1968-pipe%5B2x%5D-s.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg",
+      "alt": "",
+      "caption": "Richard Serra:\n\nSlow Roll (for Philip Glass), 1968",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/1968-Serra-SlowRoll(4PhilipGlass)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/beams-1962-ben-black-box-s.jpg",
+      "alt": "",
+      "caption": "Ben Vautier: Black Box, 1962",
+      "legacy_src": "beams/1962-ben-black-box-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/beams-1966-DEMaria-HighEnergyBar.jpg",
+      "alt": "",
+      "caption": "Walter de Maria: High Energy Bar, 1966",
+      "legacy_src": "beams/1966-DEMaria-HighEnergyBar.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece(Bench)-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Floor Piece (Bench), 1964",
+      "legacy_src": "beams/1964-Morris-FloorPiece(Bench)-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/andre-1966-Andre-Lever-C.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Lever, 1966",
+      "legacy_src": "beams/Andre/1966-Andre-Lever-C.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/andre-1998-Rackblox-M.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Rackblox, 1998",
+      "legacy_src": "SolidSurface/Andre/1998-Rackblox-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/KilianRuethemann,Unt-2009-s.jpg",
+      "alt": "",
+      "caption": "Kilian Rüthemann: Untitled, 2009",
+      "legacy_src": "KilianRuethemann,Unt-2009-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/schippers-1962-1997-Utrecht-PKV-s.jpg",
+      "alt": "",
+      "caption": "Wim T. Schippers: Peanut Butter Floor, 1962\n\n[This photo: Installation\nin Centraal Museum, Utrecht, 1997]",
+      "legacy_src": "schippers/1962-1997-Utrecht-PKV-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/andre-1967-10x10AltstadtCpprSqr-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 10 x 10 Altstadt Copper Square, 1967",
+      "legacy_src": "SolidSurface/Andre/1967-10x10AltstadtCpprSqr-s.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Equivalent V, 1966",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1966-Equivalent_V-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel, 1979",
+      "legacy_src": "SolidSurface/UlrichRueckriem/1979-OT%5BWoodenPlatform%5D-s.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris: Variant Arrangement, 1966",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Morris1966VariantArrngmnt-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
+      "legacy_src": "SolidSurface/UlrichRueckriem/1981-OT(Bodenarbeit)-s.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: Steel Inside/Outside Piece, 1970",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/SolidSurface/Andre/1970-Steel_InsideSlashOutsidePiece-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/rueckriem-1978-Vierteilung-s.jpg",
+      "alt": "",
+      "caption": "Ulrich Rückriem: Vierteilung, 1978",
+      "legacy_src": "beams/Rueckriem/1978-Vierteilung-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/parallel-inventions-1971-32PartReciprocalInv-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 32 Part\n\nReciprocal Invention, 1971",
+      "legacy_src": "SolidSurface/Andre/ParallelInventions/1971-32PartReciprocalInv-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/de-maria-1979-Broken-Kilometer-M.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\nBroken Kilometer, 1979",
+      "legacy_src": "stuff/DeMaria/1979-Broken-Kilometer-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/schippers-1962-Zoutkamer.gif",
+      "alt": "",
+      "caption": "Wim T. Schippers: Salt Room, 1962\n\n(Museum Fodor, Amsterdam)",
+      "legacy_src": "schippers/1962-Zoutkamer.gif"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/schippers-1962-glaszaal-s.gif",
+      "alt": "",
+      "caption": "Wim T. Schippers: Glass Room, 1962\n\n(Museum Fodor, Amsterdam)",
+      "legacy_src": "schippers/1962-glaszaal-s.gif"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/andre-1967-5x20AltstadtRect-KonradFischer-Duesseldorf-s.jpg",
+      "alt": "",
+      "caption": "Carl Andre: 5 x 20 Altstadt Rectangle, 1967\n\n(Galerie Konrad Fischer, Düsseldorf)",
+      "legacy_src": "SolidSurface/Andre/1967-5x20AltstadtRect-KonradFischer-Duesseldorf-s.jpg"
+    },
+    {
+      "src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg",
+      "alt": "",
+      "caption": "Bill Bollinger:\n\nGraphite Piece, 1969",
+      "legacy_src": "http://radicalart.info/kinetics/gravity/Lie/BillBollinger/1969-GraphitePiece/1969-GraphitePiece-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/stuff-morris68untitled-s.jpg",
+      "alt": "",
+      "caption": "Robert Morris:\n\nUntitled, 1968",
+      "legacy_src": "stuff/morris68untitled-s.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/lie/de-maria-1968-50m3MetersOfDirt-68.jpg",
+      "alt": "",
+      "caption": "Walter de Maria:\n\n50 Cubic Meters of Dirt, 1968",
+      "legacy_src": "stuff/DeMaria/1968-50m3MetersOfDirt-68.jpg"
+    }
+  ],
+  "out_links": []
+}

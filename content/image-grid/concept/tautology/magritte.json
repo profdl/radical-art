@@ -1,0 +1,287 @@
+{
+  "slug": "concept/tautology/magritte",
+  "legacy_path": "concept/tautology/magritte/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Magritte's Tautologies",
+  "heading": "",
+  "description": "Tautological/paradoxical works by René Magritte:",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "René Magritte:",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "La Trahison des Images & La Condition Humaine",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/TrahisonDesImages1928-29-S.jpg",
+      "alt": "",
+      "caption": "La Trahison des Images, 1928-29",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/magritte-pipe-S.gif",
+      "alt": "",
+      "caption": "\"Ceci n'est pas une pipe\", 1948",
+      "width": "200",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/52LaTrahisonDesImages-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "134",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Ceci continue de ne pas\n\nêtre une pipe\", 1952",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/RMCeci-nest-pas-une-pomme-S.jpg",
+      "alt": "",
+      "caption": "\"Ceci n'est pas une pomme\",\n\n1964",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/RM-LesDeuxMysteres-S.jpg",
+      "alt": "",
+      "caption": "Les Deux Mystères, 1966",
+      "width": "250",
+      "height": "213",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/RM-CeciNestPasUnePipe1966-S.jpg",
+      "alt": "",
+      "caption": "Les Deux Mystères, 1966",
+      "width": "183",
+      "height": "245",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/ThisIsAPieceOfCheese1937-S.jpg",
+      "alt": "",
+      "caption": "\"Ceci est un morceau de fromage\", 1937",
+      "width": "200",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/6364CeciEUMorceauDF-s.jpg",
+      "alt": "",
+      "caption": "\"Ceci est un morceau de fromage\", 1963/1964",
+      "width": "224",
+      "height": "236",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-31-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "La Belle Captive, 1931",
+      "width": "230",
+      "height": "154",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-33-ConditionHumaine-s.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1933",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-35-ConditionHumaine-s.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1935",
+      "width": "184",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-42-LAppelDesCimes-s.jpg",
+      "alt": "",
+      "caption": "L'Appèl des Cimes, 1942",
+      "width": "202",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-45-ConditionHumaine.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1945",
+      "width": "188",
+      "height": "246",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-55-LesPromenadesDEuclide-s.jpg",
+      "alt": "",
+      "caption": "Les Promenades d'Euclide, 1955",
+      "width": "198",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-67-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "La Belle Captive, 1967",
+      "width": "230",
+      "height": "152",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-33LaClefDesChamps-s.jpg",
+      "alt": "",
+      "caption": "La Clef des Champs, 1933",
+      "width": "185",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/magritte/condition-49DomaineDArnheimLe-s.jpg",
+      "alt": "",
+      "caption": "Le Domaine d'Arnheim, 1949",
+      "width": "203",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/magritte/TrahisonDesImages1928-29-S.jpg",
+      "alt": "",
+      "caption": "La Trahison des Images, 1928-29",
+      "legacy_src": "TrahisonDesImages1928-29-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/magritte-pipe-S.gif",
+      "alt": "",
+      "caption": "\"Ceci n'est pas une pipe\", 1948",
+      "legacy_src": "magritte-pipe-S.gif"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/52LaTrahisonDesImages-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "52LaTrahisonDesImages-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/RMCeci-nest-pas-une-pomme-S.jpg",
+      "alt": "",
+      "caption": "\"Ceci n'est pas une pomme\",\n\n1964",
+      "legacy_src": "RMCeci-nest-pas-une-pomme-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/RM-LesDeuxMysteres-S.jpg",
+      "alt": "",
+      "caption": "Les Deux Mystères, 1966",
+      "legacy_src": "RM-LesDeuxMysteres-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/RM-CeciNestPasUnePipe1966-S.jpg",
+      "alt": "",
+      "caption": "Les Deux Mystères, 1966",
+      "legacy_src": "RM-CeciNestPasUnePipe1966-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/ThisIsAPieceOfCheese1937-S.jpg",
+      "alt": "",
+      "caption": "\"Ceci est un morceau de fromage\", 1937",
+      "legacy_src": "ThisIsAPieceOfCheese1937-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/6364CeciEUMorceauDF-s.jpg",
+      "alt": "",
+      "caption": "\"Ceci est un morceau de fromage\", 1963/1964",
+      "legacy_src": "6364CeciEUMorceauDF-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-31-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "La Belle Captive, 1931",
+      "legacy_src": "Condition/31-LaBelleCaptive-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-33-ConditionHumaine-s.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1933",
+      "legacy_src": "Condition/33-ConditionHumaine-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-35-ConditionHumaine-s.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1935",
+      "legacy_src": "Condition/35-ConditionHumaine-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-42-LAppelDesCimes-s.jpg",
+      "alt": "",
+      "caption": "L'Appèl des Cimes, 1942",
+      "legacy_src": "Condition/42-LAppelDesCimes-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-45-ConditionHumaine.jpg",
+      "alt": "",
+      "caption": "La Condition Humaine, 1945",
+      "legacy_src": "Condition/45-ConditionHumaine.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-55-LesPromenadesDEuclide-s.jpg",
+      "alt": "",
+      "caption": "Les Promenades d'Euclide, 1955",
+      "legacy_src": "Condition/55-LesPromenadesDEuclide-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-67-LaBelleCaptive-s.jpg",
+      "alt": "",
+      "caption": "La Belle Captive, 1967",
+      "legacy_src": "Condition/67-LaBelleCaptive-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-33LaClefDesChamps-s.jpg",
+      "alt": "",
+      "caption": "La Clef des Champs, 1933",
+      "legacy_src": "Condition/33LaClefDesChamps-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/magritte/condition-49DomaineDArnheimLe-s.jpg",
+      "alt": "",
+      "caption": "Le Domaine d'Arnheim, 1949",
+      "legacy_src": "Condition/49DomaineDArnheimLe-s.jpg"
+    }
+  ],
+  "out_links": []
+}

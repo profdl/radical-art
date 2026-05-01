@@ -1,0 +1,106 @@
+{
+  "slug": "process/gravity-liquid/thrash",
+  "legacy_path": "process/gravity-liquid/Thrash/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "thrash",
+  "heading": "thrash",
+  "description": "Process Art: Thrash.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "thrash",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Herbert Zangs: Peitschenbilder",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/thrash/zangs-Ca80-Fontaene(Ptschnbld)-s.jpg",
+      "alt": "",
+      "caption": "Fontäne, ca.1980",
+      "width": "185",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/thrash/zangs-80s-Peitschenbild-s.jpg",
+      "alt": "",
+      "caption": "1980's",
+      "width": "254",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/thrash/zangs-Peitschenbild-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "180",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/thrash/zangs-ZangsPeitschenbild-B-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "218",
+      "height": "299",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/thrash/zangs-Ca80-Fontaene(Ptschnbld)-s.jpg",
+      "alt": "",
+      "caption": "Fontäne, ca.1980",
+      "legacy_src": "Zangs/Ca80-Fontaene(Ptschnbld)-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/thrash/zangs-80s-Peitschenbild-s.jpg",
+      "alt": "",
+      "caption": "1980's",
+      "legacy_src": "Zangs/80s-Peitschenbild-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/thrash/zangs-Peitschenbild-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Zangs/Peitschenbild-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/thrash/zangs-ZangsPeitschenbild-B-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Zangs/ZangsPeitschenbild-B-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "process/rust",
+  "legacy_path": "process/rust/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "rust",
+  "heading": "rust",
+  "description": "Andy Warhol's \"Oxidation Paintings\".",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: l'informe process\nart radical\nart",
+      "links": [
+        {
+          "text": "l'informe",
+          "href": "/informe",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "rust",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/burri-BurriFerro1958-s.jpg",
+      "alt": "",
+      "caption": "alberto burri: ferro, 1958",
+      "width": "401",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/burri-ALBERTOBURRI-Ferro-1959-s.jpg",
+      "alt": "",
+      "caption": "alberto burri: ferro, 1959",
+      "width": "208",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/EttoreCollaTrittico1960-s.jpg",
+      "alt": "",
+      "caption": "ettore colla: triitico, 1960",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "andy warhol's oxidation paintings\n(1978)",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-Warhol1978OP(L)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "583",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholOxidPainting1979-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "295",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholOxidationB-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "176",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-piss-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "304",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholPissPaintings1978-s2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "120",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-Warhol1978OxidationPaintngS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "310",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholPissPaintings1978-s1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "123",
+      "height": "162",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-oxidationpainting2-1978.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "360",
+      "height": "185",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholOxidation-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "183",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-WarholOxidation1978-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-Warhol78oxidationPaintingS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "157",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/rust/warhol-oxidation-S.gif",
+      "alt": "",
+      "caption": "",
+      "width": "176",
+      "height": "250",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/rust/burri-BurriFerro1958-s.jpg",
+      "alt": "",
+      "caption": "alberto burri: ferro, 1958",
+      "legacy_src": "Burri/BurriFerro1958-s.jpg"
+    },
+    {
+      "src": "/images/process/rust/burri-ALBERTOBURRI-Ferro-1959-s.jpg",
+      "alt": "",
+      "caption": "alberto burri: ferro, 1959",
+      "legacy_src": "Burri/ALBERTOBURRI-Ferro-1959-s.jpg"
+    },
+    {
+      "src": "/images/process/rust/EttoreCollaTrittico1960-s.jpg",
+      "alt": "",
+      "caption": "ettore colla: triitico, 1960",
+      "legacy_src": "EttoreCollaTrittico1960-s.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-Warhol1978OP(L)-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/Warhol1978OP(L)-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholOxidPainting1979-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholOxidPainting1979-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholOxidationB-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholOxidationB-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-piss-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/piss-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholPissPaintings1978-s2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholPissPaintings1978-s2.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-Warhol1978OxidationPaintngS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/Warhol1978OxidationPaintngS.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholPissPaintings1978-s1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholPissPaintings1978-s1.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-oxidationpainting2-1978.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/oxidationpainting2-1978.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholOxidation-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholOxidation-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-WarholOxidation1978-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/WarholOxidation1978-S.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-Warhol78oxidationPaintingS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/Warhol78oxidationPaintingS.jpg"
+    },
+    {
+      "src": "/images/process/rust/warhol-oxidation-S.gif",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Warhol/oxidation-S.gif"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/informe",
+    "/process"
+  ]
+}

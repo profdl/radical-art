@@ -1,0 +1,141 @@
+{
+  "slug": "informe/junk/trash",
+  "legacy_path": "informe/junk/trash.html",
+  "section": "informe",
+  "archetype": "image-grid",
+  "title": "trash",
+  "heading": "arman: trash",
+  "description": "Some of Arman's trash-pieces.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "arman: trash",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-Arman59PtitDechetsBourgeois.jpg",
+      "alt": "",
+      "caption": "Petit Déchets Bourgeois, 1959",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-Arman60GrDechetsBourgeois.jpg",
+      "alt": "",
+      "caption": "Grand Déchets Bourgeois, 1960",
+      "width": "196",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-arman60LePlein-S.jpg",
+      "alt": "",
+      "caption": "Le Plein, 1960 [detail]",
+      "width": "237",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-Arman73PoubelleOrganique.jpg",
+      "alt": "",
+      "caption": "Poubelle Organique, 1973",
+      "width": "201",
+      "height": "400",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-Arman60PoubelleMenagereB.jpg",
+      "alt": "",
+      "caption": "Poubelle Ménagère, 1960",
+      "width": "187",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-arman61JimDineSDustbin-S.jpg",
+      "alt": "",
+      "caption": "Poubelle de Jim Dine, 1961",
+      "width": "151",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-ArmanClassicII-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/informe/junk/trash/arman-Arman70-71RRschnbrgsRefuse.jpg",
+      "alt": "",
+      "caption": "Rauschenberg's Refuse, 1970-71",
+      "width": "182",
+      "height": "300",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/informe/junk/trash/arman-Arman59PtitDechetsBourgeois.jpg",
+      "alt": "",
+      "caption": "Petit Déchets Bourgeois, 1959",
+      "legacy_src": "arman/Arman59PtitDechetsBourgeois.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-Arman60GrDechetsBourgeois.jpg",
+      "alt": "",
+      "caption": "Grand Déchets Bourgeois, 1960",
+      "legacy_src": "arman/Arman60GrDechetsBourgeois.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-arman60LePlein-S.jpg",
+      "alt": "",
+      "caption": "Le Plein, 1960 [detail]",
+      "legacy_src": "arman/arman60LePlein-S.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-Arman73PoubelleOrganique.jpg",
+      "alt": "",
+      "caption": "Poubelle Organique, 1973",
+      "legacy_src": "arman/Arman73PoubelleOrganique.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-Arman60PoubelleMenagereB.jpg",
+      "alt": "",
+      "caption": "Poubelle Ménagère, 1960",
+      "legacy_src": "arman/Arman60PoubelleMenagereB.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-arman61JimDineSDustbin-S.jpg",
+      "alt": "",
+      "caption": "Poubelle de Jim Dine, 1961",
+      "legacy_src": "arman/arman61JimDineSDustbin-S.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-ArmanClassicII-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "arman/ArmanClassicII-S.jpg"
+    },
+    {
+      "src": "/images/informe/junk/trash/arman-Arman70-71RRschnbrgsRefuse.jpg",
+      "alt": "",
+      "caption": "Rauschenberg's Refuse, 1970-71",
+      "legacy_src": "arman/Arman70-71RRschnbrgsRefuse.jpg"
+    }
+  ],
+  "out_links": []
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "nothing/monochrome/gold/klein",
+  "legacy_path": "nothing/monochrome/gold/klein/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Yves Klein: Monogolds",
+  "heading": "Yves Klein: Monogolds",
+  "description": "Yves Klein's Monogolds: Gold monochrome paintings (1959-1962).",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Yves Klein: Monogolds",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/59-MG20.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 20), 1959",
+      "width": "182",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/60-CiGitLEspace-s.jpg",
+      "alt": "",
+      "caption": "Ci-Gît l'Espace, 1960",
+      "width": "230",
+      "height": "206",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/60-LeSilenceEstD'Or-MG10-s.jpg",
+      "alt": "",
+      "caption": "Le Silence Est d'Or, 1960",
+      "width": "187",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/60-RE33-s.jpg",
+      "alt": "",
+      "caption": "Relief Éponges (RE 33), 1960",
+      "width": "199",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/60-Monogold(MG3)-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 3), 1960",
+      "width": "212",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/60-Resonance-s.jpg",
+      "alt": "",
+      "caption": "Résonance, 1960",
+      "width": "191",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/61-mg_25-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 25), 1961",
+      "width": "200",
+      "height": "214",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/61-MG6-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 6), 1961",
+      "width": "199",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/61-MG18-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 18), 1961",
+      "width": "173",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/gold/klein/62-MG9-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 9), 1962",
+      "width": "195",
+      "height": "249",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/monochrome/gold/klein/59-MG20.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 20), 1959",
+      "legacy_src": "59-MG20.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/60-CiGitLEspace-s.jpg",
+      "alt": "",
+      "caption": "Ci-Gît l'Espace, 1960",
+      "legacy_src": "60-CiGitLEspace-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/60-LeSilenceEstD'Or-MG10-s.jpg",
+      "alt": "",
+      "caption": "Le Silence Est d'Or, 1960",
+      "legacy_src": "60-LeSilenceEstD'Or-MG10-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/60-RE33-s.jpg",
+      "alt": "",
+      "caption": "Relief Éponges (RE 33), 1960",
+      "legacy_src": "60-RE33-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/60-Monogold(MG3)-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 3), 1960",
+      "legacy_src": "60-Monogold(MG3)-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/60-Resonance-s.jpg",
+      "alt": "",
+      "caption": "Résonance, 1960",
+      "legacy_src": "60-Resonance-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/61-mg_25-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 25), 1961",
+      "legacy_src": "61-mg_25-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/61-MG6-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 6), 1961",
+      "legacy_src": "61-MG6-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/61-MG18-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 18), 1961",
+      "legacy_src": "61-MG18-s.jpg"
+    },
+    {
+      "src": "/images/nothing/monochrome/gold/klein/62-MG9-s.jpg",
+      "alt": "",
+      "caption": "Monogold (MG 9), 1962",
+      "legacy_src": "62-MG9-s.jpg"
+    }
+  ],
+  "out_links": []
+}

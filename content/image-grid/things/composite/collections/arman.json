@@ -1,0 +1,391 @@
+{
+  "slug": "things/composite/collections/arman",
+  "legacy_path": "things/composite/collections/Arman/index.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "Arman",
+  "heading": "Arman: Accumulations",
+  "description": "Arman's Accumulations",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: collections readymades radical\nart",
+      "links": [
+        {
+          "text": "collections",
+          "href": "/things/composite/collections",
+          "external": false
+        },
+        {
+          "text": "readymades",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Arman: Accumulations",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/59AccumultnDesMachines-s.jpg",
+      "alt": "",
+      "caption": "Accumulation des Machines,\n1959",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/60LaVieAPleineDents-s.jpg",
+      "alt": "",
+      "caption": "La Vie à Pleine Dents, 1960",
+      "width": "393",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/60TheGayGasMask-s.jpg",
+      "alt": "",
+      "caption": "The Gay Gas Mask, 1960",
+      "width": "157",
+      "height": "261",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/60HomeSweetHome-s.jpg",
+      "alt": "",
+      "caption": "Home Sweet Home, 1960",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/61UneSaisonEnEnfer-s.jpg",
+      "alt": "",
+      "caption": "Une Saison en Enfer, 1961",
+      "width": "140",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/60ParadoxDuTemps-s.jpg",
+      "alt": "",
+      "caption": "Paradoxe du Temps, 1960",
+      "width": "230",
+      "height": "158",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/61AccDesCarafes-s.jpg",
+      "alt": "",
+      "caption": "Accumulation des Carafes, 1961",
+      "width": "325",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/61AlphabeticalAccumltn-s.jpg",
+      "alt": "",
+      "caption": "Accumulation Alphabétique, 1961",
+      "width": "160",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/61PoiresAllumeuses-s.jpg",
+      "alt": "",
+      "caption": "Poires Allumeuses, 1961",
+      "width": "300",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/61LMsscreDsInncntsII-s.jpg",
+      "alt": "",
+      "caption": "Massacre des Innocents II,\n\n1961",
+      "width": "139",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/62-s.jpg",
+      "alt": "",
+      "caption": "1962",
+      "width": "215",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/63-s.jpg",
+      "alt": "",
+      "caption": "1963",
+      "width": "237",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/Cameras-s.jpg",
+      "alt": "",
+      "caption": "Cameras",
+      "width": "291",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/84-Glory.jpg",
+      "alt": "",
+      "caption": "Glory, 1984",
+      "width": "289",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/Trombones-s.jpg",
+      "alt": "",
+      "caption": "Trombones",
+      "width": "329",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/82-s.jpg",
+      "alt": "",
+      "caption": "1982",
+      "width": "174",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/Saxophones-s.jpg",
+      "alt": "",
+      "caption": "Saxophones",
+      "width": "196",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/86OfficeFetish.jpg",
+      "alt": "",
+      "caption": "Office Fetish, 1984",
+      "width": "220",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/93Pinacotheque.jpg",
+      "alt": "",
+      "caption": "Pinacothèque, 1993",
+      "width": "350",
+      "height": "350",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/96SansTitre.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1996",
+      "width": "230",
+      "height": "230",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/Crucifixes-s.jpg",
+      "alt": "",
+      "caption": "Crucifixes",
+      "width": "163",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/98-O'Clock.jpg",
+      "alt": "",
+      "caption": "O'Clock, 1998",
+      "width": "226",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/composite/collections/arman/Accordeons-S.jpg",
+      "alt": "",
+      "caption": "Accordeons",
+      "width": "230",
+      "height": "233",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/composite/collections/arman/59AccumultnDesMachines-s.jpg",
+      "alt": "",
+      "caption": "Accumulation des Machines,\n1959",
+      "legacy_src": "59AccumultnDesMachines-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/60LaVieAPleineDents-s.jpg",
+      "alt": "",
+      "caption": "La Vie à Pleine Dents, 1960",
+      "legacy_src": "60LaVieAPleineDents-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/60TheGayGasMask-s.jpg",
+      "alt": "",
+      "caption": "The Gay Gas Mask, 1960",
+      "legacy_src": "60TheGayGasMask-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/60HomeSweetHome-s.jpg",
+      "alt": "",
+      "caption": "Home Sweet Home, 1960",
+      "legacy_src": "60HomeSweetHome-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/61UneSaisonEnEnfer-s.jpg",
+      "alt": "",
+      "caption": "Une Saison en Enfer, 1961",
+      "legacy_src": "61UneSaisonEnEnfer-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/60ParadoxDuTemps-s.jpg",
+      "alt": "",
+      "caption": "Paradoxe du Temps, 1960",
+      "legacy_src": "60ParadoxDuTemps-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/61AccDesCarafes-s.jpg",
+      "alt": "",
+      "caption": "Accumulation des Carafes, 1961",
+      "legacy_src": "61AccDesCarafes-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/61AlphabeticalAccumltn-s.jpg",
+      "alt": "",
+      "caption": "Accumulation Alphabétique, 1961",
+      "legacy_src": "61AlphabeticalAccumltn-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/61PoiresAllumeuses-s.jpg",
+      "alt": "",
+      "caption": "Poires Allumeuses, 1961",
+      "legacy_src": "61PoiresAllumeuses-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/61LMsscreDsInncntsII-s.jpg",
+      "alt": "",
+      "caption": "Massacre des Innocents II,\n\n1961",
+      "legacy_src": "61LMsscreDsInncntsII-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/62-s.jpg",
+      "alt": "",
+      "caption": "1962",
+      "legacy_src": "62-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/63-s.jpg",
+      "alt": "",
+      "caption": "1963",
+      "legacy_src": "63-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/Cameras-s.jpg",
+      "alt": "",
+      "caption": "Cameras",
+      "legacy_src": "Cameras-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/84-Glory.jpg",
+      "alt": "",
+      "caption": "Glory, 1984",
+      "legacy_src": "84-Glory.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/Trombones-s.jpg",
+      "alt": "",
+      "caption": "Trombones",
+      "legacy_src": "Trombones-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/82-s.jpg",
+      "alt": "",
+      "caption": "1982",
+      "legacy_src": "82-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/Saxophones-s.jpg",
+      "alt": "",
+      "caption": "Saxophones",
+      "legacy_src": "Saxophones-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/86OfficeFetish.jpg",
+      "alt": "",
+      "caption": "Office Fetish, 1984",
+      "legacy_src": "86OfficeFetish.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/93Pinacotheque.jpg",
+      "alt": "",
+      "caption": "Pinacothèque, 1993",
+      "legacy_src": "93Pinacotheque.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/96SansTitre.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1996",
+      "legacy_src": "96SansTitre.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/Crucifixes-s.jpg",
+      "alt": "",
+      "caption": "Crucifixes",
+      "legacy_src": "Crucifixes-s.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/98-O'Clock.jpg",
+      "alt": "",
+      "caption": "O'Clock, 1998",
+      "legacy_src": "98-O'Clock.jpg"
+    },
+    {
+      "src": "/images/things/composite/collections/arman/Accordeons-S.jpg",
+      "alt": "",
+      "caption": "Accordeons",
+      "legacy_src": "Accordeons-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/things",
+    "/things/composite/collections"
+  ]
+}

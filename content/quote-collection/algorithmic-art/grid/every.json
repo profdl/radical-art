@@ -1,0 +1,113 @@
+{
+  "slug": "algorithmic-art/grid/every",
+  "legacy_path": "AlgorithmicArt/grid/every/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "quote-collection",
+  "title": "Every Grid",
+  "heading": "Enumerating everything: All Grids",
+  "description": "Enumeration art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Enumerating everything: All Grids",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "The major conceptual challenge of algorithmic\nart is to develop a cognitively viable characterization of the set\nof all images. To take on this challenge, is to engage in a\nlong-term research agenda concerning visual Gestalt perception – to understand and formalize the structure of the \"space\nof all images\", as Frieder Nake called it. In the 1990's,\na more straightforward response to this challenge\nwas developed and implemented independently by several artists: to\nenumerate all pixel grids.",
+      "links": [
+        {
+          "text": "\"space of all images",
+          "href": "/algorithmic-art/artificial",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lars Eijssen & Boele\nKlopman: \"The Wishing Well\" (Enschede, 1991). Program\nprinting out all configurations of a 71 by 71 black & white\npixel grid. With a graphical interface for \"looking into\nthe future\" and an \"inverse mapping\" which calculates\nfor any picture when it will be produced. (Pascal program running\non IBM-compatible PC's under MSDOS.)\n\nThis piece was displayed as an installation at the 1991 TART\nFestival, University of Twente, the Netherlands; it was mentioned\nin: Remko Scha: \"The Artificial Artist.\" Natuur\nen Techniek 60, 7 (1992), pp. 526-539.",
+          "links": []
+        },
+        {
+          "text": "Jochem van der Spek:\n\"Borges\" (Amsterdam, 1993).",
+          "links": []
+        },
+        {
+          "text": "John F. Simon Jr.: \"Every Icon\" (New\nYork, 1996). Enumeration of all configurations of a 32 by 32\nblack & white pixel grid. (Platform-independent Java-applet.)",
+          "links": [
+            {
+              "text": "\"Every Icon\"",
+              "href": "/algorithmic-art/grid/every/every-icon",
+              "external": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Leander Seige: \"Imagen\"\n(Leipzig, 2000). Enumeration of all configurations of various\npixel grids. E.g.: up to 150 by 150 black & white; up to\n64 by 64 grey or RGB (up to 16 bit). [This program has been\naccessible online, and may become accessible again. See http://imagen.hgb-leipzig.de/\n.]",
+          "links": [
+            {
+              "text": "http://imagen.hgb-leipzig.de/",
+              "href": "http://imagen.hgb-leipzig.de/",
+              "external": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "An esthetic experience evoked by these pieces:\nEven if the number of n x n black-and-white images is finite, it\nis extremely large. The mental representation of such an\nimage set is experienced as a sublime vertigo. (Cf. Kant: \"Das\nphysikalische Erhabene.\") [Computer Science correlary: Theory of randomness: Almost all of\nthese images lack structure. Regularity is rare.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Minos: In predicate (2), you speak of 'any\ntransversal': a little while ago, you spoke of 'every exterior\nangle.' Do you make any distinction between 'any' and 'every'?\n\nEuclid: Where the things spoken of are limited in number,\nI use 'every'; where infinite, I use 'any' in order to bring the\nidea within the grasp of our finite intellects. For instance, you\nmay talk of 'every grain of sand in the world': there are,\nno doubt, what country-folk would call 'a good few' of them, but\nstill the number is limited, and the mind can just grasp the idea.\nBut if you tell me that 'every cubic inch of Space contains\neight cubic half-inches,' my mind is unable to form a distinct conception\nof the subject of your Proposition: you would convey the same truth,\nand in a form I could grasp, by saying 'any cubic\ninch.'",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Charles L. Dodgson: Euclid and his modern\nrivals. London: Macmillan, 1879. [Second\nedition, 1885, p. 25.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Man kann soweit gehen, große\nTeile des ästhetischen Produktionsprozesses unter dem Anzahlaspekt\nzu betrachten: Künstler wechseln den ästhetischen Raum,\nwenn eine genügend große Anzahl von Objekten darin\nrealisiert worden ist - vom Künstler selbst oder von anderen;\nwenn sie herausfinden, daß ein solcher Raum schon besetzt\nist; Künstler suchen sich \"große\", \"offene\" Räume.\nDie Definition der ästhetischen Räume selbst ist natürlich\ndas eigentliche Problem. Die zwei extremfälle sind der Raum\naller überhaupt möglicher Bilder, der alle anderen ästhetischen\nRäume enthält, sowie die durch jedes einzelne realisierte\nBild definierten Räume, die keinen anderen Raum enthalten.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik als Informationsverarbeitung. Vienna/New York: Springer Verlag, 1974, p. 104.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Quoi que l'artiste veuille faire, y compris n'importe quoi, une\noeuvre au hasard par example, il lui faut bien faire quelque\nchose. En d'autres termes, il ne peut pas tout faire, sa finitude\nl'interdit.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thierry de Duve: Au nom de\nl'art. Pour une archéologie de la modernité. Paris: Les Éditions de Minuit, 1989, p. 133.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2001",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/artificial"
+  ]
+}

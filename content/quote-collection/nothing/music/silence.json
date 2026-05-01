@@ -1,0 +1,167 @@
+{
+  "slug": "nothing/music/silence",
+  "legacy_path": "nothing/music/silence/index.html",
+  "section": "nothing",
+  "archetype": "quote-collection",
+  "title": "silence",
+  "heading": "Silence",
+  "description": "Nothing as art. Nothing in art.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Monotone\nMusic Nothing\nRadical\nArt",
+      "links": [
+        {
+          "text": "",
+          "href": "/nothing/music/monotone",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/nothing",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Silence",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Alphonse Allais: Marche Funèbre Composée pour\nles Funérailles d'un Grand Homme Sourd, 1884.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "First\nexhibited in the Salon des Incohérents, 1884. Printed\nin: Album Primo-Avrilesque. Paris: Ollendorf, 1897. [Reprinted\nin: Guy Schraenen: Erratum Musical. Bremen: Institut\nFrançais, 1994.] [Préface.]",
+      "links": [
+        {
+          "text": "[Préface.]",
+          "href": "http://alph-allais.chez.tiscali.fr/Album0104.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Yves Klein: Symphonie Monoton-Silence, 1949-1962.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Twenty\nminutes of one tone followed by twenty minutes of silence.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Conceived\nby Yves Klein in 1949.\n\nTape version by Pierre Henry played at a show of monochrome IKB\npaintings at Gallery Iris Clert, May 1957.\n\nGrammophone record \"Musique du Vide\", 1959.\n\nInstrumental version by Yves Klein, played by chamber orchestra\n(in conjunction with Anthropométrie performance), March 9,\n1960.\n\nShortened instrumental version by Yves Klein: one chord for 5-7\nminutes followed by silence of unspecified duration. Score for orchestra\nconsisting of 20 singers, 10 violins, 10 cello's, 3 double basses,\n8 flutes, 8 oboes, and 3 French horns (1961). [Cf. Stich 1994, p.\n176.]\n\n\"Second Monotone Symphony\" by Pierre Henry played at Klein's\nwedding with Rotraut Uecker, January 21, 1962, Saint Nicolas des\nChamps.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Cage: 4'33\", 1952.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "(For\nany instrument or ensemble. The title indicates the total length.) The\npiece consists of 3 parts; each part is silent.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "4'33\" is concerned with sound, but suggests a generalization of\nmusic which deals with a completely abstract notion of temporal structure.\nIt can also be read as a musical rendition of nothing. (Cage also wrote\nabook called \"Silence\", which includes a \"Lecture on\nNothing\".)\n\nOther influential aspects of this piece: (1) It turns musical performance\ninto a subgenre of minimalist theatre. (2) It introduces the element\nof chance. (Cage has insisted that everything you hear during a performance\nof 4'33\" is part of the piece.)\n\n\n\nLarry J. Solomon: The\nSounds of Silence. John Cage and 4'33\". 1998/2002.",
+      "links": [
+        {
+          "text": "The Sounds of Silence. John Cage and 4'33\".",
+          "href": "http://solomonsmusic.net/4min33se.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "La Monte Young: Composition 1960 # 4.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Announce\nto the audience that the lights will be turned off for the duration\nof the composition (it may be any length) and tell them when the composition\nwill begin and end.\n\nTurn off all the lights for the announced duration.\n\nWhen the lights are turned back on, the announcer may tell the audience\nthat their activities have been the composition, although this is\nnot at all necessary.\n\n[6 - 3 - 60]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[In: La Monte Young (ed.): An Anthology. 1963.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Fred\nForest: Broadcast Silence, 1972.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "60\nseconds of silence interrupt the news broadcast of the second French\nnational TV channel at 12 noon, January 22, 1972. Later that year,\nthe piece is repeated in the following contexts: Radio: Europe N¡ 1, France-Culture, France-Inter (France), Radio Jovem Pam (Brazil),\nRadio Suisse Romande (Switzerland). Television: Bandeirantes Channel\n13 (Brazil), Z.D.F. (Germany), R.A.I. (Italy), B.R.T. (Belgium).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "VOLVO,\n1980's.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Dutch\nrock 'n roll band who never played, performed, or recorded.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Quotes",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Maeterlinck, with his theory that silence is more musical than\nsound!\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mario\nPraz: Romantic Agony, p. 15.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I,\ntoo, am an apostle of silence.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Marcel\nBroodthaers. [As quoted by Thomas McEvilley: \"Another Alphabet.\n\nThe\nArt of Marcel Broodthaers.\" Artforum, Nov. 1989, p. 106.]",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/index",
+    "/nothing",
+    "/nothing/music/monotone"
+  ]
+}

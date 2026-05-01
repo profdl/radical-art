@@ -1,0 +1,231 @@
+{
+  "slug": "concept/tautology/photo",
+  "legacy_path": "concept/tautology/photo/index.html",
+  "section": "concept",
+  "archetype": "image-grid",
+  "title": "Redundant Photographs",
+  "heading": "Redundant Photographs",
+  "description": "Redundant Photographs: William Anastasi, Robert Smithson, Besson, Robert Morris, Pierre Huyghe.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Redundant Photographs",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "William Anastasi",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt[Polaroids]-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1964",
+      "width": "154",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt(SixSites)-S.jpg",
+      "alt": "",
+      "caption": "Untitled (Six Sites), 1966/1967",
+      "width": "244",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66-Passion.jpg",
+      "alt": "",
+      "caption": "Passion, 1966/1994",
+      "width": "250",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/anastasi-67-9PolroidsOfAMrr-S.jpg",
+      "alt": "",
+      "caption": "Nine Polaroid Portraits of a Mirror, 1967",
+      "width": "196",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Smithson",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOnAScton)-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "250",
+      "height": "243",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/smithson-68-Unt(6StopsOAS)b-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOAS)c-M.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/smithson-Smithson68U(6StopsOAS)d-M.jpg",
+      "alt": "",
+      "caption": "From: Untitled (6 Stops on a Section), 1968",
+      "width": "250",
+      "height": "237",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Besson",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII[1]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "293",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge[2]-s.jpg",
+      "alt": "",
+      "caption": "From: Reality replaced by its image, 1971",
+      "width": "301",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Robert Morris",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/Morris75PhotoCabinet-S.jpg",
+      "alt": "",
+      "caption": "Photo Cabinet, 1975",
+      "width": "151",
+      "height": "205",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Pierre Huyghe",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/concept/tautology/photo/PierreHuyghe94ST-s.jpg",
+      "alt": "",
+      "caption": "Sans titre, 1994",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt[Polaroids]-s.jpg",
+      "alt": "",
+      "caption": "Untitled, 1964",
+      "legacy_src": "../anastasi/Anastasi64Unt%5BPolaroids%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt(SixSites)-S.jpg",
+      "alt": "",
+      "caption": "Untitled (Six Sites), 1966/1967",
+      "legacy_src": "../anastasi/Anastasi66Unt(SixSites)-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66-Passion.jpg",
+      "alt": "",
+      "caption": "Passion, 1966/1994",
+      "legacy_src": "../anastasi/Anastasi66-Passion.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/anastasi-67-9PolroidsOfAMrr-S.jpg",
+      "alt": "",
+      "caption": "Nine Polaroid Portraits of a Mirror, 1967",
+      "legacy_src": "../anastasi/67-9PolroidsOfAMrr-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOnAScton)-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Smithson/68U(6StopsOnAScton)-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/smithson-68-Unt(6StopsOAS)b-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Smithson/68-Unt(6StopsOAS)b-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOAS)c-M.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../Smithson/68U(6StopsOAS)c-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/smithson-Smithson68U(6StopsOAS)d-M.jpg",
+      "alt": "",
+      "caption": "From: Untitled (6 Stops on a Section), 1968",
+      "legacy_src": "../Smithson/Smithson68U(6StopsOAS)d-M.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII[1]-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Besson71-RealityRplcdByII%5B1%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge[2]-s.jpg",
+      "alt": "",
+      "caption": "From: Reality replaced by its image, 1971",
+      "legacy_src": "Besson71-RealRByItsImge%5B2%5D-s.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/Morris75PhotoCabinet-S.jpg",
+      "alt": "",
+      "caption": "Photo Cabinet, 1975",
+      "legacy_src": "Morris75PhotoCabinet-S.jpg"
+    },
+    {
+      "src": "/images/concept/tautology/photo/PierreHuyghe94ST-s.jpg",
+      "alt": "",
+      "caption": "Sans titre, 1994",
+      "legacy_src": "PierreHuyghe94ST-s.jpg"
+    }
+  ],
+  "out_links": []
+}

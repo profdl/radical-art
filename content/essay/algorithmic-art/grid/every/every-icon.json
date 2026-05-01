@@ -1,0 +1,195 @@
+{
+  "slug": "algorithmic-art/grid/every/every-icon",
+  "legacy_path": "AlgorithmicArt/grid/every/EveryIcon/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Every Icon",
+  "heading": "",
+  "description": "Enumeration art.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "John F. Simon Jr.: Every Icon.",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "John Simon's Java-applet \"Every Icon\" (1996) enumerates\nall patterns which are possible in a 32 by 32 grid of pixels which\nmay be colored black or white.\n\n\n\n\"Every Icon\" was displayed in many gallery exhibitions.\nSeveral of its instantiations can also be witnessed online through\nany Java-compatible browser.\n\n\n\nCustomized copies of the applet are created on demand; they can\nbe ordered online through the artist's website. A customized applet\nstarts its enumeration at the moment of its creation.The buyer\nof an applet receives the code for a web-page which can be used\nto put it online. Examples of web-pages in this format are",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John Simon's \"artist's proof\" of \"Every Icon\".\n\nThe\nEnterzone copy of \"Every Icon\"\n\nThe\nStadium copy of \"Every Icon\"\n\nThe IAAA copy of \"Every Icon\"\n\n\n\nThe buyer of an applet receives a license agreement (see below)\nwhich looks pretty much like a standard software license agreement.\nFor the connoisseur of modern art it also resonates with the certificates\nwritten by the conceptual and minimal artists of the sixtities and\nseventies to turn their mental and immaterial artworks into tradable\ncommodities. (Knight (1988) shows such certificates by Robert Barry,\nDonald Judd, Sol LeWitt, Walter De Maria, Bruce Naumann, and James\nTurrell.)\n\n\n\nWatching the program in action, one may\nwonder: Does it indeed generate all possible 32 x 32 pixel configurations?\nDoes it generate each of them exactly once? To answer that question,\nis to \"reverse-engineer\" the program: to guess the underlying\nalgorithm by analysing the program's observed behaviour.\n\n\n\nJochem van der Spek's program \"Borges.C\" (1993) has\na functionality very similar to \"Every Icon\". Van der\nSpek reports that his algorithm for the 32 x 32 case would work\nas follows:",
+      "links": [
+        {
+          "text": "John Simon's \"artist's proof\" of \"Every Icon\".",
+          "href": "http://www.numeral.com/eicon.html",
+          "external": true
+        },
+        {
+          "text": "The Enterzone copy of \"Every Icon\"",
+          "href": "http://ezone.org/ez/e11/articles/jfsjr/everyicon.html",
+          "external": true
+        },
+        {
+          "text": "The Stadium copy of \"Every Icon\"",
+          "href": "http://www.stadiumweb.com/everyicon/every_icon.html",
+          "external": true
+        },
+        {
+          "text": "The IAAA copy of \"Every Icon\"",
+          "href": "/algorithmic-art/grid/every/every-icon/eicon",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider all possible bit strings\nof length 1024. Notice that these can be read as denoting the\nnumbers 0 through 2^1024 – 1 (in a notation with leading\n0's). We can therefore generate all these numbers by starting\nwith 0 (i.e. 1024 0's) and adding 1 until we have reached the\nnumber which is writtten as a sequence of 1024 1's. Stipulate\nthat 0 means white and 1 means black, and write each number in\na 32 x 32 grid, in right-to-left, bottom-to-top fashion (\"backwards\",\nleast significant bits first). This process generates all possible\npatterns by the simple process of binary counting. It starts with\nsmall patterns in the upper left corner and gradually extends\nthem, first to the right, then to the next line, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "--------\nEVERY ICON LICENSE AGREEMENT -----------",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This\nagreement constitutes a legal agreement giving you, (\"the\npurchaser\"), certain rights regarding your copy of the\nEvery Icon software applet (\"the software\"). YOU AGREE\nTHAT BY RUNNING THE LICENSED APPLET YOU ACCEPT THE\nTERMS OF THIS AGREEMENT. If you do not accept these terms,\nplease immediately erase all copies of your Every Icon\napplet.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1.\nLicense grant. John F. Simon, Jr. grants you the right\nto use your personal copy of the software, the copy with\nyour name displayed, on any computer at any time.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2.\nCode Restrictions. You are not allowed to alter the software,\nthe file of Java byte-code delivered with this document,\nor replace any of the code. You may not disassemble, decompile,\nreverse engineer or make changes to the software.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "3.\nDisplay Restrictions. You may display your unaltered copy\nof Every Icon on any non-commercial site on the World\nWide Web and in any other non-commercial venue.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "4.\nCopy Restrictions. You may transfer copies of your unaltered\nsoftware to any other person through any media provided\nthat you guarantee any copies transferred are protected\nby the terms of this agreement. If you are unable to insure\nthat the transferred copies remain unaltered and are properly\ndisplayed, then copies may be made for personal use only.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "5.\nTransfer of title. You may sell your edition number of\nEvery Icon under the conditions that all copies of Every\nIcon with your name are erased and the sale is registered\nwith John F. Simon, Jr. Registration of the sale is subject\nto a fee equal to 10% of the sale; for which John F. Simon,\nJr. will create a new copy of the applet with the same\nedition number but with the new owner's name and will\nchange the owner's name on the posted list of registered\nowners.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "6.\nContinuation grant. In such time that the software becomes\nobsolete and is no longer executable on state-of-the-art\ncomputers, you are granted the right to have the working\nprocesses of Every Icon reprogrammed and to transfer your\nname as displayed in the software, the starting date given\nin the software and the edition number given in the software\nto the new program. At such time, every effort should\nbe made to duplicate all functions and aspects of the\noriginal software including visual appearance.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "7.\nLIMITED WARRANTY. John F. Simon, Jr. warrants the delivery\nof a working applet (and media free of defects when delivered\nvia disk). This software is provided \"as is\". There is\nno other warranty of any kind either express or implied.\nThere is no warranty that the functions contained in the\nsoftware will meet your requirements or that the operation\nof the program will be uninterrupted or error free or\nthat the program's defects will be corrected. There is\nno warranty that Every Icon will meet the purchaser's\nexpectations for owning conceptual art.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "8.\nLimitation of liability. John F. Simon, Jr. will not be\nliable for any damages beyond the purchase price of the\nsoftware. In cases of damaged media, John F. Simon, Jr.\nhas the option of replacing the media as purchaser's sole\nremedy.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "9.\nGoverning Law. This agreement is governed by the laws\nof the State of New York.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Copyright 1997, John F.\nSimon, Jr. - All Rights Reserved",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Assignments",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "1.\n[For A.I. students:] Reverse-engineer the enumeration\nalgorithm. Decide whether it implements the intended functionality.\nExplain why or why not. [Hint: Check whether the observable\nbehaviour of the program is compatible with Jochem van der\nSpek's algorithm described above.]\n\n2. [For art students:] Consider the order in\nwhich the different possible images are generated. Compare\nthis, from an artistic/aesthetic point of view, with the order\nthat Eijssen and Klopman employ in the algorithm of The\nWishing Well.\n\n3. [For law students:] Reverse engineering Simon's\nalgorithm is explicitly forbidden by article 2 of the license-agreement.\nExplore how the notion of \"reverse engineering\" should be interpreted in this context.\n\nIn its core meaning, \"reverse engineering\" is the\nprocess of understanding and analyzing software on the basis\nof its external behavior. Is it possible, under the laws of\nthe State of New York, for a license agreement to exclude\npurely mental activities?\n\n[Subsidiary issue: Article 6 contradicts article 2. One may\nconjecture that this does not create legal complexities, because\nthe intent is obviously that article 6, when applicable, overrules\narticle 2. Is this correct?]\n\n4. [For art students:] Reverse-engineering Simon's\nalgorithm is explicitly forbidden by article 2 of the license-agreement.\nDiscuss the artistic status of this prohibition. It seems\nparadoxical for a conceptual artist to impose limitations\non the extent of someone's reflections on his works. Do you\nthink this paradox is intended? Why not?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The idea of enumerating all possible pixel grids\nwas developed and implemented independently by several artists. (We list them on our page about \"Every Grid\".\nThe first piece of this sort that we know of is \"The\nWishing Well\" by\nLars Eijssen & Boele Klopman (1991). It displays and prints\nall configurations of a 172 by 172 black & white pixel grid,\nand includes a graphical interface for \"looking into the\nfuture\" and an \"inverse mapping\" which calculates\nfor any input picture when it will be produced. It generates the\nimages in a different order than \"Every Icon\": after\nthe empty image, first all images with 1 black pixel, then all\nimages with 2 black pixels, etc.\n\n\n\nOther, more limited pieces in the same genre were done by Jochem\nvan der Spek (\"Borges.C\", 1993) and by Leander Seige\n(\"Imagen\",\n2000). The unique quality of John Simon's \"Every Icon\" is its availability as a Java-applet.\n\n\n\nThe idea of enumerating all possible pixel grids has a definite\nrelation with the \"random pixel grids\" done by artists\nsuch as Ellsworth Kelly (1951), François Morellet (1961),\nand herman de vries (1970). These are discussed in our page on \"Any Grid\" .\n\n\n\nThe idea of enumerating all possible pixel grids is an instance\nof a more general notion of \"enumeration\nart\" which can also be carried out without computers.\nSol LeWitt, for instance, made many works in this genre.\n\n\n\n\"Every Icon\" was inspired by an early Macintosh \"icon-editor\".\nA similar program is Aaron Neugebauer's PixelPaint\n(2002). A 3D version of the same idea is one of the modes of operation\nof the program\nBlocks, written by Wouter De Jong and Roy Tanck\nin 2000.",
+      "links": [
+        {
+          "text": "\"Every Grid\"",
+          "href": "/algorithmic-art/grid/every",
+          "external": false
+        },
+        {
+          "text": "\"Imagen\"",
+          "href": "http://imagen.hgb-leipzig.de/",
+          "external": true
+        },
+        {
+          "text": "\"Any Grid\"",
+          "href": "/algorithmic-art/grid/any",
+          "external": false
+        },
+        {
+          "text": "\"enumeration art\"",
+          "href": "/algorithmic-art/enumeration",
+          "external": false
+        },
+        {
+          "text": "PixelPaint",
+          "href": "http://entries.the5k.org/967/index.html",
+          "external": true
+        },
+        {
+          "text": "Blocks",
+          "href": "http://entries.the5k.org/209/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Christopher Knight: Art of the Sixties and\nSeventies. The Panza Collection. New York: Rizzoli, 1988.\n\nMatthew Mirapaul: \"In\nJohn Simon's Art, Everything Is Possible.\" The New\nYork Times, April 17, 1997.\n\nJohn Simon: \"Given:\na 32 X 32 Grid.\" Parachute Magazine, January,\n1997.",
+      "links": [
+        {
+          "text": "\"In John Simon's Art, Everything Is Possible.\"",
+          "href": "http://www.numeral.com/articles/041797mirapaul/041797mirapaul.html",
+          "external": true
+        },
+        {
+          "text": "\"Given: a 32 X 32 Grid.\"",
+          "href": "http://www.numeral.com/paraicon.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remko Scha, 2001/2004",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/enumeration",
+    "/algorithmic-art/grid/any",
+    "/algorithmic-art/grid/every",
+    "/algorithmic-art/grid/every/every-icon/eicon"
+  ]
+}

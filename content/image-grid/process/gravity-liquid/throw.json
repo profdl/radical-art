@@ -1,0 +1,241 @@
+{
+  "slug": "process/gravity-liquid/throw",
+  "legacy_path": "process/gravity-liquid/throw/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "throwing paint",
+  "heading": "throwing",
+  "description": "Process Art: Pouring.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: process\nart radical\nart",
+      "links": [
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "throwing",
+      "links": [],
+      "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "Hans Hofmann",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1956-hans-hofmann-1956-the_prey-s.jpg",
+      "alt": "",
+      "caption": "The Prey, 1956",
+      "width": "240",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1956-hans-hofmann-1962-rope_swinger-s.jpg",
+      "alt": "",
+      "caption": "The Rope Swinger, 1962",
+      "width": "239",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Markus Prachensky",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-prachensky-1962-RotAufWeiss-Vienna-s.jpg",
+      "alt": "",
+      "caption": "Rot auf Weiß (Wien), 1962",
+      "width": "425",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-prachensky-1976-PerUrbino_I-s.jpg",
+      "alt": "",
+      "caption": "Per Urbino I, 1976",
+      "width": "224",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hermann Nitsch",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1962-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1962",
+      "width": "327",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1983-s.jpg",
+      "alt": "",
+      "caption": "1983",
+      "width": "319",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1985-Nr.5-s.jpg",
+      "alt": "",
+      "caption": "Nr. 5, 1985",
+      "width": "295",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-2007-Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 2007",
+      "width": "314",
+      "height": "207",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "William Anastasi",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "One Gallon Industrial High\nEnamel, Thrown.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "1966",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Lawrence Weiner",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "One Quart Exterior Industrial\nEnamel Thrown on a Brick Wall.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Nr. 002, 1968",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Thrown",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "heading",
+      "text": "Nr. 129, 1969",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/gravity-liquid/throw/1968-weiner-Guggenheim1986-s.jpg",
+      "alt": "",
+      "caption": "\"One Quart Exterior Industrial Enamel\nThrown on a Brick Wall\"\n\nas displayed at the\nGuggenheim Museum, 1986",
+      "width": null,
+      "height": null,
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/gravity-liquid/throw/1956-hans-hofmann-1956-the_prey-s.jpg",
+      "alt": "",
+      "caption": "The Prey, 1956",
+      "legacy_src": "1956-HansHofmann/1956-the_prey-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1956-hans-hofmann-1962-rope_swinger-s.jpg",
+      "alt": "",
+      "caption": "The Rope Swinger, 1962",
+      "legacy_src": "1956-HansHofmann/1962-rope_swinger-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-prachensky-1962-RotAufWeiss-Vienna-s.jpg",
+      "alt": "",
+      "caption": "Rot auf Weiß (Wien), 1962",
+      "legacy_src": "1962-Prachensky/1962-RotAufWeiss-Vienna-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-prachensky-1976-PerUrbino_I-s.jpg",
+      "alt": "",
+      "caption": "Per Urbino I, 1976",
+      "legacy_src": "1962-Prachensky/1976-PerUrbino_I-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1962-OT-s.jpg",
+      "alt": "",
+      "caption": "Ohne Titel, 1962",
+      "legacy_src": "1962-HermannNitsch/1962-OT-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1983-s.jpg",
+      "alt": "",
+      "caption": "1983",
+      "legacy_src": "1962-HermannNitsch/1983-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-1985-Nr.5-s.jpg",
+      "alt": "",
+      "caption": "Nr. 5, 1985",
+      "legacy_src": "1962-HermannNitsch/1985-Nr.5-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1962-hermann-nitsch-2007-Schuettbild-s.jpg",
+      "alt": "",
+      "caption": "Schüttbild, 2007",
+      "legacy_src": "1962-HermannNitsch/2007-Schuettbild-s.jpg"
+    },
+    {
+      "src": "/images/process/gravity-liquid/throw/1968-weiner-Guggenheim1986-s.jpg",
+      "alt": "",
+      "caption": "\"One Quart Exterior Industrial Enamel\nThrown on a Brick Wall\"\n\nas displayed at the\nGuggenheim Museum, 1986",
+      "legacy_src": "1968-Weiner/Guggenheim1986-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/process"
+  ]
+}

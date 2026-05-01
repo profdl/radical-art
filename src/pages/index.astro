@@ -1,0 +1,83 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import { sectionLabel } from "~/lib/text";
+
+const all = await getCollection("pages");
+
+const sectionsList = [
+  "concept", "AlgorithmicArt", "kinetics", "process",
+  "destruction", "Life", "everything", "anything",
+  "something", "nothing", "informe", "ego",
+  "nature", "physics", "things",
+];
+
+function sectionSlug(s: string): string {
+  return s.replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-").toLowerCase();
+}
+
+const sections = sectionsList.map((s) => ({
+  name: sectionLabel(s),
+  slug: sectionSlug(s),
+  count: all.filter((p) => p.data.section === s).length,
+  sample: all
+    .filter((p) => p.data.section === s && p.data.images.length >= 3)
+    .sort((a, b) => b.data.images.length - a.data.images.length)[0],
+}));
+---
+
+<BaseLayout title="Radical Art">
+  <header class="mb-8">
+    <h1 class="h-page">Radical Art</h1>
+    <p class="mt-2 prose-archive max-w-3xl">
+      An analytical anthology of anti-art and meta-art, published by the
+      <a href="https://iaaa.nl">Institute of Artificial Art Amsterdam</a>,
+      department of art history. A site about radical strands in modern art,
+      including algorithmic art and its art-historical and conceptual context.
+    </p>
+  </header>
+  <hr class="rule" />
+
+  <section class="pt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10">
+    {
+      sections.map((s) => (
+        <a href={"/" + s.slug} class="group block">
+          {s.sample && s.sample.data.images[0] ? (
+            <div class="aspect-[4/3] mb-3 overflow-hidden bg-[color:var(--color-rule-light)]">
+              <img
+                src={s.sample.data.images[0].src}
+                alt={s.sample.data.images[0].alt || s.name}
+                loading="lazy"
+                class="h-full w-full object-cover"
+              />
+            </div>
+          ) : (
+            <div class="aspect-[4/3] mb-3 border border-[color:var(--color-rule-light)]" />
+          )}
+          <p class="h-detail group-hover:underline underline-offset-4">{s.name}</p>
+          <p class="section-label mt-1">{s.count} pages</p>
+        </a>
+      ))
+    }
+  </section>
+
+  <hr class="rule-light mt-16" />
+
+  <section class="pt-8">
+    <p class="section-label mb-4">Featured Essays</p>
+    <div class="grid md:grid-cols-2 gap-x-10 gap-y-8 max-w-4xl">
+      <a href="/meta" class="block">
+        <p class="h-detail group-hover:underline">Kant, Duchamp, Meta-Art</p>
+        <p class="prose-archive mt-1 text-[color:var(--color-ink-muted)]">
+          Remko Scha — an introductory essay on the roots of algorithmic art.
+        </p>
+      </a>
+      <a href="/q-end-art" class="block">
+        <p class="h-detail">The End of Art</p>
+        <p class="prose-archive mt-1 text-[color:var(--color-ink-muted)]">
+          On the contemporary status of art-historical narratives.
+        </p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

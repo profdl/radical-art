@@ -1,0 +1,252 @@
+{
+  "slug": "process/vibration/chladni-lissajous",
+  "legacy_path": "process/vibration/chladni-lissajous/index.html",
+  "section": "process",
+  "archetype": "quote-collection",
+  "title": "harmonic vibrations",
+  "heading": "Automatic Art by Mechanical Vibrations",
+  "description": "automatic art by mechanical vibrations.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Automatic Art by Mechanical Vibrations",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Chladni Figures",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Ernst Chladni: Entdeckungen im Reich des Klanges,\n1787.\n\n\n\nMary D. Waller: Chladni Figures; a study in symmetry, London:\nG. Bell, 1961.\n\n\n\nJ.\nR. Comer, M. J. Shepard, P. N. Henriksen, & R. D. Ramsier: \"Chladni\nplates revisited,\" Am. J. Phys. 72 (10), pp. 1345Ð1346\n(2004)]\n\n\n\nHans Jenny: Kymatik: Wellen und Schwingungen mit ihrer Struktur\nund Dynamik. Cymatics:The Structure and Dynamics of Waves and Vibrations.\nBasel:\nBasilius Presse, 1967.\n\n\n\nAlvin Lucier: The Queen of the South (1972) for players, responsive\nsurfaces, strewn material and closed-circuit television systems.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Lissajous Figures",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Lissajous Figures are produced by a pendulum which swings simultaneously in two orthogonal directions, or equivalently, by the juxtaposition of two orthogonally oriented tuning forks. The idea of a two-dimensional harmonic oscillator was first broached by James Dean (in an astronomical context) in 1815. The motions of such oscillators were exhaustively analyzed by Nathaniel Bowditch in the same year, and the shapes resulting from tracing these motions were first displayed by Jules Antoine Lissajous in 1857.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "ExploreScience\n(Java-Applet)",
+      "links": [
+        {
+          "text": "ExploreScience",
+          "href": "http://www.explorescience.com/activities/Activity_page.cfm?ActivityID=48",
+          "external": true
+        },
+        {
+          "text": ")",
+          "href": "http://webphysics.ph.msstate.edu/javamirror/explrsci/dswmedia/lisajous.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "WebPhysics (Java-Applet)",
+      "links": [
+        {
+          "text": "WebPhysics",
+          "href": "http://webphysics.ph.msstate.edu/javamirror/explrsci/dswmedia/lisajous.htm",
+          "external": true
+        },
+        {
+          "text": ")",
+          "href": "http://webphysics.ph.msstate.edu/javamirror/explrsci/dswmedia/lisajous.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Shockwave-program.",
+      "links": [
+        {
+          "text": "Shockwave-program.",
+          "href": "http://www.abc.net.au/science/holo/liss.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Early Machines for producing Lissajous Figures.",
+      "links": [
+        {
+          "text": "Early Machines for producing Lissajous Figures.",
+          "href": "http://www2.kenyon.edu/depts/physics/EarlyApparatus/Oscillations_and_Waves/Lissajous_Figures/Lissajous_Figures.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reference",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Nathaniel Bowditch: \"On the Motion of a Pendulum Suspended from Two Points.\" Memoirs of the American Academy of Arts and Sciences, 1815",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Pendulum Art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Roy E. Allen: \"Mechanical Patternmaker.\" In: Jasia\nReichardt (ed.): Cybernetic Serendipity. The Computer and the\nArts. London: Studio International, 1968, p. 40.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "D.\nP. Henry: \"The Henry Drawing Computer.\" In: Jasia\nReichardt (ed.): Cybernetic Serendipity. The Computer and the\nArts. (Special Issue of Studio International). London:\nStudio International, 1968, p. 50.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ivan\nMoscovitch: \"The Pendulum Harmonograph: a Drawing Machine.\" In: Jasia Reichardt (ed.):\nCybernetic Serendipity. The Computer and the Arts. London:\nStudio International, 1968, p. 48.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "John\nRavilious: \"Limitations and general design features of a\npendulum drawing machine.\" In: Jasia\nReichardt (ed.): Cybernetic Serendipity. The Computer and the\nArts. London: Studio International, 1968, p. 49.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "S.\nTolansky: \"Complex Curvilinear Designs from Pendulums.\"\nLeonardo 2 (1969), pp. 267–274. [Reprinted\nin: Frank J. Malina (ed.):\nVisual Art, Mathematics and Computers: Selections from the Journal\nLEONARDO. Oxford: Pergamon Press, 1979, pp. 61–68.]",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "The Spirograph",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The\nmathematics of trochoids and cycloids.\n\n\n\nJava-Applets: Anu,\nDogbomb.\n\n\n\n\nHarmonographs: Encyclogram\n\n\n\nNested rotations: Bit-101\nLaboratory: 10/13/14 Sep 2001.",
+      "links": [
+        {
+          "text": "The mathematics of trochoids and cycloids.",
+          "href": "http://www.geom.umn.edu/docs/reference/CRC-formulas/node34.html",
+          "external": true
+        },
+        {
+          "text": "Anu",
+          "href": "http://www.wordsmith.org/anu/java/spirograph.html",
+          "external": true
+        },
+        {
+          "text": "Dogbomb",
+          "href": "http://www.dogbomb.com/spi/",
+          "external": true
+        },
+        {
+          "text": "Encyclogram",
+          "href": "http://kosmoi.com/Science/Mathematics/Graphs/Encyclo/",
+          "external": true
+        },
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/base.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Oscillographs in early computer art",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbert W. Franke",
+      "links": [
+        {
+          "text": "Herbert W. Franke",
+          "href": "http://www.dam.org/franke/1953-1978a.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Related genres",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic art by mechanical machines",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Animal Art",
+      "links": [
+        {
+          "text": "",
+          "href": "/process/vibration/animal",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Standing waves as kinetic art",
+      "links": [
+        {
+          "text": "",
+          "href": "/kinetics/standing-waves",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fragment from a letter by Johann Wilhelm Ritter to H.C. Örsted (May 23, 1803)",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Ich kann dir nicht sagen, was eine durchgeführte Akustik gewährt. Als wenn sie jede Sache acu träfe. Seitdem ich so in die Geschichte vertieft bin, und überall Perioden in höhern u.s.f. , auch so zurüch, erblicke, hat Oscillation für mich eine hohe Bedeutung, und die häufigen Versuche alles auf Schwingung zu reducieren, werden lehrreich. Aller Sinnenempfindung liegt Oscillation zum Grunde. Licht ist der sichtbare Ton, Ton das hörbare Licht, Geruch der gerochene Ton, Geschmach der geschmeckte Geruch. Auch dem Gefühl entspricht Oscillation. In aller Zustandsänderung ist Oscillation begründet. Jeder chemische Process kommt vom Maximum der Oscillation durch allmähliges Verschwimmen derselben zum Product, und das Leben selbst ist Ton. Kurz überall, wo nur etwas geschiet, geschiet es auch nothwendig oscillatorisch.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/kinetics/standing-waves",
+    "/process/vibration/animal",
+    "/process/vibration/metamatic"
+  ]
+}

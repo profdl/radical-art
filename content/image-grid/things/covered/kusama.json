@@ -1,0 +1,190 @@
+{
+  "slug": "things/covered/kusama",
+  "legacy_path": "things/covered/kusama.html",
+  "section": "things",
+  "archetype": "image-grid",
+  "title": "covered",
+  "heading": "Yayoi Kusama: Aggregations",
+  "description": "Objects covered.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: covered objects things radical\nart",
+      "links": [
+        {
+          "text": "covered objects",
+          "href": "/things/covered",
+          "external": false
+        },
+        {
+          "text": "things",
+          "href": "/things",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "related genres: wrap cover-up paint",
+      "links": [
+        {
+          "text": "wrap",
+          "href": "/things/wrapped",
+          "external": false
+        },
+        {
+          "text": "cover-up",
+          "href": "/nothing/cover-up/cover",
+          "external": false
+        },
+        {
+          "text": "paint",
+          "href": "/things/painted",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Yayoi Kusama: Aggregations",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-62-AccumulationNo1-62-s.jpg",
+      "alt": "",
+      "caption": "Accumulation No. 1, 1962",
+      "width": "166",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-63AggregationRowboatM.jpg",
+      "alt": "",
+      "caption": "Aggregation Row Boat, 1963",
+      "width": "336",
+      "height": "170",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-63-Oven-Pan-1963-s.jpg",
+      "alt": "",
+      "caption": "Oven Pan, 1963",
+      "width": "230",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-63IroningBoard-s.jpg",
+      "alt": "",
+      "caption": "Ironing Board, 1963",
+      "width": "230",
+      "height": "280",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/64-kusamaBabyCarriage-s.jpg",
+      "alt": "",
+      "caption": "Yayoi Kusama:\n\nBaby Carriage, 1964",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-65PhallicGirl1965-s.jpg",
+      "alt": "",
+      "caption": "Phallic Girl, 1965",
+      "width": "172",
+      "height": "282",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-76SilverShoes-s.jpg",
+      "alt": "",
+      "caption": "Silver Shoes, 1976",
+      "width": "230",
+      "height": "191",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/things/covered/kusama/kusama-98LetSCarryTheFlowers-s.jpg",
+      "alt": "",
+      "caption": "Let's Carry the Flowers, 1998",
+      "width": "230",
+      "height": "183",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/things/covered/kusama/kusama-62-AccumulationNo1-62-s.jpg",
+      "alt": "",
+      "caption": "Accumulation No. 1, 1962",
+      "legacy_src": "kusama/62-AccumulationNo1-62-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-63AggregationRowboatM.jpg",
+      "alt": "",
+      "caption": "Aggregation Row Boat, 1963",
+      "legacy_src": "kusama/63AggregationRowboatM.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-63-Oven-Pan-1963-s.jpg",
+      "alt": "",
+      "caption": "Oven Pan, 1963",
+      "legacy_src": "kusama/63-Oven-Pan-1963-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-63IroningBoard-s.jpg",
+      "alt": "",
+      "caption": "Ironing Board, 1963",
+      "legacy_src": "kusama/63IroningBoard-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/64-kusamaBabyCarriage-s.jpg",
+      "alt": "",
+      "caption": "Yayoi Kusama:\n\nBaby Carriage, 1964",
+      "legacy_src": "64-kusamaBabyCarriage-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-65PhallicGirl1965-s.jpg",
+      "alt": "",
+      "caption": "Phallic Girl, 1965",
+      "legacy_src": "kusama/65PhallicGirl1965-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-76SilverShoes-s.jpg",
+      "alt": "",
+      "caption": "Silver Shoes, 1976",
+      "legacy_src": "kusama/76SilverShoes-s.jpg"
+    },
+    {
+      "src": "/images/things/covered/kusama/kusama-98LetSCarryTheFlowers-s.jpg",
+      "alt": "",
+      "caption": "Let's Carry the Flowers, 1998",
+      "legacy_src": "kusama/98LetSCarryTheFlowers-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/index",
+    "/nothing/cover-up/cover",
+    "/things",
+    "/things/covered",
+    "/things/painted",
+    "/things/wrapped"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "slug": "kinetics/gravity/stand/obelisk",
+  "legacy_path": "kinetics/gravity/Stand/obelisk/index.html",
+  "section": "kinetics",
+  "archetype": "image-grid",
+  "title": "Obelisks",
+  "heading": "Obelisks",
+  "description": "",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Obelisks",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-20thCBC-Senusret_I_Heliopolis-[FelixBonfils]-M.jpg",
+      "alt": "",
+      "caption": "Senusret I, Heliopolis, 20th Century B.C.\n\n[Photo: Felix Bonfils]",
+      "width": "199",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1500BC-Thutmose_I-karnak[GuillaumeLelarge2005]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose I, Karnak, 1500 B.C.\n\n[Photo: Guillaume Lelarge, 2005]",
+      "width": "192",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-15thCBC-Hatshepsut-Karnak-m.jpg",
+      "alt": "",
+      "caption": "Hatshepsut, Karnak\n\n15th Century B.C.",
+      "width": "184",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-CleopatraSNdle-Heliopolis--CentrlPrkNY-1880[Gift]-M.jpg",
+      "alt": "",
+      "caption": "Cleopatra's Needle, Heliopolis, ca. 1450 B.C.\n\n[As installed in Central Park, New York,\n\nin 1880 C.E.]",
+      "width": "181",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-Thutmose_III_Istanbul[Fragment-Theodosius_I_390AD]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose III, ca. 1450 B.C.\n\n[Fragment, installed in Istanbul\n\nby Theodosius I, 390 C.E.]",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-Thutmose_III_TekhenWaty-Lateran[ConstantiusII-357]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose III, Tekhen Waty, ca. 1450 B.C.\n\n[As installed in Laterano, Rome,\n\nby Constantius II in 357 C.E.]",
+      "width": "174",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-13thCBC-Ramses_II_Luxor_concorde[1836]-m.jpg",
+      "alt": "",
+      "caption": "L'Obélisque\n\nRamses II, Luxor, 13th Century B.C.",
+      "width": "163",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Gift from Egypt to France, 1830.\n\nInstalled at Place de la Concorde,\n\nParis, 1836]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-340-1676-Arles-M.jpg",
+      "alt": "",
+      "caption": "Arles\n\n340 C.E. / 1776 C.E.",
+      "width": "200",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1828-Thomas_Picton-Carmarthen-M.jpg",
+      "alt": "",
+      "caption": "Thomas Picton, Carmarthen\n\n1828",
+      "width": "173",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1833-LeoVonKlenzeWarMemorialKarolinenplatzMunich-M.jpg",
+      "alt": "",
+      "caption": "Leo von Klenze: Kriegsdenkmal\n\nKarolinenplatz, München, 1833",
+      "width": "203",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1842AlessandroTorlonia-Rome-M.jpg",
+      "alt": "",
+      "caption": "Alessandro Torlonia\n\nRome, 1842",
+      "width": "182",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1885-washington_monument_M.jpg",
+      "alt": "",
+      "caption": "Robert Mills: Washington Monument\n\nWashington D.C., 1848-1885",
+      "width": "211",
+      "height": "301",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1932--EnricoDelDebbio-MussoliniDux-ForoItalico-M.jpg",
+      "alt": "",
+      "caption": "Enrico del Debbio: Mussolini Dux\n\nForo Italico, Rome, 1932",
+      "width": "197",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1937-ArturoDazzi-Marconi-EUR-M.jpg",
+      "alt": "",
+      "caption": "Arturo Dazzi:\n\nObelisco dedicato a Guglielmo Marconi\n\nEUR, Rome, 1937",
+      "width": "206",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-PyramideVanAusterlitz-M.jpg",
+      "alt": "",
+      "caption": "Auguste de Marmont: Pyramide élevée à Napoléon\nI (\"Pyramide van Austerlitz\")\n\nWoudenberg, The Netherlands, 1805 [Engraving by Louis Pierre Baltard,1806]",
+      "width": "502",
+      "height": "300",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-PaysageAnimE-M.jpg",
+      "alt": "",
+      "caption": "Hubert Robert:\n\nPaysage animé à l’obélisque cassé et\ntrois pyramides\n\n1790's",
+      "width": "207",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-Newman-63-67-BrknOblsk-M.jpg",
+      "alt": "",
+      "caption": "Barnett Newman:\n\nBroken Obelisk, 1963/1967",
+      "width": "199",
+      "height": "299",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "External Links",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Shoji Okamoto's list of Egyptian obelisks (in Japanese and in English).",
+      "links": [
+        {
+          "text": "",
+          "href": "http://highskyblue.web.fc2.com/obelisk.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Shoji Okamoto's list of other obelisks (in Japanese and in English).",
+      "links": [
+        {
+          "text": "",
+          "href": "http://highskyblue.web.fc2.com/other_obelisks/collection.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Roman Monographs\": Obelisks in Rome.",
+      "links": [
+        {
+          "text": "",
+          "href": "http://roma.andreapollett.com/S3/roma-co.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha – October, 2010",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-20thCBC-Senusret_I_Heliopolis-[FelixBonfils]-M.jpg",
+      "alt": "",
+      "caption": "Senusret I, Heliopolis, 20th Century B.C.\n\n[Photo: Felix Bonfils]",
+      "legacy_src": "obelisks-ancient/20thCBC-Senusret_I_Heliopolis-%5BFelixBonfils%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1500BC-Thutmose_I-karnak[GuillaumeLelarge2005]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose I, Karnak, 1500 B.C.\n\n[Photo: Guillaume Lelarge, 2005]",
+      "legacy_src": "obelisks-ancient/1500BC-Thutmose_I-karnak%5BGuillaumeLelarge2005%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-15thCBC-Hatshepsut-Karnak-m.jpg",
+      "alt": "",
+      "caption": "Hatshepsut, Karnak\n\n15th Century B.C.",
+      "legacy_src": "obelisks-ancient/15thCBC-Hatshepsut-Karnak-m.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-CleopatraSNdle-Heliopolis--CentrlPrkNY-1880[Gift]-M.jpg",
+      "alt": "",
+      "caption": "Cleopatra's Needle, Heliopolis, ca. 1450 B.C.\n\n[As installed in Central Park, New York,\n\nin 1880 C.E.]",
+      "legacy_src": "obelisks-ancient/1450BC-CleopatraSNdle-Heliopolis--CentrlPrkNY-1880%5BGift%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-Thutmose_III_Istanbul[Fragment-Theodosius_I_390AD]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose III, ca. 1450 B.C.\n\n[Fragment, installed in Istanbul\n\nby Theodosius I, 390 C.E.]",
+      "legacy_src": "obelisks-ancient/1450BC-Thutmose_III_Istanbul%5BFragment-Theodosius_I_390AD%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-1450BC-Thutmose_III_TekhenWaty-Lateran[ConstantiusII-357]-M.jpg",
+      "alt": "",
+      "caption": "Thutmose III, Tekhen Waty, ca. 1450 B.C.\n\n[As installed in Laterano, Rome,\n\nby Constantius II in 357 C.E.]",
+      "legacy_src": "obelisks-ancient/1450BC-Thutmose_III_TekhenWaty-Lateran%5BConstantiusII-357%5D-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-ancient-13thCBC-Ramses_II_Luxor_concorde[1836]-m.jpg",
+      "alt": "",
+      "caption": "L'Obélisque\n\nRamses II, Luxor, 13th Century B.C.",
+      "legacy_src": "obelisks-ancient/13thCBC-Ramses_II_Luxor_concorde%5B1836%5D-m.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-340-1676-Arles-M.jpg",
+      "alt": "",
+      "caption": "Arles\n\n340 C.E. / 1776 C.E.",
+      "legacy_src": "obelisks-later/340-1676-Arles-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1828-Thomas_Picton-Carmarthen-M.jpg",
+      "alt": "",
+      "caption": "Thomas Picton, Carmarthen\n\n1828",
+      "legacy_src": "obelisks-later/1828-Thomas_Picton-Carmarthen-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1833-LeoVonKlenzeWarMemorialKarolinenplatzMunich-M.jpg",
+      "alt": "",
+      "caption": "Leo von Klenze: Kriegsdenkmal\n\nKarolinenplatz, München, 1833",
+      "legacy_src": "obelisks-later/1833-LeoVonKlenzeWarMemorialKarolinenplatzMunich-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1842AlessandroTorlonia-Rome-M.jpg",
+      "alt": "",
+      "caption": "Alessandro Torlonia\n\nRome, 1842",
+      "legacy_src": "obelisks-later/1842AlessandroTorlonia-Rome-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1885-washington_monument_M.jpg",
+      "alt": "",
+      "caption": "Robert Mills: Washington Monument\n\nWashington D.C., 1848-1885",
+      "legacy_src": "obelisks-later/1885-washington_monument_M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1932--EnricoDelDebbio-MussoliniDux-ForoItalico-M.jpg",
+      "alt": "",
+      "caption": "Enrico del Debbio: Mussolini Dux\n\nForo Italico, Rome, 1932",
+      "legacy_src": "obelisks-later/1932--EnricoDelDebbio-MussoliniDux-ForoItalico-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-later-1937-ArturoDazzi-Marconi-EUR-M.jpg",
+      "alt": "",
+      "caption": "Arturo Dazzi:\n\nObelisco dedicato a Guglielmo Marconi\n\nEUR, Rome, 1937",
+      "legacy_src": "obelisks-later/1937-ArturoDazzi-Marconi-EUR-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-PyramideVanAusterlitz-M.jpg",
+      "alt": "",
+      "caption": "Auguste de Marmont: Pyramide élevée à Napoléon\nI (\"Pyramide van Austerlitz\")\n\nWoudenberg, The Netherlands, 1805 [Engraving by Louis Pierre Baltard,1806]",
+      "legacy_src": "Obelisks-Broken/PyramideVanAusterlitz-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-PaysageAnimE-M.jpg",
+      "alt": "",
+      "caption": "Hubert Robert:\n\nPaysage animé à l’obélisque cassé et\ntrois pyramides\n\n1790's",
+      "legacy_src": "Obelisks-Broken/PaysageAnimE-M.jpg"
+    },
+    {
+      "src": "/images/kinetics/gravity/stand/obelisk/obelisks-broken-Newman-63-67-BrknOblsk-M.jpg",
+      "alt": "",
+      "caption": "Barnett Newman:\n\nBroken Obelisk, 1963/1967",
+      "legacy_src": "Obelisks-Broken/Newman-63-67-BrknOblsk-M.jpg"
+    }
+  ],
+  "out_links": []
+}

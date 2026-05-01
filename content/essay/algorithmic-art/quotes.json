@@ -1,0 +1,153 @@
+{
+  "slug": "algorithmic-art/quotes",
+  "legacy_path": "AlgorithmicArt/Quotes.html",
+  "section": "AlgorithmicArt",
+  "archetype": "essay",
+  "title": "Algorithmic Art Quotes",
+  "heading": "",
+  "description": "Quotes about the formal approach to art production.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Algorithmic Art [Quotes]",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "At present it is the fashion for empty-headed critics\nto make out that the systematic \"management\" of\nmusical material is identical with the terrorist rule of force in totalitarian\npolitical systems . . . one such \"social critic\" of music has in\nfact attributed to the twelve-tone system the power to produce detailed programme\nmusic, whose only suitable counterparts would be concentration camps, machine\nshops, and the world of Kafka.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbert Eimert: \"Von der Entscheidungsfreiheit\ndes Komponisten.\" Die Reihe 3 (1957).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[...] daß eine ursprünglich schöpferische Aufgabe\ndann aufhört, eine solche zu sein, wenn ein Algorithmus angegeben\nwird, mit dessen Hilfe sie lösbar ist. [...] Existenz eines\nAlgorithmus heißt in unserer Zeit Möglichkeit der Übertragung\nder Aufgabe an eine Maschine.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Georg Klaus: Kybernetik in philosophischer Sicht (Berlin: Dietz Verlag, 1961), p. 408.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Automation is a way of making things\neasy. Automation just gives you something to do.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Andy Warhol [In: Gerard Malanga: \"Andy Warhol on Automation:\nAn Interview.\" Chelsea 18 (1968), pp. 83-86.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Once the mechanical, and hence the precisely repetitious, had become the form and substance of the new art, the barriers were removed against its mass production, so that the artwork could be a kind of industrial product and the studio itself a kind of factory.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arthur Danto: \"Who was Andy Warhol.\" Art News, May 1987, p. 131.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gibt viele Beispiele von Computer-Kunst, aber ich kenne keines, das nur durch den Computer und durch nichts sonst zu realisieren gewesen wäre – keines, das eine neue Vision, ein neues Erlebnis offenbarte. Ich habe noch nie ein mit dem Computer geschaffenes Werk spontan, sondern stets über den Umweg des Intellekts konsumiert. Das heißt: die Neugierde, daß überhaupt – und wie ein Werk mit Hilfe des Computers entstanden ist, war stets größer als das, was das Werk evozierte.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Karl Gerstner: \"Mit dem Computer Kunst produzieren.\"\n\nIn: Boris Kelemen & Radoslav Putar: Dijalog sa Strojem / Dialog with the Machine.\n\nZagreb: Galerije Grada Zagreba, 1971, p.150.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Ästhetik ist eine spezielle Art der Datenverarbeitung\nund deswegen ein Teilgebiet der Informatik.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik\nals Informationsverarbeitung. Vienna/New York: Springer Verlag,\n1974, p. 3.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mit Computern Kunstgegenstände\nproduzieren oder kritisieren zu wollen, kann kein Ziel an sich\nsein - nur ein Teilziel im Versuch, die technische Welt bewohnbar\nzu machen. Warum es dabei höchstens gehen kann, ist, die\nHilfe der Maschine in Anspruch zu nehmen - also etwas mit Computern\nzu tun und nicht etwas von ihnen (als quasi selbständige\nWesen) tun zu lassen. Dem Gerede von der Künstlichen Intelligenz\nist ein großer Teil der Schuld an der Vernebelung dieses\nUnterschieds zuzuschieben. In diesem Buch soll zu keiner Zeit\nder Eindruck entstehen, die Maschine tue etwas aus sich heraus,\nohne von uns kontrolliert zu sein. Selbst wenn wir von der modellhaften\nSimulation menschlicher Tätigkeiten in formalen Begriffen\nreden, so reden wir doch nur von deren Simulation. Der Computer\nist ein Produktionsinstrument, kein Gehirn.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: Ästhetik\nals Informationsverarbeitung. Vienna/New York: Springer\nVerlag, 1974, p. 5.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Further References",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Edward A. Feigenbaum and Julian Feldman (eds.): Computers and Thought (New York: McGraw-Hill, 1963), p. 460. [Review of early work on chance and creativity.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Frieder Nake: \"Technocratic dadaists.\" PAGE 21 (Bulletin of the Computer Arts Society), March 1972. [Nake against machine creativity.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "William E. Simmat (ed.): Kunst aus dem Computer. Stuttgart: Nadolski, 1967. [Articles by Max Bense, Abraham Moles, Frieder Nake, Kurd Alsleben, Martin Krampen, Huber Kupper & Heinz Görges, Gerhard Stickel. Extensive bibliography.]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "More quotes from Frieder Nake: Ästhetik als Informationsverarbeitung.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/nake",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quotes about Chance Art.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/chance/qchance-art",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Quotes about Art, Science & Technology.",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/quotes-art-science",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2006",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/chance/qchance-art",
+    "/algorithmic-art/nake",
+    "/algorithmic-art/quotes-art-science"
+  ]
+}

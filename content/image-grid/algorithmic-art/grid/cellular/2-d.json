@@ -1,0 +1,458 @@
+{
+  "slug": "algorithmic-art/grid/cellular/2-d",
+  "legacy_path": "AlgorithmicArt/grid/cellular/2D/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "Two-Dimensional Cellular Automata",
+  "heading": "Two-Dimensional \n      Cellular Automata",
+  "description": "Artificial: an automatic system for image generation",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Two-Dimensional\nCellular Automata",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/bela-julesz-65Computergraphic-D.jpg",
+      "alt": "",
+      "caption": "(Detail; click for\ncomplete image.)",
+      "width": "168",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg",
+          "external": false
+        },
+        {
+          "text": "click",
+          "href": "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Béla\nJulesz: Computer Graphic, 1965.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Julesz used random black & white grids in his psychological research\non stereopsis. The piece illustrated here looks as if it may have been\nderived from such a random pattern by one or two applications of a simple\nvoting rule. Julesz displayed this piece in an early computer art show\n(Howard Wise Gallery, New York, 1965), though he denies any artistic intention.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Assignment\n[Art History students]: Reconstruct the 1965 show by Kenneth\nKnowlton and Béla Julesz at the Howard Wise Gallery. Find\ndescriptions of how this piece (and other, similar pieces) came\nabout.\n\n\n\nAssignment [Computer Science students]: Experiment with\nCellular Automata which yield this kind of pattern from a random\ninitialization. Devise tests which characterize this kind of pattern\nand apply them to the results of the Cellular Automata.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "John Conway: The Game of Life, 1970.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "A simple but cleverly designed voting rule generates\ncomplex dynamic patterns in a black & white square grid.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Martin\nGardner: The fantastic combinations of John Conway's new solitaire game \"life\", Scientific American 223 (October 1970), pp. 120-123.\n\n\nGary\nW. Flake: The\nComputational Beauty of Nature (Cambridge, Mass.: MIT Press,\n1998). [Choose \"Conway's game of life\" in the menu\non the Java-Applets\npage.]",
+      "links": [
+        {
+          "text": "The Computational Beauty of Nature",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/",
+          "external": true
+        },
+        {
+          "text": "Java-Applets",
+          "href": "http://mitpress.mit.edu/books/FLAOH/cbnhtml/javalarge.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Lambert\nMeertens and Leo Geurts: Kristalstructuren, 1970.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Kristalstructuren (\"crystal structures\") is a family of algorithms which\nall use majority voting. Some of them use larger neighborhoods than\nthe immediately adjacent cells. The update regime is incremental:\ncells are updated one by one.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "L.J.M.\nGeurts: Kristalstructuren, een experiment in computer-kunst.\nAmsterdam: Stichting Mathematisch Centrum, 1973. (Vacantiecursus\nAbstracte Informatica.)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/chanceart-GeurtsMeertSS.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "436",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Peter Struycken: FIELDS, 1979/1980.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "FIELDS uses a square grid with 8-bit color\ncells. Update-rule: the color of a cell adapts in the direction\nof the average color of the surrounding cells. Repeated application\nof the rule thus ends with a uniformly colored surface. But before\nthis stable endpoint is reached, the automaton goes through a\nsequence of configurations of irregular shapes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Stephen Wolfram: Articles\non Cellular Automata, 1983-2002",
+      "links": [
+        {
+          "text": "Articles on Cellular Automata",
+          "href": "http://www.stephenwolfram.com/publications/articles/ca/",
+          "external": true
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/nks-NKS0371-snowflakes-D.jpg",
+      "alt": "",
+      "caption": "An automaton generating snowflake-shapes on a grid with hexagonal\ncells.\n\n(From:\nA New Kind of Science,\n2002.)",
+      "width": "480",
+      "height": "149",
+      "links": [
+        {
+          "text": "A New Kind of Science",
+          "href": "http://www.wolframscience.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Paul Coddington and Enzo Marinari: Visualizations\nof spin models, 1993",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-coddington-93-ising-D.jpg",
+      "alt": "",
+      "caption": "Antiferromagnetic triangular lattice\n\nIsing model (detail)",
+      "width": "183",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington-93-ising-gif",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-coddington93-potts-D.gif",
+      "alt": "",
+      "caption": "Antiferromagnetic triangular lattice\n\nPotts model (detail)",
+      "width": "190",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington93-potts-m-gif",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O(3)VectorSpinModel-s.jpg",
+      "alt": "",
+      "caption": "O(3) vector spin model",
+      "width": "200",
+      "height": "200",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/cellular/2-d/93-coddington/o3-vector-spin-model-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Michael Creutz: XToys,\n1995.",
+      "links": [
+        {
+          "text": "XToys",
+          "href": "http://quark.phy.bnl.gov/www/xtoys/gallery/gallery.html",
+          "external": true
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-Ising.jpg",
+      "alt": "",
+      "caption": "Ising Model",
+      "width": "192",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-16StatePotts.jpg",
+      "alt": "",
+      "caption": "16 State Potts Model",
+      "width": "192",
+      "height": "192",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-Sandpile.jpg",
+      "alt": "",
+      "caption": "Sandpile",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The interactions between the spin\ndirections in neighboring atoms of ferromagnetic and antiferromagnetic\nmaterials can be nicely modelled by certain versions of cellular\nautomata – though they can not be captured by the basic\none-layer automaton where all cells are updated simultaneously by\nthe same update rule at each time step. Simultaneous update of neighboring\ncells can be avoided by doing all updates sequentially (as in Meertens & Geurts (1970), mentioned above), or by imposing an update\nregime which alternates between \"even\" and \"odd\"\npositions in the grid. Toffoli & Margolus (1987) use the latter\napproach and discuss spin modelling in detail.\n\n\n\nThe visualizations by Coddington & Marinari were created by\nefficient algorithms which maintain descriptions of regions of cells\nwith identical-looking neighborhoods.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Apostolakis, P. Coddington & E.\nMarinari: \"New SIMD Algorithms for Cluster Labeling on Parallel\nComputers\" International Journal of Modern Physics C,\n1993.\n\n\n\nMichael Creutz: \"Deterministic\nIsing Dynamics,\" Annals of Physics 167 (1986), pp.\n62-76.\n\n\n\nMichael Creutz, \"Xtoys:\ncellular automata on xwindows,\" Nuclear Physics B (Proc. Suppl.) 47 (1996), pp. 846-849.\n\n\n\nTommaso Toffoli and Norman Margolus: Cellular\nAutomata Machines. A New Environment for Modeling. Cambridge,\nMA.: The MIT Press, 1987.",
+      "links": [
+        {
+          "text": "Deterministic Ising Dynamics",
+          "href": "http://thy.phy.bnl.gov/%7Ecreutz/mypubs/pub088.pdf",
+          "external": true
+        },
+        {
+          "text": "Xtoys: cellular automata on xwindows",
+          "href": "http://thy.phy.bnl.gov/%7Ecreutz/mypubs/pub137.pdf",
+          "external": true
+        },
+        {
+          "text": "Cellular Automata Machines. A New Environment for Modeling.",
+          "href": "http://www.amazon.com/exec/obidos/tg/detail/-/0262200600/ref=lib_dp_TFCV/103-4265190-4038224?v=glance&s=books&vi=reader#reader-link",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "David Griffeath: Primary\nSoup Kitchen, 1994-1998",
+      "links": [
+        {
+          "text": "Primary Soup Kitchen",
+          "href": "http://psoup.math.wisc.edu/shelf.html",
+          "external": true
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/94-david-griffeath-94TurbulenceInACCA-s.gif",
+      "alt": "",
+      "caption": "Turbulence in a Cyclic Cellular Automaton, 1994",
+      "width": "230",
+      "height": "184",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/94-david-griffeath-SpBbbleClstrngEtc-s.gif",
+      "alt": "",
+      "caption": "Soap Bubble Clustering of a Plurality Vote Rule, 1994",
+      "width": "230",
+      "height": "173",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Brian P. Hoke:\nCellular Automata and Art, 1996.",
+      "links": [
+        {
+          "text": "Cellular Automata and Art",
+          "href": "http://www.dartmouth.edu/%7Ematc/math5.pattern/FinalProject/Hoke.html",
+          "external": true
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "The 'stepping stone' rule:\nFirst, choose a number between 0 and 1; this will be the update\nprobability for all cells. At every time step, generate a random\nnumber between 0 and 1 for every cell. If the number is lower\nthan the update probability, the color of the cell changes to\nthat of one of its neighbors (selected uniformly at random).\n(The neighbors are defined here as the four orthogonally adjacent\ncells: north, east, south, west.)\n\n\n\nLeft: the initial condition: 256 colors distributed randomly.\nRight: the result of applying the rule repeatedly.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/hoke-Hoke-fig3-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/hoke-Hoke-fig4-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "156",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Erwin\nDriessens & Maria Verstappen:\nIMA Traveller, 1998/1999.",
+      "links": [
+        {
+          "text": "IMA Traveller",
+          "href": "http://www.xs4all.nl/%7Enotnot/ima/IMAtraveller.html",
+          "external": true
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "A\nrecursive cellular automaton. At every time-step, every cell is\nsplit into 4 cells. The colors of the newly generated cells are\nprobabilistic variations on the color of the \"mother-cell\" and the colors of the neighboring cells.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/dv-DV-imasplit.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "466",
+      "height": "64",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/dv-DV-IMAs079-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/bela-julesz-65Computergraphic-D.jpg",
+      "alt": "",
+      "caption": "(Detail; click for\ncomplete image.)",
+      "legacy_src": "BelaJulesz/65Computergraphic-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/chanceart-GeurtsMeertSS.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../../../../gif/chanceart/GeurtsMeertSS.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/nks-NKS0371-snowflakes-D.jpg",
+      "alt": "",
+      "caption": "An automaton generating snowflake-shapes on a grid with hexagonal\ncells.\n\n(From:\nA New Kind of Science,\n2002.)",
+      "legacy_src": "NKS/NKS0371-snowflakes-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-coddington-93-ising-D.jpg",
+      "alt": "",
+      "caption": "Antiferromagnetic triangular lattice\n\nIsing model (detail)",
+      "legacy_src": "93Coddington/coddington-93-ising-D.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-coddington93-potts-D.gif",
+      "alt": "",
+      "caption": "Antiferromagnetic triangular lattice\n\nPotts model (detail)",
+      "legacy_src": "93Coddington/coddington93-potts-D.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O(3)VectorSpinModel-s.jpg",
+      "alt": "",
+      "caption": "O(3) vector spin model",
+      "legacy_src": "93Coddington/O(3)VectorSpinModel-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-Ising.jpg",
+      "alt": "",
+      "caption": "Ising Model",
+      "legacy_src": "95MikeCreutz/XToys95-Ising.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-16StatePotts.jpg",
+      "alt": "",
+      "caption": "16 State Potts Model",
+      "legacy_src": "95MikeCreutz/XToys95-16StatePotts.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/95-mike-creutz-XToys95-Sandpile.jpg",
+      "alt": "",
+      "caption": "Sandpile",
+      "legacy_src": "95MikeCreutz/XToys95-Sandpile.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/94-david-griffeath-94TurbulenceInACCA-s.gif",
+      "alt": "",
+      "caption": "Turbulence in a Cyclic Cellular Automaton, 1994",
+      "legacy_src": "94DavidGriffeath/94TurbulenceInACCA-s.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/94-david-griffeath-SpBbbleClstrngEtc-s.gif",
+      "alt": "",
+      "caption": "Soap Bubble Clustering of a Plurality Vote Rule, 1994",
+      "legacy_src": "94DavidGriffeath/SpBbbleClstrngEtc-s.gif"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/hoke-Hoke-fig3-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Hoke/Hoke-fig3-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/hoke-Hoke-fig4-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Hoke/Hoke-fig4-S.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/dv-DV-imasplit.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../DV/DV-imasplit.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/cellular/2-d/dv-DV-IMAs079-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "../DV/DV-IMAs079-S.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington-93-ising-gif",
+    "/algorithmic-art/grid/cellular/2-d/93-coddington/coddington93-potts-m-gif",
+    "/algorithmic-art/grid/cellular/2-d/93-coddington/o3-vector-spin-model-jpg",
+    "/algorithmic-art/grid/cellular/2-d/bela-julesz/65-computergraphic-jpg"
+  ]
+}

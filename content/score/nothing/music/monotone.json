@@ -1,0 +1,65 @@
+{
+  "slug": "nothing/music/monotone",
+  "legacy_path": "nothing/music/monotone/index.html",
+  "section": "nothing",
+  "archetype": "score",
+  "title": "monotone music",
+  "heading": "Monotone \n                Music",
+  "description": "Monotone Music.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Monotone\nMusic",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Yves\nKlein: Symphonie Monoton-Silence, 1949–1961.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Twenty minutes of one tone followed by twenty minutes of silence.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Conceived\nby Yves Klein in 1949.\n\nTape version by Pierre Henry played at a show of monochrome IKB\npaintings at Gallery Iris Clert, May 1957.\n\nGrammophone record \"Musique du Vide\", 1959.\n\nLive performance by chamber orchestra (in conjunction with Anthropométrie\nperformance), March 9, 1960.\n\nShortened version: one chord for 5-7 minutes followed by absolute\nsilence of unspecified duration. Score for orchestra consisting\nof 20 singers, 10 violins, 10 cello's, 3 double basses, 8 flutes,\n8 oboes, and 3 French horns (1961). [Cf. Stich 1994, p. 176.]\n\n\"Second Monotone Symphony\" by Pierre Henry played at\nKlein's wedding with Rotraut Uecker, January 21, 1962, Saint Nicolas\ndes Champs.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Gerhard\nRühm: Eintonstück für Klavier, 1952.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Consists\nentirely of different octave transpositions of one note (a). Première\n1952, together with an exhibition of paintings by Arnulf Rainer.\nFirst published in Cage Box (catalogue John Cage Festival),\nBonn, 1979. Cf.: Peter Weibel (ed.): Die Wiener Gruppe. Vienna,\nNew York: Springer, 1997, pp. 614-615.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "La\nMonte Young: Composition 1960 # 7.",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "B & #F \"To be held for a long time\".",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "In: La Monte Young (ed.): An Anthology.\n1963.",
+      "links": []
+    }
+  ],
+  "images": [],
+  "out_links": []
+}

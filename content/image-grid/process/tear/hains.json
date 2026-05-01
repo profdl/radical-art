@@ -1,0 +1,382 @@
+{
+  "slug": "process/tear/hains",
+  "legacy_path": "process/tear/Hains/index.html",
+  "section": "process",
+  "archetype": "image-grid",
+  "title": "Raymond Hains",
+  "heading": "Raymond Hains: Décollages",
+  "description": "Décollages by Raymond Hains.",
+  "source_encoding": "latin1",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "back\nto: décollage destruction process\nart radical\nart",
+      "links": [
+        {
+          "text": "décollage",
+          "href": "/process/tear",
+          "external": false
+        },
+        {
+          "text": "destruction",
+          "href": "/destruction",
+          "external": false
+        },
+        {
+          "text": "process art",
+          "href": "/process",
+          "external": false
+        },
+        {
+          "text": "radical art",
+          "href": "/index",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Raymond Hains: Décollages",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/50-53ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1950/1953",
+      "width": "195",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/57CetHomme.gif",
+      "alt": "",
+      "caption": "Cet Homme est Dangereux, 1957",
+      "width": "159",
+      "height": "244",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/57RueDuBac-S.jpg",
+      "alt": "",
+      "caption": "Rue du Bac, 1957",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/59-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/60PanneauDAffichage-s.jpg",
+      "alt": "",
+      "caption": "Panneau d'Affichage, 1960",
+      "width": "187",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/59Palissade-s.jpg",
+      "alt": "",
+      "caption": "Palissade, 1959",
+      "width": "148",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/60LAfficheAuCoupDePied-s.jpg",
+      "alt": "",
+      "caption": "L'Affiche au Coup de Pied, 1960",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/61-ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1961",
+      "width": "198",
+      "height": "399",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/61-ST.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1961",
+      "width": "157",
+      "height": "166",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/61Nuferii-s.jpg",
+      "alt": "",
+      "caption": "Nuferii, 1961",
+      "width": "198",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/64-ST-S.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1964",
+      "width": "230",
+      "height": "189",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/64LaGitane-s.jpg",
+      "alt": "",
+      "caption": "La Gitane, 1964",
+      "width": "414",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/66OltreLaPittura-s.jpg",
+      "alt": "",
+      "caption": "Oltre la Pittura, 1966",
+      "width": "230",
+      "height": "177",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/70Tole-s.jpg",
+      "alt": "",
+      "caption": "Tôle, 1970",
+      "width": "205",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/73CoucouBazar-s.jpg",
+      "alt": "",
+      "caption": "Coucou Bazar, 1973",
+      "width": "202",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/74AvenueDItalie-s.jpg",
+      "alt": "",
+      "caption": "Avenue d'Italie, 1974",
+      "width": "151",
+      "height": "251",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/MuseoDelPrado-s.jpg",
+      "alt": "",
+      "caption": "Museo del Prado",
+      "width": "189",
+      "height": "249",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/76ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1976",
+      "width": "200",
+      "height": "186",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/76-ST-s.gif",
+      "alt": "",
+      "caption": "Sans Titre, 1976",
+      "width": "219",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/76Palissade-s.jpg",
+      "alt": "",
+      "caption": "Palissade, 1976",
+      "width": "230",
+      "height": "168",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/89-90-Decollage-s.jpg",
+      "alt": "",
+      "caption": "Décollage, 1989/1990",
+      "width": "230",
+      "height": "172",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/process/tear/hains/2002Tole-s.jpg",
+      "alt": "",
+      "caption": "Tôle, 2002",
+      "width": "230",
+      "height": "167",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/process/tear/hains/50-53ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1950/1953",
+      "legacy_src": "50-53ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/57CetHomme.gif",
+      "alt": "",
+      "caption": "Cet Homme est Dangereux, 1957",
+      "legacy_src": "57CetHomme.gif"
+    },
+    {
+      "src": "/images/process/tear/hains/57RueDuBac-S.jpg",
+      "alt": "",
+      "caption": "Rue du Bac, 1957",
+      "legacy_src": "57RueDuBac-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/59-s.jpg",
+      "alt": "",
+      "caption": "1959",
+      "legacy_src": "59-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/60PanneauDAffichage-s.jpg",
+      "alt": "",
+      "caption": "Panneau d'Affichage, 1960",
+      "legacy_src": "60PanneauDAffichage-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/59Palissade-s.jpg",
+      "alt": "",
+      "caption": "Palissade, 1959",
+      "legacy_src": "59Palissade-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/60LAfficheAuCoupDePied-s.jpg",
+      "alt": "",
+      "caption": "L'Affiche au Coup de Pied, 1960",
+      "legacy_src": "60LAfficheAuCoupDePied-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/61-ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1961",
+      "legacy_src": "61-ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/61-ST.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1961",
+      "legacy_src": "61-ST.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/61Nuferii-s.jpg",
+      "alt": "",
+      "caption": "Nuferii, 1961",
+      "legacy_src": "61Nuferii-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/64-ST-S.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1964",
+      "legacy_src": "64-ST-S.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/64LaGitane-s.jpg",
+      "alt": "",
+      "caption": "La Gitane, 1964",
+      "legacy_src": "64LaGitane-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/66OltreLaPittura-s.jpg",
+      "alt": "",
+      "caption": "Oltre la Pittura, 1966",
+      "legacy_src": "66OltreLaPittura-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/70Tole-s.jpg",
+      "alt": "",
+      "caption": "Tôle, 1970",
+      "legacy_src": "70Tole-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/73CoucouBazar-s.jpg",
+      "alt": "",
+      "caption": "Coucou Bazar, 1973",
+      "legacy_src": "73CoucouBazar-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/74AvenueDItalie-s.jpg",
+      "alt": "",
+      "caption": "Avenue d'Italie, 1974",
+      "legacy_src": "74AvenueDItalie-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/MuseoDelPrado-s.jpg",
+      "alt": "",
+      "caption": "Museo del Prado",
+      "legacy_src": "MuseoDelPrado-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/76ST-s.jpg",
+      "alt": "",
+      "caption": "Sans Titre, 1976",
+      "legacy_src": "76ST-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/76-ST-s.gif",
+      "alt": "",
+      "caption": "Sans Titre, 1976",
+      "legacy_src": "76-ST-s.gif"
+    },
+    {
+      "src": "/images/process/tear/hains/76Palissade-s.jpg",
+      "alt": "",
+      "caption": "Palissade, 1976",
+      "legacy_src": "76Palissade-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/89-90-Decollage-s.jpg",
+      "alt": "",
+      "caption": "Décollage, 1989/1990",
+      "legacy_src": "89-90-Decollage-s.jpg"
+    },
+    {
+      "src": "/images/process/tear/hains/2002Tole-s.jpg",
+      "alt": "",
+      "caption": "Tôle, 2002",
+      "legacy_src": "2002Tole-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/destruction",
+    "/index",
+    "/process",
+    "/process/tear"
+  ]
+}

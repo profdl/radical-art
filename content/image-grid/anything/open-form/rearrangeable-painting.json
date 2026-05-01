@@ -1,0 +1,232 @@
+{
+  "slug": "anything/open-form/rearrangeable-painting",
+  "legacy_path": "anything/OpenForm/RearrangeablePainting.html",
+  "section": "anything",
+  "archetype": "image-grid",
+  "title": "Rearrangeable Images",
+  "heading": "",
+  "description": "Open Form: Rearrangeable 2D Images",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Open Form: Rearrangeable Images",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "heading",
+      "text": "[pieces intended to be rearranged at will by the spectator,\nthe collector, or the curator]",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/Agam1953-006-s.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "355",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Yaacov\nAgam: 8 + 1 in motion, 1953.\n\n\n\nThe white sticks can be repositioned and rotated.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/PaulTalman65Kugelbild-1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/PaulTalman65Kugelbild-2.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "199",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Paul Talman: Kugelbilder, 1965.\n\n\n\nThe two-colored balls can be rotated.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Superposition",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg64Shades-S.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "159",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert\nRauschenberg: Shades, 1964.\n(6 plexiglass panels which can be arbitrarily repositioned.)\n\n\n\n\"Mathematicians have calculated that there are over six million\ndifferent arrangements of Shades.\" [Edward A. Foster: Robert\nRauschenberg: Prints 1948/1970, the Minneapolis Institute of Arts,\n1970.]",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67Revolver2.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg: Revolvers,\n1967\n\n(2 parts: one colored, one black & white).\n\n5 plexiglass panels which can be arbitrarily rotated.",
+      "width": "211",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67Revolver1.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "177",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67PassportS.jpg",
+      "alt": "",
+      "caption": "Robert\nRauschenberg: Passport,\n1967.\n\n(3 plexiglass\npanels.)",
+      "width": "165",
+      "height": "165",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Hein Eberson (Trademark™): U-frame,\n1999.",
+      "links": [
+        {
+          "text": "U-frame,",
+          "href": "http://www.u-frame.nl/work/uframe.html",
+          "external": true
+        }
+      ],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Permutation",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/ReinerKallhardt69P9=9F.jpg",
+      "alt": "",
+      "caption": "Reiner Kallhardt: P9 = 9! – 1969.\n\n(The elements can be freely rearranged.)",
+      "width": "150",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/anything/open-form/rearrangeable-painting/JanHenderikse2002Myrtle-s.jpg",
+      "alt": "",
+      "caption": "Jan Henderikse: Myrtle, 2002.\n\n(The elements can be freely rearranged.)",
+      "width": "183",
+      "height": "150",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Modular Paintings",
+      "links": [
+        {
+          "text": "Modular Paintings",
+          "href": "/algorithmic-art/grid/modular",
+          "external": false
+        }
+      ],
+      "level": 5
+    },
+    {
+      "type": "heading",
+      "text": "Paul Panhuysen & Johan Goedhart: Modular Paintings, 1977.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "heading",
+      "text": "Paul Bos: Padded Tile Piece, 1979.",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Compiled by Remko Scha, 2002",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/Agam1953-006-s.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Agam1953-006-s.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/PaulTalman65Kugelbild-1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "PaulTalman65Kugelbild-1.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/PaulTalman65Kugelbild-2.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "PaulTalman65Kugelbild-2.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg64Shades-S.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Rauschenberg/Rauschenberg64Shades-S.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67Revolver2.jpg",
+      "alt": "",
+      "caption": "Robert Rauschenberg: Revolvers,\n1967\n\n(2 parts: one colored, one black & white).\n\n5 plexiglass panels which can be arbitrarily rotated.",
+      "legacy_src": "Rauschenberg/Rauschenberg67Revolver2.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67Revolver1.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Rauschenberg/Rauschenberg67Revolver1.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/rauschenberg-Rauschenberg67PassportS.jpg",
+      "alt": "",
+      "caption": "Robert\nRauschenberg: Passport,\n1967.\n\n(3 plexiglass\npanels.)",
+      "legacy_src": "Rauschenberg/Rauschenberg67PassportS.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/ReinerKallhardt69P9=9F.jpg",
+      "alt": "",
+      "caption": "Reiner Kallhardt: P9 = 9! – 1969.\n\n(The elements can be freely rearranged.)",
+      "legacy_src": "ReinerKallhardt69P9=9F.jpg"
+    },
+    {
+      "src": "/images/anything/open-form/rearrangeable-painting/JanHenderikse2002Myrtle-s.jpg",
+      "alt": "",
+      "caption": "Jan Henderikse: Myrtle, 2002.\n\n(The elements can be freely rearranged.)",
+      "legacy_src": "JanHenderikse2002Myrtle-s.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/modular"
+  ]
+}

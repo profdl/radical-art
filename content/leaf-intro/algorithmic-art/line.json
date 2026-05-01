@@ -1,0 +1,199 @@
+{
+  "slug": "algorithmic-art/line",
+  "legacy_path": "AlgorithmicArt/line/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "leaf-intro",
+  "title": "Random Lines",
+  "heading": "",
+  "description": "The line as a trace of movement",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Random Drawing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "[Image as line]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Les lignes jouent, dans les arts\nplastiques, exactement le même rôle que le rhythme dans l'art\ndes sons.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jean d'Udine: L'Art et le Geste. Paris: Alcan,\n1910.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Continuous lines: tracing motion",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Analog",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Automatic\nExpressionism\n\n\n\nAnimal Art",
+      "links": [
+        {
+          "text": "Automatic Expressionism",
+          "href": "/process/vibration/metamatic",
+          "external": false
+        },
+        {
+          "text": "Animal Art",
+          "href": "/process/vibration/animal",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Digital",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Simulated\nMovement",
+      "links": [
+        {
+          "text": "Simulated Movement",
+          "href": "/algorithmic-art/movement",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hybrid",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Harold Cohen: AARON\n\n\n\n\nLeonel Maura: Maurabots",
+      "links": [
+        {
+          "text": "AARON",
+          "href": "/algorithmic-art/algebra/aaron",
+          "external": false
+        },
+        {
+          "text": "Maurabots",
+          "href": "http://www.lxxl.pt/artsbot/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Discrete lines: grammars and coding systems",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Emanuel Leeuwenberg: Structural\nInformation Theory\n\n\n\nAristid Lindenmayer: L-Systems\n\n\n\nGeorge Stiny: Shape\nGrammars",
+      "links": [
+        {
+          "text": "Structural Information Theory",
+          "href": "/algorithmic-art/algebra/sit",
+          "external": false
+        },
+        {
+          "text": "L-Systems",
+          "href": "/algorithmic-art/grammar/lindenmayer",
+          "external": false
+        },
+        {
+          "text": "Shape Grammars",
+          "href": "/algorithmic-art/grammar/shape-grammar",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Brownian Motion",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory: 2002 feb 01; 2002 jun 02; 2002 dec 02.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Benoit B. Mandelbrot: Fractals. Form, Chance and\nDimension. San Francisco: W.H. Freeman, 1977.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A.\nMichael Noll (Homepage)\n\nA. Michael Noll\n(Digital Art Museum)",
+      "links": [
+        {
+          "text": "A. Michael Noll",
+          "href": "http://www.citi.columbia.edu/amnoll/",
+          "external": true
+        },
+        {
+          "text": "A. Michael Noll",
+          "href": "http://www.dam.org/noll/artworks.htm",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Fractal mountainscapes",
+      "links": [],
+      "level": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "Bit-101\nLaboratory: 2002 aug 08/09.\n\n\n\nBenoit B. Mandelbrot: Fractals. Form, Chance and Dimension. San\nFrancisco: W.H. Freeman, 1977.",
+      "links": [
+        {
+          "text": "Bit-101 Laboratory",
+          "href": "http://www.bit-101.com/",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Jared Tarbell: Self.Dividing.Forms,\n2002.",
+      "links": [
+        {
+          "text": "Self.Dividing.Forms,",
+          "href": "http://www.levitated.net/bones/doubleForm/index.html",
+          "external": true
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "out_links": [
+    "/algorithmic-art/algebra/aaron",
+    "/algorithmic-art/algebra/sit",
+    "/algorithmic-art/grammar/lindenmayer",
+    "/algorithmic-art/grammar/shape-grammar",
+    "/algorithmic-art/movement",
+    "/process/vibration/animal",
+    "/process/vibration/metamatic"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "nothing/mirrors/christian-megert",
+  "legacy_path": "nothing/mirrors/ChristianMegert/index.html",
+  "section": "nothing",
+  "archetype": "image-grid",
+  "title": "Christian Megert",
+  "heading": "Mirror Pieces by Christian Megert",
+  "description": "Mirror pieces by Christian Megert.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Mirror Pieces by Christian Megert",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert61Spiegelwand.jpg",
+      "alt": "",
+      "caption": "Spiegelwand, 1961",
+      "width": "214",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert61Spiegelobjekt.jpg",
+      "alt": "",
+      "caption": "Spiegelobjekt, 1961",
+      "width": "151",
+      "height": "128",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert6263Scherbenspiegel-S.jpg",
+      "alt": "",
+      "caption": "Scherbenspiegel, 1962/1963",
+      "width": "152",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Scherbenobjekt-b.jpg",
+      "alt": "",
+      "caption": "Scherbenobjekte, 1963",
+      "width": "62",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Scherbenobjekt.jpg",
+      "alt": "",
+      "caption": "",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Tondo-S.jpg",
+      "alt": "",
+      "caption": "Tondo, 1963",
+      "width": "184",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/megert67KinetischsObjekt-S.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt, 1967",
+      "width": null,
+      "height": null,
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/megert68spiegelraum-b-S.jpg",
+      "alt": "",
+      "caption": "Spiegelraum, 1968",
+      "width": "145",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/megert68spiegelraum.jpg",
+      "alt": "",
+      "caption": "",
+      "width": "116",
+      "height": "160",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/mirrors/christian-megert/Megert2003WeisseQuadrate-S.jpg",
+      "alt": "",
+      "caption": "Weiße Quadrate, 2003",
+      "width": "200",
+      "height": "200",
+      "links": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert61Spiegelwand.jpg",
+      "alt": "",
+      "caption": "Spiegelwand, 1961",
+      "legacy_src": "Megert61Spiegelwand.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert61Spiegelobjekt.jpg",
+      "alt": "",
+      "caption": "Spiegelobjekt, 1961",
+      "legacy_src": "Megert61Spiegelobjekt.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert6263Scherbenspiegel-S.jpg",
+      "alt": "",
+      "caption": "Scherbenspiegel, 1962/1963",
+      "legacy_src": "Megert6263Scherbenspiegel-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Scherbenobjekt-b.jpg",
+      "alt": "",
+      "caption": "Scherbenobjekte, 1963",
+      "legacy_src": "Megert63Scherbenobjekt-b.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Scherbenobjekt.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "Megert63Scherbenobjekt.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert63Tondo-S.jpg",
+      "alt": "",
+      "caption": "Tondo, 1963",
+      "legacy_src": "Megert63Tondo-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/megert67KinetischsObjekt-S.jpg",
+      "alt": "",
+      "caption": "Kinetisches Objekt, 1967",
+      "legacy_src": "megert67KinetischsObjekt-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/megert68spiegelraum-b-S.jpg",
+      "alt": "",
+      "caption": "Spiegelraum, 1968",
+      "legacy_src": "megert68spiegelraum-b-S.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/megert68spiegelraum.jpg",
+      "alt": "",
+      "caption": "",
+      "legacy_src": "megert68spiegelraum.jpg"
+    },
+    {
+      "src": "/images/nothing/mirrors/christian-megert/Megert2003WeisseQuadrate-S.jpg",
+      "alt": "",
+      "caption": "Weiße Quadrate, 2003",
+      "legacy_src": "Megert2003WeisseQuadrate-S.jpg"
+    }
+  ],
+  "out_links": []
+}

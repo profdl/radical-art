@@ -1,0 +1,253 @@
+{
+  "slug": "algorithmic-art/grid/discretization/photo-mosaic",
+  "legacy_path": "AlgorithmicArt/grid/discretization/PhotoMosaic/index.html",
+  "section": "AlgorithmicArt",
+  "archetype": "image-grid",
+  "title": "PhotoMosaics",
+  "heading": "",
+  "description": "The recursive image: the image as pixel.",
+  "source_encoding": "utf-8",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Photo Mosaics\n\nThe recursive image: images as pixels.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Silvers:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Runaway Technology",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(1996)",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-BillGates-s.jpg",
+      "alt": "Gates",
+      "caption": "Bill Gates",
+      "width": "200",
+      "height": "250",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
+          "external": false
+        },
+        {
+          "text": "Bill Gates",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-100DollarBill-s.jpg",
+      "alt": "100 Dollar",
+      "caption": "100 Dollar Bill",
+      "width": "230",
+      "height": "99",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
+          "external": false
+        },
+        {
+          "text": "100 Dollar Bill",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-Flag-s.jpg",
+      "alt": "Flag",
+      "caption": "Flag",
+      "width": "230",
+      "height": "149",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
+          "external": false
+        },
+        {
+          "text": "Flag",
+          "href": "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "\"The Photomosaic medium is often\nused when an organisation wants to show many individuals molded to form\na unified whole.\" – Robert Silvers",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Scott\nBlake: Barcode Art",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/scott-blake-Blake00-ISBNOprahBookClub.jpg",
+      "alt": "",
+      "caption": "ISBN Oprah Book Club, 2000",
+      "width": "200",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pixel\nPresident, 2001",
+      "links": [
+        {
+          "text": "Pixel President, 2001",
+          "href": "http://www.barcodeart.com/art/other/president/history/index.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/scott-blake-ScottBlake02EcstsySelfPrtrt.jpg",
+      "alt": "",
+      "caption": "Ecstasy Self Portrait, 2002",
+      "width": "160",
+      "height": "200",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Software",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-98ArcSoft-PhotoMontage-s.jpg",
+      "alt": "",
+      "caption": "ArcSoft: PhotoMontage, 1998",
+      "width": "158",
+      "height": "197",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-2000MazaikaScreen-s.jpg",
+      "alt": "",
+      "caption": "Mazaika, 2000",
+      "width": "222",
+      "height": "250",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-tyler_no_repeat_sm.jpg",
+      "alt": "",
+      "caption": "The Mazaika\n\nphoto\nmosaic shareware test",
+      "width": "120",
+      "height": "146",
+      "links": [
+        {
+          "text": "",
+          "href": "http://mazaika.tripod.com/maztutor/mosaictest.html",
+          "external": true
+        },
+        {
+          "text": "photo mosaic shareware test",
+          "href": "http://mazaika.tripod.com/maztutor/mosaictest.html",
+          "external": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Directly related work:",
+      "links": [],
+      "level": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "ASCII\nArt (Peterson, Knowlton, Demiaux, Cosic)\n\n\n\nPixel\nGrids (Harmon, Winiarski, Close)",
+      "links": [
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/asciiart",
+          "external": false
+        },
+        {
+          "text": "",
+          "href": "/algorithmic-art/grid/discretization/pixel-grids",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-BillGates-s.jpg",
+      "alt": "Gates",
+      "caption": "Bill Gates",
+      "legacy_src": "RobertSilvers/BillGates-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-100DollarBill-s.jpg",
+      "alt": "100 Dollar",
+      "caption": "100 Dollar Bill",
+      "legacy_src": "RobertSilvers/100DollarBill-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers-Flag-s.jpg",
+      "alt": "Flag",
+      "caption": "Flag",
+      "legacy_src": "RobertSilvers/Flag-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/scott-blake-Blake00-ISBNOprahBookClub.jpg",
+      "alt": "",
+      "caption": "ISBN Oprah Book Club, 2000",
+      "legacy_src": "ScottBlake/Blake00-ISBNOprahBookClub.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/scott-blake-ScottBlake02EcstsySelfPrtrt.jpg",
+      "alt": "",
+      "caption": "Ecstasy Self Portrait, 2002",
+      "legacy_src": "ScottBlake/ScottBlake02EcstsySelfPrtrt.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-98ArcSoft-PhotoMontage-s.jpg",
+      "alt": "",
+      "caption": "ArcSoft: PhotoMontage, 1998",
+      "legacy_src": "Software/98ArcSoft-PhotoMontage-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-2000MazaikaScreen-s.jpg",
+      "alt": "",
+      "caption": "Mazaika, 2000",
+      "legacy_src": "Software/2000MazaikaScreen-s.jpg"
+    },
+    {
+      "src": "/images/algorithmic-art/grid/discretization/photo-mosaic/software-tyler_no_repeat_sm.jpg",
+      "alt": "",
+      "caption": "The Mazaika\n\nphoto\nmosaic shareware test",
+      "legacy_src": "Software/tyler_no_repeat_sm.jpg"
+    }
+  ],
+  "out_links": [
+    "/algorithmic-art/grid/discretization/asciiart",
+    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/100-dollar-bill-jpg",
+    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/bill-gates-jpg",
+    "/algorithmic-art/grid/discretization/photo-mosaic/robert-silvers/flag-jpg",
+    "/algorithmic-art/grid/discretization/pixel-grids"
+  ]
+}
