@@ -547,6 +547,18 @@ def extract_blocks(
                     blocks[-1]["level"] = int(name[1])
                 continue
             if name == "p":
+                # HTML4 / legacy quirk: <p> is often left unclosed, and
+                # BeautifulSoup's html.parser keeps every following block-level
+                # element as a descendant of that <p>. If we treat the whole
+                # subtree as one paragraph (the default), the entire page body
+                # collapses into one block. Detect that case and descend.
+                blocky_kids = child.find(
+                    ["h1", "h2", "h3", "h4", "h5", "h6",
+                     "table", "blockquote", "ul", "ol"]
+                )
+                if blocky_kids is not None:
+                    visit(child)
+                    continue
                 # A <p> may contain images — split.
                 emit_paragraph_or_figure(child)
                 continue
@@ -654,6 +666,8 @@ def extract_blocks(
     blocks = attach_captions(blocks)
     blocks = drop_caption_only_paragraphs(blocks)
     blocks = strip_legacy_home_breadcrumbs(blocks)
+    blocks = strip_footer_credits(blocks)
+    blocks = merge_parenthetical_annotations(blocks)
     blocks = promote_section_labels(blocks)
     # Mirror caption back into images_index so it's not empty.
     cap_by_src = {b["src"]: b.get("caption", "") for b in blocks if b["type"] == "figure"}
@@ -708,6 +722,10 @@ _HOME_PHRASE_RE = re.compile(
     re.IGNORECASE | re.VERBOSE,
 )
 _BACKLINK_LEAD_RE = re.compile(r"^\s*(?:back\s*to|related)\s*[:\-]\s*", re.IGNORECASE)
+# A horizontal nav like "related:  process art   – zoom out:  radical art"
+# that appears at the top of /destruction and similar pages — short, all
+# links, with the "zoom out" phrasing.
+_ZOOM_OUT_RE = re.compile(r"\bzoom\s*out\s*:", re.IGNORECASE)
 
 
 def _is_home_link(link: dict) -> bool:
@@ -715,6 +733,33 @@ def _is_home_link(link: dict) -> bool:
     if not txt:
         return False
     return bool(_HOME_PHRASE_RE.search(txt))
+
+
+# Footer-style cruft that should never appear as page content.
+_FOOTER_RE = re.compile(
+    r"""^\s*(?:
+        (?:©|\(c\))\s*\d{4}.*?(?:remko\s*scha|iaaa).*
+      | website\s*by\s*remko\s*scha.*
+      | remko\s*scha.*?\d{4}.*
+    )\s*$""",
+    re.IGNORECASE | re.VERBOSE,
+)
+
+
+def strip_footer_credits(blocks: list[dict]) -> list[dict]:
+    """Remove standalone copyright / 'website by Remko Scha' footer lines that
+    leak into the body. They appear at the bottom of many legacy pages and are
+    handled site-wide by the footer chrome on the new site."""
+    out = []
+    for b in blocks:
+        if b.get("type") not in {"paragraph", "heading"}:
+            out.append(b)
+            continue
+        text = (b.get("text") or "").strip()
+        if _FOOTER_RE.match(text):
+            continue
+        out.append(b)
+    return out
 
 
 def strip_legacy_home_breadcrumbs(blocks: list[dict]) -> list[dict]:
@@ -729,6 +774,14 @@ def strip_legacy_home_breadcrumbs(blocks: list[dict]) -> list[dict]:
         text = b.get("text") or ""
         # Drop "back to: X / radical art (home page)" footer paragraphs.
         if _BACKLINK_LEAD_RE.match(text) and _HOME_PHRASE_RE.search(text):
+            continue
+        # Drop a "related: ... zoom out: ..." nav bar (short, link-heavy).
+        norm_text = re.sub(r"\s+", " ", text).strip()
+        if (
+            _BACKLINK_LEAD_RE.match(text)
+            and _ZOOM_OUT_RE.search(text)
+            and len(norm_text) <= 120
+        ):
             continue
         # Drop a paragraph that is *only* a home-page link/phrase.
         stripped_test = _HOME_PHRASE_RE.sub("", text).strip(" \t\n /|·•")
@@ -761,6 +814,42 @@ def strip_legacy_home_breadcrumbs(blocks: list[dict]) -> list[dict]:
     return out
 
 
+def merge_parenthetical_annotations(blocks: list[dict]) -> list[dict]:
+    """Legacy hub pages annotate verb-headings with a small right-aligned
+    `<p>(onto horizontal plane)</p>` clarifier. By itself this becomes an
+    orphan block on the new site. If the previous block is a single-link
+    heading (a card-style entry), fold the parenthetical into its label so
+    the card reads e.g. "drip (onto horizontal plane)"."""
+    out: list[dict] = []
+    for b in blocks:
+        text = (b.get("text") or "").strip()
+        stripped = text.strip(" \t.,:;\n")
+        is_paren_only = (
+            b.get("type") == "paragraph"
+            and not b.get("links")
+            and stripped.startswith("(")
+            and stripped.endswith(")")
+            and len(stripped) <= 80
+        )
+        if is_paren_only and out:
+            prev = out[-1]
+            if prev.get("type") == "heading":
+                # Append parenthetical to the previous heading's text and
+                # link label so the card reads naturally.
+                annot = re.sub(r"\s+", " ", stripped)
+                prev_text = (prev.get("text") or "").strip()
+                if annot not in prev_text:
+                    prev["text"] = f"{prev_text} {annot}"
+                    if prev.get("links"):
+                        for L in prev["links"]:
+                            label = (L.get("text") or "").strip()
+                            if label and annot not in label:
+                                L["text"] = f"{label} {annot}"
+                continue
+        out.append(b)
+    return out
+
+
 def promote_section_labels(blocks: list[dict]) -> list[dict]:
     """Convert paragraph blocks that are short, link-less, and immediately
     precede a link-bearing paragraph into heading blocks. The legacy site
@@ -771,6 +860,11 @@ def promote_section_labels(blocks: list[dict]) -> list[dict]:
         if b.get("links"): continue
         text = (b.get("text") or "").strip()
         if not text or len(text) > 60 or "\n\n" in text: continue
+        # Skip parenthetical annotations like "(onto horizontal plane)" — those
+        # belong to the previous heading as caption-style detail, not as their
+        # own section label.
+        stripped = text.strip(" \t.,:;")
+        if stripped.startswith("(") and stripped.endswith(")"): continue
         # Must be followed by a paragraph that has links.
         nxt = next((blocks[j] for j in range(i + 1, min(i + 3, len(blocks)))
                     if blocks[j].get("type") in ("paragraph", "heading")), None)

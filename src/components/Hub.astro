@@ -1,5 +1,6 @@
 ---
 import Paragraph from "./Paragraph.astro";
+import Figure from "./Figure.astro";
 
 interface Block {
   type: string;
@@ -51,6 +52,19 @@ function isLinkOnlyParagraph(b: Block): boolean {
   return text.toLowerCase() === linkText.toLowerCase();
 }
 
+// `<h3><a>label</a></h3>` (one link, heading text == link text) means a
+// *card*, not a section header. /nothing, /kinetics, /process, /destruction
+// all do this.
+function isLinkOnlyHeading(b: Block): boolean {
+  if (b.type !== "heading") return false;
+  const links = b.links ?? [];
+  if (links.length !== 1) return false;
+  const text = (b.text ?? "").replace(/\s+/g, " ").trim();
+  const linkText = (links[0]?.text ?? "").replace(/\s+/g, " ").trim();
+  if (!text || !linkText) return false;
+  return text.toLowerCase() === linkText.toLowerCase();
+}
+
 type LinkItem = {
   href: string;
   label: string;
@@ -58,12 +72,57 @@ type LinkItem = {
   thumb?: string;
 };
 
-type Group =
-  | { kind: "label"; text: string }
+// Document-order render units. Built in a single forward pass.
+type Item =
   | { kind: "intro"; block: Block }
-  | { kind: "links"; items: LinkItem[] };
+  | { kind: "figure"; block: Block }
+  | { kind: "section"; label?: string; items: LinkItem[]; hasThumbs: boolean };
 
-const groups: Group[] = [];
+function blockToLinkItems(b: Block): LinkItem[] {
+  return (b.links ?? [])
+    .filter((l: any) => l.text && l.href)
+    .map((l: any) => ({
+      href: l.href,
+      label: (!l.external && linkTitles[l.href]) || l.text,
+      external: l.external,
+      thumb: l.external ? undefined : linkThumbs[l.href],
+    }));
+}
+
+const items: Item[] = [];
+
+// Buffer for runs of consecutive single-link headings → one card list.
+let pendingCards: LinkItem[] = [];
+function flushCards() {
+  if (!pendingCards.length) return;
+  const open = lastLabeledSection();
+  if (open) {
+    open.items.push(...pendingCards);
+    open.hasThumbs = open.items.some((i) => !!i.thumb);
+  } else {
+    items.push({
+      kind: "section",
+      items: pendingCards,
+      hasThumbs: pendingCards.some((i) => !!i.thumb),
+    });
+  }
+  pendingCards = [];
+}
+
+// Find the most recent labeled section so following link blocks accumulate
+// into it (until a new label opens a new section). Stop on any intro/figure
+// — those are visible content that breaks the "this label is for X" reading.
+function lastLabeledSection(): Item & { kind: "section" } | null {
+  for (let k = items.length - 1; k >= 0; k--) {
+    const it = items[k];
+    if (it.kind === "intro" || it.kind === "figure") return null;
+    if (it.kind === "section") {
+      if (it.label) return it;
+      return null;
+    }
+  }
+  return null;
+}
 
 for (let i = 0; i < blocks.length; i++) {
   const b = blocks[i];
@@ -75,61 +134,107 @@ for (let i = 0; i < blocks.length; i++) {
     b.text.trim().toLowerCase() === pageTitle.trim().toLowerCase();
   if (isTopHeading) continue;
 
+  // Run of single-link headings → buffer as cards.
+  if (isLinkOnlyHeading(b)) {
+    pendingCards.push(...blockToLinkItems(b));
+    continue;
+  }
+  // Anything else breaks the card run.
+  flushCards();
+
   if (b.type === "heading" && !isLinkGroup(b)) {
-    groups.push({ kind: "label", text: b.text });
+    items.push({
+      kind: "section",
+      label: b.text,
+      level: b.level ?? 4,
+      items: [],
+      hasThumbs: false,
+    } as any);
     continue;
   }
 
   if (isLinkGroup(b) || isLinkOnlyParagraph(b)) {
-    const items: LinkItem[] = (b.links ?? [])
-      .filter((l: any) => l.text && l.href)
-      .map((l: any) => ({
-        href: l.href,
-        label: (!l.external && linkTitles[l.href]) || l.text,
-        external: l.external,
-        thumb: l.external ? undefined : linkThumbs[l.href],
-      }));
-    if (items.length) groups.push({ kind: "links", items });
+    const linkItems = blockToLinkItems(b);
+    if (!linkItems.length) continue;
+    // 2-column header-row pattern: a run of empty SAME-LEVEL labels followed
+    // by the same number of link groups should pair 1:1 (e.g.
+    // /algorithmic-art with two h4 column headers). Only trigger when the
+    // labels are at the same heading level — hierarchical patterns
+    // (h4 + h5 + h5 + ... in /concept) should accumulate, not pair.
+    const trailingEmptyLabels: number[] = [];
+    let runLevel: number | undefined;
+    for (let k = items.length - 1; k >= 0; k--) {
+      const prev = items[k] as any;
+      if (
+        prev.kind === "section" &&
+        prev.label &&
+        prev.items.length === 0
+      ) {
+        if (runLevel === undefined) runLevel = prev.level;
+        if (prev.level !== runLevel) break;
+        trailingEmptyLabels.unshift(k);
+      } else {
+        break;
+      }
+    }
+    if (trailingEmptyLabels.length >= 2) {
+      const idx = trailingEmptyLabels.findIndex(
+        (li) => (items[li] as any).items.length === 0,
+      );
+      if (idx >= 0 && idx < trailingEmptyLabels.length) {
+        const target = items[trailingEmptyLabels[idx]] as any;
+        target.items.push(...linkItems);
+        target.hasThumbs = target.items.some((i: LinkItem) => !!i.thumb);
+        continue;
+      }
+    }
+    const open = lastLabeledSection();
+    if (open) {
+      open.items.push(...linkItems);
+      open.hasThumbs = open.items.some((i) => !!i.thumb);
+    } else {
+      items.push({
+        kind: "section",
+        items: linkItems,
+        hasThumbs: linkItems.some((i) => !!i.thumb),
+      });
+    }
+    continue;
+  }
+
+  if (b.type === "figure") {
+    items.push({ kind: "figure", block: b });
     continue;
   }
 
   if (b.type === "paragraph") {
     const meaningful = b.text && b.text.trim().length > 4;
-    if (meaningful) groups.push({ kind: "intro", block: b });
+    if (meaningful) items.push({ kind: "intro", block: b });
     continue;
   }
 }
+flushCards();
 
-// Pair each "label" with the immediately-following "links" block(s).
-type Section = { label?: string; items: LinkItem[]; hasThumbs: boolean };
-const sections: Section[] = [];
-let cur: Section | null = null;
-for (const g of groups) {
-  if (g.kind === "label") {
-    if (cur) sections.push(cur);
-    cur = { label: g.text, items: [], hasThumbs: false };
-  } else if (g.kind === "links") {
-    if (!cur) cur = { items: [], hasThumbs: false };
-    cur.items.push(...g.items);
+// Empty sections (label, no links) are kept ONLY when the next render unit
+// is prose/figure — there the label captions the following prose. When the
+// next unit is another labeled section, the empty meta-label has no clear
+// owner (e.g. /concept "Subgenres" meta-grouping) and is dropped.
+const renderItems = items.filter((it, idx, arr) => {
+  if (it.kind !== "section") return true;
+  if (it.items.length > 0) return true;
+  if (!it.label) return false;
+  for (let k = idx + 1; k < arr.length; k++) {
+    const n = arr[k];
+    if (n.kind === "intro" || n.kind === "figure") return true;
+    if (n.kind === "section") return false;
   }
-}
-if (cur) sections.push(cur);
+  return false;
+});
 
-const visibleSections = sections.filter((s) => s.items.length > 0);
-for (const s of visibleSections) {
-  s.hasThumbs = s.items.some((i) => !!i.thumb);
-}
-
-const intros = groups.filter((g) => g.kind === "intro") as {
-  kind: "intro";
-  block: Block;
-}[];
-
-// Decide whether to suppress "All Subsections" — only show if it adds
-// children not already linked anywhere in the page's curated link groups.
+// Auto-discover children not already linked anywhere.
 const linkedHrefs = new Set<string>();
-for (const s of visibleSections) {
-  for (const it of s.items) linkedHrefs.add(it.href);
+for (const it of renderItems) {
+  if (it.kind === "section") for (const i of it.items) linkedHrefs.add(i.href);
 }
 const orphanChildren = childLinks.filter((c) => !linkedHrefs.has(c.href));
 const orphanWithThumbs = orphanChildren.map((c) => ({
@@ -139,71 +244,72 @@ const orphanWithThumbs = orphanChildren.map((c) => ({
 const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
 ---
 
-<div class="grid grid-cols-12 gap-x-10 gap-y-8">
-  {/* Intro paragraphs */}
+<div class="space-y-10">
   {
-    intros.length > 0 && (
-      <div class="col-span-12 lg:col-span-8">
-        {intros.map((g) => (
-          <div class="prose-archive max-w-[40rem] mb-4">
-            <Paragraph text={g.block.text} links={g.block.links} />
+    renderItems.map((it) => {
+      if (it.kind === "intro") {
+        return (
+          <div class="prose-archive max-w-[40rem]">
+            <Paragraph text={it.block.text} links={it.block.links} />
           </div>
-        ))}
-      </div>
-    )
+        );
+      }
+      if (it.kind === "figure") {
+        return (
+          <div class="max-w-md">
+            <Figure block={it.block as any} />
+          </div>
+        );
+      }
+      return (
+        <section>
+          {it.label && <p class="section-label mb-5">{it.label}</p>}
+          {it.hasThumbs ? (
+            <ul class="hub-grid">
+              {it.items.map((c) => (
+                <li>
+                  <a
+                    href={c.href}
+                    class="hub-card"
+                    target={c.external ? "_blank" : undefined}
+                    rel={c.external ? "noreferrer" : undefined}
+                  >
+                    <span class="hub-card-frame">
+                      {c.thumb ? (
+                        <img src={c.thumb} alt="" loading="lazy" />
+                      ) : (
+                        <span class="hub-card-empty" />
+                      )}
+                    </span>
+                    <span class="hub-card-label">{c.label}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-1.5">
+              {it.items.map((c) => (
+                <li>
+                  <a
+                    href={c.href}
+                    class="h-detail hover:underline underline-offset-4"
+                    target={c.external ? "_blank" : undefined}
+                    rel={c.external ? "noreferrer" : undefined}
+                  >
+                    {c.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </section>
+      );
+    })
   }
 
-  {/* Sectioned link groups — image grid when thumbs exist, else text list */}
-  <div class="col-span-12">
-    {visibleSections.map((sec) => (
-      <section class="mb-14">
-        {sec.label && <p class="section-label mb-5">{sec.label}</p>}
-        {sec.hasThumbs ? (
-          <ul class="hub-grid">
-            {sec.items.map((it) => (
-              <li>
-                <a
-                  href={it.href}
-                  class="hub-card"
-                  target={it.external ? "_blank" : undefined}
-                  rel={it.external ? "noreferrer" : undefined}
-                >
-                  <span class="hub-card-frame">
-                    {it.thumb ? (
-                      <img src={it.thumb} alt="" loading="lazy" />
-                    ) : (
-                      <span class="hub-card-empty" />
-                    )}
-                  </span>
-                  <span class="hub-card-label">{it.label}</span>
-                </a>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-1.5">
-            {sec.items.map((it) => (
-              <li>
-                <a
-                  href={it.href}
-                  class="h-detail hover:underline underline-offset-4"
-                  target={it.external ? "_blank" : undefined}
-                  rel={it.external ? "noreferrer" : undefined}
-                >
-                  {it.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
-    ))}
-  </div>
-
-  {/* Auto-discovered orphan children — only when they add something new. */}
   {
     orphanWithThumbs.length > 0 && (
-      <div class="col-span-12 mt-4">
+      <div>
         <p class="section-label mb-5">Also in this section</p>
         {orphanHasThumbs ? (
           <ul class="hub-grid">

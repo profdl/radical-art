@@ -68,10 +68,10 @@
     },
     {
       "type": "heading",
-      "text": "drip",
+      "text": "drip (onto horizontal plane)",
       "links": [
         {
-          "text": "drip",
+          "text": "drip (onto horizontal plane)",
           "href": "/process/gravity-liquid/drip",
           "external": false
         }
@@ -80,16 +80,10 @@
     },
     {
       "type": "heading",
-      "text": "(onto horizontal plane)",
-      "links": [],
-      "level": 4
-    },
-    {
-      "type": "heading",
-      "text": "pour",
+      "text": "pour (onto horizontal plane)",
       "links": [
         {
-          "text": "pour",
+          "text": "pour (onto horizontal plane)",
           "href": "/process/gravity-liquid/pour",
           "external": false
         }
@@ -98,26 +92,14 @@
     },
     {
       "type": "heading",
-      "text": "(onto horizontal plane)",
-      "links": [],
-      "level": 4
-    },
-    {
-      "type": "heading",
-      "text": "flow\n& trickle",
+      "text": "flow\n& trickle (along vertical plane)",
       "links": [
         {
-          "text": "flow & trickle",
+          "text": "flow & trickle (along vertical plane)",
           "href": "/process/gravity-liquid/flow",
           "external": false
         }
       ],
-      "level": 4
-    },
-    {
-      "type": "heading",
-      "text": "(along\nvertical plane)",
-      "links": [],
       "level": 4
     },
     {
@@ -339,11 +321,6 @@
           "external": false
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "text": "website by remko scha, 2007-2012",
-      "links": []
     }
   ],
   "images": [],

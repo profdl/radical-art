@@ -9,22 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "related: process\nart – zoom out: radical\nart",
-      "links": [
-        {
-          "text": "process art",
-          "href": "/process",
-          "external": false
-        },
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "destruction in art",
       "links": [],
@@ -281,17 +265,6 @@
           "external": true
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "text": "© 2007, remko scha, iaaa",
-      "links": [
-        {
-          "text": "iaaa",
-          "href": "http://iaaa.nl",
-          "external": true
-        }
-      ]
     }
   ],
   "images": [],
@@ -308,8 +281,6 @@
     "/destruction/slash/fontana",
     "/destruction/slice",
     "/destruction/wipe",
-    "/index",
-    "/process",
     "/process/blast",
     "/process/burn",
     "/process/grind",

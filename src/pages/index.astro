@@ -5,23 +5,30 @@ import { sectionLabel } from "~/lib/text";
 
 const all = await getCollection("pages");
 
-const sectionsList = [
-  "concept", "AlgorithmicArt", "kinetics", "process",
-  "destruction", "Life", "everything", "anything",
-  "something", "nothing", "informe", "ego",
-  "nature", "physics", "things",
+// The 10 top-level categories from the legacy homepage
+// (legacy/index.html). Other legacy roots — ego, informe, nature, physics,
+// things — appear on this site as virtual sub-categories under one of these
+// (matched in Sidebar.astro) so the homepage and sidebar share the same
+// top-level information architecture.
+const sectionsList: { section: string; slug: string; label: string }[] = [
+  { section: "concept", slug: "concept", label: "Concept" },
+  { section: "Life", slug: "life", label: "Life" },
+  { section: "everything", slug: "everything", label: "Everything" },
+  { section: "AlgorithmicArt", slug: "algorithmic-art", label: "Algorithm" },
+  { section: "anything", slug: "anything", label: "Anything" },
+  { section: "kinetics", slug: "kinetics", label: "Mechanics" },
+  { section: "something", slug: "something", label: "Something" },
+  { section: "process", slug: "process", label: "Process" },
+  { section: "destruction", slug: "destruction", label: "Destruction" },
+  { section: "nothing", slug: "nothing", label: "Nothing" },
 ];
 
-function sectionSlug(s: string): string {
-  return s.replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-").toLowerCase();
-}
-
 const sections = sectionsList.map((s) => ({
-  name: sectionLabel(s),
-  slug: sectionSlug(s),
-  count: all.filter((p) => p.data.section === s).length,
+  name: s.label,
+  slug: s.slug,
+  count: all.filter((p) => p.data.section === s.section).length,
   sample: all
-    .filter((p) => p.data.section === s && p.data.images.length >= 3)
+    .filter((p) => p.data.section === s.section && p.data.images.length >= 3)
     .sort((a, b) => b.data.images.length - a.data.images.length)[0],
 }));
 ---
@@ -61,23 +68,4 @@ const sections = sectionsList.map((s) => ({
     }
   </section>
 
-  <hr class="rule-light mt-16" />
-
-  <section class="pt-8">
-    <p class="section-label mb-4">Featured Essays</p>
-    <div class="grid md:grid-cols-2 gap-x-10 gap-y-8 max-w-4xl">
-      <a href="/meta" class="block">
-        <p class="h-detail group-hover:underline">Kant, Duchamp, Meta-Art</p>
-        <p class="prose-archive mt-1 text-[color:var(--color-ink-muted)]">
-          Remko Scha — an introductory essay on the roots of algorithmic art.
-        </p>
-      </a>
-      <a href="/q-end-art" class="block">
-        <p class="h-detail">The End of Art</p>
-        <p class="prose-archive mt-1 text-[color:var(--color-ink-muted)]">
-          On the contemporary status of art-historical narratives.
-        </p>
-      </a>
-    </div>
-  </section>
 </BaseLayout>

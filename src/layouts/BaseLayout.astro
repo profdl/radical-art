@@ -14,7 +14,13 @@ const { title, description, current, currentSlug, hideSidebar = false } = Astro.
 const siteTitle = "Radical Art";
 const fullTitle = title === siteTitle ? title : `${title} — ${siteTitle}`;
 
-const topNav: { label: string; href: string }[] = [];
+// The legacy homepage surfaces two essays alongside the 10 categories:
+// "an introductory essay" → /meta, and "the end of art" → /qend-art.
+// They're not part of the section taxonomy, so they live in the top nav.
+const topNav: { label: string; href: string }[] = [
+  { label: "Introduction", href: "/meta" },
+  { label: "End of Art", href: "/qend-art" },
+];
 ---
 
 <!doctype html>

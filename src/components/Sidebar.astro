@@ -142,9 +142,21 @@ const topOrder = [
   "destruction",
   "nothing",
 ];
+// Use the same labels as the legacy homepage and our /index.astro homepage
+// cards, so the sidebar reads consistently with the home grid. Several pages'
+// own <title> tags use elaborated names ("Concept Art", "life & art",
+// "Indeterminacy") that don't match the navigation idiom of the original.
 const topLabels: Record<string, string> = {
+  concept: "Concept",
+  life: "Life",
+  everything: "Everything",
   "algorithmic-art": "Algorithm",
+  anything: "Anything",
   kinetics: "Mechanics",
+  something: "Something",
+  process: "Process",
+  destruction: "Destruction",
+  nothing: "Nothing",
 };
 
 // Virtual reparenting: each key is an existing top-level slug that should

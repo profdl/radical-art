@@ -163,6 +163,39 @@ always at the top — and button GIFs are reused as bullet markers in see-also
 link lists at the bottom of pages. If you "fix" a page that's missing content,
 suspect this detector first.
 
+### Post-extraction text scrubbers
+
+`is_breadcrumb_block()` only catches structural breadcrumbs at the top of
+`<body>`. A second pass — `strip_legacy_home_breadcrumbs()` in `extract.py` —
+walks the already-extracted blocks and removes legacy "back to home" residue
+that the structural detector misses:
+
+- Whole paragraphs like `back to: things radical art (home page)` (footer
+  breadcrumbs from the bottom of pages).
+- Paragraphs whose entire text is a "Home Page: Radical Art" / "Radical Art
+  (Home Page)" link.
+- A leading `Home Page: Radical Art` prefix glued to the start of an
+  otherwise-legitimate content paragraph.
+- Stand-alone `radical art` paragraphs that link to `/` or `/index` (these
+  often have only **one** button image, so `is_breadcrumb_block` — which
+  requires `≥ 2` to avoid false positives — skips them).
+
+Phrases are matched by `_HOME_PHRASE_RE`. If a new variant turns up, extend
+that regex; do not loosen `is_breadcrumb_block`'s structural guards.
+
+### Adjacent-anchor dedupe
+
+Many legacy pages have idioms like `<a href="x"><br></a><a href="x">label</a>`
+or button-anchor + label-anchor pairs that point at the same href. Without
+dedupe, both surface as separate links in the JSON and render as duplicate
+thumbnails (e.g. the doubled "alle" image that used to appear on `/everything`).
+
+`collect_links()` calls `_dedupe_links()` to collapse these per block: keeps
+the first occurrence, replaces an empty label with a non-empty one, and
+prefers a longer descriptive label when one is a substring of the other.
+Cross-block duplication (the same href reasonably appearing in two distinct
+sentences of an essay) is preserved.
+
 ### Image extraction caveats
 
 The extractor must look for images in **multiple parent contexts**, not just
@@ -184,11 +217,67 @@ behavior — slugs are stable URLs.
 
 ### Hub component link detection
 
-Many legacy hub pages collapsed all their child links into a single
-`<heading>` block during extraction. `Hub.astro:isLinkGroup()` detects this
-by checking that link-text length is ≥ 60% of total block text. If a hub is
-showing weird "grids / / / / scatters …" headings instead of a proper link
-list, that detector needs tuning.
+`Hub.astro` decides whether a block of text is a navigable link group via
+two detectors:
+
+- **`isLinkGroup(block)`** — block has ≥ 2 links and their concatenated text
+  is ≥ 60% of the block's total text. Catches the common legacy idiom of
+  collapsed multi-link `<heading>`s. If a hub is showing weird "grids / / /
+  scatters …" headings instead of a proper link list, this detector needs
+  tuning.
+- **`isLinkOnlyParagraph(block)`** — paragraph has exactly one link whose
+  label equals the entire paragraph text (e.g. `<p><a>readymades</a></p>`).
+  Many legacy hub pages encode each child as its own one-link `<p>`; without
+  this detector each link rendered as inline-link prose instead of as part
+  of the link grid. Adjacent link-only paragraphs merge into one section
+  via the existing label/links pairing loop.
+
+### Sidebar information architecture (`Sidebar.astro`)
+
+The sidebar deliberately **diverges from the filesystem hierarchy** to match
+the legacy homepage's information architecture, while keeping URLs stable.
+
+- **`topOrder`** — the 10 categories surfaced by the legacy homepage
+  (concept, life, everything, algorithm, anything, mechanics, something,
+  process, destruction, nothing). Anything not in this list cannot appear
+  as a top-level branch.
+- **`virtualParents`** — the 5 legacy top-level dirs the homepage doesn't
+  link to are reparented under the section that linked them in the legacy
+  site. Determined by reading inbound legacy links, not by guessing:
+  - `things` → `everything` (per `/everything/index.html` → "readymades")
+  - `nature` → `everything`
+  - `physics` → `nature` (per `/nature` → "Physics")
+  - `ego` → `life` (per `/Life` → "The artist as an art object")
+  - `informe` → `something` (per `/something` → "L'Informe")
+- **URLs are unchanged.** `/things`, `/ego`, `/nature`, `/physics`, `/informe`
+  still resolve directly. Only the sidebar tree presentation differs.
+- **Reparenting order matters** — leaves first (`physics` → `nature` before
+  `nature` → `everything`), so the chain attaches end-to-end correctly.
+  See the `reparentOrder` array.
+- **Caret toggle** — each `.sidebar-row` carries a `data-parent` attribute
+  with its actual visual parent slug. The `applyVisibility` script walks
+  the chain via `data-parent` (NOT slug-prefix), so collapsing `everything`
+  hides `things`, `nature`, `physics`, and all their descendants — even
+  though those URLs don't share an `/everything` prefix.
+- **Auto-expansion across virtual parents** — when the user lands on
+  e.g. `/things/readymade`, the expansion logic walks the `virtualParents`
+  chain so the `everything` branch opens too, not just `things`.
+
+### Sibling label collisions (`Sidebar.astro`)
+
+Many legacy pages share `<title>` tags with their siblings (six known cases:
+two `Kinetiek` pages under `/kinetics`, two `Lifestyle as art form` under
+`/life`, two `Tautologies` under `/concept/tautology`, etc.). Showing the
+same label twice in the sidebar is confusing.
+
+`labelCandidates()` produces a ranked list per page: title (if not just an
+echo of the parent section name), heading, first-block heading, slug-derived
+label. After the tree is built, `resolveDuplicateLabels()` walks each level,
+finds collisions, and picks the next unique candidate per sibling. If even
+that fails (true tie), it appends the slug leaf in parens.
+
+Add a new fallback by extending `labelCandidates()`, not by hard-coding
+overrides per slug.
 
 ## What's deliberately NOT done
 

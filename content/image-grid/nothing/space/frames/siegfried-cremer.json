@@ -9,35 +9,63 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "figure",
-      "src": "/images/nothing/space/frames/siegfried-cremer/SCremer59StatischesObjekt-S.jpg",
-      "alt": "",
-      "caption": "Empty\nFrames Nothing\nRadical\nArt\n\n\n\nEmpty frames by Siegfried Cremer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatisches Objekt, 1959\n\n\n\n\n\n\n\nDiptychon, 1975\n\n\n\n\n\nDiptychon II, 1975\n\n\n\n\n\n\n\nHohlraumbild, 1981\n\n\n\n\n\n\n\nDistanzbild, 1978",
-      "width": "204",
-      "height": "200",
+      "type": "paragraph",
+      "text": "Empty Frames",
       "links": [
         {
           "text": "Empty Frames",
           "href": "/nothing/space/frames",
           "external": false
-        },
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Empty\nFrames",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing",
+      "links": [
         {
           "text": "Nothing",
           "href": "/nothing",
-          "external": false
-        },
-        {
-          "text": "Radical Art",
-          "href": "/index",
           "external": false
         }
       ]
     },
     {
+      "type": "paragraph",
+      "text": "Nothing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "Empty frames by Siegfried Cremer",
+      "links": [],
+      "level": 3
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/space/frames/siegfried-cremer/SCremer59StatischesObjekt-S.jpg",
+      "alt": "",
+      "caption": "Statisches Objekt, 1959",
+      "width": "204",
+      "height": "200",
+      "links": []
+    },
+    {
       "type": "figure",
       "src": "/images/nothing/space/frames/siegfried-cremer/Cremer75Diptychon-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Diptychon, 1975",
       "width": "165",
       "height": "382",
       "links": []
@@ -46,7 +74,7 @@
       "type": "figure",
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer75DiptychonII-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Diptychon II, 1975",
       "width": "355",
       "height": "195",
       "links": []
@@ -55,7 +83,7 @@
       "type": "figure",
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer1981Hohlraumbild-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Hohlraumbild, 1981",
       "width": "187",
       "height": "183",
       "links": []
@@ -64,7 +92,7 @@
       "type": "figure",
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer78Distanzbild-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Distanzbild, 1978",
       "width": "230",
       "height": "176",
       "links": []
@@ -74,36 +102,35 @@
     {
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer59StatischesObjekt-S.jpg",
       "alt": "",
-      "caption": "Empty\nFrames Nothing\nRadical\nArt\n\n\n\nEmpty frames by Siegfried Cremer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatisches Objekt, 1959\n\n\n\n\n\n\n\nDiptychon, 1975\n\n\n\n\n\nDiptychon II, 1975\n\n\n\n\n\n\n\nHohlraumbild, 1981\n\n\n\n\n\n\n\nDistanzbild, 1978",
+      "caption": "Statisches Objekt, 1959",
       "legacy_src": "SCremer59StatischesObjekt-S.jpg"
     },
     {
       "src": "/images/nothing/space/frames/siegfried-cremer/Cremer75Diptychon-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Diptychon, 1975",
       "legacy_src": "Cremer75Diptychon-S.jpg"
     },
     {
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer75DiptychonII-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Diptychon II, 1975",
       "legacy_src": "SCremer75DiptychonII-S.jpg"
     },
     {
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer1981Hohlraumbild-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Hohlraumbild, 1981",
       "legacy_src": "SCremer1981Hohlraumbild-S.jpg"
     },
     {
       "src": "/images/nothing/space/frames/siegfried-cremer/SCremer78Distanzbild-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Distanzbild, 1978",
       "legacy_src": "SCremer78Distanzbild-S.jpg"
     }
   ],
   "out_links": [
-    "/index",
     "/nothing",
     "/nothing/space/frames"
   ]

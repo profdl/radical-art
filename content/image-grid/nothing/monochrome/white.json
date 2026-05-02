@@ -9,35 +9,63 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "figure",
-      "src": "/images/nothing/monochrome/white/AllaisNeige-S.jpg",
-      "alt": "",
-      "caption": "Monochromes\nNothing\nRadical\nArt\n\n\nWhite Monochromes\n\n\n\n\n\n\n\n\n\nAlphonse\nAllais:\n\n\"Première communion de jeunes filles\n\nchlorotiques par un temps de neige,\" 1883.\n\n\n\n\n\n\n\nKazimir Malevich:\n\nSuprematist Composition\n\n(White On White), 1915\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMan Ray: Sans Titre, 1927\n\n\n\n\n\n\n\nAlberto Burri: Bianco, 1952\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnrico Donati: White to white, 1953\n\n\n\n\n\n\n\n\n\n\n\n\nJasper Johns: White Flag, 1955\n\n\n\n\n\n\n\nBram Bogart: Terre Blanche, 1959\n\n\n\n\n\n\n\n\n\n\n\n\nGeorges Vantongerloo:\n\nConstruction des Rapports\n\ndes Volumes\nÉmanentes\n\ndu Carré Inscrit et du Carré\n\nCirconscrit d'un Cercle,\n\n1924\n\n\n\n\n\nLéon Tutundjian:\n\nSans Titre, 1929\n\n\n\n\n\n\n\n\nBen Nicholson: Relief, 1934\n\n\n\n\n\n\n\n\nFausto Melotti:\n\nSculpture Nr. 16, 1935\n\n\n\n\n\n\nLouise Nevelson: Construction, 1958\n\n\n\n\n\nEnea Ferrari:\n\nSerie 037, No. 1490, 1958\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHenk Peeters: Sneeuwballen, 1961\n\n\n\n\n\n\n\nJan Schoonhoven: RS 62-13, 1962\n\n\n\n\n\n\n\n\n\nGünther Uecker: Weiße Mühle, 1964\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Rauschenberg: White Painting (3 Panels), 1951\n\n\n\n\n\n\n\nFrançois Morellet: Par Derrière à Trois, 1986\n\n\n\n\n\n\n\n\n\nRobert Morris: 2 Slabs, 1962\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGünter Brus: Ana, 1964\n\n\n\n\n\n\n\nRudolf Schwarzkogler, 1965\n\n\n\n\n\n\n\n\n\nMichel Journiac, 1970\n\n\n\n\n\n\n\nCharles Ray: Unpainted Sculpture, 1997\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichio Yoshihara, 1956\n\n\n\n\n\n\n\nRobert Ryman, Untitled, 1958\n\n\n\n\n\n\n\nPiero Manzoni: Achrome, 1958\n\n\n\n\n\n\n\n\n\n\n\n\n\nJo Baer: Untitled, 1966-1974\n\n\n\n\n\n\n\n\n\nHiroshi Sugimoto: Regency, San Francisco, 1992\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKarin Sander, 1992\n\n\n\n\n\n\n\nSylvie Fleurie, 1994\n\n\n\n\n\n\n\n\n\nXavier Veilhan: Sans Titre (Machine Tournante), 1994\n\n\n\n\n\n\n\nTo add: Milk pieces (Andres Serrano, Wolfgang Laib, Karsten\nNicolai)\n\n\n\n\n\n\n\n\n\"An empty canvas, apparently really\nempty, that says nothing and is without significance. Almost dull,\nin fact. In reality, however, crammed with thousands of undertone\ntensions and full of expectancy. Slightly apprehensive lest it should\nbe outraged ... It can contain anything but cannot sustain everything\n... An empty canvas is a living wonder -- much more beautiful than\nmany pictures.\"\n\n\n\nWassily Kandinsky",
-      "width": "200",
-      "height": "130",
+      "type": "paragraph",
+      "text": "Monochromes",
       "links": [
         {
           "text": "Monochromes",
           "href": "/nothing/monochrome",
           "external": false
-        },
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Monochromes",
+      "links": [],
+      "level": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing",
+      "links": [
         {
           "text": "Nothing",
           "href": "/nothing",
-          "external": false
-        },
-        {
-          "text": "Radical Art",
-          "href": "/index",
           "external": false
         }
       ]
     },
     {
+      "type": "paragraph",
+      "text": "Nothing",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Radical\nArt",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "text": "White Monochromes",
+      "links": [],
+      "level": 2
+    },
+    {
+      "type": "figure",
+      "src": "/images/nothing/monochrome/white/AllaisNeige-S.jpg",
+      "alt": "",
+      "caption": "Alphonse\nAllais:\n\n\"Première communion de jeunes filles\n\nchlorotiques par un temps de neige,\" 1883.",
+      "width": "200",
+      "height": "130",
+      "links": []
+    },
+    {
       "type": "figure",
       "src": "/images/nothing/monochrome/white/18MalevitchSCWhOnWh-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Kazimir Malevich:\n\nSuprematist Composition\n\n(White On White), 1915",
       "width": "150",
       "height": "150",
       "links": []
@@ -46,7 +74,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/27-ManRayST-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Man Ray: Sans Titre, 1927",
       "width": "245",
       "height": "200",
       "links": []
@@ -55,7 +83,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/52BurriBianco.gif",
       "alt": "",
-      "caption": "",
+      "caption": "Alberto Burri: Bianco, 1952",
       "width": "172",
       "height": "225",
       "links": []
@@ -64,7 +92,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/53EnricoDonatiWhite2White.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Enrico Donati: White to white, 1953",
       "width": "267",
       "height": "200",
       "links": []
@@ -73,7 +101,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/55JohnsWhite_Flag-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Jasper Johns: White Flag, 1955",
       "width": "310",
       "height": "200",
       "links": []
@@ -82,7 +110,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/59BramBogartTerreBlanche.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Bram Bogart: Terre Blanche, 1959",
       "width": "235",
       "height": "200",
       "links": []
@@ -97,6 +125,11 @@
       "links": []
     },
     {
+      "type": "paragraph",
+      "text": "Georges Vantongerloo:\n\nConstruction des Rapports\n\ndes Volumes\nÉmanentes\n\ndu Carré Inscrit et du Carré\n\nCirconscrit d'un Cercle,\n\n1924",
+      "links": []
+    },
+    {
       "type": "figure",
       "src": "/images/nothing/monochrome/white/29-LeonTutundjian-ST-s.jpg",
       "alt": "",
@@ -106,10 +139,15 @@
       "links": []
     },
     {
+      "type": "paragraph",
+      "text": "Léon Tutundjian:\n\nSans Titre, 1929",
+      "links": []
+    },
+    {
       "type": "figure",
       "src": "/images/nothing/monochrome/white/34BenNicholsonRelief-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Ben Nicholson: Relief, 1934",
       "width": "287",
       "height": "200",
       "links": []
@@ -118,7 +156,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/35FaustoMelottiSclptreNr16.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Fausto Melotti:\n\nSculpture Nr. 16, 1935",
       "width": "148",
       "height": "150",
       "links": []
@@ -127,7 +165,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/58-NevelsonConstruction-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Louise Nevelson: Construction, 1958",
       "width": "133",
       "height": "250",
       "links": []
@@ -142,10 +180,15 @@
       "links": []
     },
     {
+      "type": "paragraph",
+      "text": "Enea Ferrari:\n\nSerie 037, No. 1490, 1958",
+      "links": []
+    },
+    {
       "type": "figure",
       "src": "/images/nothing/monochrome/white/61HenkPeetersSneeuwballen-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Henk Peeters: Sneeuwballen, 1961",
       "width": "260",
       "height": "200",
       "links": []
@@ -154,7 +197,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/62JanSchoonhovenR62-13.jpeg",
       "alt": "",
-      "caption": "",
+      "caption": "Jan Schoonhoven: RS 62-13, 1962",
       "width": "148",
       "height": "200",
       "links": []
@@ -163,7 +206,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/64-UeckerWeisseMuehle.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Günther Uecker: Weiße Mühle, 1964",
       "width": "253",
       "height": "200",
       "links": []
@@ -172,7 +215,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/51-rauschenbergWhP(3Pnls).jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Rauschenberg: White Painting (3 Panels), 1951",
       "width": "279",
       "height": "200",
       "links": []
@@ -181,7 +224,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/86-MorParDerriereA3-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "François Morellet: Par Derrière à Trois, 1986",
       "width": "188",
       "height": "200",
       "links": []
@@ -190,7 +233,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/62-Morris2Slabs-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Morris: 2 Slabs, 1962",
       "width": "361",
       "height": "200",
       "links": []
@@ -199,7 +242,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/64-GUENTER-BRUS-ANA-1964.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Günter Brus: Ana, 1964",
       "width": "277",
       "height": "200",
       "links": []
@@ -208,7 +251,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/65-schwarzkogler-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Rudolf Schwarzkogler, 1965",
       "width": "289",
       "height": "200",
       "links": []
@@ -217,7 +260,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/MichelJourniac[etalagepop]S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Michel Journiac, 1970",
       "width": "175",
       "height": "250",
       "links": []
@@ -226,7 +269,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/CharlesRay97UnpntdSclptre-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Charles Ray: Unpainted Sculpture, 1997",
       "width": "283",
       "height": "200",
       "links": []
@@ -235,7 +278,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/56-MichioYoshiwara.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Michio Yoshihara, 1956",
       "width": "181",
       "height": "225",
       "links": []
@@ -244,7 +287,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/58-RobertRymanUnt-s.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Ryman, Untitled, 1958",
       "width": "215",
       "height": "200",
       "links": []
@@ -253,7 +296,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/58ManzoniAchrome1958.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Piero Manzoni: Achrome, 1958",
       "width": "143",
       "height": "225",
       "links": []
@@ -262,7 +305,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/66-74-JoBaerUnt.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Jo Baer: Untitled, 1966-1974",
       "width": "180",
       "height": "250",
       "links": []
@@ -271,7 +314,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/92-SugimotoRegency,SF-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Hiroshi Sugimoto: Regency, San Francisco, 1992",
       "width": "259",
       "height": "200",
       "links": []
@@ -280,7 +323,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/92KarinSander-s.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Karin Sander, 1992",
       "width": "200",
       "height": "200",
       "links": []
@@ -289,7 +332,7 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/94-sylviefleury-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Sylvie Fleurie, 1994",
       "width": "226",
       "height": "200",
       "links": []
@@ -298,9 +341,24 @@
       "type": "figure",
       "src": "/images/nothing/monochrome/white/94-XavierVeilhanST(MchTrn).JPG",
       "alt": "",
-      "caption": "",
+      "caption": "Xavier Veilhan: Sans Titre (Machine Tournante), 1994",
       "width": "261",
       "height": "173",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To add: Milk pieces (Andres Serrano, Wolfgang Laib, Karsten\nNicolai)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "\"An empty canvas, apparently really\nempty, that says nothing and is without significance. Almost dull,\nin fact. In reality, however, crammed with thousands of undertone\ntensions and full of expectancy. Slightly apprehensive lest it should\nbe outraged ... It can contain anything but cannot sustain everything\n... An empty canvas is a living wonder -- much more beautiful than\nmany pictures.\"",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Wassily Kandinsky",
       "links": []
     }
   ],
@@ -308,43 +366,43 @@
     {
       "src": "/images/nothing/monochrome/white/AllaisNeige-S.jpg",
       "alt": "",
-      "caption": "Monochromes\nNothing\nRadical\nArt\n\n\nWhite Monochromes\n\n\n\n\n\n\n\n\n\nAlphonse\nAllais:\n\n\"Première communion de jeunes filles\n\nchlorotiques par un temps de neige,\" 1883.\n\n\n\n\n\n\n\nKazimir Malevich:\n\nSuprematist Composition\n\n(White On White), 1915\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMan Ray: Sans Titre, 1927\n\n\n\n\n\n\n\nAlberto Burri: Bianco, 1952\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnrico Donati: White to white, 1953\n\n\n\n\n\n\n\n\n\n\n\n\nJasper Johns: White Flag, 1955\n\n\n\n\n\n\n\nBram Bogart: Terre Blanche, 1959\n\n\n\n\n\n\n\n\n\n\n\n\nGeorges Vantongerloo:\n\nConstruction des Rapports\n\ndes Volumes\nÉmanentes\n\ndu Carré Inscrit et du Carré\n\nCirconscrit d'un Cercle,\n\n1924\n\n\n\n\n\nLéon Tutundjian:\n\nSans Titre, 1929\n\n\n\n\n\n\n\n\nBen Nicholson: Relief, 1934\n\n\n\n\n\n\n\n\nFausto Melotti:\n\nSculpture Nr. 16, 1935\n\n\n\n\n\n\nLouise Nevelson: Construction, 1958\n\n\n\n\n\nEnea Ferrari:\n\nSerie 037, No. 1490, 1958\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHenk Peeters: Sneeuwballen, 1961\n\n\n\n\n\n\n\nJan Schoonhoven: RS 62-13, 1962\n\n\n\n\n\n\n\n\n\nGünther Uecker: Weiße Mühle, 1964\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Rauschenberg: White Painting (3 Panels), 1951\n\n\n\n\n\n\n\nFrançois Morellet: Par Derrière à Trois, 1986\n\n\n\n\n\n\n\n\n\nRobert Morris: 2 Slabs, 1962\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGünter Brus: Ana, 1964\n\n\n\n\n\n\n\nRudolf Schwarzkogler, 1965\n\n\n\n\n\n\n\n\n\nMichel Journiac, 1970\n\n\n\n\n\n\n\nCharles Ray: Unpainted Sculpture, 1997\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichio Yoshihara, 1956\n\n\n\n\n\n\n\nRobert Ryman, Untitled, 1958\n\n\n\n\n\n\n\nPiero Manzoni: Achrome, 1958\n\n\n\n\n\n\n\n\n\n\n\n\n\nJo Baer: Untitled, 1966-1974\n\n\n\n\n\n\n\n\n\nHiroshi Sugimoto: Regency, San Francisco, 1992\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKarin Sander, 1992\n\n\n\n\n\n\n\nSylvie Fleurie, 1994\n\n\n\n\n\n\n\n\n\nXavier Veilhan: Sans Titre (Machine Tournante), 1994\n\n\n\n\n\n\n\nTo add: Milk pieces (Andres Serrano, Wolfgang Laib, Karsten\nNicolai)\n\n\n\n\n\n\n\n\n\"An empty canvas, apparently really\nempty, that says nothing and is without significance. Almost dull,\nin fact. In reality, however, crammed with thousands of undertone\ntensions and full of expectancy. Slightly apprehensive lest it should\nbe outraged ... It can contain anything but cannot sustain everything\n... An empty canvas is a living wonder -- much more beautiful than\nmany pictures.\"\n\n\n\nWassily Kandinsky",
+      "caption": "Alphonse\nAllais:\n\n\"Première communion de jeunes filles\n\nchlorotiques par un temps de neige,\" 1883.",
       "legacy_src": "AllaisNeige-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/18MalevitchSCWhOnWh-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Kazimir Malevich:\n\nSuprematist Composition\n\n(White On White), 1915",
       "legacy_src": "18MalevitchSCWhOnWh-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/27-ManRayST-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Man Ray: Sans Titre, 1927",
       "legacy_src": "27-ManRayST-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/52BurriBianco.gif",
       "alt": "",
-      "caption": "",
+      "caption": "Alberto Burri: Bianco, 1952",
       "legacy_src": "52BurriBianco.gif"
     },
     {
       "src": "/images/nothing/monochrome/white/53EnricoDonatiWhite2White.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Enrico Donati: White to white, 1953",
       "legacy_src": "53EnricoDonatiWhite2White.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/55JohnsWhite_Flag-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Jasper Johns: White Flag, 1955",
       "legacy_src": "55JohnsWhite_Flag-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/59BramBogartTerreBlanche.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Bram Bogart: Terre Blanche, 1959",
       "legacy_src": "59BramBogartTerreBlanche.jpg"
     },
     {
@@ -362,19 +420,19 @@
     {
       "src": "/images/nothing/monochrome/white/34BenNicholsonRelief-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Ben Nicholson: Relief, 1934",
       "legacy_src": "34BenNicholsonRelief-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/35FaustoMelottiSclptreNr16.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Fausto Melotti:\n\nSculpture Nr. 16, 1935",
       "legacy_src": "35FaustoMelottiSclptreNr16.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/58-NevelsonConstruction-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Louise Nevelson: Construction, 1958",
       "legacy_src": "58-NevelsonConstruction-S.jpg"
     },
     {
@@ -386,114 +444,113 @@
     {
       "src": "/images/nothing/monochrome/white/61HenkPeetersSneeuwballen-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Henk Peeters: Sneeuwballen, 1961",
       "legacy_src": "61HenkPeetersSneeuwballen-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/62JanSchoonhovenR62-13.jpeg",
       "alt": "",
-      "caption": "",
+      "caption": "Jan Schoonhoven: RS 62-13, 1962",
       "legacy_src": "62JanSchoonhovenR62-13.jpeg"
     },
     {
       "src": "/images/nothing/monochrome/white/64-UeckerWeisseMuehle.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Günther Uecker: Weiße Mühle, 1964",
       "legacy_src": "64-UeckerWeisseMuehle.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/51-rauschenbergWhP(3Pnls).jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Rauschenberg: White Painting (3 Panels), 1951",
       "legacy_src": "51-rauschenbergWhP(3Pnls).jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/86-MorParDerriereA3-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "François Morellet: Par Derrière à Trois, 1986",
       "legacy_src": "86-MorParDerriereA3-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/62-Morris2Slabs-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Morris: 2 Slabs, 1962",
       "legacy_src": "62-Morris2Slabs-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/64-GUENTER-BRUS-ANA-1964.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Günter Brus: Ana, 1964",
       "legacy_src": "64-GUENTER-BRUS-ANA-1964.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/65-schwarzkogler-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Rudolf Schwarzkogler, 1965",
       "legacy_src": "65-schwarzkogler-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/MichelJourniac[etalagepop]S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Michel Journiac, 1970",
       "legacy_src": "MichelJourniac%5Betalagepop%5DS.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/CharlesRay97UnpntdSclptre-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Charles Ray: Unpainted Sculpture, 1997",
       "legacy_src": "CharlesRay97UnpntdSclptre-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/56-MichioYoshiwara.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Michio Yoshihara, 1956",
       "legacy_src": "56-MichioYoshiwara.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/58-RobertRymanUnt-s.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Robert Ryman, Untitled, 1958",
       "legacy_src": "58-RobertRymanUnt-s.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/58ManzoniAchrome1958.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Piero Manzoni: Achrome, 1958",
       "legacy_src": "58ManzoniAchrome1958.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/66-74-JoBaerUnt.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Jo Baer: Untitled, 1966-1974",
       "legacy_src": "66-74-JoBaerUnt.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/92-SugimotoRegency,SF-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Hiroshi Sugimoto: Regency, San Francisco, 1992",
       "legacy_src": "92-SugimotoRegency,SF-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/92KarinSander-s.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Karin Sander, 1992",
       "legacy_src": "92KarinSander-s.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/94-sylviefleury-S.jpg",
       "alt": "",
-      "caption": "",
+      "caption": "Sylvie Fleurie, 1994",
       "legacy_src": "94-sylviefleury-S.jpg"
     },
     {
       "src": "/images/nothing/monochrome/white/94-XavierVeilhanST(MchTrn).JPG",
       "alt": "",
-      "caption": "",
+      "caption": "Xavier Veilhan: Sans Titre (Machine Tournante), 1994",
       "legacy_src": "94-XavierVeilhanST(MchTrn).JPG"
     }
   ],
   "out_links": [
-    "/index",
     "/nothing",
     "/nothing/monochrome"
   ]
