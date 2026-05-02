@@ -9,26 +9,43 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
+      "type": "heading",
+      "text": "[This republished version]",
+      "links": [],
+      "level": 3
+    },
+    {
       "type": "paragraph",
-      "text": "Home",
+      "text": "This is a republished version of the original site at radicalart.info, reorganized for the contemporary web. Every effort has been made to stay true to the original site's content and intentions.",
       "links": [
         {
-          "text": "Home",
-          "href": "/index",
-          "external": false
+          "text": "radicalart.info",
+          "href": "https://radicalart.info",
+          "external": true
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "Home",
-      "links": []
+      "text": "Republished by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design.",
+      "links": [
+        {
+          "text": "Daniel Lefcourt",
+          "href": "https://certainlynot.com",
+          "external": true
+        },
+        {
+          "text": "Art & Computation",
+          "href": "https://www.risd.edu/academics/art-computation",
+          "external": true
+        }
+      ]
     },
     {
       "type": "heading",
-      "text": "[About]",
+      "text": "[About the original site]",
       "links": [],
-      "level": 4
+      "level": 3
     },
     {
       "type": "paragraph",
@@ -79,7 +96,5 @@
     }
   ],
   "images": [],
-  "out_links": [
-    "/index"
-  ]
+  "out_links": []
 }
