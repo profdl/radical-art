@@ -1,0 +1,564 @@
+---
+import Constellation from "~/components/Constellation";
+import { withBase } from "~/lib/text";
+
+const basePath = import.meta.env.BASE_URL || "/";
+const dataUrl = withBase("/constellation.json");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Constellation — Radical Art</title>
+    <meta
+      name="description"
+      content="Drift through the Radical Art archive image by image. Each constellation is a concept; click an image to travel to a new one."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap"
+    />
+    <style is:global>
+      html, body {
+        background: #050507;
+        color: #f5f5f0;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: "IBM Plex Sans", system-ui, sans-serif;
+      }
+      .constellation-root {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        background: radial-gradient(ellipse at 50% 40%, #0c0c12 0%, #050507 70%);
+      }
+      .constellation-back {
+        position: absolute;
+        top: 22px;
+        left: 28px;
+        font-size: 0.85rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: rgba(245, 245, 240, 0.6);
+        text-decoration: none;
+        z-index: 10;
+      }
+      .constellation-back:hover { color: rgba(245, 245, 240, 0.95); }
+      /* Header sits in the top-left as a masthead, not centered overhead.
+         Centered placement collided with top satellites on tall pages and
+         made the title read as if it owned an image. Left-aligned, it
+         becomes a page header — site name → constellation → current page,
+         in book-page reading order — which is on-brand for the Library
+         Stack visual direction. */
+      .constellation-header {
+        position: absolute;
+        top: 56px;
+        left: 28px;
+        text-align: left;
+        z-index: 5;
+        pointer-events: none;
+        max-width: 18rem;
+      }
+      .constellation-eyebrow {
+        margin: 0;
+        font-size: 0.68rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: rgba(245, 245, 240, 0.45);
+      }
+      .constellation-title {
+        margin: 0.2rem 0 0;
+        font-family: "IBM Plex Serif", serif;
+        font-style: italic;
+        font-weight: 400;
+        /* Smaller than the original 2.4rem: the title is informational, the
+           center image is the hero. The italic serif gives it enough
+           presence at this size. */
+        font-size: clamp(1.3rem, 2vw, 1.7rem);
+        color: rgba(245, 245, 240, 0.95);
+        letter-spacing: 0.01em;
+        line-height: 1.1;
+      }
+      .constellation-page {
+        margin: 0.35rem 0 0;
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+        color: rgba(245, 245, 240, 0.55);
+        /* Wrap gracefully — long page titles otherwise push the column wider
+           than the masthead's 18rem cap and leak under the center image. */
+        line-height: 1.35;
+      }
+      .constellation-stage {
+        position: relative;
+        flex: 1;
+        overflow: hidden;
+      }
+      .constellation-svg {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+      }
+      /* Center image anchor.
+         The element holds both the image and the info text below it. We
+         anchor by *image-center*, not by the stack's geometric center.
+         Two constraints to make this stable:
+           - Vertical: translate up by half the frame so long info text
+             wrapping below doesn't push the image upward.
+           - Horizontal: lock the anchor's *width* to the frame width.
+             Without this, a long wrapping title would make the anchor's
+             intrinsic width exceed the image, and `-50%` would center the
+             whole stack (image + wider text) — visibly shifting the image
+             left or right as titles change length. The info text uses
+             negative inline margins to extend wider than the anchor for
+             readability, but those don't affect layout width. */
+      .constellation-center {
+        --frame-size: 200px;
+        position: absolute;
+        width: var(--frame-size);
+        transform: translate(-50%, calc(var(--frame-size) / -2));
+        text-decoration: none;
+        color: inherit;
+        z-index: 3;
+        cursor: pointer;
+      }
+      .constellation-center-frame {
+        width: var(--frame-size);
+        height: var(--frame-size);
+        border-radius: 4px;
+        overflow: hidden;
+        background: #0a0a10;
+        box-shadow:
+          0 0 0 1px rgba(245, 245, 240, 0.18),
+          0 0 60px rgba(245, 245, 240, 0.08),
+          0 0 120px rgba(245, 245, 240, 0.04);
+        transition: box-shadow 300ms ease, transform 300ms ease;
+      }
+      .constellation-center:hover .constellation-center-frame {
+        box-shadow:
+          0 0 0 1px rgba(245, 245, 240, 0.45),
+          0 0 80px rgba(245, 245, 240, 0.18),
+          0 0 160px rgba(245, 245, 240, 0.08);
+        transform: scale(1.02);
+      }
+      .constellation-center-frame img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      /* Center info — page title + figure caption stacked under the
+         center image. The whole .constellation-center anchor is the click
+         target, so this is just text labels (no chrome). On hover both
+         lines brighten to confirm the click affordance.
+
+         Width-capped so long titles wrap into two lines instead of pushing
+         out beyond the image footprint. */
+      /* Info text appears wider than the anchor for readability, but the
+         negative inline margins let it overflow the anchor's fixed width
+         without changing the anchor's layout box. The image stays locked. */
+      .constellation-center-info {
+        margin: 0.7rem -4rem 0;
+        text-align: center;
+      }
+      .constellation-center-info-title {
+        margin: 0;
+        font-family: "IBM Plex Serif", serif;
+        font-size: 0.95rem;
+        line-height: 1.3;
+        color: rgba(245, 245, 240, 0.9);
+        transition: color 220ms ease;
+      }
+      .constellation-center-info-caption {
+        margin: 0.25rem 0 0;
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 0.78rem;
+        line-height: 1.35;
+        color: rgba(245, 245, 240, 0.55);
+        font-style: italic;
+        transition: color 220ms ease;
+      }
+      .constellation-center:hover .constellation-center-info-title,
+      .constellation-center:focus-visible .constellation-center-info-title {
+        color: #fff;
+      }
+      .constellation-center:hover .constellation-center-info-caption,
+      .constellation-center:focus-visible .constellation-center-info-caption {
+        color: rgba(245, 245, 240, 0.85);
+      }
+      .constellation-satellite {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        background: #0a0a10;
+        border: 1px solid rgba(245, 245, 240, 0.15);
+        padding: 0;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 3px;
+        opacity: 0.78;
+        z-index: 2;
+        will-change: transform, opacity, left, top;
+      }
+      .constellation-satellite img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .constellation-satellite:hover,
+      .constellation-satellite.is-hover,
+      .constellation-satellite:focus-visible {
+        opacity: 1;
+        border-color: rgba(245, 245, 240, 0.85);
+        outline: none;
+        transform: translate(-50%, -50%) scale(1.06) !important;
+        z-index: 4;
+      }
+      /* Outer-ring satellites — second-degree neighbors. Smaller, dimmer
+         until interacted with. They imply that the constellation keeps
+         going past what's currently bright. */
+      .constellation-satellite.is-outer {
+        opacity: 0.42;
+        border-color: rgba(245, 245, 240, 0.08);
+        z-index: 1;
+      }
+      .constellation-satellite.is-outer.is-branch-active {
+        opacity: 0.78;
+        border-color: rgba(245, 245, 240, 0.35);
+      }
+      .constellation-satellite.is-outer:hover,
+      .constellation-satellite.is-outer.is-hover,
+      .constellation-satellite.is-outer:focus-visible {
+        opacity: 1;
+        border-color: rgba(245, 245, 240, 0.85);
+        z-index: 4;
+      }
+      /* Traveler — the *incoming* image during a click transition. Mounts
+         at the clicked satellite's old slot at satellite size, animates to
+         the center position growing to center size. The real center sits
+         at opacity 0 underneath until the traveler unmounts, at which
+         point the center fades up. Width/height/left/top are all set
+         inline so they all transition together. The transform centers the
+         element on its (left, top) anchor regardless of size. */
+      .constellation-traveler {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        border-radius: 4px;
+        overflow: hidden;
+        pointer-events: none;
+        z-index: 3;
+        background: #0a0a10;
+        box-shadow:
+          0 0 0 1px rgba(245, 245, 240, 0.25),
+          0 0 60px rgba(245, 245, 240, 0.08);
+        will-change: transform, width, height, left, top, opacity;
+      }
+      .constellation-traveler img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      /* Satellite bloom-in: each satellite, when keyed-in fresh on a new
+         constellation, plays this keyframe from scale 0.6 + transparent
+         to its resting state. The `transform` here is the rest state
+         used by .constellation-satellite (translate(-50%,-50%)) plus a
+         scale that returns to 1. Hover scale (1.06) is enforced via the
+         existing rule with !important so it overrides during play. */
+      @keyframes constellation-bloom-in {
+        0% {
+          opacity: 0;
+          transform: translate(-50%, -50%) scale(0.55);
+          filter: blur(4px);
+        }
+        60% {
+          opacity: 0.78;
+          filter: blur(0px);
+        }
+        100% {
+          opacity: 0.78;
+          transform: translate(-50%, -50%) scale(1);
+          filter: blur(0px);
+        }
+      }
+      @keyframes constellation-bloom-in-outer {
+        0% {
+          opacity: 0;
+          transform: translate(-50%, -50%) scale(0.5);
+          filter: blur(3px);
+        }
+        100% {
+          opacity: 0.42;
+          transform: translate(-50%, -50%) scale(1);
+          filter: blur(0px);
+        }
+      }
+      .constellation-satellite.is-blooming {
+        animation-name: constellation-bloom-in;
+        animation-timing-function: cubic-bezier(.22,.61,.36,1);
+        animation-fill-mode: both;
+      }
+      .constellation-satellite.is-outer.is-blooming {
+        animation-name: constellation-bloom-in-outer;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .constellation-satellite.is-blooming { animation: none; }
+        .constellation-traveler { transition: none !important; }
+      }
+      /* Hover info panel: a museum-wall-label in the bottom-left, mirroring
+         the top-left masthead. Anchored to the corner (not centered under
+         the constellation) so it never overlays a satellite. Width-capped
+         so longer page titles don't drift toward the center image. */
+      .constellation-hover {
+        position: absolute;
+        bottom: 64px;
+        left: 28px;
+        text-align: left;
+        max-width: 22rem;
+        pointer-events: none;
+        /* A soft drop-shadow on the text gives a final layer of legibility
+           insurance for the rare case where an outer satellite drifts into
+           this corner — it's *barely* visible against the starfield, but
+           lifts the text off any image that does end up underneath. */
+        text-shadow: 0 1px 12px rgba(0, 0, 0, 0.85), 0 0 4px rgba(0, 0, 0, 0.65);
+      }
+      .constellation-hover-page {
+        margin: 0;
+        font-family: "IBM Plex Serif", serif;
+        font-size: 1rem;
+        line-height: 1.25;
+        color: rgba(245, 245, 240, 0.95);
+      }
+      .constellation-hover-cap {
+        margin: 0.25rem 0 0;
+        font-size: 0.82rem;
+        line-height: 1.35;
+        color: rgba(245, 245, 240, 0.6);
+        font-style: italic;
+      }
+      .constellation-hover-blurb {
+        margin: 0.45rem 0 0;
+        font-family: "IBM Plex Serif", serif;
+        font-size: 0.8rem;
+        line-height: 1.45;
+        color: rgba(245, 245, 240, 0.62);
+      }
+
+      /* Zodiac — the 10 top-level categories placed on a wide ring around
+         the stage edge. Always visible, so the user sees the full archive
+         shape regardless of where they currently are. */
+      .constellation-zodiac {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        background: transparent;
+        border: none;
+        padding: 4px 8px;
+        cursor: pointer;
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 0.72rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: rgba(245, 245, 240, 0.32);
+        transition: color 220ms ease, letter-spacing 220ms ease;
+        z-index: 2;
+        white-space: nowrap;
+      }
+      .constellation-zodiac:hover,
+      .constellation-zodiac:focus-visible {
+        color: rgba(245, 245, 240, 0.95);
+        outline: none;
+        letter-spacing: 0.2em;
+      }
+      .constellation-zodiac.is-visited { color: rgba(245, 245, 240, 0.55); }
+      .constellation-zodiac.is-current {
+        color: #fff;
+        text-shadow: 0 0 12px rgba(255, 255, 255, 0.45);
+      }
+      .constellation-zodiac.is-current::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        bottom: -8px;
+        transform: translateX(-50%);
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.85);
+      }
+
+      /* Horizon — a compact category list in the top-right that shows
+         visited progress and acts as a quick-jump nav. */
+      .constellation-horizon {
+        position: absolute;
+        top: 22px;
+        right: 28px;
+        z-index: 6;
+        max-width: 12rem;
+      }
+      .constellation-horizon-eyebrow {
+        margin: 0 0 0.5rem;
+        font-size: 0.68rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: rgba(245, 245, 240, 0.45);
+        text-align: right;
+      }
+      .constellation-horizon-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        align-items: flex-end;
+      }
+      .constellation-horizon-item {
+        background: transparent;
+        border: none;
+        padding: 3px 0;
+        cursor: pointer;
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+        color: rgba(245, 245, 240, 0.32);
+        display: inline-flex;
+        align-items: baseline;
+        gap: 8px;
+        transition: color 200ms ease;
+      }
+      .constellation-horizon-item:hover,
+      .constellation-horizon-item:focus-visible {
+        color: rgba(245, 245, 240, 0.95);
+        outline: none;
+      }
+      .constellation-horizon-item.is-visited { color: rgba(245, 245, 240, 0.7); }
+      .constellation-horizon-item.is-current {
+        color: #fff;
+      }
+      .constellation-horizon-tick {
+        font-size: 0.55rem;
+        line-height: 1;
+        opacity: 0.65;
+      }
+      .constellation-horizon-item.is-current .constellation-horizon-tick {
+        opacity: 1;
+      }
+
+      .constellation-footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 18px 28px 22px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 5;
+      }
+      .constellation-trail {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+      }
+      .constellation-trail-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: rgba(245, 245, 240, 0.25);
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        transition: background 200ms ease, transform 200ms ease;
+      }
+      .constellation-trail-dot:hover {
+        background: rgba(245, 245, 240, 0.6);
+        transform: scale(1.25);
+      }
+      .constellation-trail-dot.is-current {
+        background: rgba(245, 245, 240, 0.95);
+        transform: scale(1.25);
+      }
+      .constellation-controls {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
+      .constellation-mode {
+        display: inline-flex;
+        border: 1px solid rgba(245, 245, 240, 0.18);
+        border-radius: 999px;
+        overflow: hidden;
+      }
+      .constellation-mode-btn {
+        background: transparent;
+        border: none;
+        color: rgba(245, 245, 240, 0.55);
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 0.72rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        padding: 6px 14px;
+        cursor: pointer;
+        transition: background 180ms ease, color 180ms ease;
+      }
+      .constellation-mode-btn:hover {
+        color: rgba(245, 245, 240, 0.9);
+      }
+      .constellation-mode-btn.is-active {
+        background: rgba(245, 245, 240, 0.92);
+        color: #050507;
+      }
+      .constellation-reroll {
+        background: transparent;
+        border: 1px solid rgba(245, 245, 240, 0.3);
+        color: rgba(245, 245, 240, 0.85);
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 0.78rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        padding: 8px 16px;
+        cursor: pointer;
+        transition: border-color 200ms ease, color 200ms ease, background 200ms ease;
+      }
+      .constellation-reroll:hover {
+        border-color: rgba(245, 245, 240, 0.7);
+        color: #fff;
+        background: rgba(245, 245, 240, 0.06);
+      }
+      .constellation-loading {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.75rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: rgba(245, 245, 240, 0.45);
+      }
+
+      @media (max-width: 720px) {
+        .constellation-center { --frame-size: 140px; }
+        .constellation-horizon { display: none; }
+        .constellation-zodiac { font-size: 0.62rem; padding: 3px 6px; }
+        .constellation-header { max-width: 60vw; }
+        .constellation-title { font-size: 1.15rem; }
+      }
+      @media (max-width: 480px) {
+        .constellation-zodiac { display: none; }
+        .constellation-header { max-width: 70vw; }
+      }
+    </style>
+  </head>
+  <body>
+    <a class="constellation-back" href={withBase("/")}>← Radical Art</a>
+    <Constellation client:only="react" basePath={basePath} dataUrl={dataUrl} />
+  </body>
+</html>
