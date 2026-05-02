@@ -28,3 +28,19 @@ export function sectionLabel(section: string): string {
   if (section === "(root)") return "Radical Art";
   return titleCase(section.replace(/([A-Z])/g, " $1").trim());
 }
+
+// Prepend Astro's configured base path to a root-relative URL so links and
+// asset srcs resolve correctly when the site is deployed under a sub-path
+// (GitHub Pages: /RadicalArt_2/). External URLs and already-prefixed paths
+// pass through unchanged. BASE_URL is "/RadicalArt_2/" in production and
+// "/" in dev, both with trailing slash.
+export function withBase(path: string): string {
+  if (!path) return path;
+  if (/^[a-z][a-z0-9+.-]*:/i.test(path) || path.startsWith("//")) return path;
+  if (path.startsWith("#") || path.startsWith("?")) return path;
+  const base = import.meta.env.BASE_URL || "/";
+  if (!path.startsWith("/")) return path;
+  if (path === "/") return base;
+  // Strip the leading slash from path; base already ends with "/".
+  return base + path.slice(1);
+}

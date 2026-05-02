@@ -115,7 +115,7 @@ export default function MapView() {
   // ---- load graph.json -----------------------------------------------------
   useEffect(() => {
     let cancelled = false;
-    fetch("/graph.json")
+    fetch(`${import.meta.env.BASE_URL}graph.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`graph.json: ${r.status}`);
         return r.json();
@@ -1001,7 +1001,7 @@ export default function MapView() {
 
               <div className="px-5 pb-3">
                 <a
-                  href={`/${selectedNode.id}`}
+                  href={`${import.meta.env.BASE_URL}${selectedNode.id}`}
                   className="inline-block font-sans text-[0.95rem] underline underline-offset-4"
                 >
                   Open page →

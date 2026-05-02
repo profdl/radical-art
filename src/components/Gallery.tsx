@@ -181,7 +181,7 @@ function Card({ item }: { item: GalleryItem }) {
 
   return (
     <figure className="gallery-card">
-      <a href={`/${item.pageSlug}`} className="gallery-card-image">
+      <a href={`${import.meta.env.BASE_URL}${item.pageSlug}`} className="gallery-card-image">
         <span className="gallery-card-frame" style={{ paddingTop: padTop }}>
           <img
             src={item.src}
@@ -195,7 +195,7 @@ function Card({ item }: { item: GalleryItem }) {
         {item.caption && (
           <p className="gallery-card-caption">{item.caption}</p>
         )}
-        <a href={`/${item.pageSlug}`} className="gallery-card-page">
+        <a href={`${import.meta.env.BASE_URL}${item.pageSlug}`} className="gallery-card-page">
           {item.pageTitle}
         </a>
         <p className="gallery-card-section">{item.section}</p>

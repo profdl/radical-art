@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { sectionLabel } from "~/lib/text";
+import { sectionLabel, withBase } from "~/lib/text";
 
 interface Props {
   current?: string;
@@ -325,7 +325,7 @@ function buildRows(node: Node, depth: number, parentSlug: string, out: Row[]) {
                   ) : (
                     <span class="sidebar-caret sidebar-caret-empty" aria-hidden="true" />
                   )}
-                  <a href={"/" + r.node.slug} class={linkClass}>
+                  <a href={withBase("/" + r.node.slug)} class={linkClass}>
                     {label}
                   </a>
                 </div>

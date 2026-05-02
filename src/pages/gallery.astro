@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "~/layouts/BaseLayout.astro";
 import Gallery, { type GalleryItem } from "~/components/Gallery";
-import { sectionLabel } from "~/lib/text";
+import { sectionLabel, withBase } from "~/lib/text";
 
 function sectionSlug(s: string): string {
   return s.replace(/(?<=[a-z0-9])(?=[A-Z])/g, "-").toLowerCase();
@@ -32,7 +32,7 @@ for (const page of all) {
     // Skip the tiny legacy button GIFs and other decorative shims.
     if (/\/buttons\/blue\d+\.gif/i.test(block.src)) continue;
     items.push({
-      src: block.src,
+      src: withBase(block.src),
       alt: block.alt || "",
       caption: (block.caption || "").trim(),
       width: parseDim(block.width),

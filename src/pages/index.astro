@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "~/layouts/BaseLayout.astro";
-import { sectionLabel } from "~/lib/text";
+import { sectionLabel, withBase } from "~/lib/text";
 
 const all = await getCollection("pages");
 
@@ -48,11 +48,11 @@ const sections = sectionsList.map((s) => ({
   <section class="pt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10">
     {
       sections.map((s) => (
-        <a href={"/" + s.slug} class="group block">
+        <a href={withBase("/" + s.slug)} class="group block">
           {s.sample && s.sample.data.images[0] ? (
             <div class="aspect-[4/3] mb-3 overflow-hidden bg-[color:var(--color-rule-light)]">
               <img
-                src={s.sample.data.images[0].src}
+                src={withBase(s.sample.data.images[0].src)}
                 alt={s.sample.data.images[0].alt || s.name}
                 loading="lazy"
                 class="h-full w-full object-cover"

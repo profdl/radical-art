@@ -1,6 +1,7 @@
 ---
 import Paragraph from "./Paragraph.astro";
 import Figure from "./Figure.astro";
+import { withBase } from "~/lib/text";
 
 interface Block {
   type: string;
@@ -269,14 +270,14 @@ const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
               {it.items.map((c) => (
                 <li>
                   <a
-                    href={c.href}
+                    href={c.external ? c.href : withBase(c.href)}
                     class="hub-card"
                     target={c.external ? "_blank" : undefined}
                     rel={c.external ? "noreferrer" : undefined}
                   >
                     <span class="hub-card-frame">
                       {c.thumb ? (
-                        <img src={c.thumb} alt="" loading="lazy" />
+                        <img src={withBase(c.thumb)} alt="" loading="lazy" />
                       ) : (
                         <span class="hub-card-empty" />
                       )}
@@ -291,7 +292,7 @@ const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
               {it.items.map((c) => (
                 <li>
                   <a
-                    href={c.href}
+                    href={c.external ? c.href : withBase(c.href)}
                     class="h-detail hover:underline underline-offset-4"
                     target={c.external ? "_blank" : undefined}
                     rel={c.external ? "noreferrer" : undefined}
@@ -315,10 +316,10 @@ const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
           <ul class="hub-grid">
             {orphanWithThumbs.map((c) => (
               <li>
-                <a href={c.href} class="hub-card">
+                <a href={withBase(c.href)} class="hub-card">
                   <span class="hub-card-frame">
                     {c.thumb ? (
-                      <img src={c.thumb} alt="" loading="lazy" />
+                      <img src={withBase(c.thumb)} alt="" loading="lazy" />
                     ) : (
                       <span class="hub-card-empty" />
                     )}
@@ -332,7 +333,7 @@ const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
           <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-2">
             {orphanWithThumbs.map((c) => (
               <li>
-                <a href={c.href} class="hover:underline underline-offset-4">
+                <a href={withBase(c.href)} class="hover:underline underline-offset-4">
                   {c.label}
                 </a>
               </li>

@@ -1,5 +1,5 @@
 ---
-import { paragraphs } from "~/lib/text";
+import { paragraphs, withBase } from "~/lib/text";
 
 interface Link {
   text: string;
@@ -24,9 +24,10 @@ function renderWithLinks(p: string): string {
     const escaped = escapeHtml(l.text);
     if (!out.includes(escaped)) continue;
     const target = l.external ? ' target="_blank" rel="noreferrer"' : "";
+    const href = l.external ? l.href : withBase(l.href);
     out = out.replace(
       escaped,
-      `<a href="${escapeAttr(l.href)}"${target}>${escaped}</a>`,
+      `<a href="${escapeAttr(href)}"${target}>${escaped}</a>`,
     );
   }
   return out;

@@ -1,5 +1,5 @@
 ---
-import { unwrap } from "~/lib/text";
+import { unwrap, withBase } from "~/lib/text";
 
 interface FigureBlock {
   type: "figure";
@@ -37,13 +37,13 @@ const captionLink =
   >
     {captionLink ? (
       <a
-        href={captionLink.href}
+        href={captionLink.external ? captionLink.href : withBase(captionLink.href)}
         target={captionLink.external ? "_blank" : undefined}
         rel={captionLink.external ? "noreferrer" : undefined}
         class="block h-full w-full"
       >
         <img
-          src={block.src}
+          src={withBase(block.src)}
           alt={block.alt || caption}
           loading="lazy"
           decoding="async"
@@ -52,7 +52,7 @@ const captionLink =
       </a>
     ) : (
       <img
-        src={block.src}
+        src={withBase(block.src)}
         alt={block.alt || caption}
         loading="lazy"
         decoding="async"
@@ -65,7 +65,7 @@ const captionLink =
       <figcaption class="prose-archive text-[0.9rem] leading-snug text-[color:var(--color-ink)]">
         {captionLink ? (
           <a
-            href={captionLink.href}
+            href={captionLink.external ? captionLink.href : withBase(captionLink.href)}
             class="hover:underline"
             target={captionLink.external ? "_blank" : undefined}
             rel={captionLink.external ? "noreferrer" : undefined}

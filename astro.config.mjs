@@ -3,6 +3,9 @@ import react from "@astrojs/react";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
+  site: "https://profdl.github.io",
+  base: "/radical-art/",
+  trailingSlash: "ignore",
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
