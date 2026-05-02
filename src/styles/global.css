@@ -56,15 +56,73 @@ a { color: inherit; }
   color: var(--color-ink-faint);
 }
 
+.sidebar-nav { display: block; }
+.sidebar-branch { margin-bottom: 0.25rem; }
+
+.sidebar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.sidebar-row[data-depth="1"] { padding-left: 0.85rem; }
+.sidebar-row[data-depth="2"] { padding-left: 1.7rem; }
+.sidebar-row[data-depth="3"] { padding-left: 2.55rem; }
+
+.sidebar-caret {
+  flex: 0 0 14px;
+  width: 14px;
+  height: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  color: var(--color-ink-muted);
+  cursor: pointer;
+  transition: transform 0.15s ease, color 0.15s ease;
+}
+.sidebar-caret-empty { cursor: default; }
+.sidebar-caret:hover { color: var(--color-ink); }
+.sidebar-caret > svg {
+  display: block;
+  transition: transform 0.15s ease;
+}
+.sidebar-row[data-expanded="true"] > .sidebar-caret > svg {
+  transform: rotate(90deg);
+}
+
 .sidebar-link {
   font-family: var(--font-sans);
   font-size: 1rem;
   font-weight: 400;
   color: var(--color-ink);
   display: block;
-  padding: 0.45rem 0;
+  padding: 0.28rem 0;
+  line-height: 1.3;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 .sidebar-link:hover { text-decoration: underline; text-underline-offset: 0.2em; }
+.sidebar-link.is-current {
+  text-decoration: underline;
+  text-underline-offset: 0.25em;
+  text-decoration-thickness: 1px;
+}
+
+.sidebar-top { font-weight: 500; }
+.sidebar-child {
+  font-size: 0.9375rem;
+  font-weight: 400;
+  color: var(--color-ink);
+}
+.sidebar-grandchild {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--color-ink-muted);
+}
+.sidebar-grandchild:hover { color: var(--color-ink); }
 
 .h-page {
   font-family: var(--font-sans);
@@ -170,6 +228,94 @@ a { color: inherit; }
   text-decoration-thickness: 1px;
 }
 .callout-body a:hover { color: var(--color-ink-muted); }
+
+/* ---- hub grid (link cards with thumbnails) --------------------------- */
+.hub-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.5rem 2rem;
+}
+.hub-grid > li { padding-right: 8px; padding-bottom: 8px; }
+@media (min-width: 640px) {
+  .hub-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1024px) {
+  .hub-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 2.5rem 1.75rem; }
+}
+@media (min-width: 1440px) {
+  .hub-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
+.hub-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  isolation: isolate;
+}
+.hub-card-frame {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+  background: var(--color-paper);
+  border: 1px solid var(--color-ink);
+  overflow: visible;
+  transition: transform 0.18s ease;
+}
+.hub-card-frame::before {
+  content: "";
+  position: absolute;
+  inset: 6px -6px -6px 6px;
+  border: 1px solid var(--color-ink);
+  background: var(--color-paper);
+  z-index: -1;
+  transition: transform 0.18s ease;
+}
+.hub-card-frame > img,
+.hub-card-empty {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  bottom: 8px;
+  left: 8px;
+  width: calc(100% - 16px);
+  height: calc(100% - 16px);
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s ease;
+}
+.hub-card-empty {
+  background: var(--color-rule-light);
+}
+.hub-card:hover .hub-card-frame { transform: translate(-2px, -2px); }
+.hub-card:hover .hub-card-frame::before { transform: translate(2px, 2px); }
+.hub-card:hover .hub-card-frame > img { opacity: 0.9; }
+.hub-card-label {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35em;
+  margin-top: 0.7rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--color-ink);
+}
+.hub-card-label::after {
+  content: "›";
+  font-weight: 400;
+  color: var(--color-ink-faint);
+  transition: transform 0.18s ease, color 0.18s ease;
+}
+.hub-card:hover .hub-card-label { text-decoration: underline; text-underline-offset: 0.2em; }
+.hub-card:hover .hub-card-label::after {
+  color: var(--color-ink);
+  transform: translateX(2px);
+}
 
 /* ---- gallery --------------------------------------------------------- */
 .gallery-toolbar {

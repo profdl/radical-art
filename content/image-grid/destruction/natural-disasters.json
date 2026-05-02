@@ -26,17 +26,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "radical\nart",
-      "links": [
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "Natural Disasters",
       "links": [],
@@ -87,11 +76,6 @@
       "width": "245",
       "height": "195",
       "links": [
-        {
-          "text": "",
-          "href": "/destruction/natural-disasters/warhol",
-          "external": false
-        },
         {
           "text": "Andy Warhol, 1985",
           "href": "/destruction/natural-disasters/warhol",
@@ -359,7 +343,6 @@
   ],
   "out_links": [
     "/destruction",
-    "/destruction/natural-disasters/warhol",
-    "/index"
+    "/destruction/natural-disasters/warhol"
   ]
 }

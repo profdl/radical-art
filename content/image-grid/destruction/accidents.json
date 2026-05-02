@@ -38,17 +38,6 @@
     },
     {
       "type": "paragraph",
-      "text": "radical\nart",
-      "links": [
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "text": "large-scale accidents",
       "links": []
     },
@@ -191,7 +180,6 @@
   ],
   "out_links": [
     "/destruction",
-    "/index",
     "/process"
   ]
 }

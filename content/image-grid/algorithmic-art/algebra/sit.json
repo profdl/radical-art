@@ -54,21 +54,9 @@
       ]
     },
     {
-      "type": "heading",
-      "text": "Algorithmic\nArt",
-      "links": [],
-      "level": 4
-    },
-    {
       "type": "paragraph",
-      "text": "Radical Art",
-      "links": [
-        {
-          "text": "Radical Art",
-          "href": "/index",
-          "external": false
-        }
-      ]
+      "text": "Algorithmic\nArt",
+      "links": []
     },
     {
       "type": "paragraph",
@@ -375,7 +363,6 @@
   "out_links": [
     "/algorithmic-art",
     "/algorithmic-art/algebra",
-    "/algorithmic-art/line",
-    "/index"
+    "/algorithmic-art/line"
   ]
 }

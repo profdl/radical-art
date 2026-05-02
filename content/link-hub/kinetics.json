@@ -9,17 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "radical\nart homepage",
-      "links": [
-        {
-          "text": "radical art homepage",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "mechanics as art",
       "links": [],
@@ -387,7 +376,6 @@
   "out_links": [
     "/algorithmic-art/movement",
     "/anything/open-form",
-    "/index",
     "/kinetics/gravity/clamp",
     "/kinetics/gravity/dive",
     "/kinetics/gravity/drip",

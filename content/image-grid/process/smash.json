@@ -44,11 +44,6 @@
       "height": null,
       "links": [
         {
-          "text": "",
-          "href": "/process/smash/arman",
-          "external": false
-        },
-        {
           "text": "Arman",
           "href": "/process/smash/arman",
           "external": false
@@ -67,11 +62,6 @@
           "text": "Raphael Mantañez Ortiz : Piano Destruction, 1966",
           "href": "/process/smash/ortiz",
           "external": false
-        },
-        {
-          "text": "Raphael Mantañez Ortiz",
-          "href": "/process/smash/ortiz",
-          "external": false
         }
       ]
     },
@@ -85,11 +75,6 @@
       "links": [
         {
           "text": "Pete Townshend smashing Gibson Les Paul, 2005",
-          "href": "/process/smash/guitars",
-          "external": false
-        },
-        {
-          "text": "Pete Townshend",
           "href": "/process/smash/guitars",
           "external": false
         }

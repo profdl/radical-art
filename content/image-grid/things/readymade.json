@@ -9,32 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "back\nto: everything anything\nthings radical\nart home page",
-      "links": [
-        {
-          "text": "everything",
-          "href": "/everything",
-          "external": false
-        },
-        {
-          "text": "anything",
-          "href": "/anything",
-          "external": false
-        },
-        {
-          "text": "things",
-          "href": "/things",
-          "external": false
-        },
-        {
-          "text": "radical art home page",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "Readymades",
       "links": [],
@@ -486,13 +460,9 @@
     }
   ],
   "out_links": [
-    "/anything",
-    "/everything",
-    "/index",
     "/nature",
     "/qend-art",
     "/qlife",
-    "/things",
     "/things/readymade/duchamp/text",
     "/things/readymade/literature",
     "/things/readymade/quotes"

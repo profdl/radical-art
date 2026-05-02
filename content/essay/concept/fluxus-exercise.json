@@ -54,21 +54,9 @@
       ]
     },
     {
-      "type": "heading",
-      "text": "Concept\nArt",
-      "links": [],
-      "level": 4
-    },
-    {
       "type": "paragraph",
-      "text": "Radical Art",
-      "links": [
-        {
-          "text": "Radical Art",
-          "href": "/index",
-          "external": false
-        }
-      ]
+      "text": "Concept\nArt",
+      "links": []
     },
     {
       "type": "paragraph",
@@ -141,7 +129,6 @@
   "out_links": [
     "/concept",
     "/concept/perls",
-    "/concept/scores",
-    "/index"
+    "/concept/scores"
   ]
 }

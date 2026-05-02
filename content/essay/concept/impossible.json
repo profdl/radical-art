@@ -37,25 +37,8 @@
       ]
     },
     {
-      "type": "heading",
+      "type": "paragraph",
       "text": "Concept\nArt",
-      "links": [],
-      "level": 4
-    },
-    {
-      "type": "paragraph",
-      "text": "Radical Art Home Page",
-      "links": [
-        {
-          "text": "Radical Art Home Page",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "Radical Art Home Page",
       "links": []
     },
     {
@@ -223,7 +206,6 @@
   ],
   "out_links": [
     "/concept",
-    "/concept/scores",
-    "/index"
+    "/concept/scores"
   ]
 }

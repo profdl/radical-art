@@ -71,25 +71,8 @@
       ]
     },
     {
-      "type": "heading",
+      "type": "paragraph",
       "text": "Indeterminacy",
-      "links": [],
-      "level": 4
-    },
-    {
-      "type": "paragraph",
-      "text": "Radical Art Homepage",
-      "links": [
-        {
-          "text": "Radical Art Homepage",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "Radical\nArt Homepage",
       "links": []
     },
     {
@@ -515,7 +498,6 @@
     "/algorithmic-art/chance",
     "/algorithmic-art/chance/chance",
     "/algorithmic-art/chance/qchance-art",
-    "/anything",
-    "/index"
+    "/anything"
   ]
 }

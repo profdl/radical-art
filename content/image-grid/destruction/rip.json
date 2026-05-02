@@ -20,21 +20,9 @@
       ]
     },
     {
-      "type": "heading",
-      "text": "Destruction\nin Art",
-      "links": [],
-      "level": 4
-    },
-    {
       "type": "paragraph",
-      "text": "Radical Art",
-      "links": [
-        {
-          "text": "Radical Art",
-          "href": "/index",
-          "external": false
-        }
-      ]
+      "text": "Destruction\nin Art",
+      "links": []
     },
     {
       "type": "paragraph",
@@ -96,7 +84,6 @@
     }
   ],
   "out_links": [
-    "/destruction",
-    "/index"
+    "/destruction"
   ]
 }

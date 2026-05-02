@@ -141,11 +141,6 @@
       "height": "300",
       "links": [
         {
-          "text": "",
-          "href": "/assets/algorithmicart/RayJohnson51CalmCenter-M.jpg",
-          "external": false
-        },
-        {
           "text": "Calm Center",
           "href": "/assets/algorithmicart/RayJohnson51CalmCenter-M.jpg",
           "external": false
@@ -209,11 +204,6 @@
       "links": [
         {
           "text": "Répartition aléatoire de 40 000 carrés,",
-          "href": "/assets/algorithmicart/Morellet2-M.jpg",
-          "external": false
-        },
-        {
-          "text": "click",
           "href": "/assets/algorithmicart/Morellet2-M.jpg",
           "external": false
         }

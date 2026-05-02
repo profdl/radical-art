@@ -13,6 +13,53 @@ export async function getStaticPaths() {
   const all = await getCollection("pages");
   const pagesBySlug = new Map(all.map((p) => [p.data.slug, p.data]));
 
+  // For a given page, walk its blocks and return the first figure src,
+  // recursing into linked hub children if the page itself has no figure.
+  function firstFigureSrc(slug: string, seen = new Set<string>()): string | null {
+    if (seen.has(slug)) return null;
+    seen.add(slug);
+    const data = pagesBySlug.get(slug);
+    if (!data) return null;
+    for (const b of data.blocks) {
+      if ((b as any).type === "figure" && (b as any).src) {
+        return (b as any).src as string;
+      }
+    }
+    // Recurse: follow heading-link groups, paragraph links, list items.
+    const candidateSlugs: string[] = [];
+    for (const b of data.blocks) {
+      const links = (b as any).links;
+      if (Array.isArray(links)) {
+        for (const l of links) {
+          if (l?.href && typeof l.href === "string" && l.href.startsWith("/") && !l.external) {
+            candidateSlugs.push(l.href.replace(/^\//, "").replace(/\/$/, ""));
+          }
+        }
+      }
+      if ((b as any).type === "list" && Array.isArray((b as any).items)) {
+        for (const it of (b as any).items) {
+          for (const l of it.links ?? []) {
+            if (l?.href && typeof l.href === "string" && l.href.startsWith("/") && !l.external) {
+              candidateSlugs.push(l.href.replace(/^\//, "").replace(/\/$/, ""));
+            }
+          }
+        }
+      }
+    }
+    // Also fall back to any direct child by filesystem.
+    const prefix = slug + "/";
+    for (const k of pagesBySlug.keys()) {
+      if (k.startsWith(prefix) && !k.slice(prefix.length).includes("/")) {
+        candidateSlugs.push(k);
+      }
+    }
+    for (const cs of candidateSlugs) {
+      const got = firstFigureSrc(cs, seen);
+      if (got) return got;
+    }
+    return null;
+  }
+
   return all
     .filter(
       (p) =>
@@ -21,6 +68,17 @@ export async function getStaticPaths() {
     .map((p) => {
       // Find immediate children whose slug starts with this slug + "/".
       const prefix = p.data.slug + "/";
+      const parentTitle = (p.data.title || "").trim().toLowerCase();
+      const labelFor = (data: any, rest: string): string => {
+        const heading = unwrap(data.heading || "").trim();
+        const title = (data.title || "").trim();
+        // Prefer the page's own heading; fall back to title only if it's
+        // distinct from the parent's title (legacy <title> often duplicates
+        // the parent section name).
+        if (heading) return heading;
+        if (title && title.toLowerCase() !== parentTitle) return title;
+        return sectionLabel(rest);
+      };
       const childLinks: { href: string; label: string }[] = [];
       for (const [slug, data] of pagesBySlug) {
         if (slug === p.data.slug) continue;
@@ -30,19 +88,60 @@ export async function getStaticPaths() {
         if (rest.includes("/")) continue;
         childLinks.push({
           href: "/" + slug,
-          label: data.title || sectionLabel(rest),
+          label: labelFor(data, rest),
         });
       }
       childLinks.sort((a, b) => a.label.localeCompare(b.label));
 
+      // For hub-style pages, resolve a thumbnail and the destination page's
+      // title for every internal link referenced in the page's blocks.
+      const linkThumbs: Record<string, string> = {};
+      const linkTitles: Record<string, string> = {};
+      const isHub =
+        p.data.archetype === "link-hub" ||
+        p.data.archetype === "hub-with-essay" ||
+        p.data.archetype === "leaf-intro";
+      if (isHub) {
+        const collect = (href: string) => {
+          if (!href || !href.startsWith("/")) return;
+          const targetSlug = href.replace(/^\//, "").replace(/\/$/, "");
+          if (!linkThumbs[href]) {
+            const src = firstFigureSrc(targetSlug);
+            if (src) linkThumbs[href] = src;
+          }
+          if (!linkTitles[href]) {
+            const target = pagesBySlug.get(targetSlug);
+            if (target) {
+              const rest = targetSlug.startsWith(prefix)
+                ? targetSlug.slice(prefix.length)
+                : targetSlug.split("/").pop() || targetSlug;
+              linkTitles[href] = labelFor(target, rest);
+            }
+          }
+        };
+        for (const b of p.data.blocks) {
+          for (const l of (b as any).links ?? []) {
+            if (l?.href && !l.external) collect(l.href);
+          }
+          if ((b as any).type === "list") {
+            for (const it of (b as any).items ?? []) {
+              for (const l of it.links ?? []) {
+                if (l?.href && !l.external) collect(l.href);
+              }
+            }
+          }
+        }
+        for (const c of childLinks) collect(c.href);
+      }
+
       return {
         params: { slug: p.data.slug },
-        props: { page: p.data, childLinks },
+        props: { page: p.data, childLinks, linkThumbs, linkTitles },
       };
     });
 }
 
-const { page, childLinks } = Astro.props;
+const { page, childLinks, linkThumbs, linkTitles } = Astro.props;
 const heading = page.heading ? unwrap(page.heading) : page.title;
 const description = page.description ? unwrap(page.description) : "";
 const sectionSlug = page.section
@@ -59,7 +158,7 @@ const blocks = page.blocks.filter((b: any) => {
 });
 ---
 
-<BaseLayout title={page.title} description={description} current={sectionSlug}>
+<BaseLayout title={page.title} description={description} current={sectionSlug} currentSlug={page.slug}>
   <header class="mb-6">
     <Breadcrumb slug={page.slug} section={page.section} />
     <h1 class="h-page mt-4">{heading}</h1>
@@ -82,7 +181,7 @@ const blocks = page.blocks.filter((b: any) => {
       ) : page.archetype === "link-hub" ||
         page.archetype === "hub-with-essay" ||
         page.archetype === "leaf-intro" ? (
-        <Hub blocks={blocks} pageTitle={heading} childLinks={childLinks} />
+        <Hub blocks={blocks} pageTitle={heading} childLinks={childLinks} linkThumbs={linkThumbs} linkTitles={linkTitles} />
       ) : page.archetype === "quote-collection" ? (
         <QuoteCollection blocks={blocks} pageTitle={heading} />
       ) : page.archetype === "score" ? (

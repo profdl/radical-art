@@ -37,21 +37,9 @@
       ]
     },
     {
-      "type": "heading",
-      "text": "Algorithmic\nArt Index",
-      "links": [],
-      "level": 4
-    },
-    {
       "type": "paragraph",
-      "text": "Radical Art",
-      "links": [
-        {
-          "text": "Radical Art",
-          "href": "/index",
-          "external": false
-        }
-      ]
+      "text": "Algorithmic\nArt Index",
+      "links": []
     },
     {
       "type": "paragraph",
@@ -327,7 +315,6 @@
   "out_links": [
     "/algorithmic-art",
     "/algorithmic-art/intro",
-    "/algorithmic-art/nake95",
-    "/index"
+    "/algorithmic-art/nake95"
   ]
 }

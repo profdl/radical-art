@@ -9,27 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "back\nto: artificial disasters destruction radical\nart [home page]",
-      "links": [
-        {
-          "text": "artificial disasters",
-          "href": "/destruction/artificial-disasters",
-          "external": false
-        },
-        {
-          "text": "destruction",
-          "href": "/destruction",
-          "external": false
-        },
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "the\natom bomb",
       "links": [],
@@ -196,9 +175,5 @@
       "legacy_src": "Longo/LongoStudyForMonroe2003-S.jpg"
     }
   ],
-  "out_links": [
-    "/destruction",
-    "/destruction/artificial-disasters",
-    "/index"
-  ]
+  "out_links": []
 }

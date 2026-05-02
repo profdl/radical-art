@@ -9,32 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "related: negative architecture back to: artificial disasters destruction as art radical\nart [home page]",
-      "links": [
-        {
-          "text": "negative architecture",
-          "href": "/destruction/architecture",
-          "external": false
-        },
-        {
-          "text": "artificial disasters",
-          "href": "http://radicalart.info/destruction/ArtificialDisasters/WTC/artificial%20../index.html",
-          "external": true
-        },
-        {
-          "text": "destruction as art",
-          "href": "/destruction/artificial-disasters",
-          "external": false
-        },
-        {
-          "text": "radical art [home page]",
-          "href": "/destruction",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "The\nDemolition of the\n\nWorld Trade Center",
       "links": [],
@@ -396,9 +370,5 @@
       "legacy_src": "4tLoveOfGod-3-s.jpg"
     }
   ],
-  "out_links": [
-    "/destruction",
-    "/destruction/architecture",
-    "/destruction/artificial-disasters"
-  ]
+  "out_links": []
 }

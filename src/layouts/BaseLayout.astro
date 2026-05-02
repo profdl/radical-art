@@ -6,10 +6,11 @@ interface Props {
   title: string;
   description?: string;
   current?: string;
+  currentSlug?: string;
   hideSidebar?: boolean;
 }
 
-const { title, description, current, hideSidebar = false } = Astro.props;
+const { title, description, current, currentSlug, hideSidebar = false } = Astro.props;
 const siteTitle = "Radical Art";
 const fullTitle = title === siteTitle ? title : `${title} — ${siteTitle}`;
 
@@ -57,7 +58,7 @@ const topNav: { label: string; href: string }[] = [];
       <div class="grid grid-cols-12 gap-x-10 pt-10 pb-20">
         {!hideSidebar && (
           <div class="col-span-12 md:col-span-3 lg:col-span-2 mb-10 md:mb-0 md:sticky md:top-6 md:self-start md:max-h-[calc(100vh-3rem)] md:overflow-y-auto">
-            <Sidebar current={current} />
+            <Sidebar current={current} currentSlug={currentSlug} />
           </div>
         )}
         <main class={hideSidebar ? "col-span-12" : "col-span-12 md:col-span-9 lg:col-span-10"}>

@@ -9,22 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "back\nto: things radical\nart (home page)",
-      "links": [
-        {
-          "text": "things",
-          "href": "/things",
-          "external": false
-        },
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "Wrappings",
       "links": [],
@@ -537,10 +521,8 @@
     }
   ],
   "out_links": [
-    "/index",
     "/nothing/concept/secret",
     "/nothing/cover-up/cover",
-    "/things",
     "/things/wrapped/christo",
     "/things/wrapped/delete",
     "/things/wrapped/erik-dietman",

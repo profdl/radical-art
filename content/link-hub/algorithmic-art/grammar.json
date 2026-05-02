@@ -24,17 +24,7 @@
           "external": false
         },
         {
-          "text": "L-Systems",
-          "href": "/algorithmic-art/grammar/lindenmayer",
-          "external": false
-        },
-        {
           "text": "George Stiny:",
-          "href": "/algorithmic-art/grammar/shape-grammar",
-          "external": false
-        },
-        {
-          "text": "Shape Grammars",
           "href": "/algorithmic-art/grammar/shape-grammar",
           "external": false
         }

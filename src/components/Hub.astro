@@ -10,9 +10,17 @@ interface Props {
   blocks: Block[];
   pageTitle: string;
   childLinks?: { href: string; label: string; sample?: string }[];
+  linkThumbs?: Record<string, string>;
+  linkTitles?: Record<string, string>;
 }
 
-const { blocks, pageTitle, childLinks = [] } = Astro.props;
+const {
+  blocks,
+  pageTitle,
+  childLinks = [],
+  linkThumbs = {},
+  linkTitles = {},
+} = Astro.props;
 
 // Detect blocks that are really a "link group" — text consists mainly of the
 // concatenated link labels separated by line-breaks.
@@ -21,7 +29,6 @@ function isLinkGroup(b: Block): boolean {
   if (links.length < 2) return false;
   const text = (b.text ?? "").trim();
   if (!text) return false;
-  // Sum of link-text lengths should be ≥ ~70% of total text length
   const linkChars = links.reduce(
     (n: number, l: any) => n + (l.text?.length ?? 0),
     0,
@@ -30,19 +37,38 @@ function isLinkGroup(b: Block): boolean {
   return linkChars / textChars >= 0.6;
 }
 
+// A "link-only paragraph" is a single-link paragraph whose entire text IS
+// the link's label — e.g. `<p><a href="x">readymades</a></p>`. Many legacy
+// hub pages encode each child as its own one-link <p>, so we need to surface
+// these as link-list items, not inline-link prose.
+function isLinkOnlyParagraph(b: Block): boolean {
+  if (b.type !== "paragraph") return false;
+  const links = b.links ?? [];
+  if (links.length !== 1) return false;
+  const text = (b.text ?? "").replace(/\s+/g, " ").trim();
+  const linkText = (links[0]?.text ?? "").replace(/\s+/g, " ").trim();
+  if (!text || !linkText) return false;
+  return text.toLowerCase() === linkText.toLowerCase();
+}
+
+type LinkItem = {
+  href: string;
+  label: string;
+  external?: boolean;
+  thumb?: string;
+};
+
 type Group =
   | { kind: "label"; text: string }
   | { kind: "intro"; block: Block }
-  | { kind: "links"; items: { href: string; label: string; external?: boolean }[] };
+  | { kind: "links"; items: LinkItem[] };
 
 const groups: Group[] = [];
-let pendingLabel: string | null = null;
 
 for (let i = 0; i < blocks.length; i++) {
   const b = blocks[i];
   if (!b) continue;
 
-  // Suppress block-level heading that duplicates the page title.
   const isTopHeading =
     b.type === "heading" &&
     (b.level ?? 3) <= 2 &&
@@ -50,109 +76,163 @@ for (let i = 0; i < blocks.length; i++) {
   if (isTopHeading) continue;
 
   if (b.type === "heading" && !isLinkGroup(b)) {
-    pendingLabel = b.text;
     groups.push({ kind: "label", text: b.text });
     continue;
   }
 
-  if (isLinkGroup(b)) {
-    const items = (b.links ?? [])
+  if (isLinkGroup(b) || isLinkOnlyParagraph(b)) {
+    const items: LinkItem[] = (b.links ?? [])
       .filter((l: any) => l.text && l.href)
       .map((l: any) => ({
         href: l.href,
-        label: l.text,
+        label: (!l.external && linkTitles[l.href]) || l.text,
         external: l.external,
+        thumb: l.external ? undefined : linkThumbs[l.href],
       }));
     if (items.length) groups.push({ kind: "links", items });
-    pendingLabel = null;
     continue;
   }
 
   if (b.type === "paragraph") {
-    // A paragraph that wraps a single link with empty text is meaningless;
-    // skip those.
     const meaningful = b.text && b.text.trim().length > 4;
     if (meaningful) groups.push({ kind: "intro", block: b });
     continue;
   }
 }
+
+// Pair each "label" with the immediately-following "links" block(s).
+type Section = { label?: string; items: LinkItem[]; hasThumbs: boolean };
+const sections: Section[] = [];
+let cur: Section | null = null;
+for (const g of groups) {
+  if (g.kind === "label") {
+    if (cur) sections.push(cur);
+    cur = { label: g.text, items: [], hasThumbs: false };
+  } else if (g.kind === "links") {
+    if (!cur) cur = { items: [], hasThumbs: false };
+    cur.items.push(...g.items);
+  }
+}
+if (cur) sections.push(cur);
+
+const visibleSections = sections.filter((s) => s.items.length > 0);
+for (const s of visibleSections) {
+  s.hasThumbs = s.items.some((i) => !!i.thumb);
+}
+
+const intros = groups.filter((g) => g.kind === "intro") as {
+  kind: "intro";
+  block: Block;
+}[];
+
+// Decide whether to suppress "All Subsections" — only show if it adds
+// children not already linked anywhere in the page's curated link groups.
+const linkedHrefs = new Set<string>();
+for (const s of visibleSections) {
+  for (const it of s.items) linkedHrefs.add(it.href);
+}
+const orphanChildren = childLinks.filter((c) => !linkedHrefs.has(c.href));
+const orphanWithThumbs = orphanChildren.map((c) => ({
+  ...c,
+  thumb: linkThumbs[c.href],
+}));
+const orphanHasThumbs = orphanWithThumbs.some((c) => !!c.thumb);
 ---
 
 <div class="grid grid-cols-12 gap-x-10 gap-y-8">
-  {/* Intro paragraphs across full width on top, if any */}
+  {/* Intro paragraphs */}
   {
-    groups.some((g) => g.kind === "intro") && (
-      <div class="col-span-12 lg:col-span-7">
-        {groups
-          .filter((g) => g.kind === "intro")
-          .map((g) => (
-            <div class="prose-archive max-w-[40rem] mb-4">
-              <Paragraph
-                text={(g as any).block.text}
-                links={(g as any).block.links}
-              />
-            </div>
-          ))}
+    intros.length > 0 && (
+      <div class="col-span-12 lg:col-span-8">
+        {intros.map((g) => (
+          <div class="prose-archive max-w-[40rem] mb-4">
+            <Paragraph text={g.block.text} links={g.block.links} />
+          </div>
+        ))}
       </div>
     )
   }
 
-  {/* Sectioned link groups */}
+  {/* Sectioned link groups — image grid when thumbs exist, else text list */}
   <div class="col-span-12">
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10 pt-6">
-      {(() => {
-        // Pair each "label" with the immediately-following "links" block(s).
-        const pairs: { label?: string; items: any[] }[] = [];
-        let cur: { label?: string; items: any[] } | null = null;
-        for (const g of groups) {
-          if (g.kind === "label") {
-            if (cur) pairs.push(cur);
-            cur = { label: g.text, items: [] };
-          } else if (g.kind === "links") {
-            if (!cur) cur = { items: [] };
-            cur.items.push(...(g as any).items);
-          }
-        }
-        if (cur) pairs.push(cur);
-        return pairs
-          .filter((p) => p.items.length > 0)
-          .map((p) => (
-            <div>
-              {p.label && <p class="section-label mb-3">{p.label}</p>}
-              <ul class="space-y-1.5">
-                {p.items.map((it: any) => (
-                  <li>
-                    <a
-                      href={it.href}
-                      class="h-detail hover:underline underline-offset-4"
-                      target={it.external ? "_blank" : undefined}
-                      rel={it.external ? "noreferrer" : undefined}
-                    >
-                      {it.label}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ));
-      })()}
-    </div>
+    {visibleSections.map((sec) => (
+      <section class="mb-14">
+        {sec.label && <p class="section-label mb-5">{sec.label}</p>}
+        {sec.hasThumbs ? (
+          <ul class="hub-grid">
+            {sec.items.map((it) => (
+              <li>
+                <a
+                  href={it.href}
+                  class="hub-card"
+                  target={it.external ? "_blank" : undefined}
+                  rel={it.external ? "noreferrer" : undefined}
+                >
+                  <span class="hub-card-frame">
+                    {it.thumb ? (
+                      <img src={it.thumb} alt="" loading="lazy" />
+                    ) : (
+                      <span class="hub-card-empty" />
+                    )}
+                  </span>
+                  <span class="hub-card-label">{it.label}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-1.5">
+            {sec.items.map((it) => (
+              <li>
+                <a
+                  href={it.href}
+                  class="h-detail hover:underline underline-offset-4"
+                  target={it.external ? "_blank" : undefined}
+                  rel={it.external ? "noreferrer" : undefined}
+                >
+                  {it.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+    ))}
   </div>
 
-  {/* Auto-discovered child links from filesystem (passed in via prop). */}
+  {/* Auto-discovered orphan children — only when they add something new. */}
   {
-    childLinks.length > 0 && (
-      <div class="col-span-12 mt-12">
-        <p class="section-label mb-4">All Subsections</p>
-        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-2">
-          {childLinks.map((c) => (
-            <li>
-              <a href={c.href} class="hover:underline underline-offset-4">
-                {c.label}
-              </a>
-            </li>
-          ))}
-        </ul>
+    orphanWithThumbs.length > 0 && (
+      <div class="col-span-12 mt-4">
+        <p class="section-label mb-5">Also in this section</p>
+        {orphanHasThumbs ? (
+          <ul class="hub-grid">
+            {orphanWithThumbs.map((c) => (
+              <li>
+                <a href={c.href} class="hub-card">
+                  <span class="hub-card-frame">
+                    {c.thumb ? (
+                      <img src={c.thumb} alt="" loading="lazy" />
+                    ) : (
+                      <span class="hub-card-empty" />
+                    )}
+                  </span>
+                  <span class="hub-card-label">{c.label}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-2">
+            {orphanWithThumbs.map((c) => (
+              <li>
+                <a href={c.href} class="hover:underline underline-offset-4">
+                  {c.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
     )
   }

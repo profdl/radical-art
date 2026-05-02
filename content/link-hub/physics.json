@@ -9,17 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "radical\nart",
-      "links": [
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "physics as art",
       "links": [],
@@ -75,7 +64,6 @@
   ],
   "images": [],
   "out_links": [
-    "/index",
     "/physics/gravity",
     "/physics/vacuum"
   ]

@@ -9,22 +9,6 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "paragraph",
-      "text": "radical art homepage",
-      "links": [
-        {
-          "text": "radical art homepage",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "radical\nart homepage",
-      "links": []
-    },
-    {
       "type": "heading",
       "text": "physical\nprocesses\n\ngenerating works of art",
       "links": [],
@@ -366,7 +350,6 @@
   "out_links": [
     "/algorithmic-art/grid/cellular",
     "/algorithmic-art/movement",
-    "/index",
     "/process/blast",
     "/process/burn",
     "/process/condensation",

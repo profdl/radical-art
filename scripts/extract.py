@@ -322,6 +322,36 @@ def collect_links(tag: Tag, source_rel: str) -> list[dict]:
                 # in that they're not page routes — keep external=False so
                 # they render as normal in-document links.
                 out.append({"text": text, "href": internal, "external": False})
+    return _dedupe_links(out)
+
+
+def _dedupe_links(links: list[dict]) -> list[dict]:
+    """Collapse anchors that point at the same href within a single block.
+    Legacy pages frequently have <a href="x"><br></a><a href="x">label</a> or
+    a button-anchor + label-anchor pair, both surfaced as separate entries.
+    Keep the first occurrence with non-empty text; if multiple distinct
+    labels point to the same href, keep the longest/most descriptive one."""
+    seen: dict[str, int] = {}
+    out: list[dict] = []
+    for L in links:
+        href = L.get("href")
+        text = (L.get("text") or "").strip()
+        if not href:
+            out.append(L)
+            continue
+        if href not in seen:
+            seen[href] = len(out)
+            out.append(L)
+            continue
+        existing = out[seen[href]]
+        existing_text = (existing.get("text") or "").strip()
+        # Replace if the new label is meaningfully better:
+        # - existing is empty, or
+        # - existing is a substring of the new label (more descriptive)
+        if not existing_text:
+            existing["text"] = text
+        elif text and text != existing_text and existing_text.lower() in text.lower():
+            existing["text"] = text
     return out
 
 
@@ -623,6 +653,7 @@ def extract_blocks(
 
     blocks = attach_captions(blocks)
     blocks = drop_caption_only_paragraphs(blocks)
+    blocks = strip_legacy_home_breadcrumbs(blocks)
     blocks = promote_section_labels(blocks)
     # Mirror caption back into images_index so it's not empty.
     cap_by_src = {b["src"]: b.get("caption", "") for b in blocks if b["type"] == "figure"}
@@ -657,6 +688,79 @@ def drop_caption_only_paragraphs(blocks: list[dict]) -> list[dict]:
     return [b for b in blocks if not b.get("_consumed")]
 
 
+# A handful of legacy pages encode their "back to home" breadcrumb as a
+# bottom-of-page text run rather than a top-of-body <div>, so the breadcrumb
+# detector misses them. They surface as paragraphs like "back to: things
+# radical art (home page)" or as a "Home Page: Radical Art" prefix glued to
+# the start of an otherwise legit content paragraph. This pass scrubs them.
+_HOME_PHRASE_RE = re.compile(
+    r"""
+    (?:^|[\s ]|[\[\(])      # boundary
+    (?:                          # one of the legacy phrasings
+        home\s*page[:\s]*radical\s*art
+      | radical\s*art\s*[\[\(]?\s*home\s*page\s*[\]\)]?
+      | art\s*[\[\(]?\s*home\s*page\s*[\]\)]?
+      | \[\s*home\s*page\s*\]
+      | \(\s*home\s*page\s*\)
+    )
+    [\s \.,;]*              # trailing punctuation/whitespace
+    """,
+    re.IGNORECASE | re.VERBOSE,
+)
+_BACKLINK_LEAD_RE = re.compile(r"^\s*(?:back\s*to|related)\s*[:\-]\s*", re.IGNORECASE)
+
+
+def _is_home_link(link: dict) -> bool:
+    txt = (link.get("text") or "").strip()
+    if not txt:
+        return False
+    return bool(_HOME_PHRASE_RE.search(txt))
+
+
+def strip_legacy_home_breadcrumbs(blocks: list[dict]) -> list[dict]:
+    """Remove leftover 'Home Page: Radical Art' breadcrumb cruft from
+    extracted blocks. Drops back-link footer paragraphs entirely and trims
+    leading home-link prefixes from mixed paragraphs."""
+    out: list[dict] = []
+    for b in blocks:
+        if b.get("type") not in {"paragraph", "heading"}:
+            out.append(b)
+            continue
+        text = b.get("text") or ""
+        # Drop "back to: X / radical art (home page)" footer paragraphs.
+        if _BACKLINK_LEAD_RE.match(text) and _HOME_PHRASE_RE.search(text):
+            continue
+        # Drop a paragraph that is *only* a home-page link/phrase.
+        stripped_test = _HOME_PHRASE_RE.sub("", text).strip(" \t\n /|·•")
+        if not stripped_test and (b.get("links") or text):
+            continue
+        # Drop a stand-alone "radical art" paragraph that links to / or /index.
+        # These are top-of-page back-link breadcrumbs that escaped the
+        # structural detector (often only ONE button image, while
+        # is_breadcrumb_block requires two as a false-positive guard).
+        norm = re.sub(r"\s+", " ", text).strip().lower().rstrip(".")
+        if norm == "radical art":
+            links = b.get("links", [])
+            if len(links) == 1:
+                tgt = (links[0].get("href") or "").strip("/").lower()
+                if tgt in {"", "index"}:
+                    continue
+        # Strip a leading home-page phrase from longer content paragraphs.
+        m = _HOME_PHRASE_RE.match(text)
+        if m:
+            text = text[m.end():].lstrip(" \t\n ")
+            b = dict(b)
+            b["text"] = text
+        # Drop link entries that point at the home phrase.
+        if b.get("links"):
+            kept = [l for l in b["links"] if not _is_home_link(l)]
+            if kept != b["links"]:
+                b = dict(b)
+                b["links"] = kept
+        out.append(b)
+    return out
+
+
 def promote_section_labels(blocks: list[dict]) -> list[dict]:
     """Convert paragraph blocks that are short, link-less, and immediately
     precede a link-bearing paragraph into heading blocks. The legacy site
@@ -685,6 +789,7 @@ def extract_page(row: dict) -> dict:
     soup = BeautifulSoup(text, "html.parser")
 
     title = (soup.title.get_text(strip=True) if soup.title else "") or row["heading"]
+    title = re.sub(r"\s*\(table of contents\)\s*$", "", title, flags=re.I).strip()
     h1 = soup.find(["h1", "h2"])
     heading = h1.get_text(" ", strip=True) if h1 else ""
 

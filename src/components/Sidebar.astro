@@ -1,38 +1,381 @@
 ---
+import { getCollection } from "astro:content";
+import { sectionLabel } from "~/lib/text";
+
 interface Props {
   current?: string;
+  currentSlug?: string;
 }
 
-const { current } = Astro.props;
+const { current, currentSlug } = Astro.props;
 
-const items = [
-  { label: "Concept", slug: "concept" },
-  { label: "Life", slug: "life" },
-  { label: "Everything", slug: "everything" },
-  { label: "Algorithm", slug: "algorithmic-art" },
-  { label: "Anything", slug: "anything" },
-  { label: "Mechanics", slug: "kinetics" },
-  { label: "Something", slug: "something" },
-  { label: "Process", slug: "process" },
-  { label: "Destruction", slug: "destruction" },
-  { label: "Nothing", slug: "nothing" },
+const all = await getCollection("pages");
+
+type Node = {
+  slug: string;
+  label: string;
+  candidates?: string[];
+  children: Node[];
+  archetype?: string;
+};
+
+// Prefer the page's own heading over the legacy <title> tag — many legacy
+// pages have <title>section-name</title> while the real label (e.g. "bags",
+// "blocks & cubes") lives in the page heading or the first block.
+function firstBlockHeading(blocks: any[]): string {
+  for (const b of blocks ?? []) {
+    if (b?.type === "heading" && typeof b.text === "string") {
+      const t = b.text.replace(/\s+/g, " ").trim();
+      if (t) return t;
+    }
+  }
+  return "";
+}
+
+// Build a ranked list of label candidates for each page. The first
+// non-empty candidate wins; if a sibling collides on the chosen label,
+// resolveDuplicateLabels walks down the candidate list for a unique one.
+function labelCandidates(
+  slug: string,
+  title: string,
+  heading: string,
+  blocks: any[],
+): string[] {
+  const slugLeaf = slug.split("/").pop() ?? slug;
+  const slugLabel = sectionLabel(slugLeaf);
+  const t = (title || "").trim();
+  const h = (heading || "").trim();
+  const fb = firstBlockHeading(blocks);
+  const parentSlug = slug.includes("/") ? slug.split("/")[0] : null;
+  const titleIsParent =
+    !!parentSlug && t.toLowerCase() === sectionLabel(parentSlug).toLowerCase();
+  // Order: title (if not a parent-name echo), heading, first block heading,
+  // slug-derived label. De-dup empties later.
+  const cands = titleIsParent || !t ? [h, fb, slugLabel] : [t, h, fb, slugLabel];
+  return cands.map((s) => (s || "").trim()).filter(Boolean);
+}
+
+const bySlug = new Map<
+  string,
+  { label: string; candidates: string[]; archetype: string }
+>();
+for (const p of all) {
+  if (!p.data.slug) continue;
+  const candidates = labelCandidates(
+    p.data.slug,
+    p.data.title,
+    p.data.heading,
+    p.data.blocks,
+  );
+  bySlug.set(p.data.slug, {
+    label: candidates[0] ?? p.data.slug,
+    candidates,
+    archetype: p.data.archetype,
+  });
+}
+
+function getOrCreate(roots: Node[], parts: string[]): Node {
+  const slug = parts.join("/");
+  const meta = bySlug.get(slug);
+  let level = roots;
+  let node: Node | undefined;
+  for (let i = 0; i < parts.length; i++) {
+    const subSlug = parts.slice(0, i + 1).join("/");
+    node = level.find((n) => n.slug === subSlug);
+    if (!node) {
+      const m = bySlug.get(subSlug);
+      node = {
+        slug: subSlug,
+        label: m?.label || sectionLabel(parts[i] ?? ""),
+        candidates: m?.candidates,
+        children: [],
+        archetype: m?.archetype,
+      };
+      level.push(node);
+    }
+    level = node.children;
+  }
+  if (node && meta) {
+    node.label = meta.label;
+    node.candidates = meta.candidates;
+    node.archetype = meta.archetype;
+  }
+  return node!;
+}
+
+function resolveDuplicateLabels(siblings: Node[]) {
+  const usedLabels = new Map<string, Node>();
+  for (const n of siblings) {
+    const cands = n.candidates ?? [n.label];
+    let chosen = n.label;
+    for (const c of cands) {
+      if (!usedLabels.has(c.toLowerCase())) {
+        chosen = c;
+        break;
+      }
+    }
+    // Still a collision? Disambiguate with the slug leaf in parens.
+    if (usedLabels.has(chosen.toLowerCase())) {
+      const leaf = n.slug.split("/").pop() ?? "";
+      chosen = `${chosen} (${sectionLabel(leaf)})`;
+    }
+    n.label = chosen;
+    usedLabels.set(chosen.toLowerCase(), n);
+    resolveDuplicateLabels(n.children);
+  }
+}
+
+// The legacy homepage (legacy/index.html) surfaces exactly these 10
+// categories. The site has a handful of additional top-level legacy dirs
+// (ego, informe, nature, physics, things) that the homepage doesn't link
+// to; we reparent them under their natural legacy parent so the sidebar
+// matches the original information architecture. URLs are unchanged.
+const topOrder = [
+  "concept",
+  "life",
+  "everything",
+  "algorithmic-art",
+  "anything",
+  "kinetics",
+  "something",
+  "process",
+  "destruction",
+  "nothing",
 ];
+const topLabels: Record<string, string> = {
+  "algorithmic-art": "Algorithm",
+  kinetics: "Mechanics",
+};
+
+// Virtual reparenting: each key is an existing top-level slug that should
+// appear as a child of the value slug instead. Determined by following the
+// dominant inbound link in the legacy site:
+//   /everything links to /things and /nature   → reparent under "everything"
+//   /nature links to /physics                  → reparent under "nature"
+//   /life links to /ego                        → reparent under "life"
+//   /something links to /informe               → reparent under "something"
+const virtualParents: Record<string, string> = {
+  things: "everything",
+  nature: "everything",
+  physics: "nature",
+  ego: "life",
+  informe: "something",
+};
+
+const roots: Node[] = [];
+for (const slug of bySlug.keys()) {
+  const parts = slug.split("/");
+  if (parts[0] === "index") continue;
+  getOrCreate(roots, parts);
+}
+
+// Apply virtual reparenting: pluck each reparented root from `roots` and
+// graft it under its target's children. Order matters — reparent leaves
+// before parents so /physics gets attached to /nature before /nature
+// itself moves under /everything.
+const reparentOrder = ["physics", "things", "nature", "ego", "informe"];
+for (const slug of reparentOrder) {
+  const parentSlug = virtualParents[slug];
+  if (!parentSlug) continue;
+  const idx = roots.findIndex((r) => r.slug === slug);
+  if (idx < 0) continue;
+  const node = roots.splice(idx, 1)[0]!;
+  const parent = roots.find((r) => r.slug === parentSlug)
+    ?? findDescendant(roots, parentSlug);
+  if (parent) parent.children.push(node);
+  else roots.push(node); // fallback: keep at top if parent missing
+}
+
+function findDescendant(nodes: Node[], slug: string): Node | undefined {
+  for (const n of nodes) {
+    if (n.slug === slug) return n;
+    const hit = findDescendant(n.children, slug);
+    if (hit) return hit;
+  }
+  return undefined;
+}
+
+const tops: Node[] = [];
+for (const s of topOrder) {
+  const found = roots.find((r) => r.slug === s);
+  if (found) tops.push(found);
+}
+
+// Resolve label collisions among siblings before sorting, so two children
+// with the same legacy <title> get distinct labels in the tree.
+for (const t of tops) resolveDuplicateLabels(t.children);
+
+function sortTree(nodes: Node[]) {
+  nodes.sort((a, b) => a.label.localeCompare(b.label));
+  for (const n of nodes) sortTree(n.children);
+}
+for (const t of tops) sortTree(t.children);
+
+// Ancestor chain for the current page — these branches start expanded.
+const expandedSlugs = new Set<string>();
+if (currentSlug) {
+  const parts = currentSlug.split("/");
+  for (let i = 1; i <= parts.length; i++) {
+    expandedSlugs.add(parts.slice(0, i).join("/"));
+  }
+  // Also walk virtual parents so a page like /things/readymade expands the
+  // /everything branch (since /things is now a virtual child of /everything).
+  let cursor = parts[0]!;
+  while (virtualParents[cursor]) {
+    cursor = virtualParents[cursor]!;
+    expandedSlugs.add(cursor);
+  }
+}
+// Also keep "current" (section name from the layout) in case currentSlug is missing.
+if (!currentSlug && current) expandedSlugs.add(current);
+
+function topLabel(node: Node): string {
+  return topLabels[node.slug] ?? node.label;
+}
+
+type Row = {
+  node: Node;
+  depth: number;
+  parentSlug: string;
+  initiallyExpanded: boolean;
+  isCurrent: boolean;
+};
+
+function buildRows(node: Node, depth: number, parentSlug: string, out: Row[]) {
+  const initiallyExpanded = expandedSlugs.has(node.slug);
+  out.push({
+    node,
+    depth,
+    parentSlug,
+    initiallyExpanded,
+    isCurrent: currentSlug === node.slug,
+  });
+  for (const c of node.children) buildRows(c, depth + 1, node.slug, out);
+}
 ---
 
 <aside>
-  <nav>
+  <nav class="sidebar-nav" data-sidebar>
     {
-      items.map((it) => {
-        const active = current === it.slug;
+      tops.map((t) => {
+        const rows: Row[] = [];
+        buildRows(t, 0, "", rows);
         return (
-          <a
-            href={"/" + it.slug}
-            class={`sidebar-link ${active ? "underline underline-offset-4" : ""}`}
-          >
-            {it.label}
-          </a>
+          <div class="sidebar-branch">
+            {rows.map((r) => {
+              const hasChildren = r.node.children.length > 0;
+              const label = r.depth === 0 ? topLabel(r.node) : r.node.label;
+              const linkClass = [
+                "sidebar-link",
+                r.depth === 0
+                  ? "sidebar-top"
+                  : r.depth === 1
+                    ? "sidebar-child"
+                    : "sidebar-grandchild",
+                r.isCurrent ? "is-current" : "",
+              ]
+                .filter(Boolean)
+                .join(" ");
+              return (
+                <div
+                  class="sidebar-row"
+                  data-row
+                  data-slug={r.node.slug}
+                  data-parent={r.parentSlug}
+                  data-depth={r.depth}
+                  data-expanded={r.initiallyExpanded ? "true" : "false"}
+                >
+                  {hasChildren ? (
+                    <button
+                      type="button"
+                      class="sidebar-caret"
+                      aria-expanded={r.initiallyExpanded ? "true" : "false"}
+                      aria-label={`Toggle ${label}`}
+                      data-toggle
+                    >
+                      <svg
+                        viewBox="0 0 10 10"
+                        width="10"
+                        height="10"
+                        aria-hidden="true"
+                        focusable="false"
+                      >
+                        <path
+                          d="M3 1.5 L7 5 L3 8.5"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="1.25"
+                          stroke-linecap="square"
+                          stroke-linejoin="miter"
+                        />
+                      </svg>
+                    </button>
+                  ) : (
+                    <span class="sidebar-caret sidebar-caret-empty" aria-hidden="true" />
+                  )}
+                  <a href={"/" + r.node.slug} class={linkClass}>
+                    {label}
+                  </a>
+                </div>
+              );
+            })}
+          </div>
         );
       })
     }
   </nav>
 </aside>
+
+<script>
+  const sidebars = document.querySelectorAll<HTMLElement>("[data-sidebar]");
+  for (const root of sidebars) {
+    // Hide every row whose ancestor row (one depth less, immediately above
+    // in the same branch) is collapsed. Recompute on each toggle.
+    const rows = Array.from(
+      root.querySelectorAll<HTMLElement>("[data-row]"),
+    );
+
+    function applyVisibility() {
+      // Walk the actual visual ancestor chain via data-parent (NOT slug
+      // prefix), so reparented branches like /things-under-everything
+      // hide/show in sync with their virtual parent.
+      const slugMap = new Map<string, HTMLElement>();
+      for (const r of rows) {
+        const s = r.dataset.slug;
+        if (s) slugMap.set(s, r);
+      }
+      for (const r of rows) {
+        let hidden = false;
+        let cursor: HTMLElement | undefined = r;
+        // Guard against cycles in case of bad data.
+        for (let i = 0; i < 16; i++) {
+          const parentSlug = cursor.dataset.parent;
+          if (!parentSlug) break;
+          const ancestor = slugMap.get(parentSlug);
+          if (!ancestor) break;
+          if (ancestor.dataset.expanded !== "true") {
+            hidden = true;
+            break;
+          }
+          cursor = ancestor;
+        }
+        r.style.display = hidden ? "none" : "";
+      }
+    }
+
+    root.addEventListener("click", (e) => {
+      const target = e.target as HTMLElement | null;
+      const btn = target?.closest<HTMLButtonElement>("[data-toggle]");
+      if (!btn) return;
+      e.preventDefault();
+      const row = btn.closest<HTMLElement>("[data-row]");
+      if (!row) return;
+      const next = row.dataset.expanded !== "true";
+      row.dataset.expanded = next ? "true" : "false";
+      btn.setAttribute("aria-expanded", next ? "true" : "false");
+      applyVisibility();
+    });
+
+    applyVisibility();
+  }
+</script>

@@ -10,17 +10,6 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Radical Art",
-      "links": [
-        {
-          "text": "Radical Art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "text": "Radical\nArt",
       "links": []
     },
@@ -112,11 +101,6 @@
       "links": [
         {
           "text": "Readymades",
-          "href": "/index",
-          "external": false
-        },
-        {
-          "text": "Reality as art",
           "href": "/index",
           "external": false
         },

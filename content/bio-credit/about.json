@@ -9,31 +9,20 @@
   "source_encoding": "utf-8",
   "blocks": [
     {
-      "type": "heading",
-      "text": "Colophon",
-      "links": [],
-      "level": 3
-    },
-    {
       "type": "paragraph",
-      "text": "This edition is a complete rebuild of the original Radical Art site, faithfully preserving its content and editorial voice while reconstructing it on a contemporary foundation. The original hand-authored HTML — every page, image, and link — remains the source of truth; this site presents that material anew, with renewed typography, structure, and navigation for present-day reading.",
-      "links": []
-    },
-    {
-      "type": "paragraph",
-      "text": "Rebuild by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design.",
+      "text": "Home",
       "links": [
         {
-          "text": "Daniel Lefcourt",
-          "href": "https://certainlynot.com",
-          "external": true
-        },
-        {
-          "text": "Rhode Island School of Design",
-          "href": "https://risd.edu",
-          "external": true
+          "text": "Home",
+          "href": "/index",
+          "external": false
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Home",
+      "links": []
     },
     {
       "type": "heading",
@@ -43,7 +32,7 @@
     },
     {
       "type": "paragraph",
-      "text": "This site was created by Remko Scha (Institute of Artificial Art Amsterdam).\n\nSome of the material presented here was compiled in the context of courses about algorithmic art and its art-historical and conceptual context, developed by Remko Scha for the Frank Mohr Institute, Groningen (2001–2003) and the MA New Media of the University of Amsterdam (2001–2005). Jos de Bruin and Jochem van der Spek made substantial contributions to these courses.\n\nThe term “radical art” is due to Van Lagestein.",
+      "text": "This site was created by Remko Scha (Institute of Artificial Art Amsterdam).\n\n\n\nSome of the material presented here was compiled in the context\nof courses about algorithmic art and its art-historical and conceptual\ncontext, developed by Remko Scha for the Frank Mohr Institute, Groningen\n(2001-2003) and the MA New Media of the University of Amsterdam\n(2001-2005). Jos de Bruin and Jochem van der Spek made substantial\ncontributions to these courses.\n\n\n\nThe term \"radical art\" is due to Van Lagestein.",
       "links": [
         {
           "text": "Remko Scha",
@@ -64,7 +53,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Institute of Artificial Art Amsterdam (IAAA)\n\nRemko Scha\n\nJos de Bruin\n\nJochem van der Spek",
+      "text": "Institute\nof Artificial Art Amsterdam (IAAA)\n\n\n\nRemko\nScha\n\n\n\nJos\nde Bruin\n\n\n\nJochem\nvan der Spek",
       "links": [
         {
           "text": "Institute of Artificial Art Amsterdam (IAAA)",

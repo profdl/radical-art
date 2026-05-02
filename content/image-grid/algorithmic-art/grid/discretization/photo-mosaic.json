@@ -44,11 +44,6 @@
       "height": "250",
       "links": [
         {
-          "text": "",
-          "href": "/assets/algorithmicart/BillGates.jpg",
-          "external": false
-        },
-        {
           "text": "Bill Gates",
           "href": "/assets/algorithmicart/BillGates.jpg",
           "external": false
@@ -64,11 +59,6 @@
       "height": "99",
       "links": [
         {
-          "text": "",
-          "href": "/assets/algorithmicart/100DollarBill.jpg",
-          "external": false
-        },
-        {
           "text": "100 Dollar Bill",
           "href": "/assets/algorithmicart/100DollarBill.jpg",
           "external": false
@@ -83,11 +73,6 @@
       "width": "230",
       "height": "149",
       "links": [
-        {
-          "text": "",
-          "href": "/assets/algorithmicart/Flag.jpg",
-          "external": false
-        },
         {
           "text": "Flag",
           "href": "/assets/algorithmicart/Flag.jpg",
@@ -173,11 +158,6 @@
       "links": [
         {
           "text": "The Mazaika",
-          "href": "http://mazaika.tripod.com/maztutor/mosaictest.html",
-          "external": true
-        },
-        {
-          "text": "photo mosaic shareware test",
           "href": "http://mazaika.tripod.com/maztutor/mosaictest.html",
           "external": true
         }

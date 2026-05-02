@@ -26,17 +26,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "radical\nart",
-      "links": [
-        {
-          "text": "radical art",
-          "href": "/index",
-          "external": false
-        }
-      ]
-    },
-    {
       "type": "heading",
       "text": "the gulf war",
       "links": [],
@@ -97,7 +86,6 @@
     }
   ],
   "out_links": [
-    "/destruction/artificial-disasters",
-    "/index"
+    "/destruction/artificial-disasters"
   ]
 }
