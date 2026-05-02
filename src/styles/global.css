@@ -291,8 +291,7 @@ a { color: inherit; }
 .hub-card-empty {
   background: var(--color-rule-light);
 }
-.hub-card:hover .hub-card-frame { transform: translate(-2px, -2px); }
-.hub-card:hover .hub-card-frame::before { transform: translate(2px, 2px); }
+.hub-card:hover .hub-card-frame::before { transform: translate(3px, 3px); }
 .hub-card:hover .hub-card-frame > img { opacity: 0.9; }
 .hub-card-label {
   display: flex;
