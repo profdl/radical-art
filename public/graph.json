@@ -4,2341 +4,3121 @@
       "id": "about",
       "title": "About the Radical Art Site",
       "blurb": "artificialart.com: colophon and acknowledgments",
-      "degree": 1
+      "degree": 1,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "aesthetics",
       "title": "Aesthetics",
       "blurb": "Philosophical issues about computer art.",
-      "degree": 3
+      "degree": 3,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art",
       "title": "Algorithmic Art",
       "blurb": "Algorithmic Art: Genres, Approaches, Techniques.",
-      "degree": 50
+      "degree": 50,
+      "category": "algorithmic-art",
+      "isCategoryRoot": true
     },
     {
       "id": "algorithmic-art/algebra",
       "title": "image algebras",
       "blurb": "Image description algebras in algorithmic art.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/algebra/aaron",
       "title": "Artificial Intelligence",
       "blurb": "Artificial Intelligence and image generation",
-      "degree": 5
+      "degree": 5,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/algebra/sit",
       "title": "Gestalt Perception",
       "blurb": "Computational models of visual gestalt perception. Structural Information Theory.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/artificial",
       "title": "Every Image",
       "blurb": "The challenge of Generative Art: All possible artworks.",
-      "degree": 5
+      "degree": 5,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance",
       "title": "art & chance",
       "blurb": "Art and Chance.",
-      "degree": 16
+      "degree": 16,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/boyle",
       "title": "Mark Boyle",
       "blurb": "Mark Boyle: Random selections from the surface of the earth.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/chance",
       "title": "Chance",
       "blurb": "Chance",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/hardware",
       "title": "Chance",
       "blurb": "Chance",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/qchance",
       "title": "Quotes about Chance",
       "blurb": "Quotes about Chance Art",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/qchance-art",
       "title": "Quotes about Chance Art",
       "blurb": "For first\nyou write a sentence,\n\nAnd then you chop it small;\n\nThen mix the bits and sort them out\n\nJust as they chance to fall:\n\nThe order of the phrases\n\nmakes no difference at all.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/chance/random-number-tables",
       "title": "Random Number Tables",
       "blurb": "A table of random number tables.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/enumeration",
       "title": "Enumeration",
       "blurb": "Enumeration art.",
-      "degree": 10
+      "degree": 10,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/evolutie",
       "title": "Artificial Evolution",
       "blurb": "Artificial Evolution and Genetic Algorithms",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar",
       "title": "Image Grammars",
       "blurb": "Rewrite grammars in automatic art generation.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar/lindenmayer",
       "title": "Lindenmayer Systems",
       "blurb": "The Machines are a group of electric sabre saws who collaborate on the automatic creation of visual art.",
-      "degree": 9
+      "degree": 9,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules",
       "title": "Joost Puite:",
       "blurb": "fffffffffffff++ffffffffffffffff++ffffffff",
-      "degree": 1
+      "degree": 1,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra",
       "title": "L-System: om de groei van een plant of een object in formules weer te geven",
       "blurb": "Menno Kooistra\n\nstudent nummer: 9835385",
-      "degree": 1
+      "degree": 1,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom",
       "title": "Opdracht 4 \u2013 L-system",
       "blurb": "Overtoom\n\n\n\nOpdracht 4 \u2014 L-system",
-      "degree": 1
+      "degree": 1,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grammar/shape-grammar",
       "title": "Shape Grammar",
       "blurb": "Shape grammar.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid",
       "title": "Grids",
       "blurb": "The grid in modern painting and algorithmic art.",
-      "degree": 23
+      "degree": 23,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/abstract/2-d",
       "title": "Abstract Grids",
       "blurb": "The grid in classical twentieth-century painting.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/any",
       "title": "Any Grid",
       "blurb": "The grid in algorithmic and interactive art: random grids and pixel paint tools.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/cellular",
       "title": "Cellular Automata",
       "blurb": "Cellular automata in algorithmic art.",
-      "degree": 10
+      "degree": 10,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/cellular/1-d",
       "title": "1D Cellular Automata",
       "blurb": "One-dimensional Cellular Automata.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/cellular/2-d",
       "title": "Two-Dimensional Cellular Automata",
       "blurb": "Artificial: an automatic system for image generation",
-      "degree": 5
+      "degree": 5,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/cellular/3-d",
       "title": "3-Dimensional Automata",
       "blurb": "Three-dimensional cellular automata.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/discretization",
       "title": "ASCII Art",
       "blurb": "Images made out of alphanumeric characters.",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/discretization/asciiart",
       "title": "ASCII Art",
       "blurb": "Images made out of alphanumeric characters.",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/discretization/half-tone",
       "title": "HalfTone",
       "blurb": "Halftone printing techniques  in modern art.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/discretization/photo-mosaic",
       "title": "PhotoMosaics",
       "blurb": "The recursive image: the image as pixel.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/discretization/pixel-grids",
       "title": "PixelGrids",
       "blurb": "The image as a grid of points.",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/every",
       "title": "Every Grid",
       "blurb": "Enumeration art.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/every/every-icon",
       "title": "Every Icon",
       "blurb": "Enumeration art.",
-      "degree": 7
+      "degree": 7,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/every/every-icon/eicon",
       "title": "Every Icon",
       "blurb": "An icon described by a 32 X 32 grid.",
-      "degree": 1
+      "degree": 1,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/minimal/checkerboard",
       "title": "Checkerboards",
       "blurb": "Checkerboards in modern painting.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/minimal/empty",
       "title": "Empty Grids",
       "blurb": "Empty grids in modern painting.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/modular",
       "title": "Modules",
       "blurb": "Constructing images out of square modular cells.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/repetition",
       "title": "Repetition",
       "blurb": "The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/repetition/62-warhol",
       "title": "Warhol Grids",
       "blurb": "Andy Warhol. The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/grid/variation",
       "title": "Variation",
       "blurb": "The grid as an organizing principle for presenting a parameterized image as a function of two dimensions.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/interactivity",
       "title": "Interactivity",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/intro",
       "title": "About Algorithmic Art",
       "blurb": "What is algorithmic art?",
-      "degree": 25
+      "degree": 25,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/line",
       "title": "Random Lines",
       "blurb": "The line as a trace of movement",
-      "degree": 11
+      "degree": 11,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/links",
       "title": "Algorithmic Art Links",
       "blurb": "Links to papers and anthologies about algorithmic art.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/mapping",
       "title": "mappings",
       "blurb": "mapping as an art-generating strategy",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/moire",
       "title": "Moire",
       "blurb": "Emergence in early algorithmic art",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/movement",
       "title": "movement",
       "blurb": "simulations of physics and behaviour",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/nake",
       "title": "Nake Quotes",
       "blurb": "Quotes about the formal approach to art production.",
-      "degree": 4
+      "degree": 4,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/nake95",
       "title": "Frieder Nake 1995",
       "blurb": "Frieder Nake: Einmaliges und Beliebiges. Kuenstliche Kunst im Strom der Zeit. (1995)",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/optimization",
       "title": "Artificial Intelligence",
       "blurb": "Artificial Intelligence and image generation",
-      "degree": 11
+      "degree": 11,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/paint",
       "title": "Image Generation Tools",
       "blurb": "Image generation tools.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/quotes",
       "title": "Algorithmic Art Quotes",
       "blurb": "Quotes about the formal approach to art production.",
-      "degree": 6
+      "degree": 6,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/quotes-art-science",
       "title": "Art Science Technology Quotes",
       "blurb": "Quotes about the formal approach to art production.",
-      "degree": 3
+      "degree": 3,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "algorithmic-art/scatter",
       "title": "scattering",
       "blurb": "Image generation by random scattering.",
-      "degree": 5
+      "degree": 5,
+      "category": "algorithmic-art",
+      "isCategoryRoot": false
     },
     {
       "id": "anything",
       "title": "Indeterminacy",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
-      "degree": 22
+      "degree": 22,
+      "category": "anything",
+      "isCategoryRoot": true
     },
     {
       "id": "anything/bugs",
       "title": "Indeterminacy",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
-      "degree": 3
+      "degree": 3,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/nimporte-quoi",
       "title": "N'Importe Quoi",
       "blurb": "Anything as art.",
-      "degree": 6
+      "degree": 6,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form",
       "title": "Open Form",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
-      "degree": 12
+      "degree": 12,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/diydrawing",
       "title": "Do It Yourself Drawing",
       "blurb": "Open Form: Do It Yourself Drawing",
-      "degree": 3
+      "degree": 3,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/diyinstallation",
       "title": "Do It Yourself Installation",
       "blurb": "Open Form: Do It Yourself Installation",
-      "degree": 3
+      "degree": 3,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/diysculpture",
       "title": "Do It Yourself Sculpture",
       "blurb": "Open Form: Do It Yourself Sculpture",
-      "degree": 3
+      "degree": 3,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/flexible-sculpture",
       "title": "Flexible Sculpture",
       "blurb": "Open Form: Flexible Sculpture.",
-      "degree": 3
+      "degree": 3,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/music",
       "title": "Open Form",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
-      "degree": 5
+      "degree": 5,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "anything/open-form/rearrangeable-painting",
       "title": "Rearrangeable Images",
       "blurb": "Open Form: Rearrangeable 2D Images",
-      "degree": 4
+      "degree": 4,
+      "category": "anything",
+      "isCategoryRoot": false
     },
     {
       "id": "concept",
       "title": "Concept Art",
       "blurb": "Concept-art as a particular kind of meta-art",
-      "degree": 68
+      "degree": 68,
+      "category": "concept",
+      "isCategoryRoot": true
     },
     {
       "id": "concept/arithmetic",
       "title": "Arithmetic Art",
       "blurb": "Arithmetic as art.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/art-about-art",
       "title": "Art About Art",
       "blurb": "Art against art.",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/art-against-art",
       "title": "Art against Art",
       "blurb": "Art against art.",
-      "degree": 9
+      "degree": 9,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/art-against-art/ben",
       "title": "Ben Against Art",
       "blurb": "Art against art.",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/art-against-art/reimann",
       "title": "Art Against Art",
       "blurb": "Art against art.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/brecht",
       "title": "George Brecht",
       "blurb": "Events by George Brecht.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/fluxus-exercise",
       "title": "Fluxus Exercises",
       "blurb": "Exercise pieces by Fluxus artists (Tony Conrad, Eric Andersen, Mieko Shiomi, Alison Knowles).",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/fluxus-music",
       "title": "Fluxus Music",
       "blurb": "Fluxus Events: Musical Pieces.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/fluxus-theatre",
       "title": "Events (Theatre)",
       "blurb": "Fluxus events: theatre.",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/flynt",
       "title": "Henry Flynt",
       "blurb": "Concept-art and Henry Flynt",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/found-text",
       "title": "Found Text",
       "blurb": "Found text as visual art: John Baldessari's art texts and Jenny Holzer's",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/hegel",
       "title": "Theory as art as theory",
       "blurb": "Hegel, Greenberg, Bense, Barthes, Kosuth",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/impossible",
       "title": "impossible events",
       "blurb": "Fluxus events: Impossible, undefined, unstable and unusually difficult pieces.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/invisible",
       "title": "Invisible Pieces and Electric Circuits",
       "blurb": "Invisble pieces, radio pieces, electrical circuits. By Art & Language, Robert Barry  and  Fred Forrest.",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/le-witt",
       "title": "Concept Art",
       "blurb": "Concept-art as a particular kind of meta-art",
-      "degree": 8
+      "degree": 8,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/le-witt/ostrow",
       "title": "LeWitt on Art History",
       "blurb": "Sol LeWitt on Cage, Fluxus and minimalism. (From an interview by Saul Ostrow.)",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/le-witt/paragraphs",
       "title": "Paragraphs",
       "blurb": "Sol LeWitt: Paragraphs on Conceptual Art",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/le-witt/sentences",
       "title": "Sentences",
       "blurb": "Sol LeWitt: Sentences on Conceptual Art",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/meta-concepts",
       "title": "Robert Barry",
       "blurb": "Robert Barry: Indefinite mental descriptions",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/paradox",
       "title": "Paradox",
       "blurb": "Paradox as art.",
-      "degree": 7
+      "degree": 7,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/perls",
       "title": "Gestalt Therapy Exercises",
       "blurb": "Gestalt Therapy Exercises as Concept-art.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/quote-collections",
       "title": "Propositions: Fragments and Quotes",
       "blurb": "Concept art: Fragmentary philosophy and collections of quotes.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/scores",
       "title": "Scores as Concepts",
       "blurb": "The origin of concept art in music: the score as concept.",
-      "degree": 12
+      "degree": 12,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts",
       "title": "Speech Acts",
       "blurb": "Concept Art: Speech Acts",
-      "degree": 12
+      "degree": 12,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/1st-person-reports",
       "title": "Expressive Speech Acts",
       "blurb": "Concept art: Text pieces: First person reports.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/accusations",
       "title": "Accusations",
       "blurb": "Concept art: Text pieces: Accusations.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/advice-etc",
       "title": "Appeals, predictions, proposals, refusals, threats",
       "blurb": "Concept art: Text pieces: Appeals, predictions, proposals, threats.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/answers",
       "title": "Answers",
       "blurb": "Concept art: Text paintings: Answers.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/assertions",
       "title": "Assertions",
       "blurb": "Concept art: Text pieces: Assertions.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/imperatives",
       "title": "Imperatives",
       "blurb": "Concept art: Text pieces: Speech acts: Imperatives: Suggestions and requests. (By Robert Indiana, Ben Vautier, Bas Jan Ader, Jenny Holzer, Barbara Kruger.)",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/performatives",
       "title": "Performatives",
       "blurb": "Concept art: Text pieces: Speech acts: Performatives: Greetings, curses, creation.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/speech-acts/questions",
       "title": "Questions",
       "blurb": "Concept art: Text pieces: Speech acts: Questions.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology",
       "title": "Tautologies",
       "blurb": "Artworks as analytical propositions.",
-      "degree": 23
+      "degree": 23,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/99-stefan-brueggemann",
       "title": "Stefan Br\u00fcggemann",
       "blurb": "Tautological worksby Stefan Br\u00fcggemann",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/anastasi",
       "title": "William Anastasi",
       "blurb": "Wiliam Anastasi's Tautologies.",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/ben",
       "title": "Ben's Tautologies",
       "blurb": "Tautological pieces by Ben Vautier.",
-      "degree": 6
+      "degree": 6,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/indiana",
       "title": "Indiana",
       "blurb": "Robert Indiana's Digits.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/johns",
       "title": "Tautologies",
       "blurb": "Artworks as analytical propositions.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/kosuth",
       "title": "Joseph Kosuth",
       "blurb": "Joseph Kosuth: Artworks as analytical propositions.",
-      "degree": 5
+      "degree": 5,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/magritte",
       "title": "Magritte's Tautologies",
       "blurb": "Tautological/paradoxical works by Ren\u00e9 Magritte:",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/measurement",
       "title": "Tautologies",
       "blurb": "Artworks as analytical propositions.",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/on-kawara",
       "title": "On Kawara",
       "blurb": "On Kawara's Today Series",
-      "degree": 4
+      "degree": 4,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/photo",
       "title": "Redundant Photographs",
       "blurb": "Redundant Photographs: William Anastasi, Robert Smithson, Besson, Robert Morris, Pierre Huyghe.",
-      "degree": 6
+      "degree": 6,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/tautology/video",
       "title": "Video Tautology",
       "blurb": "Redundant Video Images",
-      "degree": 6
+      "degree": 6,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/weiner",
       "title": "Lawrence Weiner",
       "blurb": "Lawrence Weiner: Indefinite material descriptions",
-      "degree": 3
+      "degree": 3,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/wiskunde",
       "title": "The Aesthetics of Mathematics",
       "blurb": "The aesthetics of mathematics. (Quotes from Ren\u00e9 Descartes, Novalis, Ludwig Wittgenstein, Henri Poincar\u00e9, Frederik van Eeden, L.E.J. Brouwer, James Joseph Sylvester, Bertrand Russell, Havelock Ellis, Norbert Wiener.)",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/word-constellations",
       "title": "Word Constellations",
       "blurb": "Word constellations as visual art. Ren\u00e9 Magritte and conceptual art.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/words",
       "title": "Words",
       "blurb": "Concept art: Text pieces: Words.",
-      "degree": 2
+      "degree": 2,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "concept/words/ben",
       "title": "Ben Vautier",
       "blurb": "Word pieces by Ben Vautier",
-      "degree": 6
+      "degree": 6,
+      "category": "concept",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction",
       "title": "destruction",
       "blurb": "Destruction and death in contemporary art.",
-      "degree": 48
+      "degree": 48,
+      "category": "destruction",
+      "isCategoryRoot": true
     },
     {
       "id": "destruction/accidents",
       "title": "Accidental Disasters",
       "blurb": "Accidental disasters in art. Accidental disasters as art.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/architecture",
       "title": "negative architecture",
       "blurb": "Destruction and death in contemporary art.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/artificial-disasters",
       "title": "artificial disasters",
       "blurb": "Artificial disasters in art. Artificial disasters as art.",
-      "degree": 5
+      "degree": 5,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/artificial-disasters/atom-bomb",
       "title": "Atom Bomb",
       "blurb": "The atom bomb in art. The atom bomb as art.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/artificial-disasters/gulf-war",
       "title": "Gulf War",
       "blurb": "The beauty of the Gulf War.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/artificial-disasters/wtc",
       "title": "The Demolition of the World Trade Center",
       "blurb": "The demolition of the World Trade Center by Satam M.A. Al Suqami, Waleed M. Alshehri,  Wail M. Alshehri, Mohamed Atta, Abdulaziz Alomari, Marwan Al-Shehhi,   Fayez Rashid Ahmed Hassan Al Qadi Banihammad, Ahmed Alghamdi, Hamza  Alghamdi andMohand Alshehri  (New York City, 11-09-2001.)",
-      "degree": 5
+      "degree": 5,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/assassination",
       "title": "Assassination in Art",
       "blurb": "Assassination and political murder in modern art.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/dissolve",
       "title": "dissolve",
       "blurb": "destruction in art: chemical processes",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/metzger",
       "title": "auto-destructive art",
       "blurb": "Gustac Metzger's autodestructive art manifestos.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/natural-disasters",
       "title": "Natural Disasters",
       "blurb": "Natural disasters in art. Natural disasters as readymade artworks.",
-      "degree": 4
+      "degree": 4,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/natural-disasters/warhol",
       "title": "Natural Disasters",
       "blurb": "Natural disasters in art. Natural disasters as readymade artworks.",
-      "degree": 3
+      "degree": 3,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/pierce",
       "title": "pierce",
       "blurb": "destruction in art: piercing",
-      "degree": 2
+      "degree": 2,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/rip",
       "title": "rip",
       "blurb": "destruction in art: ripping",
-      "degree": 2
+      "degree": 2,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/slash/fontana",
       "title": "Slash",
       "blurb": "Lucio Fontana's Slash Paintings (Concetto Spatiale - Attese).",
-      "degree": 4
+      "degree": 4,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/slice",
       "title": "slice",
       "blurb": "process art: slicing",
-      "degree": 2
+      "degree": 2,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "destruction/wipe",
       "title": "slice",
       "blurb": "process art: slicing",
-      "degree": 2
+      "degree": 2,
+      "category": "destruction",
+      "isCategoryRoot": false
     },
     {
       "id": "ego",
       "title": "the artist as artwork",
       "blurb": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
-      "degree": 7
+      "degree": 7,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "ego/ben",
       "title": "ben vautier as artwork",
       "blurb": "Ben Vautier presents Ben Vautier as art.",
-      "degree": 7
+      "degree": 7,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "ego/self-exhibits",
       "title": "self-exhibits",
       "blurb": "Artists presenting themselves as artworks. (",
-      "degree": 4
+      "degree": 4,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "ego/selfportraits",
       "title": "selfportraits",
       "blurb": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
-      "degree": 4
+      "degree": 4,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "ego/statements",
       "title": "the signature as artwork",
       "blurb": "Signatures and other verbal artworks which directly denote the artist.",
-      "degree": 5
+      "degree": 5,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "everything",
       "title": "everything",
       "blurb": "Enumeration art.",
-      "degree": 16
+      "degree": 16,
+      "category": "everything",
+      "isCategoryRoot": true
     },
     {
       "id": "everything/all",
       "title": "all",
       "blurb": "All as art.",
-      "degree": 6
+      "degree": 6,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "index",
       "title": "Radical Art",
       "blurb": "A site about radical strands in modern art. It includes algorithmic art and its art-historical and conceptual context.",
-      "degree": 354
+      "degree": 354,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "informe",
       "title": "informe",
       "blurb": "What forms does the formless take?",
-      "degree": 26
+      "degree": 26,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/dirt",
       "title": "dirt",
       "blurb": "Dirt as art.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/fat",
       "title": "Fat",
       "blurb": "joseph beuys: fat and other  unstable media",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/fluff",
       "title": "fluff",
       "blurb": "Fluffy textures in minimal art of the 1960's.",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/foam",
       "title": "Foam",
       "blurb": "unstable media: foam: gutai & david medalla",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/hang",
       "title": "hang",
       "blurb": "rope, hanging and soft materials in twentieth-century art",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/heap",
       "title": "heap",
       "blurb": "The heap in minimal art of the 1960's and after.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/jumble",
       "title": "jumble",
       "blurb": "Disorganized textile distributions in minimal art of the 1960's.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/junk",
       "title": "junk",
       "blurb": "Disorganized distributions of solid objects in twentieth-century art",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/junk/trash",
       "title": "trash",
       "blurb": "Some of Arman's trash-pieces.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/litter",
       "title": "litter",
       "blurb": "Disorganized paper distributions in twentieth-century art.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/mess",
       "title": "L'Informe",
       "blurb": "What forms does the formless take?",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/mound",
       "title": "mounds",
       "blurb": "elementary non-shape: a raised mass of solid, flexible, continuous stuff. as employed in modern art since the early 1960's.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/mud",
       "title": "mud",
       "blurb": "Mud in twentieth-century art.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/tangle",
       "title": "tangle",
       "blurb": "Some of Alan Saret's tangled wire pieces.",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/viscosity",
       "title": "viscosity",
       "blurb": "Formlessness through viscosity.",
-      "degree": 5
+      "degree": 5,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/viscosity/cesar",
       "title": "viscosity",
       "blurb": "Formlessness through viscosity.",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/viscosity/lynda-benglis",
       "title": "Lynda Benglis: Viscosity Pieces",
       "blurb": "Formlessness through viscosity.",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "informe/viscosity/roxy-paine",
       "title": "Roxy Paine: Automatic Sculpture",
       "blurb": "Formlessness through viscosity: Roxy Paine's sculpture machines.",
-      "degree": 3
+      "degree": 3,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics",
       "title": "kinetic art",
       "blurb": "an overview of different kinds of kinetic art",
-      "degree": 49
+      "degree": 49,
+      "category": "kinetics",
+      "isCategoryRoot": true
     },
     {
       "id": "kinetics/gravity/clamp",
       "title": "Clamp",
       "blurb": "",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/dive",
       "title": "Dive",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/drip",
       "title": "to drip",
       "blurb": "Process Art: Pouring.",
-      "degree": 1
+      "degree": 1,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/drop",
       "title": "to drop",
       "blurb": "Process Art: Gravity: Dropping.",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/drop/motion-law-experiments",
       "title": "experiments with falling bodies",
       "blurb": "Process Art: Gravity: Dropping.",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/fall",
       "title": "Fall",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/float",
       "title": "Float",
       "blurb": "Laszlo Moholy-Nagy\n\nFloating Chisel\n\nVision in Motion, 1947",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/fly",
       "title": "Fly",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/hoist",
       "title": "hoist",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/jump",
       "title": "Jump",
       "blurb": "Note: The photos in Darzacq's sequence La\nChute look\nlike snapshots of falling bodies, but in fact they register carefully\nselected moments in breakdance jumps. We mention them\nhere rather than in the page about\u2026",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/lean",
       "title": "Lean",
       "blurb": "",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/lie",
       "title": "lie",
       "blurb": "Horizontal floor sculpture. (Yielding to gravity.)",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/pour",
       "title": "to pour",
       "blurb": "Process Art: Pouring.",
-      "degree": 1
+      "degree": 1,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/rock",
       "title": "Rock",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/roll",
       "title": "Roll",
       "blurb": "[Painting by Giuseppe Bezzuoli, 1841.]",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand",
       "title": "Stand",
       "blurb": "",
-      "degree": 8
+      "degree": 8,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand/build/buildings",
       "title": "Tall Buildings",
       "blurb": "Archeological sites in Egypt",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand/column",
       "title": "Column",
       "blurb": "\"Endless Column\" copies,",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand/high-pedestals",
       "title": "high pedestals",
       "blurb": "Compiled by Remko Scha \u2013 October, 2010",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand/obelisk",
       "title": "Obelisks",
       "blurb": "[Gift from Egypt to France, 1830.\n\nInstalled at Place de la Concorde,\n\nParis, 1836]",
-      "degree": 4
+      "degree": 4,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stand/plane",
       "title": "Free-standing monochromes",
       "blurb": "compiled by remko scha, july\n2012",
-      "degree": 4
+      "degree": 4,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stasis",
       "title": "gravity",
       "blurb": "Mathias Goeritz in a pamphlet\ndistributed outside the Museum\nof Modern Art on the occasion of the performance of\nJean Tinguely's Hommage\n\u00e0 New York, January\n1960.",
-      "degree": 13
+      "degree": 13,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/stretch",
       "title": "Stretch",
       "blurb": "Marcel Duchamp:\n\nSculpture de Voyage, 1918",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/suspension",
       "title": "suspension",
       "blurb": "Galileo Galilei:\n\nDue Nuove Scienze,\n\n1638 (Fig. 1)",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/swing",
       "title": "Swing",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/tether",
       "title": "tether",
       "blurb": "",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/throw",
       "title": "Throw",
       "blurb": "",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/gravity/topple",
       "title": "Topple",
       "blurb": "Statue of King George III of England at Bowling\nGreen, NY\n\ntoppled by the Sons of Liberty, 1776",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/inutile",
       "title": "Uselessness",
       "blurb": "The critical content of the esthetics of uselessness",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/light",
       "title": "light",
       "blurb": "kinetic art: projections and reflections.",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/rigid-bodies",
       "title": "Kinetiek",
       "blurb": "Kinetic Art: Movement of Rigid Bodies. (Calder, Tinguely and others.)",
-      "degree": 4
+      "degree": 4,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/shove",
       "title": "Shove",
       "blurb": "Anon.: Ray Staakman. 6\npp. brochure. Eindhoven: Van Abbemuseum, 1974.",
-      "degree": 2
+      "degree": 2,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/spin",
       "title": "Spin",
       "blurb": "This page reviews a decidedly retinal type of kinetic\nart: the display of rotating objects whose speeds and/or patterns\nare designed to create optical artefacts that overrule ordinary,\n\"realistic\" perception. Rotating\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/standing-waves",
       "title": "Kinetiek",
       "blurb": "Kinetische kunst",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn",
       "title": "rotation",
       "blurb": "Kinetic art based on rotary motion.",
-      "degree": 12
+      "degree": 12,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/gears-belts/heinrich-anton-mueller",
       "title": "Heinrich Anton M\u00fcller",
       "blurb": "",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/gears-belts/tinguely",
       "title": "Tinguely: Machines Inutiles",
       "blurb": "Jean Tinguely's earliest kinetic works were usually\nbased on painterly examples. (M\u00e9ta-Malevitch,\nM\u00e9ta-Kandinsky, M\u00e9ta-Herbin). The elements of these \"kinetic\npaintings\" are simultaneously rotated with different\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/kinetic-painting/tinguely",
       "title": "Tinguely: M\u00e9ta-Peinture",
       "blurb": "\"... 'meta-mechanical paintings', reliefs of a kind, in which simple geometrical\nshapes painted in the primary colours move about slowly in front of a surface.\n(. . .) It is theoretically possible to calculate the\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/kinetic-painting/von-graevenitz",
       "title": "Von Graevenitz",
       "blurb": "Kinetisches Objekt\n\n1962",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/mobiles-amain",
       "title": "Mobiles \u00e0 main",
       "blurb": "The \"mobiles\" developed by Alexander Calder since\nthe 1930's, use\norganic-looking shapes, hung in balanced constructions which can\nrotate freely. They are very light; the slightest breeze of air\ncreates (unpredictable)\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/mobiles-amoteur",
       "title": "Mobiles \u00e0 moteur",
       "blurb": "Calder (...) says that during a visit to Mondrian's studio, in the rue du D\u00e9part\nin Paris, he received a vision of a new art form (...). Mondrian's studio was\nan extraordinary room, with small, movable red, blue and\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/planetariums",
       "title": "Planetariums",
       "blurb": "compiled by remko scha, july 2012",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "kinetics/turn/simple-rotation",
       "title": "Simple Rotation",
       "blurb": "Around 1810, Johann von Bohnenberger\nof T\u00fcbingen University designed a \"machine\" to demonstrate\nthe laws of the earth's rotation. This was essentially the first\ngyroscope. It was first mentioned by Poisson (1813), and\u2026",
-      "degree": 3
+      "degree": 3,
+      "category": "kinetics",
+      "isCategoryRoot": false
     },
     {
       "id": "life",
       "title": "life & art",
       "blurb": "Life as art, art as life, etc.",
-      "degree": 21
+      "degree": 21,
+      "category": "life",
+      "isCategoryRoot": true
     },
     {
       "id": "life/art-shall-be-religion",
       "title": "Art engenders the universal religion",
       "blurb": "Life considered as an artwork",
-      "degree": 2
+      "degree": 2,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/breathing",
       "title": "Breathing",
       "blurb": "Life considered as an artwork",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/dandyism",
       "title": "Lifestyle as art form",
       "blurb": "Life considered as an artwork",
-      "degree": 2
+      "degree": 2,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/everyone-is-an-artist",
       "title": "Everyone is an artist",
       "blurb": "\"Alle Menschen sind K\u00fcnstler.\"",
-      "degree": 2
+      "degree": 2,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/everyone-shall-be-an-artist",
       "title": "Everyone shall be an artist",
       "blurb": "Life considered as an artwork",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/life-above-art",
       "title": "life above art",
       "blurb": "Life considered as an artwork",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/life-is-artwork",
       "title": "Life as artwork",
       "blurb": "Life considered as an artwork",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/life-will-be-art",
       "title": "life shall be art",
       "blurb": "Life considered as an artwork",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/maeterlinck",
       "title": "L'homme selon Maeterlinck",
       "blurb": "Ils ne sont pas nombreux\nceux qui nous montr\u00e8rent que l'homme est plus grand et plus profond\nque l'homme, et qui parvinrent \u00e0 fixer ainsi quelques-unes des\nallusions \u00e9ternelles que nous rencontrons \u00e0 chaque instant\u2026",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/performance-art",
       "title": "Living as an art performance",
       "blurb": "Living as art performance.",
-      "degree": 2
+      "degree": 2,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/soul",
       "title": "The beauty of the soul",
       "blurb": "Withdraw into yourself and look. And if you observe that you are not beautiful yet, do as does the maker of a statue which is to be beautiful: he cuts away, shaves down, smooths and cleans it, until he has made manifest\u2026",
-      "degree": 1
+      "degree": 1,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "life/the-artists-life",
       "title": "Lifestyle as art form",
       "blurb": "Life considered as an artwork",
-      "degree": 2
+      "degree": 2,
+      "category": "life",
+      "isCategoryRoot": false
     },
     {
       "id": "meta",
       "title": "Kant, Duchamp, Meta-Art",
       "blurb": "The roots of algorithmic art: Kant's aesthetics, Duchamp's readymades, sixties meta-art.",
-      "degree": 15
+      "degree": 15,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "nature",
       "title": "Nature",
       "blurb": "Natural phenomena as works of visual art",
-      "degree": 12
+      "degree": 12,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "nature/quotes",
       "title": "The Aesthetics of Nature",
       "blurb": "The aesthetics of nature",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing",
       "title": "nothing",
       "blurb": "No description.",
-      "degree": 66
+      "degree": 66,
+      "category": "nothing",
+      "isCategoryRoot": true
     },
     {
       "id": "nothing/blindness",
       "title": "Blindfolds, dark glasses, closed eyes",
       "blurb": "Darkness in visual art: Blindfolds, dark glasses, closed eyes, blindness.",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/concept",
       "title": "conceptual voids",
       "blurb": "Meaningless signs in modern art.",
-      "degree": 9
+      "degree": 9,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/concept/no-show",
       "title": "No Show",
       "blurb": "There is no exhibition. (Ben Vautier, Robert Barry.)",
-      "degree": 9
+      "degree": 9,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/concept/rien",
       "title": "Nothing as a concept",
       "blurb": "\"Nothing\" as a concept: explicit statements.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/concept/secret",
       "title": "Secret art",
       "blurb": "Secrets as artworks.",
-      "degree": 16
+      "degree": 16,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/box",
       "title": "Box In",
       "blurb": "Secrets as artworks.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/bury",
       "title": "bury",
       "blurb": "Eliminating the object: Burials.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/cover",
       "title": "coverings",
       "blurb": "Wrapping (empaquetage) in modern art.",
-      "degree": 13
+      "degree": 13,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/cover/christo",
       "title": "Christo: Walls&Covers",
       "blurb": "Christo Javacheff: Walls, Fences, Showcases, Store Fronts, Curtains.",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/cover/rotella-copertura",
       "title": "Rotella: Coperture",
       "blurb": "Mimmo Rotella's",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/uebermalung",
       "title": "Uebermalung",
       "blurb": "\u00dcbermalung.",
-      "degree": 10
+      "degree": 10,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/uebermalung/rainer",
       "title": "Arnulf Rainer: \u00dcbermalungen",
       "blurb": "\u00dcbermalungen von Arnulf Rainer.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/cover-up/uebermalung/soulages",
       "title": "Pierre Soulages",
       "blurb": "\u00dcbermalungen von Arnulf Rainer.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/darkness",
       "title": "Darkness",
       "blurb": "Darkness in art: From 19th century landscape gardens to Anish Kapoor.",
-      "degree": 10
+      "degree": 10,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/darkness/kapoor",
       "title": "Darkness by Anish Kapoor",
       "blurb": "Darkness in art: Anish Kapoor.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/depiction",
       "title": "depictions of nothing",
       "blurb": "Depictions of nothing.",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/depiction/maps",
       "title": "Empty Maps",
       "blurb": "Empty maps: Lewis Carroll and Art & Language.",
-      "degree": 10
+      "degree": 10,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/depiction/realist",
       "title": "Paintings of absence",
       "blurb": "Depictions of nothing in 20th-century painting: Magritte, Lichtenstein, Gnoli, etc.",
-      "degree": 8
+      "degree": 8,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/depiction/romantic",
       "title": "Depicting the void",
       "blurb": "Antecedents of the monochrome in 17th century and romantic painting.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/index-visual",
       "title": "nothing to see",
       "blurb": "Nothing to see.",
-      "degree": 28
+      "degree": 28,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/invisible",
       "title": "Invisible Things",
       "blurb": "Invisible phenomena as artworks.",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/invisible/electromagnetic",
       "title": "Invisible Things",
       "blurb": "Invisible phenomena as artworks.",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors",
       "title": "mirrors",
       "blurb": "Mirrors in late twentieth-century painting.",
-      "degree": 15
+      "degree": 15,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/christian-megert",
       "title": "Christian Megert",
       "blurb": "Mirror pieces by Christian Megert.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/heinz-mack",
       "title": "Heinz Mack",
       "blurb": "Reflection Pieces by Heinz Mack",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/kapoor",
       "title": "Anish Kapoor",
       "blurb": "Mirrors by Anish Kapoor",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/koons",
       "title": "Jeff Koons",
       "blurb": "Mirrors by Jeff Koons",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/lichtenstein",
       "title": "Lichtenstein",
       "blurb": "Mirrors by Roy Lichtenstein",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/luther",
       "title": "Luther",
       "blurb": "Mirror Pieces by Adolphe Luther",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/pistoletto",
       "title": "Pistoletto",
       "blurb": "Mirror Pieces by Michelangelo Pistoletto",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/mirrors/richter",
       "title": "Gerhard Richter",
       "blurb": "Mirrors by Gerhard Richter",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome",
       "title": "monochrome",
       "blurb": "monochrome painting and its history",
-      "degree": 29
+      "degree": 29,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/1-d",
       "title": "line",
       "blurb": "Olga Rozanova:\n\nUntitled,1917/1918",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/back",
       "title": "Canvas Back",
       "blurb": "The back of the canvas.",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/back/lichtenstein",
       "title": "Stretcher Frames",
       "blurb": "Stretcher Frames by Roy Lichtenstein",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/black",
       "title": "Black",
       "blurb": "Monochrome black painting.",
-      "degree": 12
+      "degree": 12,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/black/herbert-zangs",
       "title": "Herbert Zangs",
       "blurb": "Black monochromes by Herbert Zangs.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/colored",
       "title": "Color",
       "blurb": "Colored monochrome paintings.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/depiction",
       "title": "Depicting the monochrome",
       "blurb": "Paintings depicting monochromes. (The monochrome as an iconic motif in 20th-century painting.)",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/depiction/roger-raveel",
       "title": "Roger Raveel",
       "blurb": "Het lege vierkant in het werk van Roger Raveel.",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/gold",
       "title": "gold",
       "blurb": "Gold monochrome paintings.",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/gold/klein",
       "title": "Yves Klein: Monogolds",
       "blurb": "Yves Klein's Monogolds: Gold monochrome paintings (1959-1962).",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/gold/mathias-goeritz",
       "title": "Mathias Goeritz",
       "blurb": "Gold monochrome paintings by Mathias Goeritz.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/grey",
       "title": "grey",
       "blurb": "Grey monochrome paintings.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/incoherents",
       "title": "Les Incoherents",
       "blurb": "Early monochromes from the Expositions des Incoherents",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/light",
       "title": "UniformLight",
       "blurb": "Light as art.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/malevich-rodchenko",
       "title": "Malevich, Rodchenko and the Monochrome",
       "blurb": "Kazimir Malevich, Aleksandr Rodchenko, and the history of the monochrome.",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/malevich-rodchenko/suprematism",
       "title": "Suprematism",
       "blurb": "The algebra of Suprematism (Kazimir Malevich, 1915-1920).",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/rauschenberg",
       "title": "Rauschenberg",
       "blurb": "Robert Rauschenberg's monochromes",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/monochrome/white",
       "title": "white",
       "blurb": "White monochrome paintings.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/music/monotone",
       "title": "monotone music",
       "blurb": "Monotone Music.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/music/silence",
       "title": "silence",
       "blurb": "Nothing as art. Nothing in art.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/quotes",
       "title": "About Nothing",
       "blurb": "Quotes about nothing.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space",
       "title": "void",
       "blurb": "the aesthetics of empty space",
-      "degree": 25
+      "degree": 25,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/containers",
       "title": "Empty Containers",
       "blurb": "Empty containers: empty showcases, crates, boxes and suitcases by Yves Klein, Christo, Jan Henderikse, Joseph Beuys, Donald Judd, Miroslaw Balka and Stefan Brueggemann.",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/frames",
       "title": "Empty Frames",
       "blurb": "Frames without canvas in fifties and sixties painting.",
-      "degree": 12
+      "degree": 12,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/frames/christian-eckart",
       "title": "Eidolon",
       "blurb": "Empty Frames: Christian Eckart's \"Eidolon\" Series (1989)",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/frames/gerold-miller",
       "title": "Gerold Miller",
       "blurb": "Empty Frames by Gerold Miller",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/frames/siegfried-cremer",
       "title": "Siegfried Cremer",
       "blurb": "Empty Frames by Siegfried Cremer.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes",
       "title": "Holes",
       "blurb": "Holes and pits in modern art.",
-      "degree": 22
+      "degree": 22,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/barbara-hepworth",
       "title": "Holes / Barbara Hepworth",
       "blurb": "Holes by Barbara Hepworth.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/ben",
       "title": "Holes / Ben",
       "blurb": "Holes by Ben Vautier.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/burri-jute",
       "title": "Sacchi",
       "blurb": "Alberto Burri's \"Sacchi\"",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/fontana",
       "title": "Holes / Lucio Fontana",
       "blurb": "Holes by Lucio Fontana. (Sculpture and paintings.)",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/gerold-miller",
       "title": "Holes / Gerold Miller",
       "blurb": "Gerold Miller's Instant Vision series (2005).",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/klein",
       "title": "Holes / Yves Klein",
       "blurb": "Paintings with  holes by Yves Klein (1957).",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/lee-bontecou",
       "title": "Lee Bontecou",
       "blurb": "Lee Bontecou.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/manolo-millares",
       "title": "Manolo Millares",
       "blurb": "Michael Heizer's Mass Displacements.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/maryellen-latas",
       "title": "Maryellen Latas",
       "blurb": "Maryellen Latas.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/michael-heizer",
       "title": "Holes by Michael Heizer",
       "blurb": "Michael Heizer's Mass Displacements.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/holes/steven-parrino",
       "title": "Holes by Steven Parrino",
       "blurb": "Holes in the oeuvre of Steven Parrino.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/klein",
       "title": "Monochromes",
       "blurb": "Monochromes in classical avant-garde painting.",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/klein/blue",
       "title": "Monochromes",
       "blurb": "Monochromes in classical avant-garde painting.",
-      "degree": 4
+      "degree": 4,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/vide",
       "title": "Empty Space",
       "blurb": "Empty space in modern art.",
-      "degree": 7
+      "degree": 7,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/vide/room",
       "title": "Empty Space",
       "blurb": "Empty space in modern art.",
-      "degree": 6
+      "degree": 6,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/space/vide/spot",
       "title": "Empty Spots",
       "blurb": "Empty pedestals and similar invisible artworks.",
-      "degree": 5
+      "degree": 5,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/text",
       "title": "Empty Texts",
       "blurb": "Empty texts.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/text/reimann",
       "title": "Empty Texts",
       "blurb": "Empty texts.",
-      "degree": 3
+      "degree": 3,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "nothing/web",
       "title": "Nothing Online",
       "blurb": "Empty web-pages.",
-      "degree": 2
+      "degree": 2,
+      "category": "nothing",
+      "isCategoryRoot": false
     },
     {
       "id": "physics",
       "title": "physics",
       "blurb": "physics as art.",
-      "degree": 7
+      "degree": 7,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "physics/gravity",
       "title": "gravity",
       "blurb": "Because we are accustomed every moment to\nobserve the difficulty with which things are raised in opposition\nto the impulse of gravity; the idea of ascending always implies\nthe notion of force exerted in overcoming this\u2026",
-      "degree": 8
+      "degree": 8,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "physics/gravity/drop",
       "title": "to drop",
       "blurb": "Process Art: Gravity: Dropping.",
-      "degree": 4
+      "degree": 4,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "physics/gravity/drop/motion-law-experiments",
       "title": "experiments with falling bodies",
       "blurb": "Process Art: Gravity: Dropping.",
-      "degree": 4
+      "degree": 4,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "physics/gravity/fall",
       "title": "Fall",
       "blurb": "",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "physics/vacuum",
       "title": "vacuum",
       "blurb": "performances demonstrating the vacuum.",
-      "degree": 6
+      "degree": 6,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "process",
       "title": "process",
       "blurb": "physical/chemical processes     generating works of visual art",
-      "degree": 58
+      "degree": 58,
+      "category": "process",
+      "isCategoryRoot": true
     },
     {
       "id": "process/blast",
       "title": "blast",
       "blurb": "Process art: explosion.",
-      "degree": 3
+      "degree": 3,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn",
       "title": "fire",
       "blurb": "fire in twentieth-century  process-art",
-      "degree": 16
+      "degree": 16,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/arman",
       "title": "Arman",
       "blurb": "Arman: burnt Instruments",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/aubertin",
       "title": "Bernard Aubertin",
       "blurb": "Bernard Aubertin: Livres Br\u00fbl\u00e9s & Dessins de Feu",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/boyle",
       "title": "burning slides",
       "blurb": "Burning slide projections. (Mark Boyle, Paul Panhuysen.)",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/breuer",
       "title": "Breuer",
       "blurb": "Marco Breuer: Fire Photography",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/burri",
       "title": "Fire",
       "blurb": "Natural phenomena as works of visual art",
-      "degree": 5
+      "degree": 5,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/klein",
       "title": "klein",
       "blurb": "Yves Klein: Peintures de Feu",
-      "degree": 5
+      "degree": 5,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/latham",
       "title": "john latham",
       "blurb": "john latham's book burnings",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/peeters",
       "title": "Henk Peeters: Pyrographies",
       "blurb": "Henk Peeters: Pyrographies",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/piene",
       "title": "Fire",
       "blurb": "Natural phenomena as works of visual art",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/raphael-montanez-ortiz",
       "title": "Raphael Montanez Ortiz: Archeological Finds",
       "blurb": "Henk Peeters: Pyrographies",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/burn/vautier",
       "title": "burn the louvre",
       "blurb": "Ben Vautier's pyromania projects.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/condensation",
       "title": "steam",
       "blurb": "unstable media: the aggregation states of water",
-      "degree": 3
+      "degree": 3,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/drop",
       "title": "to drop",
       "blurb": "Process Art: Gravity: Dropping.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/drip",
       "title": "dripping",
       "blurb": "Process Art: Pouring.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/flow",
       "title": "flowing and trickling",
       "blurb": "Process Art: Pouring.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/pour",
       "title": "pour",
       "blurb": "Process Art: Pour.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/swirl",
       "title": "swirling",
       "blurb": "Process Art: Pouring.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/thrash",
       "title": "thrash",
       "blurb": "Process Art: Thrash.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/gravity-liquid/throw",
       "title": "throwing paint",
       "blurb": "Process Art: Pouring.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/grind",
       "title": "to grind",
       "blurb": "Process Art: Grinding",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/implosion",
       "title": "implosions",
       "blurb": "Process art: implosion.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/liquid-projection",
       "title": "light shows",
       "blurb": "1960's light shows.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/rub",
       "title": "rub",
       "blurb": "Process Art: Erasure",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/rust",
       "title": "rust",
       "blurb": "Andy Warhol's \"Oxidation Paintings\".",
-      "degree": 3
+      "degree": 3,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/shatter",
       "title": "shatter",
       "blurb": "Process art: shattering.",
-      "degree": 3
+      "degree": 3,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/smash",
       "title": "smash",
       "blurb": "Process art: smashing.",
-      "degree": 7
+      "degree": 7,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/smash/arman",
       "title": "arman's smashed instruments",
       "blurb": "les col\u00e8res d'arman",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/smash/guitars",
       "title": "smashed guitars",
       "blurb": "smashed guitars",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/smash/luther",
       "title": "smashed glass",
       "blurb": "smashed glass by adolf luther and werner ruhnau",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/smash/ortiz",
       "title": "ortiz: piano smashings",
       "blurb": "piano destruction pieces by raphael montanez ortiz",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/squeeze",
       "title": "squeeze",
       "blurb": "compression art.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/tear",
       "title": "decollage",
       "blurb": "Process Art: D\u00e9collage.",
-      "degree": 8
+      "degree": 8,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/tear/dufrene",
       "title": "Fran\u00e7ois Dufr\u00eane",
       "blurb": "Process Art: D\u00e9collage.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/tear/hains",
       "title": "Raymond Hains",
       "blurb": "D\u00e9collages by Raymond Hains.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/tear/rotella",
       "title": "Mimmo Rotella",
       "blurb": "D\u00e9collages by Mimmo Rotella.",
-      "degree": 5
+      "degree": 5,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/tear/villegle",
       "title": "Jacques de la Villegl\u00e9",
       "blurb": "D\u00e9collages by Jacques de la Villegl\u00e9.",
-      "degree": 4
+      "degree": 4,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/vibration/animal",
       "title": "Animal Art",
       "blurb": "Mechanical expressionism by animals: donkeys, monkeys, cats, elephants.",
-      "degree": 7
+      "degree": 7,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/vibration/animal/schretlen",
       "title": "OVER DE WORTELS VAN CREATIVITEIT",
       "blurb": "OVER DE WORTELS VAN CREATIVITEIT.",
-      "degree": 2
+      "degree": 2,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/vibration/chladni-lissajous",
       "title": "harmonic vibrations",
       "blurb": "automatic art by mechanical vibrations.",
-      "degree": 5
+      "degree": 5,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "process/vibration/metamatic",
       "title": "automatic expressionism",
       "blurb": "Tinguely's Meta-Matic's; and other mechanical methods for generating expressive visual art",
-      "degree": 9
+      "degree": 9,
+      "category": "process",
+      "isCategoryRoot": false
     },
     {
       "id": "qend-art",
       "title": "anti-artistic positions",
       "blurb": "readymade objects as artworks",
-      "degree": 13
+      "degree": 13,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "qlife",
       "title": "life as art",
       "blurb": "Life considered as an artwork",
-      "degree": 5
+      "degree": 5,
+      "category": null,
+      "isCategoryRoot": false
     },
     {
       "id": "something",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 12
+      "degree": 12,
+      "category": "something",
+      "isCategoryRoot": true
     },
     {
       "id": "something/bags",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "something/balls",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "something/blocks",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "something/poles",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "something/rolls",
       "title": "something",
       "blurb": "elementary shapes and elementary non-shapes",
-      "degree": 2
+      "degree": 2,
+      "category": "something",
+      "isCategoryRoot": false
     },
     {
       "id": "things",
       "title": "readymades &c.",
       "blurb": "readymade objects as artworks",
-      "degree": 37
+      "degree": 37,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied",
       "title": "CopyArt",
       "blurb": "Copies of art as art.",
-      "degree": 7
+      "degree": 7,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied/bidlo",
       "title": "Bidlo",
       "blurb": "Mike Bidlo's Copy Art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied/eric-doeringer",
       "title": "Doeringer",
       "blurb": "Eric Doeringer's Copy Art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied/levine",
       "title": "SherryLevine",
       "blurb": "Sherry Levine's Copy Art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied/pettibone",
       "title": "Pettibone",
       "blurb": "Richard Pettibone's Copy Art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/art-copied/sturtevant",
       "title": "Sturtevant",
       "blurb": "Elaine Sturtevant's Copy Art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/cast",
       "title": "cast",
       "blurb": "Replicated objects as art: metal casts.",
-      "degree": 9
+      "degree": 9,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/collections",
       "title": "Collections",
       "blurb": "Compound readymades and accumulations of readymades. (From Man Ray to John Armleder.)",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/collections/arman",
       "title": "Arman",
       "blurb": "Arman's Accumulations",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/collections/spoerri",
       "title": "Spoerri",
       "blurb": "Tableaux-pi\u00e8ges by Daniel Spoerri.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/collections/steinbach",
       "title": "Steinbach",
       "blurb": "Haim Steinbach: Readymades on shelves.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/combine-paintings",
       "title": "CombinePaintings",
       "blurb": "Combine Paintings: the juxtaposition of object and painting.",
-      "degree": 4
+      "degree": 4,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/composite/stacks",
       "title": "Stacks",
       "blurb": "Stacks: One thing on top of another.",
-      "degree": 2
+      "degree": 2,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/copied",
       "title": "copies",
       "blurb": "Replicated objects as art.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/covered",
       "title": "covered",
       "blurb": "Objects covered.",
-      "degree": 7
+      "degree": 7,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/covered/kusama",
       "title": "covered",
       "blurb": "Objects covered.",
-      "degree": 6
+      "degree": 6,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/enlarged",
       "title": "enlargements",
       "blurb": "Transformed objects as art: Enlargement.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/immersed",
       "title": "Immersions",
       "blurb": "Things immersed into the canvas.",
-      "degree": 6
+      "degree": 6,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/painted",
       "title": "Painted",
       "blurb": "Painted things.",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/readymade",
       "title": "Readymades",
       "blurb": "Unaltered objects as art.",
-      "degree": 15
+      "degree": 15,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/readymade/aesthetics-of-reality",
       "title": "the aesthetics of reality",
       "blurb": "readymade objects as artworks",
-      "degree": 8
+      "degree": 8,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/readymade/duchamp/text",
       "title": "Marcel Duchamp",
       "blurb": "Original texts by Marcel Duchamp",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/readymade/literature",
       "title": "readymade literature",
       "blurb": "Readymade texts as lierature, and readymade situations as theatre. (Some historical examples.)",
-      "degree": 9
+      "degree": 9,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/readymade/quotes",
       "title": "reality as art",
       "blurb": "readymade objects as artworks",
-      "degree": 11
+      "degree": 11,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped",
       "title": "Wrappings",
       "blurb": "Wrappings, empaquetages.",
-      "degree": 16
+      "degree": 16,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/christo",
       "title": "christo",
       "blurb": "Christo's empaquetages.",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/delete",
       "title": "wrappings",
       "blurb": "Wrappings, empaquetages, etc.",
-      "degree": 4
+      "degree": 4,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/erik-dietman",
       "title": "Dietman",
       "blurb": "Wrappings by Erik Dietman",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/magritte",
       "title": "Magritte",
       "blurb": "Wrappings by Ren\u00e9 Magritte.",
-      "degree": 5
+      "degree": 5,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/man-ray",
       "title": "Wrappings by Man Ray",
       "blurb": "Wrappings by Man Ray.",
-      "degree": 3
+      "degree": 3,
+      "category": "everything",
+      "isCategoryRoot": false
     },
     {
       "id": "things/wrapped/muehl",
       "title": "Otto Muehl",
       "blurb": "Wrapping by Otto Muehl.",
-      "degree": 2
+      "degree": 2,
+      "category": "everything",
+      "isCategoryRoot": false
     }
   ],
   "links": [
@@ -7593,6 +8373,48 @@
     {
       "source": "things/wrapped",
       "target": "things/wrapped/muehl"
+    }
+  ],
+  "categories": [
+    {
+      "id": "concept",
+      "label": "Concept"
+    },
+    {
+      "id": "life",
+      "label": "Life"
+    },
+    {
+      "id": "everything",
+      "label": "Everything"
+    },
+    {
+      "id": "algorithmic-art",
+      "label": "Algorithm"
+    },
+    {
+      "id": "anything",
+      "label": "Anything"
+    },
+    {
+      "id": "kinetics",
+      "label": "Mechanics"
+    },
+    {
+      "id": "something",
+      "label": "Something"
+    },
+    {
+      "id": "process",
+      "label": "Process"
+    },
+    {
+      "id": "destruction",
+      "label": "Destruction"
+    },
+    {
+      "id": "nothing",
+      "label": "Nothing"
     }
   ]
 }

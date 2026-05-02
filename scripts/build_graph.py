@@ -41,6 +41,56 @@ CONTENT_DIR = ROOT / "content"
 PUBLIC_DIR = ROOT / "public"
 OUT_FILE = PUBLIC_DIR / "graph.json"
 
+# Top-level categories surfaced by the legacy homepage. Mirrors topOrder in
+# Sidebar.astro — must stay in sync.
+TOP_ORDER = [
+    "concept",
+    "life",
+    "everything",
+    "algorithmic-art",
+    "anything",
+    "kinetics",
+    "something",
+    "process",
+    "destruction",
+    "nothing",
+]
+TOP_LABELS: dict[str, str] = {
+    "concept": "Concept",
+    "life": "Life",
+    "everything": "Everything",
+    "algorithmic-art": "Algorithm",
+    "anything": "Anything",
+    "kinetics": "Mechanics",
+    "something": "Something",
+    "process": "Process",
+    "destruction": "Destruction",
+    "nothing": "Nothing",
+}
+# Virtual reparenting (mirrors Sidebar.astro virtualParents): legacy top-level
+# slugs the homepage doesn't link to are folded into their natural parent.
+VIRTUAL_PARENTS: dict[str, str] = {
+    "things": "everything",
+    "nature": "everything",
+    "physics": "nature",
+    "ego": "life",
+    "informe": "something",
+}
+
+
+def resolve_category(slug: str) -> str | None:
+    """Return the top-level category slug a given page belongs to, after
+    virtualParents reparenting. None for pages with no category (e.g. /index,
+    /about, /meta, /qend-art) so the client can render them outside clusters."""
+    if not slug or slug == "index":
+        return None
+    head = slug.split("/")[0]
+    seen = set()
+    while head in VIRTUAL_PARENTS and head not in seen:
+        seen.add(head)
+        head = VIRTUAL_PARENTS[head]
+    return head if head in TOP_LABELS else None
+
 
 def first_paragraph_blurb(blocks: list, limit: int = 220) -> str:
     """First non-trivial paragraph text from a page's blocks, truncated."""
@@ -151,15 +201,31 @@ def main() -> None:
             "title": slug_to_title[s],
             "blurb": slug_to_blurb.get(s, ""),
             "degree": degree[s],
+            # category = top-level cluster slug (after virtualParents); or
+            # null for the homepage and the four root-level essays. Pages
+            # whose own slug *is* a category (e.g. "nothing") get themselves
+            # as the category — they act as the cluster's anchor node.
+            "category": resolve_category(s),
+            "isCategoryRoot": s in TOP_LABELS,
         }
         for s in sorted(kept)
     ]
     links = [{"source": a, "target": b} for a, b in sorted(edges)]
 
+    categories = [
+        {"id": slug, "label": TOP_LABELS[slug]}
+        for slug in TOP_ORDER
+        if slug in slug_to_title  # only emit categories that survived as nodes
+    ]
+
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
     with OUT_FILE.open("w") as f:
-        json.dump({"nodes": nodes, "links": links}, f, indent=2)
-    print(f"wrote {OUT_FILE}")
+        json.dump(
+            {"nodes": nodes, "links": links, "categories": categories},
+            f,
+            indent=2,
+        )
+    print(f"wrote {OUT_FILE} ({len(categories)} categories)")
 
 
 if __name__ == "__main__":

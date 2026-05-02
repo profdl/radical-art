@@ -33,7 +33,7 @@ function shuffle<T>(arr: T[]): T[] {
 export default function Gallery({ items, sections }: Props) {
   const [query, setQuery] = useState("");
   const [section, setSection] = useState<string>("");
-  const [sort, setSort] = useState<SortKey>("page");
+  const [sort, setSort] = useState<SortKey>("random");
   const [seed, setSeed] = useState(0);
   const [visible, setVisible] = useState(PAGE_SIZE);
 
