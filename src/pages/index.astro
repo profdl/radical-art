@@ -53,27 +53,29 @@ const sections = sectionsList.map((s) => ({
   </header>
   <hr class="rule" />
 
-  <section class="pt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10">
-    {
-      sections.map((s) => (
-        <a href={withBase("/" + s.slug)} class="group block">
-          {s.sample && s.sample.data.images[0] ? (
-            <div class="aspect-[4/3] mb-3 overflow-hidden bg-[color:var(--color-rule-light)]">
-              <img
-                src={withBase(s.sample.data.images[0].src)}
-                alt={s.sample.data.images[0].alt || s.name}
-                loading="lazy"
-                class="h-full w-full object-cover"
-              />
-            </div>
-          ) : (
-            <div class="aspect-[4/3] mb-3 border border-[color:var(--color-rule-light)]" />
-          )}
-          <p class="h-detail group-hover:underline underline-offset-4">{s.name}</p>
-          <p class="section-label mt-1">{s.count} pages</p>
-        </a>
-      ))
-    }
+  <section class="pt-8">
+    <ul class="hub-grid">
+      {
+        sections.map((s) => (
+          <li>
+            <a href={withBase("/" + s.slug)} class="hub-card">
+              <span class="hub-card-frame">
+                {s.sample && s.sample.data.images[0] ? (
+                  <img
+                    src={withBase(s.sample.data.images[0].src)}
+                    alt={s.sample.data.images[0].alt || s.name}
+                    loading="lazy"
+                  />
+                ) : (
+                  <span class="hub-card-empty" />
+                )}
+              </span>
+              <span class="hub-card-label">{s.name}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
   </section>
 
 </BaseLayout>
