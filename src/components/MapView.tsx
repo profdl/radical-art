@@ -97,6 +97,20 @@ export default function MapView() {
     byId: Map<string, PlacedNode>;
   }>({ placed: [], links: [], viewNeighbors: new Map(), byId: new Map() });
   const handleNodeClickRef = useRef<(n: PlacedNode | null) => void>(() => {});
+  // Bumped whenever the *content* changes (expand/collapse, graph load) — used
+  // to trigger an auto-center. Plain resizes do NOT bump this, so panning the
+  // viewport survives a window resize or panel toggle.
+  const recenterTokenRef = useRef(0);
+  const lastRecenterTokenRef = useRef(-1);
+
+  // Whenever the *content* set changes (graph load, expand/collapse), schedule
+  // an auto-center by bumping the token. We use useMemo (not useEffect) so the
+  // bump is visible to the draw effect on the same render — the draw effect
+  // checks the token and applies the new transform synchronously, before the
+  // first paint with the new layout. That avoids the one-frame flash where
+  // the new layout is drawn at the *previous* transform (which made expanding
+  // "Nothing" look like the map disappeared while it loaded).
+  useMemo(() => { recenterTokenRef.current += 1; }, [graph, expanded]);
 
   // ---- load graph.json -----------------------------------------------------
   useEffect(() => {
@@ -752,49 +766,51 @@ export default function MapView() {
 
       ctx.restore();
     };
+    // Install the new draw closure FIRST so any zoom events fired below
+    // (via zb.transform) draw against the new layout, not the previous one.
     drawRef.current = draw;
+
+    // If the *content* changed (expand/collapse/graph load) since the last
+    // draw, recenter the viewport on the new layout BEFORE drawing. Doing
+    // this here — instead of in a separate effect — guarantees the first
+    // paint with the new layout uses the new transform. Otherwise React
+    // commits the draw effect first (which paints with the OLD transform,
+    // putting most content off-screen) and runs the recenter effect after,
+    // producing a flash where the map looks empty.
+    const zb = zoomBehaviorRef.current;
+    const { w: cw, h: ch } = sizeRef.current;
+    const needsRecenter = recenterTokenRef.current !== lastRecenterTokenRef.current;
+    if (needsRecenter && zb && cw > 200 && ch > 200 && layout.placed.length > 0) {
+      let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+      for (const n of layout.placed) {
+        if (n.x < minX) minX = n.x;
+        if (n.y < minY) minY = n.y;
+        if (n.x > maxX) maxX = n.x;
+        if (n.y > maxY) maxY = n.y;
+      }
+      const bbW = Math.max(maxX - minX, 1);
+      const bbH = Math.max(maxY - minY, 1);
+      const ccx = (minX + maxX) / 2;
+      const ccy = (minY + maxY) / 2;
+      const margin = 80;
+      // Guard against tiny canvases mid-transition: clamp to a positive k.
+      const kFit = Math.min((cw - margin * 2) / bbW, (ch - margin * 2) / bbH, 1);
+      const k = kFit > 0.05 ? kFit : 1;
+      const tx = cw / 2 - ccx * k;
+      const ty = ch / 2 - ccy * k;
+      // Push the new transform through the zoom behavior so its internal
+      // state stays consistent with what we're rendering. This fires the
+      // "zoom" event, which updates transformRef and triggers a draw against
+      // the new closure we just installed.
+      select(canvas).call(zb.transform, zoomIdentity.translate(tx, ty).scale(k));
+      lastRecenterTokenRef.current = recenterTokenRef.current;
+    }
+
     draw();
   }, [graph, layout, expanded]);
 
   // Repaint when state that draw() reads changes, since there's no animation loop.
   useEffect(() => { drawRef.current(); }, [hoverId, selectedId, query, layout]);
-
-  // Auto-center the viewport on the visible content whenever the layout
-  // changes. We always re-center on layout change — including after the user
-  // has manually panned — because expanding/collapsing introduces new
-  // content that ought to be in view.
-  useEffect(() => {
-    if (!layout.placed.length) return;
-    const canvas = canvasRef.current;
-    const zb = zoomBehaviorRef.current;
-    if (!canvas || !zb) return;
-    const { w, h } = sizeRef.current;
-    if (!w || !h) return;
-    let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
-    for (const n of layout.placed) {
-      if (n.x < minX) minX = n.x;
-      if (n.y < minY) minY = n.y;
-      if (n.x > maxX) maxX = n.x;
-      if (n.y > maxY) maxY = n.y;
-    }
-    const bbW = Math.max(maxX - minX, 1);
-    const bbH = Math.max(maxY - minY, 1);
-    const cx = (minX + maxX) / 2;
-    const cy = (minY + maxY) / 2;
-    // Margin so the outermost labels aren't flush against the canvas edge.
-    const margin = 80;
-    const k = Math.min(
-      (w - margin * 2) / bbW,
-      (h - margin * 2) / bbH,
-      1, // never zoom past 1× — the layout already fits at 1× when it can.
-    );
-    const tx = w / 2 - cx * k;
-    const ty = h / 2 - cy * k;
-    const t = zoomIdentity.translate(tx, ty).scale(k);
-    // Apply via the zoom behavior so its internal state stays consistent.
-    // sourceEvent is undefined here, so the "userPanned" flag isn't set.
-    select(canvas).call(zb.transform, t);
-  }, [layout]);
 
   // ---- click handling ------------------------------------------------------
   const handleNodeClick = useCallback(
