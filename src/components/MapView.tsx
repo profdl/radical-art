@@ -1,6 +1,18 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { select } from "d3-selection";
 import { zoom, zoomIdentity, type ZoomBehavior } from "d3-zoom";
+import {
+  forceCenter,
+  forceCollide,
+  forceLink,
+  forceManyBody,
+  forceRadial,
+  forceSimulation,
+  forceX,
+  forceY,
+  type SimulationLinkDatum,
+  type SimulationNodeDatum,
+} from "d3-force";
 
 interface RawNode {
   id: string;
@@ -52,12 +64,32 @@ const FONT_LEAF = "500 13px \"IBM Plex Sans\", sans-serif";
 const FONT_CATEGORY = "600 15px \"IBM Plex Sans\", sans-serif";
 const FONT_HOMEPAGE = "600 15px \"IBM Plex Sans\", sans-serif";
 
-// Layout — fixed geometry. Categories sit on a circle around the center.
-// Each expanded category's children fan out on a small arc beyond the wheel.
+// Layout — force-directed simulation, seeded from a category wheel. The wheel
+// gives each category a stable angular slot around the homepage hub; a weak
+// radial/tangential anchor keeps that arrangement recognizable. Within each
+// category, children are seeded on a sector arc and then settle via charge +
+// link forces, so connected pages cluster while collision keeps markers and
+// labels from piling up.
 const WHEEL_RATIO = 0.26; // wheel radius as fraction of min(width, height)
 const ARC_INNER_GAP = 40; // px between root and start of children arc
 const ARC_RADIAL_STEP = 38; // px between concentric children rings
 const ARC_TANGENT_STEP = 60; // px between adjacent children on a ring
+
+// Force-simulation tuning. Values were chosen so the wheel arrangement stays
+// recognizable (categories near their starting angle) while connected children
+// visibly pull together. SIM_TICKS is high enough for dense clusters
+// (Nothing has 79 members) to settle without cooking the main thread on every
+// expand/collapse — the simulation runs synchronously inside useMemo.
+const SIM_TICKS = 280;
+const SIM_ALPHA_DECAY = 1 - Math.pow(0.001, 1 / SIM_TICKS);
+const CHARGE_LEAF = -110;
+const CHARGE_CATEGORY = -260;
+const CHARGE_HOMEPAGE = -420;
+const COLLIDE_PADDING = 12; // extra space around each node's collision radius (label headroom)
+const LINK_DISTANCE = 70;
+const LINK_STRENGTH = 0.18;
+const RADIAL_STRENGTH_CATEGORY = 0.55; // strong: keeps the wheel readable
+const RADIAL_STRENGTH_LEAF = 0.12; // weak: leaves drift toward connections
 
 export default function MapView() {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
@@ -183,91 +215,262 @@ export default function MapView() {
 
     const N = graph.categories.length;
 
-    // Place homepage hub at the center.
-    const homepage = indexes.byId.get("index");
-    if (homepage) {
-      placed.push({
-        ...homepage,
-        x: cx,
-        y: cy,
-        r: MARKER_HOMEPAGE,
-        collapsed: false,
+    // Per-node anchor info we'll feed into the force simulation. We build a
+    // seeded position (from the wheel layout) AND a radial target so a soft
+    // forceRadial can keep each cluster recognizable — without rigid pinning,
+    // connected nodes can still pull on each other.
+    type SimNode = SimulationNodeDatum & {
+      id: string;
+      r: number; // marker radius
+      collideR: number; // simulation collision radius
+      anchorR: number; // target distance from center
+      anchorStrength: number; // weight for the radial anchor force
+      seedX: number;
+      seedY: number;
+      isHomepage: boolean;
+      isCategoryRoot: boolean;
+      collapsed: boolean;
+      categorySeedAngle: number | null; // angular slot for soft tangential anchoring
+    };
+    const sims = new Map<string, SimNode>();
+    // Estimate label footprint without measuring on a canvas (we don't have
+    // one in scope here, and DOM measureText calls in a layout memo would be
+    // expensive). Average glyph widths for IBM Plex Sans at the sizes we use:
+    //   leaf 13px ~ 6.6px/char, category/homepage 15px ~ 7.6px/char.
+    // The collision radius is sized so a label drawn beside the node (the
+    // common placement) doesn't intrude into a neighbor's label region.
+    const estimateLabelWidth = (text: string, fontPx: number, weight: number): number => {
+      const perChar = fontPx <= 13 ? 6.6 : 7.6;
+      // Bold/semibold widens a touch; the category and homepage fonts are 600.
+      const weightMul = weight >= 600 ? 1.05 : 1.0;
+      return text.length * perChar * weightMul;
+    };
+    const addSim = (
+      id: string,
+      r: number,
+      seedX: number,
+      seedY: number,
+      anchorR: number,
+      anchorStrength: number,
+      flags: { isHomepage?: boolean; isCategoryRoot?: boolean; collapsed?: boolean; angle?: number | null } = {},
+    ) => {
+      const raw = indexes.byId.get(id);
+      const title = raw?.title ?? id;
+      const isBigLabel = !!(flags.isCategoryRoot || flags.isHomepage);
+      const labelW = estimateLabelWidth(title, isBigLabel ? 15 : 13, isBigLabel ? 600 : 500);
+      const labelH = isBigLabel ? 20 : 17;
+      // Collision radius reserves a circular zone large enough that a label
+      // placed beside this node won't crash into a neighbor's marker or
+      // label. Half the label width + the marker radius approximates a
+      // worst-case footprint when the label sits flush against the marker.
+      // We add a small constant pad so cluttered clusters still breathe.
+      const labelFootprint = Math.hypot(labelW * 0.5 + r, labelH * 0.5);
+      const collideR = Math.max(
+        r + COLLIDE_PADDING + (isBigLabel ? 14 : 6),
+        labelFootprint + (isBigLabel ? 6 : 4),
+      );
+      sims.set(id, {
+        id,
+        r,
+        collideR,
+        anchorR,
+        anchorStrength,
+        seedX,
+        seedY,
+        x: seedX,
+        y: seedY,
+        isHomepage: !!flags.isHomepage,
+        isCategoryRoot: !!flags.isCategoryRoot,
+        collapsed: !!flags.collapsed,
+        categorySeedAngle: flags.angle ?? null,
       });
+    };
+
+    // Homepage hub: pinned at center via fx/fy below.
+    if (indexes.byId.get("index")) {
+      addSim("index", MARKER_HOMEPAGE, cx, cy, 0, 0, { isHomepage: true });
     }
 
-    // Place the four uncategorized essays just outside the wheel at the top
-    // (they orbit the hub semantically — Kant/Duchamp/end-of-art commentary).
+    // Uncategorized essays orbit the hub near the top. Soft anchor at a small
+    // radius so they cluster near the homepage but can still spread.
     const otherUncat = indexes.uncategorized.filter((n) => n.id !== "index");
     if (otherUncat.length > 0) {
       const ringR = wheelR * 0.45;
       otherUncat.forEach((n, i) => {
-        // Spread inside the wheel, near the top (above the homepage).
         const spread = (i - (otherUncat.length - 1) / 2) * 0.45;
         const angle = -Math.PI / 2 + spread;
-        placed.push({
-          ...n,
-          x: cx + Math.cos(angle) * ringR,
-          y: cy + Math.sin(angle) * ringR,
-          r: MARKER_LEAF,
-          collapsed: false,
-        });
+        addSim(n.id, MARKER_LEAF, cx + Math.cos(angle) * ringR, cy + Math.sin(angle) * ringR, ringR, RADIAL_STRENGTH_LEAF, { angle });
       });
     }
 
-    // Place the 10 categories evenly around the wheel (top, clockwise).
+    // Categories — strong radial anchor so the wheel stays readable.
     const rootAngle = new Map<string, number>();
     graph.categories.forEach((c, i) => {
       const angle = -Math.PI / 2 + (i / Math.max(N, 1)) * Math.PI * 2;
       rootAngle.set(c.id, angle);
-      const root = indexes.byId.get(c.id);
-      if (!root) return;
+      if (!indexes.byId.get(c.id)) return;
       const isExpanded = expanded.has(c.id);
-      placed.push({
-        ...root,
-        x: cx + Math.cos(angle) * wheelR,
-        y: cy + Math.sin(angle) * wheelR,
-        r: isExpanded ? MARKER_CATEGORY_EXPANDED : MARKER_CATEGORY_COLLAPSED,
-        collapsed: !isExpanded,
-      });
+      addSim(
+        c.id,
+        isExpanded ? MARKER_CATEGORY_EXPANDED : MARKER_CATEGORY_COLLAPSED,
+        cx + Math.cos(angle) * wheelR,
+        cy + Math.sin(angle) * wheelR,
+        wheelR,
+        RADIAL_STRENGTH_CATEGORY,
+        { isCategoryRoot: true, collapsed: !isExpanded, angle },
+      );
     });
 
-    // For each expanded category, fan its children out on concentric arcs
-    // *outside* the wheel. The arc spans an angular sector centered on the
-    // category's pinned angle, sized to fit half the gap to its neighbors.
-    // Children fill ring-by-ring, low-degree first on the outer ring (so the
-    // most prominent members sit closest to the parent label).
-    const sectorHalf = Math.PI / Math.max(N, 1) * 0.92; // leaves a small margin between sectors
+    // Children of expanded categories — seeded on the sector arc, then let
+    // the simulation pull them toward their actual connections. The radial
+    // anchor is weak, so links across categories can visibly tug a node out
+    // of its home arc when warranted.
+    const sectorHalf = Math.PI / Math.max(N, 1) * 0.92;
     for (const c of graph.categories) {
       if (!expanded.has(c.id)) continue;
       const members = indexes.membersOf.get(c.id) ?? [];
       if (members.length === 0) continue;
       const angle = rootAngle.get(c.id) ?? 0;
 
-      // Start the inner ring at wheelR + gap, walk outward.
-      let placedCount = 0;
+      let seededCount = 0;
       let ring = 0;
-      while (placedCount < members.length) {
+      while (seededCount < members.length) {
         const ringR = wheelR + ARC_INNER_GAP + ring * ARC_RADIAL_STEP;
-        // How many fit on this ring's arc, given tangent spacing?
         const arcLen = sectorHalf * 2 * ringR;
         const fit = Math.max(1, Math.floor(arcLen / ARC_TANGENT_STEP));
-        const remaining = members.length - placedCount;
+        const remaining = members.length - seededCount;
         const onThisRing = Math.min(fit, remaining);
         for (let i = 0; i < onThisRing; i++) {
-          const m = members[placedCount + i];
+          const m = members[seededCount + i];
           const t = onThisRing === 1 ? 0.5 : i / (onThisRing - 1);
           const a = angle - sectorHalf + t * sectorHalf * 2;
-          placed.push({
-            ...m,
-            x: cx + Math.cos(a) * ringR,
-            y: cy + Math.sin(a) * ringR,
-            r: MARKER_LEAF,
-            collapsed: false,
-          });
+          addSim(
+            m.id,
+            MARKER_LEAF,
+            cx + Math.cos(a) * ringR,
+            cy + Math.sin(a) * ringR,
+            ringR,
+            RADIAL_STRENGTH_LEAF,
+            { angle: a },
+          );
         }
-        placedCount += onThisRing;
+        seededCount += onThisRing;
         ring++;
       }
+    }
+
+    // Build sim links from raw graph edges, but only between visible nodes.
+    // We'll later (after the simulation) collapse edges to category roots for
+    // the *rendered* link aggregation; the simulation uses the per-edge view.
+    type SimLink = SimulationLinkDatum<SimNode> & { source: string; target: string };
+    const simLinks: SimLink[] = [];
+    for (const l of graph.links) {
+      if (sims.has(l.source) && sims.has(l.target)) {
+        simLinks.push({ source: l.source, target: l.target });
+      } else {
+        // Edge from/to a hidden node: route to its category root if visible,
+        // so collapsed clusters still feel "pulled" by their external links.
+        const a = sims.has(l.source)
+          ? l.source
+          : indexes.byId.get(l.source)?.category ?? null;
+        const b = sims.has(l.target)
+          ? l.target
+          : indexes.byId.get(l.target)?.category ?? null;
+        if (a && b && a !== b && sims.has(a) && sims.has(b)) {
+          simLinks.push({ source: a, target: b });
+        }
+      }
+    }
+
+    const simNodes = Array.from(sims.values());
+
+    // Pin the homepage at the center. Pinning the categories instead of using
+    // a strong radial force was tempting, but radial-only lets the wheel
+    // breathe a little when expanded clusters tug their parent off-axis,
+    // which reads as "force-directed" rather than "rigid wheel".
+    const homepageSim = sims.get("index");
+    if (homepageSim) {
+      homepageSim.fx = cx;
+      homepageSim.fy = cy;
+    }
+
+    if (simNodes.length > 0) {
+      const sim = forceSimulation(simNodes)
+        .force(
+          "charge",
+          forceManyBody<SimNode>().strength((n) =>
+            n.isHomepage ? CHARGE_HOMEPAGE : n.isCategoryRoot ? CHARGE_CATEGORY : CHARGE_LEAF,
+          ),
+        )
+        .force(
+          "link",
+          forceLink<SimNode, SimLink>(simLinks)
+            .id((n) => n.id)
+            .distance(LINK_DISTANCE)
+            .strength(LINK_STRENGTH),
+        )
+        .force(
+          "collide",
+          // Strict collision is the legibility guarantee: full strength + many
+          // iterations so dense clusters (Nothing has 79 members) actually
+          // resolve their overlaps within SIM_TICKS rather than oscillating.
+          forceCollide<SimNode>().radius((n) => n.collideR).strength(1).iterations(4),
+        )
+        .force("center", forceCenter(cx, cy).strength(0.02))
+        // Soft radial anchor by node — keeps the wheel arrangement legible.
+        .force(
+          "radial",
+          forceRadial<SimNode>(
+            (n) => n.anchorR,
+            cx,
+            cy,
+          ).strength((n) => n.anchorStrength),
+        )
+        // Soft tangential anchor: pulls each category toward its angular
+        // slot, so e.g. "Concept" stays near the top even when its leaves
+        // tug it sideways. Implemented as forceX/forceY toward the seed
+        // position, scoped to nodes with a known angular slot.
+        .force(
+          "x",
+          forceX<SimNode>((n) => (n.categorySeedAngle != null ? n.seedX : cx)).strength((n) =>
+            n.isCategoryRoot ? 0.08 : 0.0,
+          ),
+        )
+        .force(
+          "y",
+          forceY<SimNode>((n) => (n.categorySeedAngle != null ? n.seedY : cy)).strength((n) =>
+            n.isCategoryRoot ? 0.08 : 0.0,
+          ),
+        )
+        .alpha(1)
+        .alphaDecay(SIM_ALPHA_DECAY)
+        .stop();
+      for (let i = 0; i < SIM_TICKS; i++) sim.tick();
+    }
+
+    // Translate simulation results into the PlacedNode list the renderer
+    // expects. Order matters for layered drawing only insofar as it affects
+    // hit-testing tie-breaks — keep homepage first, then categories, then
+    // leaves, matching the previous code.
+    const emitPlaced = (id: string) => {
+      const sn = sims.get(id);
+      const raw = indexes.byId.get(id);
+      if (!sn || !raw) return;
+      placed.push({
+        ...raw,
+        x: sn.x ?? sn.seedX,
+        y: sn.y ?? sn.seedY,
+        r: sn.r,
+        collapsed: sn.collapsed,
+      });
+    };
+    emitPlaced("index");
+    for (const n of otherUncat) emitPlaced(n.id);
+    for (const c of graph.categories) emitPlaced(c.id);
+    for (const c of graph.categories) {
+      if (!expanded.has(c.id)) continue;
+      const members = indexes.membersOf.get(c.id) ?? [];
+      for (const m of members) emitPlaced(m.id);
     }
 
     const byId = new Map<string, PlacedNode>();
