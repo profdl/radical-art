@@ -441,7 +441,10 @@ export default function MapView() {
 
       const selected = selectedRef.current;
       const hover = hoverRef.current;
-      const focusId = selected ?? hover;
+      // Hover wins over selection: hovering must always preview what a click
+      // would focus on, even when a node is already selected (the side panel
+      // tracks selection independently).
+      const focusId = hover ?? selected;
       const q = queryRef.current;
       const matchSet = q
         ? new Set(layout.placed.filter((n) => n.title.toLowerCase().includes(q) || n.id.toLowerCase().includes(q)).map((n) => n.id))
@@ -690,6 +693,21 @@ export default function MapView() {
         return cands;
       };
 
+      // Cache text metrics per (font, text) — measureText is a real DOM call
+      // and gets invoked thousands of times per draw via the candidate loop.
+      const metricCache = new Map<string, { w: number; h: number }>();
+      const getMetrics = (text: string, font: string) => {
+        const key = font + "|" + text;
+        let m = metricCache.get(key);
+        if (m) return m;
+        ctx.font = font;
+        const tm = ctx.measureText(text);
+        const ascent = tm.actualBoundingBoxAscent || 10;
+        const descent = tm.actualBoundingBoxDescent || 4;
+        m = { w: tm.width, h: ascent + descent };
+        metricCache.set(key, m);
+        return m;
+      };
       const measureRect = (
         text: string,
         font: string,
@@ -697,21 +715,16 @@ export default function MapView() {
         y: number,
         align: "left" | "right",
       ): Rect => {
-        ctx.font = font;
-        const m = ctx.measureText(text);
-        const ascent = m.actualBoundingBoxAscent || 10;
-        const descent = m.actualBoundingBoxDescent || 4;
-        const textW = m.width;
-        const textH = ascent + descent;
+        const m = getMetrics(text, font);
         const padX = 3 / t.k;
         const padY = 3 / t.k;
-        const x0 = align === "left" ? x : x - textW;
-        const x1 = align === "left" ? x + textW : x;
+        const x0 = align === "left" ? x : x - m.w;
+        const x1 = align === "left" ? x + m.w : x;
         return {
           x0: x0 - padX,
-          y0: y - textH / 2 - padY,
+          y0: y - m.h / 2 - padY,
           x1: x1 + padX,
-          y1: y + textH / 2 + padY,
+          y1: y + m.h / 2 + padY,
         };
       };
 
@@ -735,7 +748,10 @@ export default function MapView() {
           const lbl = overlapsLabel(rect) ? 1 : 0;
           const mk = overlapsMarker(rect, s.n.id) ? 1 : 0;
           const score = lbl * 2 + mk; // labels overlapping labels is worse than overlapping a tiny marker dot
-          if (score === 0) {
+          // Accept first "good enough" placement — a sole tiny marker overlap
+          // is acceptable and exhausting all ~60 candidates per label is the
+          // hot path that made dense clusters (Concept, Nothing) feel laggy.
+          if (score <= 1) {
             return { rect, x: c.x, y: c.y, align: c.align };
           }
           if (score < bestScore) {
@@ -780,6 +796,7 @@ export default function MapView() {
     const zb = zoomBehaviorRef.current;
     const { w: cw, h: ch } = sizeRef.current;
     const needsRecenter = recenterTokenRef.current !== lastRecenterTokenRef.current;
+    let recenterDrew = false;
     if (needsRecenter && zb && cw > 200 && ch > 200 && layout.placed.length > 0) {
       let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
       for (const n of layout.placed) {
@@ -804,13 +821,17 @@ export default function MapView() {
       // the new closure we just installed.
       select(canvas).call(zb.transform, zoomIdentity.translate(tx, ty).scale(k));
       lastRecenterTokenRef.current = recenterTokenRef.current;
+      // zb.transform fires the zoom handler synchronously, which calls
+      // drawRef.current() — so we already drew with the new transform.
+      recenterDrew = true;
     }
 
-    draw();
+    if (!recenterDrew) draw();
   }, [graph, layout, expanded]);
 
-  // Repaint when state that draw() reads changes, since there's no animation loop.
-  useEffect(() => { drawRef.current(); }, [hoverId, selectedId, query, layout]);
+  // Repaint when state that draw() reads changes (hover/select/query).
+  // `layout` is intentionally omitted — the layout effect above already draws.
+  useEffect(() => { drawRef.current(); }, [hoverId, selectedId, query]);
 
   // ---- click handling ------------------------------------------------------
   const handleNodeClick = useCallback(
@@ -900,7 +921,7 @@ export default function MapView() {
         />
         <div className="section-label">
           {graph ? `${graph.nodes.length} pages · ${graph.links.length} links` : "loading…"}
-          {!selectedId && hoverId && graph && (
+          {hoverId && graph && hoverId !== selectedId && (
             <span className="ml-4 text-[color:var(--color-ink)] normal-case tracking-normal font-normal">
               {indexes.byId.get(hoverId)?.title}
             </span>
