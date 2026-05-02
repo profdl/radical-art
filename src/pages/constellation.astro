@@ -138,18 +138,27 @@ const dataUrl = withBase("/constellation.json");
              negative inline margins to extend wider than the anchor for
              readability, but those don't affect layout width. */
       .constellation-center {
-        --frame-size: 200px;
+        --frame-size: 150px;
         position: absolute;
-        width: var(--frame-size);
-        transform: translate(-50%, calc(var(--frame-size) / -2));
+        /* Anchor sits at (cx, cy) — the visual center of the image. The
+           frame is centered on that anchor via its own translate(-50%, -50%);
+           the info text is placed below the frame using a max-height pad
+           equal to half the frame size, so title length never shifts the
+           image. This is critical for the traveler/center swap: the
+           traveler's center is at (cx, cy), so the real frame's center must
+           be too, regardless of image aspect ratio or info-text presence. */
         text-decoration: none;
         color: inherit;
         z-index: 3;
         cursor: pointer;
       }
       .constellation-center-frame {
-        width: var(--frame-size);
-        height: var(--frame-size);
+        position: absolute;
+        left: 0;
+        top: 0;
+        transform: translate(-50%, -50%);
+        max-width: var(--frame-size);
+        max-height: var(--frame-size);
         border-radius: 4px;
         overflow: hidden;
         background: #0a0a10;
@@ -158,19 +167,21 @@ const dataUrl = withBase("/constellation.json");
           0 0 60px rgba(245, 245, 240, 0.08),
           0 0 120px rgba(245, 245, 240, 0.04);
         transition: box-shadow 300ms ease, transform 300ms ease;
+        line-height: 0;
       }
       .constellation-center:hover .constellation-center-frame {
         box-shadow:
           0 0 0 1px rgba(245, 245, 240, 0.45),
           0 0 80px rgba(245, 245, 240, 0.18),
           0 0 160px rgba(245, 245, 240, 0.08);
-        transform: scale(1.02);
+        transform: translate(-50%, -50%) scale(1.02);
       }
       .constellation-center-frame img {
         display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+        max-width: var(--frame-size);
+        max-height: var(--frame-size);
+        width: auto;
+        height: auto;
       }
       /* Center info — page title + figure caption stacked under the
          center image. The whole .constellation-center anchor is the click
@@ -183,7 +194,15 @@ const dataUrl = withBase("/constellation.json");
          negative inline margins let it overflow the anchor's fixed width
          without changing the anchor's layout box. The image stays locked. */
       .constellation-center-info {
-        margin: 0.7rem -4rem 0;
+        position: absolute;
+        /* Anchor below the bottom of the *max* frame box, not the actual
+           image — so the title's vertical position doesn't shift when image
+           aspect ratio differs. Horizontal-centered on the (cx, cy) anchor
+           via translateX(-50%). */
+        left: 0;
+        top: calc(var(--frame-size) / 2 + 0.7rem);
+        transform: translateX(-50%);
+        width: calc(var(--frame-size) + 8rem);
         text-align: center;
       }
       .constellation-center-info-title {
@@ -214,7 +233,7 @@ const dataUrl = withBase("/constellation.json");
       .constellation-satellite {
         position: absolute;
         transform: translate(-50%, -50%);
-        background: #0a0a10;
+        background: transparent;
         border: 1px solid rgba(245, 245, 240, 0.15);
         padding: 0;
         cursor: pointer;
@@ -223,12 +242,17 @@ const dataUrl = withBase("/constellation.json");
         opacity: 0.78;
         z-index: 2;
         will-change: transform, opacity, left, top;
+        /* maxWidth/maxHeight set inline cap the longest edge (see
+           SatelliteSlot.size). The button shrink-wraps the image because
+           position:absolute with width:auto sizes to content. The image
+           itself carries the same max caps so it scales down preserving
+           aspect ratio — no letterbox dark area inside the button. */
+        line-height: 0;
       }
       .constellation-satellite img {
         display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+        width: auto;
+        height: auto;
       }
       .constellation-satellite:hover,
       .constellation-satellite.is-hover,
@@ -276,13 +300,13 @@ const dataUrl = withBase("/constellation.json");
         box-shadow:
           0 0 0 1px rgba(245, 245, 240, 0.25),
           0 0 60px rgba(245, 245, 240, 0.08);
-        will-change: transform, width, height, left, top, opacity;
+        will-change: transform, left, top, opacity;
       }
       .constellation-traveler img {
         display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+        width: auto;
+        height: auto;
+        will-change: max-width, max-height;
       }
 
       /* Satellite bloom-in: each satellite, when keyed-in fresh on a new
@@ -604,7 +628,7 @@ const dataUrl = withBase("/constellation.json");
       }
 
       @media (max-width: 720px) {
-        .constellation-center { --frame-size: 140px; }
+        .constellation-center { --frame-size: 110px; }
         .constellation-horizon { display: none; }
         .constellation-zodiac { font-size: 0.62rem; padding: 3px 6px; }
         .constellation-header { max-width: 60vw; }

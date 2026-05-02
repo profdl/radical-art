@@ -487,12 +487,12 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     }
     const N = satellites.length;
     const minDim = Math.min(stageSize.w || 800, stageSize.h || 600);
-    // Inner ring stays roughly where it was. Outer ring pulls inward (was
-    // 0.44) so it doesn't crowd the zodiac (now at 0.50). Gap between outer
-    // and zodiac is ~0.10 of minDim, enough room for a 64px outer thumbnail
-    // plus its label-fade buffer.
-    const innerRing = Math.max(170, minDim * 0.27);
-    const outerRing = Math.max(270, minDim * 0.40);
+    // Both rings sit well inside the zodiac (at ~0.50 of minDim) so the
+    // constellation reads as a contained shape, not pressed against the
+    // category labels. Outer ring lands at ~0.32, leaving ~0.18 of minDim
+    // breathing room between an outer thumbnail and a zodiac label.
+    const innerRing = Math.max(130, minDim * 0.20);
+    const outerRing = Math.max(210, minDim * 0.32);
 
     // Deterministic hash → [0,1) for the center id, rotates the ring start
     // so different constellations don't all begin at -π/2.
@@ -510,7 +510,7 @@ export default function Constellation({ basePath, dataUrl }: Props) {
         img,
         angle: base + jitterAngle,
         distance: innerRing + jitterRadius,
-        size: 110,
+        size: 84,
         parentIndex: -1,
       };
     });
@@ -543,7 +543,7 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           img,
           angle: branchAngle + jitterAngle,
           distance: outerRing + jitterRadius,
-          size: 44,
+          size: 36,
           parentIndex: parentIdx,
         });
       });
@@ -982,7 +982,8 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           // unmounts the moment it arrives — at the same instant the real
           // center is revealed with no fade, so the swap is invisible
           // (same image, same position, same size).
-          const targetSize = 200; // matches --frame-size in CSS
+          const targetSize = 150; // matches --frame-size in CSS
+          const size = isEnter ? traveler.fromSize : targetSize;
           return (
             <div
               key={`traveler-${traveler.id}`}
@@ -990,14 +991,20 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               style={{
                 left: isEnter ? fromX : cx,
                 top: isEnter ? fromY : cy,
-                width: isEnter ? traveler.fromSize : targetSize,
-                height: isEnter ? traveler.fromSize : targetSize,
                 opacity: isEnter ? 0.85 : 1,
-                transition: `left ${TRAVELER_MS}ms ${TRAVEL_EASING}, top ${TRAVELER_MS}ms ${TRAVEL_EASING}, width ${TRAVELER_MS}ms ${TRAVEL_EASING}, height ${TRAVELER_MS}ms ${TRAVEL_EASING}, opacity ${TRAVELER_MS}ms ease-out`,
+                transition: `left ${TRAVELER_MS}ms ${TRAVEL_EASING}, top ${TRAVELER_MS}ms ${TRAVEL_EASING}, opacity ${TRAVELER_MS}ms ease-out`,
               }}
               aria-hidden="true"
             >
-              <img src={tImg.src} alt="" />
+              <img
+                src={tImg.src}
+                alt=""
+                style={{
+                  maxWidth: size,
+                  maxHeight: size,
+                  transition: `max-width ${TRAVELER_MS}ms ${TRAVEL_EASING}, max-height ${TRAVELER_MS}ms ${TRAVEL_EASING}`,
+                }}
+              />
             </div>
           );
         })()}
@@ -1049,8 +1056,8 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               style={{
                 left: sx,
                 top: sy,
-                width: s.size,
-                height: s.size,
+                maxWidth: s.size,
+                maxHeight: s.size,
                 animationDelay: `${i * SATELLITE_STAGGER_MS}ms`,
                 animationDuration: `${SATELLITE_FADE_MS}ms`,
                 transition: `left ${TRANSITION_MS}ms ${TRAVEL_EASING}, top ${TRANSITION_MS}ms ${TRAVEL_EASING}, transform 240ms ease, border-color 240ms ease`,
@@ -1062,7 +1069,12 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               onBlur={() => setHoverId((cur) => (cur === s.img.id ? null : cur))}
               aria-label={`Travel to ${s.img.pageTitle}${s.img.caption ? ` — ${s.img.caption}` : ""}`}
             >
-              <img src={s.img.src} alt={s.img.alt || s.img.caption || s.img.pageTitle} loading="lazy" />
+              <img
+                src={s.img.src}
+                alt={s.img.alt || s.img.caption || s.img.pageTitle}
+                loading="lazy"
+                style={{ maxWidth: s.size, maxHeight: s.size }}
+              />
             </button>
           );
         })}
@@ -1087,8 +1099,8 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               style={{
                 left: sx,
                 top: sy,
-                width: s.size,
-                height: s.size,
+                maxWidth: s.size,
+                maxHeight: s.size,
                 animationDelay: `${outerDelay}ms`,
                 animationDuration: `${SATELLITE_FADE_MS}ms`,
                 transition: `left ${TRANSITION_MS}ms ${TRAVEL_EASING}, top ${TRANSITION_MS}ms ${TRAVEL_EASING}, transform 240ms ease, border-color 240ms ease`,
@@ -1100,7 +1112,12 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               onBlur={() => setHoverId((cur) => (cur === s.img.id ? null : cur))}
               aria-label={`Travel to ${s.img.pageTitle}${s.img.caption ? ` — ${s.img.caption}` : ""}`}
             >
-              <img src={s.img.src} alt={s.img.alt || s.img.caption || s.img.pageTitle} loading="lazy" />
+              <img
+                src={s.img.src}
+                alt={s.img.alt || s.img.caption || s.img.pageTitle}
+                loading="lazy"
+                style={{ maxWidth: s.size, maxHeight: s.size }}
+              />
             </button>
           );
         })}
