@@ -91,12 +91,29 @@ const ZODIAC: { slug: string; label: string }[] = [
   { slug: "nothing", label: "nothing" },
 ];
 
-type TravelMode = "drift" | "leap";
-
 interface PersistedState {
   trail: string[];
   visited: string[];
-  mode: TravelMode;
+}
+
+// Thin-stroke refresh glyph used next to the *current* category label as a
+// "click to re-roll" affordance. Hand-drawn so the stroke weight matches the
+// surrounding 0.72rem uppercase label (the unicode ↻ character renders too
+// heavy in IBM Plex Sans and the visual top of that glyph is the bottom of
+// the arc, which read as upside-down). currentColor + thin stroke + a gap at
+// 12 o'clock + arrowhead pointing back into the gap = unambiguous "refresh"
+// at any orientation.
+function RerollGlyph() {
+  return (
+    <span className="constellation-reroll-glyph" aria-hidden="true">
+      <svg viewBox="0 0 16 16" width="11" height="11" fill="none" stroke="currentColor" strokeWidth="1.1" strokeLinecap="round" strokeLinejoin="round">
+        {/* Arc from ~12:30 around clockwise to ~11:30 — leaves a gap at the top. */}
+        <path d="M 9.2 3.2 A 5 5 0 1 1 3 8" />
+        {/* Arrowhead pointing into the gap at the top, indicating direction. */}
+        <path d="M 9.2 3.2 L 6.8 3.6 M 9.2 3.2 L 8.9 5.6" />
+      </svg>
+    </span>
+  );
 }
 
 function loadPersisted(): PersistedState | null {
@@ -109,7 +126,6 @@ function loadPersisted(): PersistedState | null {
     return {
       trail: parsed.trail.filter((x): x is string => typeof x === "string"),
       visited: parsed.visited.filter((x): x is string => typeof x === "string"),
-      mode: parsed.mode === "leap" ? "leap" : "drift",
     };
   } catch {
     return null;
@@ -191,11 +207,10 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     [images, imagesByCategory, pageBySlug]
   );
 
-  // Persisted state: trail, visited categories, travel mode. Hydrated lazily
-  // from sessionStorage so a refresh doesn't yank the user out of their walk.
+  // Persisted state: trail, visited categories. Hydrated lazily from
+  // sessionStorage so a refresh doesn't yank the user out of their walk.
   const [trail, setTrail] = useState<string[]>([]);
   const [visited, setVisited] = useState<Set<string>>(new Set());
-  const [mode, setMode] = useState<TravelMode>("drift");
   const hydratedRef = useRef(false);
 
   // One-time hydration from sessionStorage. We do this in an effect (not in
@@ -209,7 +224,6 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     if (persisted) {
       if (persisted.trail.length > 0) setTrail(persisted.trail);
       if (persisted.visited.length > 0) setVisited(new Set(persisted.visited));
-      if (persisted.mode) setMode(persisted.mode);
     }
   }, []);
 
@@ -222,14 +236,13 @@ export default function Constellation({ basePath, dataUrl }: Props) {
       const payload: PersistedState = {
         trail,
         visited: Array.from(visited),
-        mode,
       };
       window.sessionStorage.setItem(SESSION_KEY, JSON.stringify(payload));
     } catch {
       // Quota exceeded or storage disabled — silent fail, the feature is
       // best-effort.
     }
-  }, [trail, visited, mode]);
+  }, [trail, visited]);
 
   const centerId = trail[trail.length - 1] ?? null;
 
@@ -539,25 +552,6 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     return { innerSlots: inner, outerSlots: outer };
   }, [center, satellites, outerSatellites, stageSize.w, stageSize.h]);
 
-  // Faint background "stars" — small, off-axis, non-interactive. Refresh on
-  // each constellation so the field feels alive without being noisy.
-  const bgStars = useMemo(() => {
-    if (!center) return [] as { x: number; y: number; r: number; o: number }[];
-    let h = 0;
-    for (let i = 0; i < center.id.length; i++) h = (h * 13 + center.id.charCodeAt(i)) >>> 0;
-    const out: { x: number; y: number; r: number; o: number }[] = [];
-    for (let i = 0; i < 80; i++) {
-      h = (h * 1664525 + 1013904223) >>> 0;
-      const fx = (h & 0xffff) / 0xffff;
-      h = (h * 1664525 + 1013904223) >>> 0;
-      const fy = (h & 0xffff) / 0xffff;
-      h = (h * 1664525 + 1013904223) >>> 0;
-      const fr = (h & 0xffff) / 0xffff;
-      out.push({ x: fx, y: fy, r: 0.6 + fr * 1.4, o: 0.18 + fr * 0.35 });
-    }
-    return out;
-  }, [center]);
-
   // "Traveler" — when a satellite is clicked, the clicked image visibly
   // flies from its slot into the center, growing to center size. The
   // actual center element is held at opacity 0 while the traveler is in
@@ -567,6 +561,8 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     fromAngle: number;
     fromDistance: number;
     fromSize: number;
+    // enter: at the satellite slot, satellite size, dim.
+    // leave: animating to center position at center size, opaque on arrival.
     phase: "enter" | "leave";
   } | null>(null);
   // Two-stage center reveal. While `centerHidden` is true the center
@@ -578,14 +574,10 @@ export default function Constellation({ basePath, dataUrl }: Props) {
   // new center in.
   const [centerHidden, setCenterHidden] = useState(false);
   const travelerTimerRef = useRef<number | null>(null);
-  const centerRevealTimerRef = useRef<number | null>(null);
   const launchTraveler = useCallback(
     (id: string, slot: SatelliteSlot) => {
       if (travelerTimerRef.current !== null) {
         window.clearTimeout(travelerTimerRef.current);
-      }
-      if (centerRevealTimerRef.current !== null) {
-        window.clearTimeout(centerRevealTimerRef.current);
       }
       setCenterHidden(true);
       setTraveler({
@@ -600,13 +592,12 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           setTraveler((cur) => (cur && cur.id === id ? { ...cur, phase: "leave" } : cur));
         });
       });
-      // Reveal the real center slightly before the traveler unmounts so
-      // the cross-fade overlaps and there's no one-frame gap.
-      centerRevealTimerRef.current = window.setTimeout(() => {
-        setCenterHidden(false);
-        centerRevealTimerRef.current = null;
-      }, TRAVELER_MS - 120);
+      // The traveler arrives at center, opaque, at TRAVELER_MS. At that
+      // exact moment we instantly swap: unmount the traveler and reveal
+      // the real center with no fade. Both show the same image at the
+      // same position and size, so the swap is invisible.
       travelerTimerRef.current = window.setTimeout(() => {
+        setCenterHidden(false);
         setTraveler(null);
         travelerTimerRef.current = null;
       }, TRAVELER_MS);
@@ -617,9 +608,6 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     return () => {
       if (travelerTimerRef.current !== null) {
         window.clearTimeout(travelerTimerRef.current);
-      }
-      if (centerRevealTimerRef.current !== null) {
-        window.clearTimeout(centerRevealTimerRef.current);
       }
     };
   }, []);
@@ -643,38 +631,41 @@ export default function Constellation({ basePath, dataUrl }: Props) {
     setTrail((prev) => prev.slice(0, idx + 1));
   }, []);
 
-  // Reroll respects the active mode. Drift = anywhere new. Leap = into a
-  // category the user hasn't visited yet (or the least-visited if all are
-  // touched).
-  const reroll = useCallback(() => {
-    let target: string | null = null;
-    if (mode === "leap") {
-      const unvisited = ZODIAC.filter((z) => !visited.has(z.slug));
-      const pool = unvisited.length > 0 ? unvisited : ZODIAC;
-      const pick = pool[Math.floor(Math.random() * pool.length)];
-      target = pick?.slug ?? null;
-    }
-    const c = pickRandomCenter(target);
-    if (c) {
-      setTrail([c.id]);
-      if (c.category) setVisited((cur) => new Set(cur).add(c.category!));
-    }
-  }, [mode, pickRandomCenter, visited]);
+  // Re-roll signal: bumped each time the user clicks the *current* category
+  // label (zodiac or horizon). Drives a brief eyebrow swap to "Drift again ·
+  // {category}" so the user sees that the click produced a fresh random pick
+  // rather than a no-op. The numeric key on the <p> re-triggers the CSS flash
+  // every click; `rerollActive` flips back off after the flash so steady-state
+  // copy returns to "Drift · {category}" rather than getting stuck on "again."
+  const [rerollPulse, setRerollPulse] = useState(0);
+  const [rerollActive, setRerollActive] = useState(false);
+  const rerollTimerRef = useRef<number | null>(null);
+  useEffect(() => {
+    if (rerollPulse === 0) return;
+    setRerollActive(true);
+    if (rerollTimerRef.current !== null) window.clearTimeout(rerollTimerRef.current);
+    rerollTimerRef.current = window.setTimeout(() => setRerollActive(false), 1400);
+    return () => {
+      if (rerollTimerRef.current !== null) window.clearTimeout(rerollTimerRef.current);
+    };
+  }, [rerollPulse]);
 
   // Jump straight to a chosen category (clicking a zodiac label).
   const jumpToCategory = useCallback(
     (slug: string) => {
       const c = pickRandomCenter(slug);
       if (c) {
+        const isReroll = (center?.category ?? null) === slug;
         setTrail((prev) => {
           const next = [...prev, c.id];
           if (next.length > TRAIL_LIMIT) return next.slice(next.length - TRAIL_LIMIT);
           return next;
         });
         if (c.category) setVisited((cur) => new Set(cur).add(c.category!));
+        if (isReroll) setRerollPulse((n) => n + 1);
       }
     },
-    [pickRandomCenter]
+    [pickRandomCenter, center]
   );
 
   // Hover state for caption hint.
@@ -791,7 +782,24 @@ export default function Constellation({ basePath, dataUrl }: Props) {
   return (
     <div className="constellation-root">
       <header className="constellation-header">
-        <p className="constellation-eyebrow">Constellation</p>
+        {/* The eyebrow doubles as the random-walk affordance:
+              · default "Constellation" before the user picks a direction
+              · "Drift · {category}" once a category is current
+              · briefly flashes "Drift again · {category}" each time the user
+                re-rolls the same category (keyed by rerollPulse so the CSS
+                animation re-fires on every click).
+            This is the quietest possible way to communicate that clicking
+            the current category re-rolls the result rather than no-ops. */}
+        <p
+          key={`eyebrow-${rerollPulse}`}
+          className={`constellation-eyebrow ${rerollActive ? "is-rerolling" : ""}`}
+        >
+          {currentCategory && titleText !== "drift"
+            ? rerollActive
+              ? <>Drift again · <span className="constellation-eyebrow-cat">{titleText}</span></>
+              : <>Drift · <span className="constellation-eyebrow-cat">{titleText}</span></>
+            : "Constellation"}
+        </p>
         <h1 className="constellation-title">{titleText}</h1>
         {centerPage?.title && (
           <p className="constellation-page">{centerPage.title}</p>
@@ -816,11 +824,19 @@ export default function Constellation({ basePath, dataUrl }: Props) {
                   className={`constellation-horizon-item ${isVisited ? "is-visited" : ""} ${isCurrent ? "is-current" : ""}`}
                   onClick={() => jumpToCategory(z.slug)}
                   aria-current={isCurrent ? "true" : undefined}
+                  aria-label={
+                    isCurrent
+                      ? `Drift again into ${z.label}`
+                      : `Drift into ${z.label}`
+                  }
                 >
                   <span className="constellation-horizon-tick" aria-hidden="true">
                     {isVisited ? "●" : "○"}
                   </span>
                   <span>{z.label}</span>
+                  {isCurrent && (
+                    <RerollGlyph />
+                  )}
                 </button>
               </li>
             );
@@ -842,16 +858,6 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           preserveAspectRatio="none"
           aria-hidden="true"
         >
-          {bgStars.map((s, i) => (
-            <circle
-              key={i}
-              cx={s.x * stageSize.w}
-              cy={s.y * stageSize.h}
-              r={s.r}
-              fill="rgba(255,255,255,0.6)"
-              opacity={s.o}
-            />
-          ))}
           {/* Faint zodiac ring — a subtle circle so the labels read as part
               of a single structure rather than floating points. */}
           <circle
@@ -942,10 +948,20 @@ export default function Constellation({ basePath, dataUrl }: Props) {
                 transition: "opacity 320ms ease, color 220ms ease, letter-spacing 220ms ease",
               }}
               onClick={() => jumpToCategory(z.slug)}
-              aria-label={`Drift into ${z.label}${isCurrent ? " (current)" : ""}`}
+              aria-label={
+                isCurrent
+                  ? `Drift again into ${z.label}`
+                  : `Drift into ${z.label}`
+              }
               aria-current={isCurrent ? "true" : undefined}
             >
               {z.label}
+              {/* Re-roll glyph — only on the current category; revealed on
+                  hover/focus via CSS. Marks this click as "shuffle" rather
+                  than "navigate." */}
+              {isCurrent && (
+                <RerollGlyph />
+              )}
             </button>
           );
         })}
@@ -961,9 +977,11 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           const fromX = cx + Math.cos(traveler.fromAngle) * traveler.fromDistance;
           const fromY = cy + Math.sin(traveler.fromAngle) * traveler.fromDistance;
           const isEnter = traveler.phase === "enter";
-          // Enter: at old satellite slot, satellite size, dim. Leave: at
-          // center, full center size, full opacity. Width/height transition
-          // smoothly so the image grows in place rather than popping.
+          // Enter: at old satellite slot, satellite size, dim. Leave:
+          // animates to center at center size, fully opaque. The traveler
+          // unmounts the moment it arrives — at the same instant the real
+          // center is revealed with no fade, so the swap is invisible
+          // (same image, same position, same size).
           const targetSize = 200; // matches --frame-size in CSS
           return (
             <div
@@ -995,17 +1013,12 @@ export default function Constellation({ basePath, dataUrl }: Props) {
           style={{
             left: cx,
             top: cy,
-            // centerHidden is set synchronously before the new centerId
-            // commits, so the real center never paints visible during a
-            // travel transition. Critically, when hidden we suppress the
-            // opacity transition entirely — otherwise the previous render's
-            // opacity:1 would animate down to 0, briefly showing the new
-            // image at full strength (the bug the user reported as "instant
-            // appears at center, then ALSO moves in and fades in").
+            // The center is held invisible while the traveler is in
+            // flight, then revealed instantly (no opacity transition) at
+            // the moment the traveler unmounts — both show the same image
+            // at the same position and size, so the swap is invisible.
             opacity: centerHidden ? 0 : 1,
-            transition: centerHidden
-              ? `left ${TRANSITION_MS}ms ${TRAVEL_EASING}, top ${TRANSITION_MS}ms ${TRAVEL_EASING}`
-              : `left ${TRANSITION_MS}ms ${TRAVEL_EASING}, top ${TRANSITION_MS}ms ${TRAVEL_EASING}, opacity 520ms ease-out`,
+            transition: `left ${TRANSITION_MS}ms ${TRAVEL_EASING}, top ${TRANSITION_MS}ms ${TRAVEL_EASING}`,
           }}
           aria-label={`Open page: ${center.pageTitle}${center.caption ? ` — ${center.caption}` : ""}`}
         >
@@ -1124,32 +1137,6 @@ export default function Constellation({ basePath, dataUrl }: Props) {
               />
             );
           })}
-        </div>
-        <div className="constellation-controls">
-          {/* Drift / Leap toggle. Drift = stay near (current behavior).
-              Leap = reroll lands in an unvisited category, so a single click
-              shows the user something genuinely new. */}
-          <div className="constellation-mode" role="group" aria-label="Travel mode">
-            <button
-              type="button"
-              className={`constellation-mode-btn ${mode === "drift" ? "is-active" : ""}`}
-              onClick={() => setMode("drift")}
-              aria-pressed={mode === "drift"}
-            >
-              Drift
-            </button>
-            <button
-              type="button"
-              className={`constellation-mode-btn ${mode === "leap" ? "is-active" : ""}`}
-              onClick={() => setMode("leap")}
-              aria-pressed={mode === "leap"}
-            >
-              Leap
-            </button>
-          </div>
-          <button type="button" className="constellation-reroll" onClick={reroll}>
-            {mode === "leap" ? "Leap somewhere new" : "Drift somewhere new"}
-          </button>
         </div>
       </footer>
     </div>

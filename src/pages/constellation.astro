@@ -71,6 +71,25 @@ const dataUrl = withBase("/constellation.json");
         letter-spacing: 0.18em;
         text-transform: uppercase;
         color: rgba(245, 245, 240, 0.45);
+        /* The eyebrow text changes per click (Drift · X → Drift again · X);
+           a brief opacity dip-and-rise on each render reads as a small
+           "shuffle" beat in the corner of the user's eye. The component
+           remounts the <p> via key={rerollPulse} so this fires every click. */
+        animation: eyebrow-flash 520ms ease-out;
+      }
+      .constellation-eyebrow.is-rerolling {
+        color: rgba(245, 245, 240, 0.85);
+      }
+      .constellation-eyebrow-cat {
+        color: rgba(245, 245, 240, 0.85);
+        font-style: italic;
+        text-transform: lowercase;
+        letter-spacing: 0.04em;
+      }
+      @keyframes eyebrow-flash {
+        0%   { opacity: 0.25; transform: translateY(-1px); }
+        60%  { opacity: 1; }
+        100% { opacity: inherit; transform: translateY(0); }
       }
       .constellation-title {
         margin: 0.2rem 0 0;
@@ -391,6 +410,46 @@ const dataUrl = withBase("/constellation.json");
         height: 4px;
         border-radius: 50%;
         background: rgba(255, 255, 255, 0.85);
+      }
+
+      /* Re-roll glyph — appears next to the current category label
+         (zodiac + horizon) on hover/focus. Marks this click as "shuffle a
+         new pick from this category" rather than "go to this category."
+         Hidden by default; reveals on hover with a small slide+fade so
+         non-current labels stay clean. Spins a full 360° on click. */
+      .constellation-reroll-glyph {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0.4em;
+        width: 11px;
+        height: 11px;
+        opacity: 0;
+        transform: translateX(-4px);
+        transition: opacity 200ms ease, transform 200ms ease;
+        pointer-events: none;
+        vertical-align: -1px;
+      }
+      .constellation-reroll-glyph svg {
+        display: block;
+        transform: rotate(0deg);
+        transition: transform 360ms ease;
+      }
+      .constellation-zodiac.is-current:hover .constellation-reroll-glyph,
+      .constellation-zodiac.is-current:focus-visible .constellation-reroll-glyph,
+      .constellation-horizon-item.is-current:hover .constellation-reroll-glyph,
+      .constellation-horizon-item.is-current:focus-visible .constellation-reroll-glyph {
+        opacity: 0.85;
+        transform: translateX(0);
+      }
+      .constellation-zodiac.is-current:active .constellation-reroll-glyph svg,
+      .constellation-horizon-item.is-current:active .constellation-reroll-glyph svg {
+        transform: rotate(360deg);
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .constellation-eyebrow { animation: none; }
+        .constellation-reroll-glyph,
+        .constellation-reroll-glyph svg { transition: opacity 200ms ease; transform: none; }
       }
 
       /* Horizon — a compact category list in the top-right that shows
