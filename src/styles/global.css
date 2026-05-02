@@ -296,7 +296,7 @@ a { color: inherit; }
   left: 8px;
   width: calc(100% - 16px);
   height: calc(100% - 16px);
-  object-fit: cover;
+  object-fit: contain;
   display: block;
   transition: opacity 0.2s ease;
 }

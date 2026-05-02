@@ -31,8 +31,8 @@ export function sectionLabel(section: string): string {
 
 // Prepend Astro's configured base path to a root-relative URL so links and
 // asset srcs resolve correctly when the site is deployed under a sub-path
-// (GitHub Pages: /RadicalArt_2/). External URLs and already-prefixed paths
-// pass through unchanged. BASE_URL is "/RadicalArt_2/" in production and
+// (GitHub Pages: /radical-art/). External URLs and already-prefixed paths
+// pass through unchanged. BASE_URL is "/radical-art/" in production and
 // "/" in dev, both with trailing slash.
 export function withBase(path: string): string {
   if (!path) return path;

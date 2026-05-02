@@ -56,13 +56,10 @@ interface PlacedLink {
 // a hit target and a faint locator. Keep these in sync with the label rules
 // in draw().
 const MARKER_LEAF = 2.6;
-const MARKER_HOMEPAGE = 4.2;
-const MARKER_CATEGORY_COLLAPSED = 4.2;
-const MARKER_CATEGORY_EXPANDED = 4.2;
+const MARKER_ANCHOR = 4.2; // homepage hub + category roots (collapsed or expanded)
 
 const FONT_LEAF = "500 13px \"IBM Plex Sans\", sans-serif";
-const FONT_CATEGORY = "600 15px \"IBM Plex Sans\", sans-serif";
-const FONT_HOMEPAGE = "600 15px \"IBM Plex Sans\", sans-serif";
+const FONT_ANCHOR = "600 15px \"IBM Plex Sans\", sans-serif"; // homepage + category roots
 
 // Layout — force-directed simulation, seeded from a category wheel. The wheel
 // gives each category a stable angular slot around the homepage hub; a weak
@@ -288,7 +285,7 @@ export default function MapView() {
 
     // Homepage hub: pinned at center via fx/fy below.
     if (indexes.byId.get("index")) {
-      addSim("index", MARKER_HOMEPAGE, cx, cy, 0, 0, { isHomepage: true });
+      addSim("index", MARKER_ANCHOR, cx, cy, 0, 0, { isHomepage: true });
     }
 
     // Uncategorized essays orbit the hub near the top. Soft anchor at a small
@@ -312,7 +309,7 @@ export default function MapView() {
       const isExpanded = expanded.has(c.id);
       addSim(
         c.id,
-        isExpanded ? MARKER_CATEGORY_EXPANDED : MARKER_CATEGORY_COLLAPSED,
+        MARKER_ANCHOR,
         cx + Math.cos(angle) * wheelR,
         cy + Math.sin(angle) * wheelR,
         wheelR,
@@ -741,7 +738,7 @@ export default function MapView() {
           specs.push({
             n,
             priority: 100 + (n.collapsed ? 0 : 1),
-            font: isHomepage ? FONT_HOMEPAGE : FONT_CATEGORY,
+            font: FONT_ANCHOR,
             emphasis: "anchor",
           });
           continue;
