@@ -67,6 +67,11 @@ TOP_LABELS: dict[str, str] = {
     "destruction": "Destruction",
     "nothing": "Nothing",
 }
+# Node-label overrides for category roots. The map should display the same
+# words the original homepage uses on its top-level link grid (lowercase) —
+# not the page's own <title>, which often differs ("kinetic art" vs the
+# homepage's "mechanics", "Concept Art" vs "concept", etc.).
+ROOT_NODE_TITLES: dict[str, str] = {slug: label.lower() for slug, label in TOP_LABELS.items()}
 # Virtual reparenting (mirrors Sidebar.astro virtualParents): legacy top-level
 # slugs the homepage doesn't link to are folded into their natural parent.
 VIRTUAL_PARENTS: dict[str, str] = {
@@ -198,7 +203,7 @@ def main() -> None:
     nodes = [
         {
             "id": s,
-            "title": slug_to_title[s],
+            "title": ROOT_NODE_TITLES.get(s, slug_to_title[s]),
             "blurb": slug_to_blurb.get(s, ""),
             "degree": degree[s],
             # category = top-level cluster slug (after virtualParents); or

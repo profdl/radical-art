@@ -18,7 +18,7 @@
     },
     {
       "id": "algorithmic-art",
-      "title": "Algorithmic Art",
+      "title": "algorithm",
       "blurb": "Algorithmic Art: Genres, Approaches, Techniques.",
       "degree": 50,
       "category": "algorithmic-art",
@@ -458,7 +458,7 @@
     },
     {
       "id": "anything",
-      "title": "Indeterminacy",
+      "title": "anything",
       "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
       "degree": 22,
       "category": "anything",
@@ -538,7 +538,7 @@
     },
     {
       "id": "concept",
-      "title": "Concept Art",
+      "title": "concept",
       "blurb": "Concept-art as a particular kind of meta-art",
       "degree": 68,
       "category": "concept",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "kinetics",
-      "title": "kinetic art",
+      "title": "mechanics",
       "blurb": "an overview of different kinds of kinetic art",
       "degree": 49,
       "category": "kinetics",
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "life",
-      "title": "life & art",
+      "title": "life",
       "blurb": "Life as art, art as life, etc.",
       "degree": 21,
       "category": "life",
