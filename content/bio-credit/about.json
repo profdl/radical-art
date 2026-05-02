@@ -16,19 +16,23 @@
     },
     {
       "type": "paragraph",
-      "text": "This is a republished version of the original site at radicalart.info, reorganized for the contemporary web. Every effort has been made to stay true to the original site's content and intentions.",
+      "text": "This is a republished version of Remko Scha's original site at radicalart.info, reorganized for the contemporary web using Anthropic's Claude Code. Republished by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design.",
       "links": [
+        {
+          "text": "Remko Scha",
+          "href": "https://remkoscha.nl/",
+          "external": true
+        },
         {
           "text": "radicalart.info",
           "href": "https://radicalart.info",
           "external": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "Republished by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design.",
-      "links": [
+        },
+        {
+          "text": "Anthropic's Claude Code",
+          "href": "https://www.anthropic.com/",
+          "external": true
+        },
         {
           "text": "Daniel Lefcourt",
           "href": "https://certainlynot.com",
@@ -37,6 +41,11 @@
         {
           "text": "Art & Computation",
           "href": "https://www.risd.edu/academics/art-computation",
+          "external": true
+        },
+        {
+          "text": "Rhode Island School of Design",
+          "href": "https://www.risd.edu",
           "external": true
         }
       ]

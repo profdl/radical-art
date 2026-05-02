@@ -249,6 +249,18 @@ a { color: inherit; }
   .hub-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 }
 
+/* Tighter variant for the home page — more cards above the fold. */
+.hub-grid--compact { gap: 1.75rem 1.25rem; }
+@media (min-width: 640px) {
+  .hub-grid--compact { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (min-width: 1024px) {
+  .hub-grid--compact { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1.75rem 1.25rem; }
+}
+@media (min-width: 1440px) {
+  .hub-grid--compact { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
 .hub-card {
   display: block;
   text-decoration: none;

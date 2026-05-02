@@ -13,19 +13,22 @@ export async function getStaticPaths() {
   const all = await getCollection("pages");
   const pagesBySlug = new Map(all.map((p) => [p.data.slug, p.data]));
 
-  // For a given page, walk its blocks and return the first figure src,
-  // recursing into linked hub children if the page itself has no figure.
-  function firstFigureSrc(slug: string, seen = new Set<string>()): string | null {
-    if (seen.has(slug)) return null;
+  // For a given page, walk its blocks and yield candidate figure srcs in
+  // priority order (own figures first, then recurse into linked children).
+  // Returns a list so callers can pick the first src not already used on the
+  // current page, avoiding duplicate thumbnails when many hub links resolve
+  // to the same downstream image (e.g. Mona Lisa on /destruction).
+  function figureSrcs(slug: string, seen = new Set<string>()): string[] {
+    if (seen.has(slug)) return [];
     seen.add(slug);
     const data = pagesBySlug.get(slug);
-    if (!data) return null;
+    if (!data) return [];
+    const out: string[] = [];
     for (const b of data.blocks) {
       if ((b as any).type === "figure" && (b as any).src) {
-        return (b as any).src as string;
+        out.push((b as any).src as string);
       }
     }
-    // Recurse: follow heading-link groups, paragraph links, list items.
     const candidateSlugs: string[] = [];
     for (const b of data.blocks) {
       const links = (b as any).links;
@@ -46,7 +49,6 @@ export async function getStaticPaths() {
         }
       }
     }
-    // Also fall back to any direct child by filesystem.
     const prefix = slug + "/";
     for (const k of pagesBySlug.keys()) {
       if (k.startsWith(prefix) && !k.slice(prefix.length).includes("/")) {
@@ -54,10 +56,9 @@ export async function getStaticPaths() {
       }
     }
     for (const cs of candidateSlugs) {
-      const got = firstFigureSrc(cs, seen);
-      if (got) return got;
+      out.push(...figureSrcs(cs, seen));
     }
-    return null;
+    return out;
   }
 
   return all
@@ -102,12 +103,18 @@ export async function getStaticPaths() {
         p.data.archetype === "hub-with-essay" ||
         p.data.archetype === "leaf-intro";
       if (isHub) {
+        const usedThumbs = new Set<string>();
         const collect = (href: string) => {
           if (!href || !href.startsWith("/")) return;
           const targetSlug = href.replace(/^\//, "").replace(/\/$/, "");
           if (!linkThumbs[href]) {
-            const src = firstFigureSrc(targetSlug);
-            if (src) linkThumbs[href] = src;
+            const candidates = figureSrcs(targetSlug);
+            const pick =
+              candidates.find((s) => !usedThumbs.has(s)) ?? candidates[0];
+            if (pick) {
+              linkThumbs[href] = pick;
+              usedThumbs.add(pick);
+            }
           }
           if (!linkTitles[href]) {
             const target = pagesBySlug.get(targetSlug);

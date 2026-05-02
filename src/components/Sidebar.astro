@@ -131,7 +131,6 @@ function resolveDuplicateLabels(siblings: Node[]) {
 // to; we reparent them under their natural legacy parent so the sidebar
 // matches the original information architecture. URLs are unchanged.
 const topOrder = [
-  "concept",
   "life",
   "everything",
   "algorithmic-art",
@@ -141,6 +140,7 @@ const topOrder = [
   "process",
   "destruction",
   "nothing",
+  "concept",
 ];
 // Use the same labels as the legacy homepage and our /index.astro homepage
 // cards, so the sidebar reads consistently with the home grid. Several pages'

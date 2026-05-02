@@ -11,7 +11,6 @@ const all = await getCollection("pages");
 // (matched in Sidebar.astro) so the homepage and sidebar share the same
 // top-level information architecture.
 const sectionsList: { section: string; slug: string; label: string }[] = [
-  { section: "concept", slug: "concept", label: "Concept" },
   { section: "Life", slug: "life", label: "Life" },
   { section: "everything", slug: "everything", label: "Everything" },
   { section: "AlgorithmicArt", slug: "algorithmic-art", label: "Algorithm" },
@@ -21,40 +20,52 @@ const sectionsList: { section: string; slug: string; label: string }[] = [
   { section: "process", slug: "process", label: "Process" },
   { section: "destruction", slug: "destruction", label: "Destruction" },
   { section: "nothing", slug: "nothing", label: "Nothing" },
+  { section: "concept", slug: "concept", label: "Concept" },
 ];
 
-const sections = sectionsList.map((s) => ({
-  name: s.label,
-  slug: s.slug,
-  count: all.filter((p) => p.data.section === s.section).length,
-  sample: all
-    .filter((p) => p.data.section === s.section && p.data.images.length >= 3)
-    .sort((a, b) => b.data.images.length - a.data.images.length)[0],
-}));
+// Legacy roots that don't appear at top level — reparented under one of the
+// 10 surfaced sections to match Sidebar.astro. Used here so Life can borrow
+// a thumbnail from ego, Everything from things/nature, etc.
+const virtualChildren: Record<string, string[]> = {
+  Life: ["ego"],
+  everything: ["things", "nature", "physics"],
+  something: ["informe"],
+};
+
+const usedThumbs = new Set<string>();
+const sections = sectionsList.map((s) => {
+  const sources = [s.section, ...(virtualChildren[s.section] ?? [])];
+  const candidates = all
+    .filter((p) => sources.includes(p.data.section) && p.data.images.length >= 3)
+    .sort((a, b) => b.data.images.length - a.data.images.length);
+  // Pick the first page whose first image hasn't been claimed by another card.
+  let sample = candidates.find(
+    (p) => p.data.images[0] && !usedThumbs.has(p.data.images[0].src),
+  );
+  if (!sample) sample = candidates[0];
+  if (sample?.data.images[0]) usedThumbs.add(sample.data.images[0].src);
+  return {
+    name: s.label,
+    slug: s.slug,
+    count: all.filter((p) => p.data.section === s.section).length,
+    sample,
+  };
+});
 ---
 
 <BaseLayout title="Radical Art" hideSidebar>
-  <header class="mb-8">
+  <header class="mb-5">
     <h1 class="h-page">Radical Art</h1>
     <p class="mt-2 prose-archive max-w-3xl">
       An analytical anthology of anti-art and meta-art, originally published by the
       <a href="https://iaaa.nl">Institute of Artificial Art Amsterdam</a>,
       department of art history.
     </p>
-    <p class="mt-2 prose-archive max-w-3xl">
-      This is a republished version of <a href="https://remkoscha.nl/" target="_blank" rel="noreferrer">Remko Scha</a>'s original site at
-      <a href="https://radicalart.info" target="_blank" rel="noreferrer">radicalart.info</a>,
-      reorganized for the contemporary web using <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">Anthropic's Claude Code</a>. Republished by
-      <a href="https://certainlynot.com" target="_blank" rel="noreferrer">Daniel Lefcourt</a>,
-      Professor,
-      <a href="https://www.risd.edu/academics/art-computation" target="_blank" rel="noreferrer">Art &amp; Computation</a>,
-      <a href="https://www.risd.edu" target="_blank" rel="noreferrer">Rhode Island School of Design</a>.
-    </p>
   </header>
   <hr class="rule" />
 
-  <section class="pt-8">
-    <ul class="hub-grid">
+  <section class="pt-5">
+    <ul class="hub-grid hub-grid--compact">
       {
         sections.map((s) => (
           <li>
@@ -77,5 +88,15 @@ const sections = sectionsList.map((s) => ({
       }
     </ul>
   </section>
+
+  <p class="mt-12 text-sm text-[color:var(--color-ink-muted)] max-w-3xl">
+    This is a republished version of <a href="https://remkoscha.nl/" target="_blank" rel="noreferrer">Remko Scha</a>'s original site at
+    <a href="https://radicalart.info" target="_blank" rel="noreferrer">radicalart.info</a>,
+    reorganized for the contemporary web using <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">Anthropic's Claude Code</a>. Republished by
+    <a href="https://certainlynot.com" target="_blank" rel="noreferrer">Daniel Lefcourt</a>,
+    Professor,
+    <a href="https://www.risd.edu/academics/art-computation" target="_blank" rel="noreferrer">Art &amp; Computation</a>,
+    <a href="https://www.risd.edu" target="_blank" rel="noreferrer">Rhode Island School of Design</a>.
+  </p>
 
 </BaseLayout>
