@@ -22,7 +22,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt[Polaroids]-s.jpg",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt%5BPolaroids%5D-s.jpg",
       "alt": "",
       "caption": "Untitled, 1964",
       "width": "154",
@@ -31,7 +31,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt(SixSites)-S.jpg",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt%28SixSites%29-S.jpg",
       "alt": "",
       "caption": "Untitled (Six Sites), 1966/1967",
       "width": "244",
@@ -64,7 +64,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOnAScton)-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68U%286StopsOnAScton%29-M.jpg",
       "alt": "",
       "caption": "",
       "width": "250",
@@ -73,7 +73,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/smithson-68-Unt(6StopsOAS)b-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68-Unt%286StopsOAS%29b-M.jpg",
       "alt": "",
       "caption": "",
       "width": null,
@@ -82,7 +82,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOAS)c-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68U%286StopsOAS%29c-M.jpg",
       "alt": "",
       "caption": "",
       "width": null,
@@ -91,7 +91,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/smithson-Smithson68U(6StopsOAS)d-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-Smithson68U%286StopsOAS%29d-M.jpg",
       "alt": "",
       "caption": "From: Untitled (6 Stops on a Section), 1968",
       "width": "250",
@@ -106,7 +106,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII[1]-s.jpg",
+      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII%5B1%5D-s.jpg",
       "alt": "",
       "caption": "",
       "width": "293",
@@ -115,7 +115,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge[2]-s.jpg",
+      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge%5B2%5D-s.jpg",
       "alt": "",
       "caption": "From: Reality replaced by its image, 1971",
       "width": "301",
@@ -155,13 +155,13 @@
   ],
   "images": [
     {
-      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt[Polaroids]-s.jpg",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi64Unt%5BPolaroids%5D-s.jpg",
       "alt": "",
       "caption": "Untitled, 1964",
       "legacy_src": "../anastasi/Anastasi64Unt%5BPolaroids%5D-s.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt(SixSites)-S.jpg",
+      "src": "/images/concept/tautology/photo/anastasi-Anastasi66Unt%28SixSites%29-S.jpg",
       "alt": "",
       "caption": "Untitled (Six Sites), 1966/1967",
       "legacy_src": "../anastasi/Anastasi66Unt(SixSites)-S.jpg"
@@ -179,37 +179,37 @@
       "legacy_src": "../anastasi/67-9PolroidsOfAMrr-S.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOnAScton)-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68U%286StopsOnAScton%29-M.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "../Smithson/68U(6StopsOnAScton)-M.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/smithson-68-Unt(6StopsOAS)b-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68-Unt%286StopsOAS%29b-M.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "../Smithson/68-Unt(6StopsOAS)b-M.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/smithson-68U(6StopsOAS)c-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-68U%286StopsOAS%29c-M.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "../Smithson/68U(6StopsOAS)c-M.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/smithson-Smithson68U(6StopsOAS)d-M.jpg",
+      "src": "/images/concept/tautology/photo/smithson-Smithson68U%286StopsOAS%29d-M.jpg",
       "alt": "",
       "caption": "From: Untitled (6 Stops on a Section), 1968",
       "legacy_src": "../Smithson/Smithson68U(6StopsOAS)d-M.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII[1]-s.jpg",
+      "src": "/images/concept/tautology/photo/Besson71-RealityRplcdByII%5B1%5D-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Besson71-RealityRplcdByII%5B1%5D-s.jpg"
     },
     {
-      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge[2]-s.jpg",
+      "src": "/images/concept/tautology/photo/Besson71-RealRByItsImge%5B2%5D-s.jpg",
       "alt": "",
       "caption": "From: Reality replaced by its image, 1971",
       "legacy_src": "Besson71-RealRByItsImge%5B2%5D-s.jpg"

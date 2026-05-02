@@ -22,7 +22,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2[machine]-s.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2%5Bmachine%5D-s.jpg",
       "alt": "",
       "caption": "Scumak No. 2",
       "width": "333",
@@ -31,7 +31,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/roxy-paine/scumakNo2[machine-detail]-s.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/scumakNo2%5Bmachine-detail%5D-s.jpg",
       "alt": "",
       "caption": "",
       "width": "190",
@@ -40,7 +40,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20(RF)-ss.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20%28RF%29-ss.jpg",
       "alt": "",
       "caption": "1999",
       "width": "184",
@@ -86,19 +86,19 @@
   ],
   "images": [
     {
-      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2[machine]-s.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/ScumakNo2%5Bmachine%5D-s.jpg",
       "alt": "",
       "caption": "Scumak No. 2",
       "legacy_src": "ScumakNo2%5Bmachine%5D-s.jpg"
     },
     {
-      "src": "/images/informe/viscosity/roxy-paine/scumakNo2[machine-detail]-s.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/scumakNo2%5Bmachine-detail%5D-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "scumakNo2%5Bmachine-detail%5D-s.jpg"
     },
     {
-      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20(RF)-ss.jpg",
+      "src": "/images/informe/viscosity/roxy-paine/1999-ScumakNo.20%28RF%29-ss.jpg",
       "alt": "",
       "caption": "1999",
       "legacy_src": "1999-ScumakNo.20(RF)-ss.jpg"

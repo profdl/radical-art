@@ -16,7 +16,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
+      "src": "/images/informe/fluff/ManzoniAchr61%5BFibra%5D-s.jpg",
       "alt": "",
       "caption": "Piero Manzoni\n\n1961",
       "width": "165",
@@ -61,7 +61,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/fluff/morris-MorrisUnt(Threadwaste)68-s.jpg",
+      "src": "/images/informe/fluff/morris-MorrisUnt%28Threadwaste%2968-s.jpg",
       "alt": "",
       "caption": "Robert Morris:\n\nUntitled (Threadwaste), 1968",
       "width": "250",
@@ -80,7 +80,7 @@
   ],
   "images": [
     {
-      "src": "/images/informe/fluff/ManzoniAchr61[Fibra]-s.jpg",
+      "src": "/images/informe/fluff/ManzoniAchr61%5BFibra%5D-s.jpg",
       "alt": "",
       "caption": "Piero Manzoni\n\n1961",
       "legacy_src": "ManzoniAchr61%5BFibra%5D-s.jpg"
@@ -110,7 +110,7 @@
       "legacy_src": "Kounellis67Carboniera.jpg"
     },
     {
-      "src": "/images/informe/fluff/morris-MorrisUnt(Threadwaste)68-s.jpg",
+      "src": "/images/informe/fluff/morris-MorrisUnt%28Threadwaste%2968-s.jpg",
       "alt": "",
       "caption": "Robert Morris:\n\nUntitled (Threadwaste), 1968",
       "legacy_src": "morris/MorrisUnt(Threadwaste)68-s.jpg"

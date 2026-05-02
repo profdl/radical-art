@@ -10,7 +10,7 @@
   "blocks": [
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP(3Pnls)1951.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP%283Pnls%291951.jpg",
       "alt": "",
       "caption": "White\nPainting (Three Panels), 1951",
       "width": "279",
@@ -19,7 +19,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP(7Pnl)51S.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP%287Pnl%2951S.jpg",
       "alt": "",
       "caption": "White Painting\n(Seven Panels), 1951",
       "width": "249",
@@ -37,7 +37,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt(GlBlP).jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt%28GlBlP%29.jpg",
       "alt": "",
       "caption": "Untitled (Glossy Black Painting), 1951",
       "width": "183",
@@ -46,7 +46,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/rauschenberg/1953Unt(ShouldLoveCome1st)S.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/1953Unt%28ShouldLoveCome1st%29S.jpg",
       "alt": "",
       "caption": "Untitled, 1953\n\nÜbermalung of \"Should Love Come First?\", 1951",
       "width": "246",
@@ -112,13 +112,13 @@
   ],
   "images": [
     {
-      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP(3Pnls)1951.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/rauschenbergWhP%283Pnls%291951.jpg",
       "alt": "",
       "caption": "White\nPainting (Three Panels), 1951",
       "legacy_src": "rauschenbergWhP(3Pnls)1951.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP(7Pnl)51S.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/RauschenbergWhiteP%287Pnl%2951S.jpg",
       "alt": "",
       "caption": "White Painting\n(Seven Panels), 1951",
       "legacy_src": "RauschenbergWhiteP(7Pnl)51S.jpg"
@@ -130,13 +130,13 @@
       "legacy_src": "Rauschenberg51WhtePaintingS.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt(GlBlP).jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/51RauschenbergUnt%28GlBlP%29.jpg",
       "alt": "",
       "caption": "Untitled (Glossy Black Painting), 1951",
       "legacy_src": "51RauschenbergUnt(GlBlP).jpg"
     },
     {
-      "src": "/images/nothing/monochrome/rauschenberg/1953Unt(ShouldLoveCome1st)S.jpg",
+      "src": "/images/nothing/monochrome/rauschenberg/1953Unt%28ShouldLoveCome1st%29S.jpg",
       "alt": "",
       "caption": "Untitled, 1953\n\nÜbermalung of \"Should Love Come First?\", 1951",
       "legacy_src": "1953Unt(ShouldLoveCome1st)S.jpg"

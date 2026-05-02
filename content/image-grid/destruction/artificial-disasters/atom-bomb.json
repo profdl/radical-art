@@ -16,7 +16,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima(Ant79)1961.jpg",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima%28Ant79%291961.jpg",
       "alt": "",
       "caption": "Yves Klein: Hiroshima (Anthropométrie 79), 1961",
       "width": "332",
@@ -25,7 +25,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST%28FC1%2961.jpg",
       "alt": "",
       "caption": "Yves Klein: Peinture Feu Couleur # 1, 1961",
       "width": "332",
@@ -127,13 +127,13 @@
   ],
   "images": [
     {
-      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima(Ant79)1961.jpg",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/KleinHiroshima%28Ant79%291961.jpg",
       "alt": "",
       "caption": "Yves Klein: Hiroshima (Anthropométrie 79), 1961",
       "legacy_src": "KleinHiroshima(Ant79)1961.jpg"
     },
     {
-      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST(FC1)61.jpg",
+      "src": "/images/destruction/artificial-disasters/atom-bomb/fire-s-KleinPFCouleurST%28FC1%2961.jpg",
       "alt": "",
       "caption": "Yves Klein: Peinture Feu Couleur # 1, 1961",
       "legacy_src": "../../../gif/natuur/FireS/KleinPFCouleurST(FC1)61.jpg"

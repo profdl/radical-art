@@ -116,7 +116,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild(OT)-D.jpg",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild%28OT%29-D.jpg",
       "alt": "",
       "caption": "Ohne Titel, 1965 [Detail]",
       "width": "201",
@@ -125,7 +125,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner(Baecherblume)-D.jpg",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner%28Baecherblume%29-D.jpg",
       "alt": "",
       "caption": "Berliner (Bächerblume), 1965\n\n[Detail]",
       "width": "202",
@@ -287,13 +287,13 @@
       "legacy_src": "63Polke/64-Ries-Detail.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild(OT)-D.jpg",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65-Rasterbild%28OT%29-D.jpg",
       "alt": "",
       "caption": "Ohne Titel, 1965 [Detail]",
       "legacy_src": "63Polke/65-Rasterbild(OT)-D.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner(Baecherblume)-D.jpg",
+      "src": "/images/algorithmic-art/grid/discretization/half-tone/63-polke-65Berliner%28Baecherblume%29-D.jpg",
       "alt": "",
       "caption": "Berliner (Bächerblume), 1965\n\n[Detail]",
       "legacy_src": "63Polke/65Berliner(Baecherblume)-D.jpg"

@@ -1,0 +1,25 @@
+---
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import MapView from "~/components/MapView";
+---
+
+<BaseLayout
+  title="Map"
+  description="A force-directed map of every page in the Radical Art archive, linked as the original site links them."
+  hideSidebar
+>
+  <header class="mb-6">
+    <p class="section-label">Browse</p>
+    <h1 class="h-page mt-1">Map</h1>
+    <p class="prose-archive max-w-3xl mt-3 text-[color:var(--color-ink-muted)]">
+      Every page in the archive, connected as the original site connects them.
+      Each dot is a page; each line is a link the authors made between two
+      pages. Drag, zoom, and click a node to open it.
+    </p>
+  </header>
+  <hr class="rule-light" />
+
+  <div class="pt-6">
+    <MapView client:only="react" />
+  </div>
+</BaseLayout>

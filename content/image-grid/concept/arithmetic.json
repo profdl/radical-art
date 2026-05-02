@@ -16,7 +16,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/arithmetic/Picabia-7Manifestes24[som]s.jpg",
+      "src": "/images/concept/arithmetic/Picabia-7Manifestes24%5Bsom%5Ds.jpg",
       "alt": "",
       "caption": "",
       "width": "230",
@@ -81,7 +81,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-S.jpg",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt%28Nrs%29-S.jpg",
       "alt": "",
       "caption": "",
       "width": "230",
@@ -90,7 +90,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-D.jpg",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt%28Nrs%29-D.jpg",
       "alt": "",
       "caption": "Ray Johnson: Untitled, 1988",
       "width": "225",
@@ -100,7 +100,7 @@
   ],
   "images": [
     {
-      "src": "/images/concept/arithmetic/Picabia-7Manifestes24[som]s.jpg",
+      "src": "/images/concept/arithmetic/Picabia-7Manifestes24%5Bsom%5Ds.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Picabia-7Manifestes24%5Bsom%5Ds.jpg"
@@ -130,13 +130,13 @@
       "legacy_src": "94MelBochnerNumbers-s.jpg"
     },
     {
-      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-S.jpg",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt%28Nrs%29-S.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "88RayJohnson-Unt(Nrs)-S.jpg"
     },
     {
-      "src": "/images/concept/arithmetic/88RayJohnson-Unt(Nrs)-D.jpg",
+      "src": "/images/concept/arithmetic/88RayJohnson-Unt%28Nrs%29-D.jpg",
       "alt": "",
       "caption": "Ray Johnson: Untitled, 1988",
       "legacy_src": "88RayJohnson-Unt(Nrs)-D.jpg"

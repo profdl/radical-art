@@ -19,7 +19,7 @@ import re
 import shutil
 from collections import Counter
 from pathlib import Path
-from urllib.parse import unquote, urlparse
+from urllib.parse import quote, unquote, urlparse
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 
@@ -167,7 +167,11 @@ def copy_image(src_attr: str, source_rel: str, page_slug_str: str) -> str | None
     dest = dest_dir / filename
     if not dest.exists():
         shutil.copy2(src_path, dest)
-    return f"/images/{page_slug_str}/{filename}"
+    # URL-encode the filename so chars like [, ], (, ), &, {, }, spaces,
+    # and commas (common in legacy filenames) survive static hosting. The
+    # file on disk keeps its literal name; the emitted src is encoded and
+    # the host decodes back to the literal at request time.
+    return f"/images/{page_slug_str}/{quote(filename, safe='')}"
 
 
 # ---------- block extraction --------------------------------------------------
@@ -919,6 +923,48 @@ def extract_page(row: dict) -> dict:
     }
 
 
+def synthesize_missing_hubs(emitted: dict[str, str]) -> int:
+    """Some legacy folders have child pages but no index.html (e.g.
+    `things/Composite/`, `kinetics/turn/GearsBelts/`). Pages elsewhere link to
+    these intermediate URLs, so without a stub they 404. For each missing
+    parent slug, write a minimal `link-hub` page; `[...slug].astro` resolves
+    the actual child links from the slug prefix at build time.
+
+    `emitted` maps emitted slug -> top-level section. Returns count written.
+    """
+    have = set(emitted.keys())
+    needed: dict[str, str] = {}  # missing slug -> section
+    for slug, section in emitted.items():
+        parts = slug.split("/")
+        for i in range(1, len(parts)):
+            parent = "/".join(parts[:i])
+            if parent and parent not in have and parent not in needed:
+                needed[parent] = section
+
+    for slug, section in sorted(needed.items()):
+        leaf = slug.rsplit("/", 1)[-1]
+        # Reverse slugify into a display heading: "gears-belts" -> "Gears Belts"
+        heading = re.sub(r"[-_]+", " ", leaf).strip()
+        heading = " ".join(w[:1].upper() + w[1:] for w in heading.split())
+        doc = {
+            "slug": slug,
+            "legacy_path": "",
+            "section": section,
+            "archetype": "link-hub",
+            "title": heading,
+            "heading": heading,
+            "description": "",
+            "source_encoding": "synthesized",
+            "blocks": [],
+            "images": [],
+            "out_links": [],
+        }
+        out_path = CONTENT_ROOT / "link-hub" / (slug + ".json")
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(doc, indent=2, ensure_ascii=False))
+    return len(needed)
+
+
 def main() -> None:
     inv = json.loads(INVENTORY_PATH.read_text())
     pages = [p for p in inv["pages"] if p["archetype_guess"] != "exclude"]
@@ -928,6 +974,7 @@ def main() -> None:
 
     by_arch: Counter[str] = Counter()
     failures: list[tuple[str, str]] = []
+    emitted: dict[str, str] = {}
     for row in pages:
         try:
             doc = extract_page(row)
@@ -938,10 +985,17 @@ def main() -> None:
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(json.dumps(doc, indent=2, ensure_ascii=False))
         by_arch[doc["archetype"]] += 1
+        emitted[doc["slug"]] = doc["section"]
+
+    n_synth = synthesize_missing_hubs(emitted)
+    if n_synth:
+        by_arch["link-hub"] += n_synth
 
     print(f"Extracted {sum(by_arch.values())} pages")
     for arch, n in by_arch.most_common():
         print(f"  {arch:20s} {n}")
+    if n_synth:
+        print(f"  (of which {n_synth} synthesized hub stubs for missing parents)")
     if failures:
         print(f"\nFailures: {len(failures)}")
         for path, err in failures[:10]:

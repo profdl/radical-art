@@ -72,7 +72,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/destruction/slice/arman-63[BB].jpg",
+      "src": "/images/destruction/slice/arman-63%5BBB%5D.jpg",
       "alt": "",
       "caption": "les bons bons voeux d'arman,\n\n1963",
       "width": "188",
@@ -81,7 +81,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/destruction/slice/arman-Arman67ST[SlicedViolin]-s.jpg",
+      "src": "/images/destruction/slice/arman-Arman67ST%5BSlicedViolin%5D-s.jpg",
       "alt": "",
       "caption": "sans titre,\n\n1967",
       "width": "102",
@@ -108,7 +108,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/destruction/slice/arman-Arman2004ST[SlicedCello]-s.jpg",
+      "src": "/images/destruction/slice/arman-Arman2004ST%5BSlicedCello%5D-s.jpg",
       "alt": "",
       "caption": "sans\ntitre, 2004",
       "width": "178",
@@ -192,13 +192,13 @@
       "legacy_src": "Arman/62SansTitre.jpg"
     },
     {
-      "src": "/images/destruction/slice/arman-63[BB].jpg",
+      "src": "/images/destruction/slice/arman-63%5BBB%5D.jpg",
       "alt": "",
       "caption": "les bons bons voeux d'arman,\n\n1963",
       "legacy_src": "Arman/63%5BBB%5D.jpg"
     },
     {
-      "src": "/images/destruction/slice/arman-Arman67ST[SlicedViolin]-s.jpg",
+      "src": "/images/destruction/slice/arman-Arman67ST%5BSlicedViolin%5D-s.jpg",
       "alt": "",
       "caption": "sans titre,\n\n1967",
       "legacy_src": "Arman/Arman67ST%5BSlicedViolin%5D-s.jpg"
@@ -216,7 +216,7 @@
       "legacy_src": "Arman/98SansTitre.jpg"
     },
     {
-      "src": "/images/destruction/slice/arman-Arman2004ST[SlicedCello]-s.jpg",
+      "src": "/images/destruction/slice/arman-Arman2004ST%5BSlicedCello%5D-s.jpg",
       "alt": "",
       "caption": "sans\ntitre, 2004",
       "legacy_src": "Arman/Arman2004ST%5BSlicedCello%5D-s.jpg"

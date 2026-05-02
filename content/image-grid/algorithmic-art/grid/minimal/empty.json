@@ -160,7 +160,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT(Faltung)-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT%28Faltung%29-s.jpg",
       "alt": "",
       "caption": "Herbert Zangs: Ohne Titel (Faltung)",
       "width": "174",
@@ -241,7 +241,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74[Grid].jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74%5BGrid%5D.jpg",
       "alt": "",
       "caption": "Antoni Tápies: Relieve blanco con dibujas y letras, 1974",
       "width": "230",
@@ -304,7 +304,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt[3D-Grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt%5B3D-Grid%5D-s.jpg",
       "alt": "",
       "caption": "Sol LeWitt: Open Modular Cube",
       "width": "230",
@@ -322,7 +322,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69[huis]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69%5Bhuis%5D-s.jpg",
       "alt": "",
       "caption": "Jean-Pierre Raynaud: La Maison, 1969",
       "width": "194",
@@ -376,7 +376,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT[grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT%5Bgrid%5D-s.jpg",
       "alt": "",
       "caption": "Gunther Förg: Ohne Titel, 1994",
       "width": "154",
@@ -439,7 +439,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST[Neon]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST%5BNeon%5D-s.jpg",
       "alt": "",
       "caption": "François Morellet",
       "width": "204",
@@ -663,7 +663,7 @@
       "legacy_src": "60-Manzoni/60Achrome-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT(Faltung)-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/60-zangs-HerbertZangsOT%28Faltung%29-s.jpg",
       "alt": "",
       "caption": "Herbert Zangs: Ohne Titel (Faltung)",
       "legacy_src": "60-Zangs/HerbertZangsOT(Faltung)-s.jpg"
@@ -717,7 +717,7 @@
       "legacy_src": "73Hilgemann/HilgemannLichtrelief-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74[Grid].jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/63-tapies-74%5BGrid%5D.jpg",
       "alt": "",
       "caption": "Antoni Tápies: Relieve blanco con dibujas y letras, 1974",
       "legacy_src": "63-Tapies/74%5BGrid%5D.jpg"
@@ -759,7 +759,7 @@
       "legacy_src": "53-Morellet/62SphereTrame.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt[3D-Grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/66-le-witt-LeWitt%5B3D-Grid%5D-s.jpg",
       "alt": "",
       "caption": "Sol LeWitt: Open Modular Cube",
       "legacy_src": "66-LeWitt/LeWitt%5B3D-Grid%5D-s.jpg"
@@ -771,7 +771,7 @@
       "legacy_src": "66-LeWitt/66OpenModularCube-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69[huis]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/69-raynaud-69%5Bhuis%5D-s.jpg",
       "alt": "",
       "caption": "Jean-Pierre Raynaud: La Maison, 1969",
       "legacy_src": "69-Raynaud/69%5Bhuis%5D-s.jpg"
@@ -807,7 +807,7 @@
       "legacy_src": "86-OswaldOberhuberOT-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT[grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/94-foerg-94-OT%5Bgrid%5D-s.jpg",
       "alt": "",
       "caption": "Gunther Förg: Ohne Titel, 1994",
       "legacy_src": "94-Foerg/94-OT%5Bgrid%5D-s.jpg"
@@ -849,7 +849,7 @@
       "legacy_src": "87-FlavinUntitled-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST[Neon]-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/empty/53-morellet-ST%5BNeon%5D-s.jpg",
       "alt": "",
       "caption": "François Morellet",
       "legacy_src": "53-Morellet/ST%5BNeon%5D-s.jpg"

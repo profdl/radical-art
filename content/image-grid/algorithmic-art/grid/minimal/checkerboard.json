@@ -111,7 +111,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ[3checkerboards].jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ%5B3checkerboards%5D.jpg",
       "alt": "",
       "caption": "Carl Andre",
       "width": "444",
@@ -129,7 +129,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe(TheNewHephEtc)s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe%28TheNewHephEtc%29s.jpg",
       "alt": "",
       "caption": "Cu Fe (The New Hephaestus), 1981",
       "width": "480",
@@ -179,7 +179,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-B-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt%5Bfrom5Unions%5D-B-s.jpg",
       "alt": "",
       "caption": "Untitled (from: Five Unions), 1996",
       "width": "224",
@@ -188,7 +188,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-C-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt%5Bfrom5Unions%5D-C-s.jpg",
       "alt": "",
       "caption": "Aurélie Nemours",
       "width": "224",
@@ -276,7 +276,7 @@
       "legacy_src": "62JCJ/2000CheckerboardOnMonitor-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ[3checkerboards].jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/62-jcj-JCJ%5B3checkerboards%5D.jpg",
       "alt": "",
       "caption": "Carl Andre",
       "legacy_src": "62JCJ/JCJ%5B3checkerboards%5D.jpg"
@@ -288,7 +288,7 @@
       "legacy_src": "70AndreZincMagnesiumPlane-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe(TheNewHephEtc)s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/81AndreCuFe%28TheNewHephEtc%29s.jpg",
       "alt": "",
       "caption": "Cu Fe (The New Hephaestus), 1981",
       "legacy_src": "81AndreCuFe(TheNewHephEtc)s.jpg"
@@ -318,13 +318,13 @@
       "legacy_src": "92Scully/92HeartOfDarknessNr3-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-B-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt%5Bfrom5Unions%5D-B-s.jpg",
       "alt": "",
       "caption": "Untitled (from: Five Unions), 1996",
       "legacy_src": "92Scully/96Unt%5Bfrom5Unions%5D-B-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt[from5Unions]-C-s.jpg",
+      "src": "/images/algorithmic-art/grid/minimal/checkerboard/92-scully-96Unt%5Bfrom5Unions%5D-C-s.jpg",
       "alt": "",
       "caption": "Aurélie Nemours",
       "legacy_src": "92Scully/96Unt%5Bfrom5Unions%5D-C-s.jpg"

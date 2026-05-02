@@ -39,7 +39,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint,New York-s.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint%2CNew%20York-s.jpg",
       "alt": "",
       "caption": "",
       "width": "189",
@@ -101,7 +101,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860's-MagneticMotor-French.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860%27s-MagneticMotor-French.jpg",
       "alt": "",
       "caption": "Magnetic Motor\n\nFrench, 1860's",
       "width": "176",
@@ -128,7 +128,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow,WoodTurningMachine.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow%2CWoodTurningMachine.jpg",
       "alt": "",
       "caption": "H.C. Westermann:\n\nSlow, Wood Turning Machine\n\n1966",
       "width": "171",
@@ -165,7 +165,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita+Statoflor-s.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita%2BStatoflor-s.jpg",
       "alt": "",
       "caption": "Wim T. Schippers:\n\nColorita and Statoflor, 1968",
       "width": "373",
@@ -192,7 +192,7 @@
       "legacy_src": "Bohnenberger/Smithsonian-s.jpg"
     },
     {
-      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint,New York-s.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/bohnenberger-19xx-UnitedStatesMilitaryAcademyAtWestPoint%2CNew%20York-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Bohnenberger/19xx-UnitedStatesMilitaryAcademyAtWestPoint,New%20York-s.jpg"
@@ -210,7 +210,7 @@
       "legacy_src": "19thCentury/1848-Revolving-Spur-Wheel-DanielDavis.jpg"
     },
     {
-      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860's-MagneticMotor-French.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/19th-century-1860%27s-MagneticMotor-French.jpg",
       "alt": "",
       "caption": "Magnetic Motor\n\nFrench, 1860's",
       "legacy_src": "19thCentury/1860's-MagneticMotor-French.jpg"
@@ -228,7 +228,7 @@
       "legacy_src": "index.html"
     },
     {
-      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow,WoodTurningMachine.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/1966-H.C.Westermann-Slow%2CWoodTurningMachine.jpg",
       "alt": "",
       "caption": "H.C. Westermann:\n\nSlow, Wood Turning Machine\n\n1966",
       "legacy_src": "1966-H.C.Westermann-Slow,WoodTurningMachine.jpg"
@@ -246,7 +246,7 @@
       "legacy_src": "1967-PietVerdonk-LP-s.jpg"
     },
     {
-      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita+Statoflor-s.jpg",
+      "src": "/images/kinetics/turn/simple-rotation/1968-WTS-Colorita%2BStatoflor-s.jpg",
       "alt": "",
       "caption": "Wim T. Schippers:\n\nColorita and Statoflor, 1968",
       "legacy_src": "1968-WTS-Colorita+Statoflor-s.jpg"

@@ -142,7 +142,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/process/squeeze/cesar-1975Untitled(karton).jpg",
+      "src": "/images/process/squeeze/cesar-1975Untitled%28karton%29.jpg",
       "alt": "",
       "caption": "Untitled (Cardboard), 1975",
       "width": "138",
@@ -151,7 +151,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/process/squeeze/cesar-1976-compr(carton).jpg",
+      "src": "/images/process/squeeze/cesar-1976-compr%28carton%29.jpg",
       "alt": "",
       "caption": "Untitled (Cardboard), 1976",
       "width": "167",
@@ -287,13 +287,13 @@
       "legacy_src": "cesar/1971Untitled.jpg"
     },
     {
-      "src": "/images/process/squeeze/cesar-1975Untitled(karton).jpg",
+      "src": "/images/process/squeeze/cesar-1975Untitled%28karton%29.jpg",
       "alt": "",
       "caption": "Untitled (Cardboard), 1975",
       "legacy_src": "cesar/1975Untitled(karton).jpg"
     },
     {
-      "src": "/images/process/squeeze/cesar-1976-compr(carton).jpg",
+      "src": "/images/process/squeeze/cesar-1976-compr%28carton%29.jpg",
       "alt": "",
       "caption": "Untitled (Cardboard), 1976",
       "legacy_src": "cesar/1976-compr(carton).jpg"

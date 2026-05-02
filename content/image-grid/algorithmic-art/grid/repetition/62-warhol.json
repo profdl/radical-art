@@ -61,7 +61,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis[Cyclope]-M.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis%5BCyclope%5D-M.jpg",
       "alt": "",
       "caption": "Double Elvis",
       "width": "147",
@@ -115,7 +115,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis(1)-M.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis%281%29-M.jpg",
       "alt": "",
       "caption": "Single Elvis, 1963",
       "width": "147",
@@ -142,7 +142,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie+Wood-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie%2BWood-s.jpg",
       "alt": "",
       "caption": "Natalie, 1962",
       "width": "214",
@@ -367,7 +367,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-2-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant%24-2-s.jpg",
       "alt": "",
       "caption": "Dollar Quadrant, 1982",
       "width": "162",
@@ -376,7 +376,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant%24-s.jpg",
       "alt": "",
       "caption": "Dollar Quadrant, 1982",
       "width": "160",
@@ -394,7 +394,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last+Supper-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last%2BSupper-s.jpg",
       "alt": "",
       "caption": "The Last Supper, 1986",
       "width": "400",
@@ -491,7 +491,7 @@
       "legacy_src": "s/62MarilynDiptych-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis[Cyclope]-M.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-DoubleElvis%5BCyclope%5D-M.jpg",
       "alt": "",
       "caption": "Double Elvis",
       "legacy_src": "s/DoubleElvis%5BCyclope%5D-M.jpg"
@@ -527,7 +527,7 @@
       "legacy_src": "s/64TripleElvis-M.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis(1)-M.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-63Elvis%281%29-M.jpg",
       "alt": "",
       "caption": "Single Elvis, 1963",
       "legacy_src": "s/63Elvis(1)-M.jpg"
@@ -545,7 +545,7 @@
       "legacy_src": "s/62-Troy-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie+Wood-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Natalie%2BWood-s.jpg",
       "alt": "",
       "caption": "Natalie, 1962",
       "legacy_src": "s/Natalie+Wood-s.jpg"
@@ -695,13 +695,13 @@
       "legacy_src": "s/82DollarSigns-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-2-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant%24-2-s.jpg",
       "alt": "",
       "caption": "Dollar Quadrant, 1982",
       "legacy_src": "s/82Quadrant$-2-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant$-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-82Quadrant%24-s.jpg",
       "alt": "",
       "caption": "Dollar Quadrant, 1982",
       "legacy_src": "s/82Quadrant$-s.jpg"
@@ -713,7 +713,7 @@
       "legacy_src": "s/80LastSupper.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last+Supper-s.jpg",
+      "src": "/images/algorithmic-art/grid/repetition/62-warhol/s-Last%2BSupper-s.jpg",
       "alt": "",
       "caption": "The Last Supper, 1986",
       "legacy_src": "s/Last+Supper-s.jpg"

@@ -78,7 +78,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55(SEOAP)1917-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55%28SEOAP%291917-ss.jpg",
       "alt": "",
       "caption": "",
       "width": "71",
@@ -96,7 +96,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black&RedSquare1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black%26RedSquare1915-ss.jpg",
       "alt": "",
       "caption": "",
       "width": "63",
@@ -114,7 +114,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr(WBT&BR)1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr%28WBT%26BR%291915-ss.jpg",
       "alt": "",
       "caption": "",
       "width": "87",
@@ -141,7 +141,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP(8RR)-1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP%288RR%29-1915-ss.jpg",
       "alt": "",
       "caption": "",
       "width": "86",
@@ -317,7 +317,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp[blue]1923-s.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp%5Bblue%5D1923-s.jpg",
       "alt": "",
       "caption": "Spherical Composition, 1923",
       "width": null,
@@ -344,7 +344,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled(RR)-1917-S.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled%28RR%29-1917-S.jpg",
       "alt": "",
       "caption": "Untitled, 1917",
       "width": "150",
@@ -433,7 +433,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98(CmpctClrs)S.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98%28CmpctClrs%29S.jpg",
       "alt": "",
       "caption": "Composition # 98\n\n(Compact Colors), 1920",
       "width": "130",
@@ -730,7 +730,7 @@
       "legacy_src": "malevitch/ss/black-circle1913-ss.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55(SEOAP)1917-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SuprNr55%28SEOAP%291917-ss.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "malevitch/ss/SuprNr55(SEOAP)1917-ss.jpg"
@@ -742,7 +742,7 @@
       "legacy_src": "malevitch/ss/SuprPntng1917-18-ss.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black&RedSquare1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-Black%26RedSquare1915-ss.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "malevitch/ss/Black&RedSquare1915-ss.jpg"
@@ -754,7 +754,7 @@
       "legacy_src": "malevitch/ss/SP-1915-ss.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr(WBT&BR)1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-supr%28WBT%26BR%291915-ss.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "malevitch/ss/supr(WBT&BR)1915-ss.jpg"
@@ -772,7 +772,7 @@
       "legacy_src": "malevitch/ss/SC1919-20-ss.gif"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP(8RR)-1915-ss.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/ss-SP%288RR%29-1915-ss.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "malevitch/ss/SP(8RR)-1915-ss.jpg"
@@ -850,7 +850,7 @@
       "legacy_src": "kliun/Iwan-Kljun-Untitled-1917b-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp[blue]1923-s.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-SpherComp%5Bblue%5D1923-s.jpg",
       "alt": "",
       "caption": "Spherical Composition, 1923",
       "legacy_src": "kliun/SpherComp%5Bblue%5D1923-s.jpg"
@@ -868,7 +868,7 @@
       "legacy_src": "kliun/Iwan-Kljun-Untitled-1917d-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled(RR)-1917-S.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/kliun-kljun-untitled%28RR%29-1917-S.jpg",
       "alt": "",
       "caption": "Untitled, 1917",
       "legacy_src": "kliun/kljun-untitled(RR)-1917-S.jpg"
@@ -916,7 +916,7 @@
       "legacy_src": "rodchenko/Constructivism/1919_composition-s.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98(CmpctClrs)S.jpg",
+      "src": "/images/nothing/monochrome/malevich-rodchenko/rodchenko-Rodchenko20C98%28CmpctClrs%29S.jpg",
       "alt": "",
       "caption": "Composition # 98\n\n(Compact Colors), 1920",
       "legacy_src": "rodchenko/Rodchenko20C98(CmpctClrs)S.jpg"

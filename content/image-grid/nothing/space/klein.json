@@ -36,7 +36,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/monochrome-MonochromeRouge(M38)1955-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeRouge%28M38%291955-S.jpg",
       "alt": "",
       "caption": "1955",
       "width": "198",
@@ -45,7 +45,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/monochrome-MonochromeRose(MP30)1955-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeRose%28MP30%291955-S.jpg",
       "alt": "",
       "caption": "1955",
       "width": "129",
@@ -63,7 +63,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/monochrome-MonochromeVert(M77)1957-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeVert%28M77%291957-S.jpg",
       "alt": "",
       "caption": "1957",
       "width": "53",
@@ -72,7 +72,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/monochrome-YM(M8)-1957-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-YM%28M8%29-1957-S.jpg",
       "alt": "",
       "caption": "1957",
       "width": "148",
@@ -110,7 +110,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue-UntitledSculpture(S6)-57-S.jpg",
+      "src": "/images/nothing/space/klein/blue-UntitledSculpture%28S6%29-57-S.jpg",
       "alt": "",
       "caption": "Untitled Sculpture, 1957",
       "width": "137",
@@ -227,13 +227,13 @@
       "legacy_src": "monochrome/XprnDuMndeDLClrMineOrange55.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/monochrome-MonochromeRouge(M38)1955-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeRouge%28M38%291955-S.jpg",
       "alt": "",
       "caption": "1955",
       "legacy_src": "monochrome/MonochromeRouge(M38)1955-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/monochrome-MonochromeRose(MP30)1955-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeRose%28MP30%291955-S.jpg",
       "alt": "",
       "caption": "1955",
       "legacy_src": "monochrome/MonochromeRose(MP30)1955-S.jpg"
@@ -245,13 +245,13 @@
       "legacy_src": "monochrome/KleinYellow-SS.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/monochrome-MonochromeVert(M77)1957-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-MonochromeVert%28M77%291957-S.jpg",
       "alt": "",
       "caption": "1957",
       "legacy_src": "monochrome/MonochromeVert(M77)1957-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/monochrome-YM(M8)-1957-S.jpg",
+      "src": "/images/nothing/space/klein/monochrome-YM%28M8%29-1957-S.jpg",
       "alt": "",
       "caption": "1957",
       "legacy_src": "monochrome/YM(M8)-1957-S.jpg"
@@ -269,7 +269,7 @@
       "legacy_src": "blue/KleinSchirnerFrankfurt2004.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue-UntitledSculpture(S6)-57-S.jpg",
+      "src": "/images/nothing/space/klein/blue-UntitledSculpture%28S6%29-57-S.jpg",
       "alt": "",
       "caption": "Untitled Sculpture, 1957",
       "legacy_src": "blue/UntitledSculpture(S6)-57-S.jpg"

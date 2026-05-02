@@ -88,7 +88,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/found-text/holzer-80-82(TLivingSeries)-s.jpg",
+      "src": "/images/concept/found-text/holzer-80-82%28TLivingSeries%29-s.jpg",
       "alt": "",
       "caption": "",
       "width": "200",
@@ -133,7 +133,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/found-text/holzer-holzer8082Living[Tears].jpg",
+      "src": "/images/concept/found-text/holzer-holzer8082Living%5BTears%5D.jpg",
       "alt": "",
       "caption": "",
       "width": "200",
@@ -151,7 +151,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/found-text/holzer-80-82Living[Bleeding]-s.jpg",
+      "src": "/images/concept/found-text/holzer-80-82Living%5BBleeding%5D-s.jpg",
       "alt": "",
       "caption": "",
       "width": "230",
@@ -160,7 +160,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/found-text/holzer-holzer8082Living[WhatAShock].jpg",
+      "src": "/images/concept/found-text/holzer-holzer8082Living%5BWhatAShock%5D.jpg",
       "alt": "",
       "caption": "",
       "width": "200",
@@ -206,7 +206,7 @@
       "legacy_src": "Baldessari/TermsMostUseful-s.jpg"
     },
     {
-      "src": "/images/concept/found-text/holzer-80-82(TLivingSeries)-s.jpg",
+      "src": "/images/concept/found-text/holzer-80-82%28TLivingSeries%29-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Holzer/80-82(TLivingSeries)-s.jpg"
@@ -236,7 +236,7 @@
       "legacy_src": "Holzer/holzer8082Living-somebodyjust.jpg"
     },
     {
-      "src": "/images/concept/found-text/holzer-holzer8082Living[Tears].jpg",
+      "src": "/images/concept/found-text/holzer-holzer8082Living%5BTears%5D.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Holzer/holzer8082Living%5BTears%5D.jpg"
@@ -248,13 +248,13 @@
       "legacy_src": "Holzer/80-82GoodChild-s.jpg"
     },
     {
-      "src": "/images/concept/found-text/holzer-80-82Living[Bleeding]-s.jpg",
+      "src": "/images/concept/found-text/holzer-80-82Living%5BBleeding%5D-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Holzer/80-82Living%5BBleeding%5D-s.jpg"
     },
     {
-      "src": "/images/concept/found-text/holzer-holzer8082Living[WhatAShock].jpg",
+      "src": "/images/concept/found-text/holzer-holzer8082Living%5BWhatAShock%5D.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Holzer/holzer8082Living%5BWhatAShock%5D.jpg"

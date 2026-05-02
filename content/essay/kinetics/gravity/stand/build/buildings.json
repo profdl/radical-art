@@ -49,7 +49,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/build/buildings/egypt-2560bCE-Hemunu-Cheops[AlfredMolon]-s.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/egypt-2560bCE-Hemunu-Cheops%5BAlfredMolon%5D-s.jpg",
       "alt": "",
       "caption": "Cheops Pyramid, Giza, 2560 B.C.\n\n[Photo © Alfred Molon]",
       "width": "334",
@@ -226,7 +226,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/build/buildings/skyscrapers-11xx-Bologna-Garisenda+Asinelli-M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/skyscrapers-11xx-Bologna-Garisenda%2BAsinelli-M.jpg",
       "alt": "",
       "caption": "Torre Garisenda & Torre degli Asinelli\n\n12th century, Bologna",
       "width": null,
@@ -244,7 +244,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1194-1260-NDDeChartres-[Gary-Lobdell]-M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1194-1260-NDDeChartres-%5BGary-Lobdell%5D-M.jpg",
       "alt": "",
       "caption": "Cathédrale de Notre Dame de Chartres\n\n1194-1260 [Photo © Gary Lobdell]",
       "width": "177",
@@ -280,7 +280,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1248-1880DomKoeln[MaxHasak1911]M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1248-1880DomKoeln%5BMaxHasak1911%5DM.jpg",
       "alt": "",
       "caption": "Dom zu Köln, 1248-1880\n\n(Photo by Max Hasak, 1911)",
       "width": "217",
@@ -565,7 +565,7 @@
       "legacy_src": "Egypt/red-pyramid_s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/build/buildings/egypt-2560bCE-Hemunu-Cheops[AlfredMolon]-s.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/egypt-2560bCE-Hemunu-Cheops%5BAlfredMolon%5D-s.jpg",
       "alt": "",
       "caption": "Cheops Pyramid, Giza, 2560 B.C.\n\n[Photo © Alfred Molon]",
       "legacy_src": "Egypt/2560bCE-Hemunu-Cheops%5BAlfredMolon%5D-s.jpg"
@@ -601,7 +601,7 @@
       "legacy_src": "Babel/Kircher-TurrisBabel-1679-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/build/buildings/skyscrapers-11xx-Bologna-Garisenda+Asinelli-M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/skyscrapers-11xx-Bologna-Garisenda%2BAsinelli-M.jpg",
       "alt": "",
       "caption": "Torre Garisenda & Torre degli Asinelli\n\n12th century, Bologna",
       "legacy_src": "skyscrapers/11xx-Bologna-Garisenda+Asinelli-M.jpg"
@@ -613,7 +613,7 @@
       "legacy_src": "skyscrapers/SanGimignano13yy-M.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1194-1260-NDDeChartres-[Gary-Lobdell]-M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1194-1260-NDDeChartres-%5BGary-Lobdell%5D-M.jpg",
       "alt": "",
       "caption": "Cathédrale de Notre Dame de Chartres\n\n1194-1260 [Photo © Gary Lobdell]",
       "legacy_src": "Churches/1194-1260-NDDeChartres-%5BGary-Lobdell%5D-M.jpg"
@@ -637,7 +637,7 @@
       "legacy_src": "Churches/1876-CatNDdRouen-M.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1248-1880DomKoeln[MaxHasak1911]M.jpg",
+      "src": "/images/kinetics/gravity/stand/build/buildings/churches-1248-1880DomKoeln%5BMaxHasak1911%5DM.jpg",
       "alt": "",
       "caption": "Dom zu Köln, 1248-1880\n\n(Photo by Max Hasak, 1911)",
       "legacy_src": "Churches/1248-1880DomKoeln%5BMaxHasak1911%5DM.jpg"

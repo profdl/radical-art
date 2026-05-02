@@ -64,7 +64,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece(Bench)-s.jpg",
+      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece%28Bench%29-s.jpg",
       "alt": "",
       "caption": "Robert Morris: Floor Piece (Bench), 1964",
       "width": "237",
@@ -91,7 +91,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/lie/KilianRuethemann,Unt-2009-s.jpg",
+      "src": "/images/kinetics/gravity/lie/KilianRuethemann%2CUnt-2009-s.jpg",
       "alt": "",
       "caption": "Kilian Rüthemann: Untitled, 2009",
       "width": "276",
@@ -124,7 +124,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT%5BWoodenPlatform%5D-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel, 1979",
       "width": "337",
@@ -133,7 +133,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT%28Bodenarbeit%29-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
       "width": "360",
@@ -250,7 +250,7 @@
       "legacy_src": "beams/1966-DEMaria-HighEnergyBar.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece(Bench)-s.jpg",
+      "src": "/images/kinetics/gravity/lie/beams-1964-Morris-FloorPiece%28Bench%29-s.jpg",
       "alt": "",
       "caption": "Robert Morris: Floor Piece (Bench), 1964",
       "legacy_src": "beams/1964-Morris-FloorPiece(Bench)-s.jpg"
@@ -268,7 +268,7 @@
       "legacy_src": "SolidSurface/Andre/1998-Rackblox-M.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/lie/KilianRuethemann,Unt-2009-s.jpg",
+      "src": "/images/kinetics/gravity/lie/KilianRuethemann%2CUnt-2009-s.jpg",
       "alt": "",
       "caption": "Kilian Rüthemann: Untitled, 2009",
       "legacy_src": "KilianRuethemann,Unt-2009-s.jpg"
@@ -286,13 +286,13 @@
       "legacy_src": "SolidSurface/Andre/1967-10x10AltstadtCpprSqr-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT[WoodenPlatform]-s.jpg",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1979-OT%5BWoodenPlatform%5D-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel, 1979",
       "legacy_src": "SolidSurface/UlrichRueckriem/1979-OT%5BWoodenPlatform%5D-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT(Bodenarbeit)-s.jpg",
+      "src": "/images/kinetics/gravity/lie/ulrich-rueckriem-1981-OT%28Bodenarbeit%29-s.jpg",
       "alt": "",
       "caption": "Ulrich Rückriem: Ohne Titel (Bodenarbeit), 1981",
       "legacy_src": "SolidSurface/UlrichRueckriem/1981-OT(Bodenarbeit)-s.jpg"

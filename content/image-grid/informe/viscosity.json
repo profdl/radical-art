@@ -76,7 +76,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20(RF)-S.jpg",
+      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20%28RF%29-S.jpg",
       "alt": "",
       "caption": "Roxy Paine: Scumak No. 20 (RF), 1999",
       "width": "276",
@@ -85,7 +85,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg",
+      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib%28Schneewittchen%29-.jpg",
       "alt": "",
       "caption": "Gotthard Graubner: Farbleib (Schneewittchen), 1963\n\n[\"Pillow Piece\"]",
       "width": "300",
@@ -94,7 +94,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl+L-C-s.jpg",
+      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl%2BL-C-s.jpg",
       "alt": "",
       "caption": "Anish Kapoor: Blood, 2000\n\n\n[Fibreglass and lacquer]",
       "width": "340",
@@ -210,19 +210,19 @@
       "legacy_src": "Cesar/CesarExpansionMurale1975-M.jpg"
     },
     {
-      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20(RF)-S.jpg",
+      "src": "/images/informe/viscosity/roxy-paine-1999-ScumakNo.20%28RF%29-S.jpg",
       "alt": "",
       "caption": "Roxy Paine: Scumak No. 20 (RF), 1999",
       "legacy_src": "RoxyPaine/1999-ScumakNo.20(RF)-S.jpg"
     },
     {
-      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg",
+      "src": "/images/informe/viscosity/GotthardGraubner-1963-Farbleib%28Schneewittchen%29-.jpg",
       "alt": "",
       "caption": "Gotthard Graubner: Farbleib (Schneewittchen), 1963\n\n[\"Pillow Piece\"]",
       "legacy_src": "GotthardGraubner-1963-Farbleib(Schneewittchen)-.jpg"
     },
     {
-      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl+L-C-s.jpg",
+      "src": "/images/informe/viscosity/anish-kapoor-2000-Blood-Fgl%2BL-C-s.jpg",
       "alt": "",
       "caption": "Anish Kapoor: Blood, 2000\n\n\n[Fibreglass and lacquer]",
       "legacy_src": "AnishKapoor/2000-Blood-Fgl+L-C-s.jpg"

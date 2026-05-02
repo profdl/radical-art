@@ -61,7 +61,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/colored/55Klein(IKB46).jpg",
+      "src": "/images/nothing/monochrome/colored/55Klein%28IKB46%29.jpg",
       "alt": "",
       "caption": "Yves Klein:\n\nMonochrome Bleu (IKB 46), 1955",
       "width": "148",
@@ -88,7 +88,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/colored/63VerheyenEspace(Vert)S.jpg",
+      "src": "/images/nothing/monochrome/colored/63VerheyenEspace%28Vert%29S.jpg",
       "alt": "",
       "caption": "Jef Verheyen: Espace (Vert), 1963",
       "width": "204",
@@ -223,7 +223,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg=PntdBrwnS.jpg",
+      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg%3DPntdBrwnS.jpg",
       "alt": "",
       "caption": "John Miller:\n\nEverything Is Painted Brown, 2004",
       "width": "141",
@@ -272,7 +272,7 @@
       "legacy_src": "55AtsukoTanakaUnt-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/colored/55Klein(IKB46).jpg",
+      "src": "/images/nothing/monochrome/colored/55Klein%28IKB46%29.jpg",
       "alt": "",
       "caption": "Yves Klein:\n\nMonochrome Bleu (IKB 46), 1955",
       "legacy_src": "55Klein(IKB46).jpg"
@@ -290,7 +290,7 @@
       "legacy_src": "58PieneEinFestFuerDasLicht.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/colored/63VerheyenEspace(Vert)S.jpg",
+      "src": "/images/nothing/monochrome/colored/63VerheyenEspace%28Vert%29S.jpg",
       "alt": "",
       "caption": "Jef Verheyen: Espace (Vert), 1963",
       "legacy_src": "63VerheyenEspace(Vert)S.jpg"
@@ -380,7 +380,7 @@
       "legacy_src": "04BurenLaCouleurEncadree.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg=PntdBrwnS.jpg",
+      "src": "/images/nothing/monochrome/colored/04JohnMillerEvrtg%3DPntdBrwnS.jpg",
       "alt": "",
       "caption": "John Miller:\n\nEverything Is Painted Brown, 2004",
       "legacy_src": "04JohnMillerEvrtg=PntdBrwnS.jpg"

@@ -72,7 +72,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/words/ben-58-[signature]-S.jpg",
+      "src": "/images/concept/words/ben-58-%5Bsignature%5D-S.jpg",
       "alt": "",
       "caption": "\"Ben\" – 1958",
       "width": null,
@@ -429,7 +429,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/words/2003-stefan-brueggemann-2003(nothing)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2003%28nothing%29-s.jpg",
       "alt": "",
       "caption": "(Nothing) – 2003",
       "width": null,
@@ -438,7 +438,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/words/2003-stefan-brueggemann-2004(Rubbish)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2004%28Rubbish%29-s.jpg",
       "alt": "",
       "caption": "(Rubbish) – 2004",
       "width": "230",
@@ -447,7 +447,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/words/2003-stefan-brueggemann-(Superficial)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-%28Superficial%29-s.jpg",
       "alt": "",
       "caption": "(Superficial)",
       "width": null,
@@ -505,7 +505,7 @@
       "legacy_src": "52Ruehm/55GerhardRuehm-Bild-ss.jpg"
     },
     {
-      "src": "/images/concept/words/ben-58-[signature]-S.jpg",
+      "src": "/images/concept/words/ben-58-%5Bsignature%5D-S.jpg",
       "alt": "",
       "caption": "\"Ben\" – 1958",
       "legacy_src": "Ben/58-%5Bsignature%5D-S.jpg"
@@ -685,19 +685,19 @@
       "legacy_src": "97OttmarHoerlUnschuld-s.jpg"
     },
     {
-      "src": "/images/concept/words/2003-stefan-brueggemann-2003(nothing)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2003%28nothing%29-s.jpg",
       "alt": "",
       "caption": "(Nothing) – 2003",
       "legacy_src": "2003StefanBrueggemann/2003(nothing)-s.jpg"
     },
     {
-      "src": "/images/concept/words/2003-stefan-brueggemann-2004(Rubbish)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-2004%28Rubbish%29-s.jpg",
       "alt": "",
       "caption": "(Rubbish) – 2004",
       "legacy_src": "2003StefanBrueggemann/2004(Rubbish)-s.jpg"
     },
     {
-      "src": "/images/concept/words/2003-stefan-brueggemann-(Superficial)-s.jpg",
+      "src": "/images/concept/words/2003-stefan-brueggemann-%28Superficial%29-s.jpg",
       "alt": "",
       "caption": "(Superficial)",
       "legacy_src": "2003StefanBrueggemann/(Superficial)-s.jpg"

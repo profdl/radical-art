@@ -16,7 +16,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/grey/64MorrisUntd(CornerPiece)-S.jpg",
+      "src": "/images/nothing/monochrome/grey/64MorrisUntd%28CornerPiece%29-S.jpg",
       "alt": "",
       "caption": "Robert Morris:\n\nUntitled (Corner Piece), 1964",
       "width": "227",
@@ -25,7 +25,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/grey/68RichterGrau,Strahlen-S.jpg",
+      "src": "/images/nothing/monochrome/grey/68RichterGrau%2CStrahlen-S.jpg",
       "alt": "",
       "caption": "Gerhard Richter:\n\nGrau (Strahlen), 1968",
       "width": "234",
@@ -62,13 +62,13 @@
   ],
   "images": [
     {
-      "src": "/images/nothing/monochrome/grey/64MorrisUntd(CornerPiece)-S.jpg",
+      "src": "/images/nothing/monochrome/grey/64MorrisUntd%28CornerPiece%29-S.jpg",
       "alt": "",
       "caption": "Robert Morris:\n\nUntitled (Corner Piece), 1964",
       "legacy_src": "64MorrisUntd(CornerPiece)-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/grey/68RichterGrau,Strahlen-S.jpg",
+      "src": "/images/nothing/monochrome/grey/68RichterGrau%2CStrahlen-S.jpg",
       "alt": "",
       "caption": "Gerhard Richter:\n\nGrau (Strahlen), 1968",
       "legacy_src": "68RichterGrau,Strahlen-S.jpg"

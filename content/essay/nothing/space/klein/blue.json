@@ -27,7 +27,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-BM(IKB46)-1955-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-BM%28IKB46%29-1955-S.jpg",
       "alt": "",
       "caption": "IKB 46, 1955",
       "width": "148",
@@ -45,7 +45,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-UntitledSculpture(S6)-57-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-UntitledSculpture%28S6%29-57-S.jpg",
       "alt": "",
       "caption": "Untitled Sculpture, 1957",
       "width": "137",
@@ -63,7 +63,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-RouleauAPeindre(SO1)-1957-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-RouleauAPeindre%28SO1%29-1957-S.jpg",
       "alt": "",
       "caption": "Rouleau à Peindre, 1957",
       "width": "150",
@@ -86,7 +86,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-IKB(Godet)1958.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-IKB%28Godet%291958.jpg",
       "alt": "",
       "caption": "IKB (Godet), 1958",
       "width": "305",
@@ -285,7 +285,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-BlueHarmony(RE10)1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-BlueHarmony%28RE10%291960-S.jpg",
       "alt": "",
       "caption": "Blue Harmony, 1960",
       "width": "164",
@@ -323,7 +323,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/blue-HoHo(RE34)-1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-HoHo%28RE34%29-1960-S.jpg",
       "alt": "",
       "caption": "Ho, Ho! – 1960",
       "width": "144",
@@ -347,7 +347,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/space/klein/blue/gold-Monogold(MG3)-1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/gold-Monogold%28MG3%29-1960-S.jpg",
       "alt": "",
       "caption": "1960",
       "width": "169",
@@ -438,7 +438,7 @@
   ],
   "images": [
     {
-      "src": "/images/nothing/space/klein/blue/blue-BM(IKB46)-1955-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-BM%28IKB46%29-1955-S.jpg",
       "alt": "",
       "caption": "IKB 46, 1955",
       "legacy_src": "blue/BM(IKB46)-1955-S.jpg"
@@ -450,7 +450,7 @@
       "legacy_src": "blue/IKB47-1956-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue/blue-UntitledSculpture(S6)-57-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-UntitledSculpture%28S6%29-57-S.jpg",
       "alt": "",
       "caption": "Untitled Sculpture, 1957",
       "legacy_src": "blue/UntitledSculpture(S6)-57-S.jpg"
@@ -462,7 +462,7 @@
       "legacy_src": "blue/GlobeTerrestreBleu1957-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue/blue-RouleauAPeindre(SO1)-1957-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-RouleauAPeindre%28SO1%29-1957-S.jpg",
       "alt": "",
       "caption": "Rouleau à Peindre, 1957",
       "legacy_src": "blue/RouleauAPeindre(SO1)-1957-S.jpg"
@@ -474,7 +474,7 @@
       "legacy_src": "blue/ExcavatriceDeLEspace1958-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue/blue-IKB(Godet)1958.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-IKB%28Godet%291958.jpg",
       "alt": "",
       "caption": "IKB (Godet), 1958",
       "legacy_src": "blue/IKB(Godet)1958.jpg"
@@ -510,7 +510,7 @@
       "legacy_src": "blue/IKB66-1961-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue/blue-BlueHarmony(RE10)1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-BlueHarmony%28RE10%291960-S.jpg",
       "alt": "",
       "caption": "Blue Harmony, 1960",
       "legacy_src": "blue/BlueHarmony(RE10)1960-S.jpg"
@@ -528,7 +528,7 @@
       "legacy_src": "blue/kleinRequiem.gif"
     },
     {
-      "src": "/images/nothing/space/klein/blue/blue-HoHo(RE34)-1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/blue-HoHo%28RE34%29-1960-S.jpg",
       "alt": "",
       "caption": "Ho, Ho! – 1960",
       "legacy_src": "blue/HoHo(RE34)-1960-S.jpg"
@@ -540,7 +540,7 @@
       "legacy_src": "blue/MP19-1962-S.jpg"
     },
     {
-      "src": "/images/nothing/space/klein/blue/gold-Monogold(MG3)-1960-S.jpg",
+      "src": "/images/nothing/space/klein/blue/gold-Monogold%28MG3%29-1960-S.jpg",
       "alt": "",
       "caption": "1960",
       "legacy_src": "Gold/Monogold(MG3)-1960-S.jpg"

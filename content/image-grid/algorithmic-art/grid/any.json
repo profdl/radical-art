@@ -154,7 +154,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D%5Bgrid%5D-s.jpg",
       "alt": "",
       "caption": "",
       "width": "199",
@@ -163,7 +163,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid2]-s.jpg",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D%5Bgrid2%5D-s.jpg",
       "alt": "",
       "caption": "[Details]",
       "width": "199",
@@ -289,7 +289,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO(zufallscoll)-S.jpg",
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO%28zufallscoll%29-S.jpg",
       "alt": "",
       "caption": "random objectivation (chance collage), 1970\n\n[33 x 33 squares with colors, chosen\n\nat random from a set of 8]",
       "width": "251",
@@ -470,13 +470,13 @@
       "legacy_src": "51-RayJohnson/RayJohnson51CalmCenter-S.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid]-s.jpg",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D%5Bgrid%5D-s.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "51-RayJohnson/51CalmCenter-D%5Bgrid%5D-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D[grid2]-s.jpg",
+      "src": "/images/algorithmic-art/grid/any/51-ray-johnson-51CalmCenter-D%5Bgrid2%5D-s.jpg",
       "alt": "",
       "caption": "[Details]",
       "legacy_src": "51-RayJohnson/51CalmCenter-D%5Bgrid2%5D-s.jpg"
@@ -524,7 +524,7 @@
       "legacy_src": "hdevries/63RandomObjectivation-s.jpg"
     },
     {
-      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO(zufallscoll)-S.jpg",
+      "src": "/images/algorithmic-art/grid/any/hdevries-hdv-70-RO%28zufallscoll%29-S.jpg",
       "alt": "",
       "caption": "random objectivation (chance collage), 1970\n\n[33 x 33 squares with colors, chosen\n\nat random from a set of 8]",
       "legacy_src": "hdevries/hdv-70-RO(zufallscoll)-S.jpg"

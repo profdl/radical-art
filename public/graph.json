@@ -1,0 +1,7598 @@
+{
+  "nodes": [
+    {
+      "id": "about",
+      "title": "About the Radical Art Site",
+      "blurb": "artificialart.com: colophon and acknowledgments",
+      "degree": 1
+    },
+    {
+      "id": "aesthetics",
+      "title": "Aesthetics",
+      "blurb": "Philosophical issues about computer art.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art",
+      "title": "Algorithmic Art",
+      "blurb": "Algorithmic Art: Genres, Approaches, Techniques.",
+      "degree": 50
+    },
+    {
+      "id": "algorithmic-art/algebra",
+      "title": "image algebras",
+      "blurb": "Image description algebras in algorithmic art.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/algebra/aaron",
+      "title": "Artificial Intelligence",
+      "blurb": "Artificial Intelligence and image generation",
+      "degree": 5
+    },
+    {
+      "id": "algorithmic-art/algebra/sit",
+      "title": "Gestalt Perception",
+      "blurb": "Computational models of visual gestalt perception. Structural Information Theory.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/artificial",
+      "title": "Every Image",
+      "blurb": "The challenge of Generative Art: All possible artworks.",
+      "degree": 5
+    },
+    {
+      "id": "algorithmic-art/chance",
+      "title": "art & chance",
+      "blurb": "Art and Chance.",
+      "degree": 16
+    },
+    {
+      "id": "algorithmic-art/chance/boyle",
+      "title": "Mark Boyle",
+      "blurb": "Mark Boyle: Random selections from the surface of the earth.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/chance/chance",
+      "title": "Chance",
+      "blurb": "Chance",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/chance/hardware",
+      "title": "Chance",
+      "blurb": "Chance",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/chance/qchance",
+      "title": "Quotes about Chance",
+      "blurb": "Quotes about Chance Art",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/chance/qchance-art",
+      "title": "Quotes about Chance Art",
+      "blurb": "For first\nyou write a sentence,\n\nAnd then you chop it small;\n\nThen mix the bits and sort them out\n\nJust as they chance to fall:\n\nThe order of the phrases\n\nmakes no difference at all.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/chance/random-number-tables",
+      "title": "Random Number Tables",
+      "blurb": "A table of random number tables.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/enumeration",
+      "title": "Enumeration",
+      "blurb": "Enumeration art.",
+      "degree": 10
+    },
+    {
+      "id": "algorithmic-art/evolutie",
+      "title": "Artificial Evolution",
+      "blurb": "Artificial Evolution and Genetic Algorithms",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grammar",
+      "title": "Image Grammars",
+      "blurb": "Rewrite grammars in automatic art generation.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/grammar/lindenmayer",
+      "title": "Lindenmayer Systems",
+      "blurb": "The Machines are a group of electric sabre saws who collaborate on the automatic creation of visual art.",
+      "degree": 9
+    },
+    {
+      "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules",
+      "title": "Joost Puite:",
+      "blurb": "fffffffffffff++ffffffffffffffff++ffffffff",
+      "degree": 1
+    },
+    {
+      "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra",
+      "title": "L-System: om de groei van een plant of een object in formules weer te geven",
+      "blurb": "Menno Kooistra\n\nstudent nummer: 9835385",
+      "degree": 1
+    },
+    {
+      "id": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom",
+      "title": "Opdracht 4 \u2013 L-system",
+      "blurb": "Overtoom\n\n\n\nOpdracht 4 \u2014 L-system",
+      "degree": 1
+    },
+    {
+      "id": "algorithmic-art/grammar/shape-grammar",
+      "title": "Shape Grammar",
+      "blurb": "Shape grammar.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid",
+      "title": "Grids",
+      "blurb": "The grid in modern painting and algorithmic art.",
+      "degree": 23
+    },
+    {
+      "id": "algorithmic-art/grid/abstract/2-d",
+      "title": "Abstract Grids",
+      "blurb": "The grid in classical twentieth-century painting.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/grid/any",
+      "title": "Any Grid",
+      "blurb": "The grid in algorithmic and interactive art: random grids and pixel paint tools.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/grid/cellular",
+      "title": "Cellular Automata",
+      "blurb": "Cellular automata in algorithmic art.",
+      "degree": 10
+    },
+    {
+      "id": "algorithmic-art/grid/cellular/1-d",
+      "title": "1D Cellular Automata",
+      "blurb": "One-dimensional Cellular Automata.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid/cellular/2-d",
+      "title": "Two-Dimensional Cellular Automata",
+      "blurb": "Artificial: an automatic system for image generation",
+      "degree": 5
+    },
+    {
+      "id": "algorithmic-art/grid/cellular/3-d",
+      "title": "3-Dimensional Automata",
+      "blurb": "Three-dimensional cellular automata.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid/discretization",
+      "title": "ASCII Art",
+      "blurb": "Images made out of alphanumeric characters.",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/grid/discretization/asciiart",
+      "title": "ASCII Art",
+      "blurb": "Images made out of alphanumeric characters.",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/grid/discretization/half-tone",
+      "title": "HalfTone",
+      "blurb": "Halftone printing techniques  in modern art.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/grid/discretization/photo-mosaic",
+      "title": "PhotoMosaics",
+      "blurb": "The recursive image: the image as pixel.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/grid/discretization/pixel-grids",
+      "title": "PixelGrids",
+      "blurb": "The image as a grid of points.",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/grid/every",
+      "title": "Every Grid",
+      "blurb": "Enumeration art.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/grid/every/every-icon",
+      "title": "Every Icon",
+      "blurb": "Enumeration art.",
+      "degree": 7
+    },
+    {
+      "id": "algorithmic-art/grid/every/every-icon/eicon",
+      "title": "Every Icon",
+      "blurb": "An icon described by a 32 X 32 grid.",
+      "degree": 1
+    },
+    {
+      "id": "algorithmic-art/grid/minimal/checkerboard",
+      "title": "Checkerboards",
+      "blurb": "Checkerboards in modern painting.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/grid/minimal/empty",
+      "title": "Empty Grids",
+      "blurb": "Empty grids in modern painting.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/grid/modular",
+      "title": "Modules",
+      "blurb": "Constructing images out of square modular cells.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid/repetition",
+      "title": "Repetition",
+      "blurb": "The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid/repetition/62-warhol",
+      "title": "Warhol Grids",
+      "blurb": "Andy Warhol. The grid as an organizing principle for presenting a collection of identical or similar images or objects.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/grid/variation",
+      "title": "Variation",
+      "blurb": "The grid as an organizing principle for presenting a parameterized image as a function of two dimensions.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/interactivity",
+      "title": "Interactivity",
+      "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/intro",
+      "title": "About Algorithmic Art",
+      "blurb": "What is algorithmic art?",
+      "degree": 25
+    },
+    {
+      "id": "algorithmic-art/line",
+      "title": "Random Lines",
+      "blurb": "The line as a trace of movement",
+      "degree": 11
+    },
+    {
+      "id": "algorithmic-art/links",
+      "title": "Algorithmic Art Links",
+      "blurb": "Links to papers and anthologies about algorithmic art.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/mapping",
+      "title": "mappings",
+      "blurb": "mapping as an art-generating strategy",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/moire",
+      "title": "Moire",
+      "blurb": "Emergence in early algorithmic art",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/movement",
+      "title": "movement",
+      "blurb": "simulations of physics and behaviour",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/nake",
+      "title": "Nake Quotes",
+      "blurb": "Quotes about the formal approach to art production.",
+      "degree": 4
+    },
+    {
+      "id": "algorithmic-art/nake95",
+      "title": "Frieder Nake 1995",
+      "blurb": "Frieder Nake: Einmaliges und Beliebiges. Kuenstliche Kunst im Strom der Zeit. (1995)",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/optimization",
+      "title": "Artificial Intelligence",
+      "blurb": "Artificial Intelligence and image generation",
+      "degree": 11
+    },
+    {
+      "id": "algorithmic-art/paint",
+      "title": "Image Generation Tools",
+      "blurb": "Image generation tools.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/quotes",
+      "title": "Algorithmic Art Quotes",
+      "blurb": "Quotes about the formal approach to art production.",
+      "degree": 6
+    },
+    {
+      "id": "algorithmic-art/quotes-art-science",
+      "title": "Art Science Technology Quotes",
+      "blurb": "Quotes about the formal approach to art production.",
+      "degree": 3
+    },
+    {
+      "id": "algorithmic-art/scatter",
+      "title": "scattering",
+      "blurb": "Image generation by random scattering.",
+      "degree": 5
+    },
+    {
+      "id": "anything",
+      "title": "Indeterminacy",
+      "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+      "degree": 22
+    },
+    {
+      "id": "anything/bugs",
+      "title": "Indeterminacy",
+      "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+      "degree": 3
+    },
+    {
+      "id": "anything/nimporte-quoi",
+      "title": "N'Importe Quoi",
+      "blurb": "Anything as art.",
+      "degree": 6
+    },
+    {
+      "id": "anything/open-form",
+      "title": "Open Form",
+      "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+      "degree": 12
+    },
+    {
+      "id": "anything/open-form/diydrawing",
+      "title": "Do It Yourself Drawing",
+      "blurb": "Open Form: Do It Yourself Drawing",
+      "degree": 3
+    },
+    {
+      "id": "anything/open-form/diyinstallation",
+      "title": "Do It Yourself Installation",
+      "blurb": "Open Form: Do It Yourself Installation",
+      "degree": 3
+    },
+    {
+      "id": "anything/open-form/diysculpture",
+      "title": "Do It Yourself Sculpture",
+      "blurb": "Open Form: Do It Yourself Sculpture",
+      "degree": 3
+    },
+    {
+      "id": "anything/open-form/flexible-sculpture",
+      "title": "Flexible Sculpture",
+      "blurb": "Open Form: Flexible Sculpture.",
+      "degree": 3
+    },
+    {
+      "id": "anything/open-form/music",
+      "title": "Open Form",
+      "blurb": "Early Meta-art: Open Form and Interactivity in the nineteensixties.",
+      "degree": 5
+    },
+    {
+      "id": "anything/open-form/rearrangeable-painting",
+      "title": "Rearrangeable Images",
+      "blurb": "Open Form: Rearrangeable 2D Images",
+      "degree": 4
+    },
+    {
+      "id": "concept",
+      "title": "Concept Art",
+      "blurb": "Concept-art as a particular kind of meta-art",
+      "degree": 68
+    },
+    {
+      "id": "concept/arithmetic",
+      "title": "Arithmetic Art",
+      "blurb": "Arithmetic as art.",
+      "degree": 2
+    },
+    {
+      "id": "concept/art-about-art",
+      "title": "Art About Art",
+      "blurb": "Art against art.",
+      "degree": 4
+    },
+    {
+      "id": "concept/art-against-art",
+      "title": "Art against Art",
+      "blurb": "Art against art.",
+      "degree": 9
+    },
+    {
+      "id": "concept/art-against-art/ben",
+      "title": "Ben Against Art",
+      "blurb": "Art against art.",
+      "degree": 4
+    },
+    {
+      "id": "concept/art-against-art/reimann",
+      "title": "Art Against Art",
+      "blurb": "Art against art.",
+      "degree": 2
+    },
+    {
+      "id": "concept/brecht",
+      "title": "George Brecht",
+      "blurb": "Events by George Brecht.",
+      "degree": 3
+    },
+    {
+      "id": "concept/fluxus-exercise",
+      "title": "Fluxus Exercises",
+      "blurb": "Exercise pieces by Fluxus artists (Tony Conrad, Eric Andersen, Mieko Shiomi, Alison Knowles).",
+      "degree": 4
+    },
+    {
+      "id": "concept/fluxus-music",
+      "title": "Fluxus Music",
+      "blurb": "Fluxus Events: Musical Pieces.",
+      "degree": 3
+    },
+    {
+      "id": "concept/fluxus-theatre",
+      "title": "Events (Theatre)",
+      "blurb": "Fluxus events: theatre.",
+      "degree": 4
+    },
+    {
+      "id": "concept/flynt",
+      "title": "Henry Flynt",
+      "blurb": "Concept-art and Henry Flynt",
+      "degree": 2
+    },
+    {
+      "id": "concept/found-text",
+      "title": "Found Text",
+      "blurb": "Found text as visual art: John Baldessari's art texts and Jenny Holzer's",
+      "degree": 2
+    },
+    {
+      "id": "concept/hegel",
+      "title": "Theory as art as theory",
+      "blurb": "Hegel, Greenberg, Bense, Barthes, Kosuth",
+      "degree": 4
+    },
+    {
+      "id": "concept/impossible",
+      "title": "impossible events",
+      "blurb": "Fluxus events: Impossible, undefined, unstable and unusually difficult pieces.",
+      "degree": 3
+    },
+    {
+      "id": "concept/invisible",
+      "title": "Invisible Pieces and Electric Circuits",
+      "blurb": "Invisble pieces, radio pieces, electrical circuits. By Art & Language, Robert Barry  and  Fred Forrest.",
+      "degree": 4
+    },
+    {
+      "id": "concept/le-witt",
+      "title": "Concept Art",
+      "blurb": "Concept-art as a particular kind of meta-art",
+      "degree": 8
+    },
+    {
+      "id": "concept/le-witt/ostrow",
+      "title": "LeWitt on Art History",
+      "blurb": "Sol LeWitt on Cage, Fluxus and minimalism. (From an interview by Saul Ostrow.)",
+      "degree": 3
+    },
+    {
+      "id": "concept/le-witt/paragraphs",
+      "title": "Paragraphs",
+      "blurb": "Sol LeWitt: Paragraphs on Conceptual Art",
+      "degree": 4
+    },
+    {
+      "id": "concept/le-witt/sentences",
+      "title": "Sentences",
+      "blurb": "Sol LeWitt: Sentences on Conceptual Art",
+      "degree": 3
+    },
+    {
+      "id": "concept/meta-concepts",
+      "title": "Robert Barry",
+      "blurb": "Robert Barry: Indefinite mental descriptions",
+      "degree": 3
+    },
+    {
+      "id": "concept/paradox",
+      "title": "Paradox",
+      "blurb": "Paradox as art.",
+      "degree": 7
+    },
+    {
+      "id": "concept/perls",
+      "title": "Gestalt Therapy Exercises",
+      "blurb": "Gestalt Therapy Exercises as Concept-art.",
+      "degree": 3
+    },
+    {
+      "id": "concept/quote-collections",
+      "title": "Propositions: Fragments and Quotes",
+      "blurb": "Concept art: Fragmentary philosophy and collections of quotes.",
+      "degree": 2
+    },
+    {
+      "id": "concept/scores",
+      "title": "Scores as Concepts",
+      "blurb": "The origin of concept art in music: the score as concept.",
+      "degree": 12
+    },
+    {
+      "id": "concept/speech-acts",
+      "title": "Speech Acts",
+      "blurb": "Concept Art: Speech Acts",
+      "degree": 12
+    },
+    {
+      "id": "concept/speech-acts/1st-person-reports",
+      "title": "Expressive Speech Acts",
+      "blurb": "Concept art: Text pieces: First person reports.",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/accusations",
+      "title": "Accusations",
+      "blurb": "Concept art: Text pieces: Accusations.",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/advice-etc",
+      "title": "Appeals, predictions, proposals, refusals, threats",
+      "blurb": "Concept art: Text pieces: Appeals, predictions, proposals, threats.",
+      "degree": 3
+    },
+    {
+      "id": "concept/speech-acts/answers",
+      "title": "Answers",
+      "blurb": "Concept art: Text paintings: Answers.",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/assertions",
+      "title": "Assertions",
+      "blurb": "Concept art: Text pieces: Assertions.",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/imperatives",
+      "title": "Imperatives",
+      "blurb": "Concept art: Text pieces: Speech acts: Imperatives: Suggestions and requests. (By Robert Indiana, Ben Vautier, Bas Jan Ader, Jenny Holzer, Barbara Kruger.)",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/performatives",
+      "title": "Performatives",
+      "blurb": "Concept art: Text pieces: Speech acts: Performatives: Greetings, curses, creation.",
+      "degree": 2
+    },
+    {
+      "id": "concept/speech-acts/questions",
+      "title": "Questions",
+      "blurb": "Concept art: Text pieces: Speech acts: Questions.",
+      "degree": 2
+    },
+    {
+      "id": "concept/tautology",
+      "title": "Tautologies",
+      "blurb": "Artworks as analytical propositions.",
+      "degree": 23
+    },
+    {
+      "id": "concept/tautology/99-stefan-brueggemann",
+      "title": "Stefan Br\u00fcggemann",
+      "blurb": "Tautological worksby Stefan Br\u00fcggemann",
+      "degree": 2
+    },
+    {
+      "id": "concept/tautology/anastasi",
+      "title": "William Anastasi",
+      "blurb": "Wiliam Anastasi's Tautologies.",
+      "degree": 4
+    },
+    {
+      "id": "concept/tautology/ben",
+      "title": "Ben's Tautologies",
+      "blurb": "Tautological pieces by Ben Vautier.",
+      "degree": 6
+    },
+    {
+      "id": "concept/tautology/indiana",
+      "title": "Indiana",
+      "blurb": "Robert Indiana's Digits.",
+      "degree": 3
+    },
+    {
+      "id": "concept/tautology/johns",
+      "title": "Tautologies",
+      "blurb": "Artworks as analytical propositions.",
+      "degree": 3
+    },
+    {
+      "id": "concept/tautology/kosuth",
+      "title": "Joseph Kosuth",
+      "blurb": "Joseph Kosuth: Artworks as analytical propositions.",
+      "degree": 5
+    },
+    {
+      "id": "concept/tautology/magritte",
+      "title": "Magritte's Tautologies",
+      "blurb": "Tautological/paradoxical works by Ren\u00e9 Magritte:",
+      "degree": 3
+    },
+    {
+      "id": "concept/tautology/measurement",
+      "title": "Tautologies",
+      "blurb": "Artworks as analytical propositions.",
+      "degree": 3
+    },
+    {
+      "id": "concept/tautology/on-kawara",
+      "title": "On Kawara",
+      "blurb": "On Kawara's Today Series",
+      "degree": 4
+    },
+    {
+      "id": "concept/tautology/photo",
+      "title": "Redundant Photographs",
+      "blurb": "Redundant Photographs: William Anastasi, Robert Smithson, Besson, Robert Morris, Pierre Huyghe.",
+      "degree": 6
+    },
+    {
+      "id": "concept/tautology/video",
+      "title": "Video Tautology",
+      "blurb": "Redundant Video Images",
+      "degree": 6
+    },
+    {
+      "id": "concept/weiner",
+      "title": "Lawrence Weiner",
+      "blurb": "Lawrence Weiner: Indefinite material descriptions",
+      "degree": 3
+    },
+    {
+      "id": "concept/wiskunde",
+      "title": "The Aesthetics of Mathematics",
+      "blurb": "The aesthetics of mathematics. (Quotes from Ren\u00e9 Descartes, Novalis, Ludwig Wittgenstein, Henri Poincar\u00e9, Frederik van Eeden, L.E.J. Brouwer, James Joseph Sylvester, Bertrand Russell, Havelock Ellis, Norbert Wiener.)",
+      "degree": 2
+    },
+    {
+      "id": "concept/word-constellations",
+      "title": "Word Constellations",
+      "blurb": "Word constellations as visual art. Ren\u00e9 Magritte and conceptual art.",
+      "degree": 2
+    },
+    {
+      "id": "concept/words",
+      "title": "Words",
+      "blurb": "Concept art: Text pieces: Words.",
+      "degree": 2
+    },
+    {
+      "id": "concept/words/ben",
+      "title": "Ben Vautier",
+      "blurb": "Word pieces by Ben Vautier",
+      "degree": 6
+    },
+    {
+      "id": "destruction",
+      "title": "destruction",
+      "blurb": "Destruction and death in contemporary art.",
+      "degree": 48
+    },
+    {
+      "id": "destruction/accidents",
+      "title": "Accidental Disasters",
+      "blurb": "Accidental disasters in art. Accidental disasters as art.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/architecture",
+      "title": "negative architecture",
+      "blurb": "Destruction and death in contemporary art.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/artificial-disasters",
+      "title": "artificial disasters",
+      "blurb": "Artificial disasters in art. Artificial disasters as art.",
+      "degree": 5
+    },
+    {
+      "id": "destruction/artificial-disasters/atom-bomb",
+      "title": "Atom Bomb",
+      "blurb": "The atom bomb in art. The atom bomb as art.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/artificial-disasters/gulf-war",
+      "title": "Gulf War",
+      "blurb": "The beauty of the Gulf War.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/artificial-disasters/wtc",
+      "title": "The Demolition of the World Trade Center",
+      "blurb": "The demolition of the World Trade Center by Satam M.A. Al Suqami, Waleed M. Alshehri,  Wail M. Alshehri, Mohamed Atta, Abdulaziz Alomari, Marwan Al-Shehhi,   Fayez Rashid Ahmed Hassan Al Qadi Banihammad, Ahmed Alghamdi, Hamza  Alghamdi andMohand Alshehri  (New York City, 11-09-2001.)",
+      "degree": 5
+    },
+    {
+      "id": "destruction/assassination",
+      "title": "Assassination in Art",
+      "blurb": "Assassination and political murder in modern art.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/dissolve",
+      "title": "dissolve",
+      "blurb": "destruction in art: chemical processes",
+      "degree": 3
+    },
+    {
+      "id": "destruction/metzger",
+      "title": "auto-destructive art",
+      "blurb": "Gustac Metzger's autodestructive art manifestos.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/natural-disasters",
+      "title": "Natural Disasters",
+      "blurb": "Natural disasters in art. Natural disasters as readymade artworks.",
+      "degree": 4
+    },
+    {
+      "id": "destruction/natural-disasters/warhol",
+      "title": "Natural Disasters",
+      "blurb": "Natural disasters in art. Natural disasters as readymade artworks.",
+      "degree": 3
+    },
+    {
+      "id": "destruction/pierce",
+      "title": "pierce",
+      "blurb": "destruction in art: piercing",
+      "degree": 2
+    },
+    {
+      "id": "destruction/rip",
+      "title": "rip",
+      "blurb": "destruction in art: ripping",
+      "degree": 2
+    },
+    {
+      "id": "destruction/slash/fontana",
+      "title": "Slash",
+      "blurb": "Lucio Fontana's Slash Paintings (Concetto Spatiale - Attese).",
+      "degree": 4
+    },
+    {
+      "id": "destruction/slice",
+      "title": "slice",
+      "blurb": "process art: slicing",
+      "degree": 2
+    },
+    {
+      "id": "destruction/wipe",
+      "title": "slice",
+      "blurb": "process art: slicing",
+      "degree": 2
+    },
+    {
+      "id": "ego",
+      "title": "the artist as artwork",
+      "blurb": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
+      "degree": 7
+    },
+    {
+      "id": "ego/ben",
+      "title": "ben vautier as artwork",
+      "blurb": "Ben Vautier presents Ben Vautier as art.",
+      "degree": 7
+    },
+    {
+      "id": "ego/self-exhibits",
+      "title": "self-exhibits",
+      "blurb": "Artists presenting themselves as artworks. (",
+      "degree": 4
+    },
+    {
+      "id": "ego/selfportraits",
+      "title": "selfportraits",
+      "blurb": "The artist as an artwork. Celebrating the self in late twentieth-century art.",
+      "degree": 4
+    },
+    {
+      "id": "ego/statements",
+      "title": "the signature as artwork",
+      "blurb": "Signatures and other verbal artworks which directly denote the artist.",
+      "degree": 5
+    },
+    {
+      "id": "everything",
+      "title": "everything",
+      "blurb": "Enumeration art.",
+      "degree": 16
+    },
+    {
+      "id": "everything/all",
+      "title": "all",
+      "blurb": "All as art.",
+      "degree": 6
+    },
+    {
+      "id": "index",
+      "title": "Radical Art",
+      "blurb": "A site about radical strands in modern art. It includes algorithmic art and its art-historical and conceptual context.",
+      "degree": 354
+    },
+    {
+      "id": "informe",
+      "title": "informe",
+      "blurb": "What forms does the formless take?",
+      "degree": 26
+    },
+    {
+      "id": "informe/dirt",
+      "title": "dirt",
+      "blurb": "Dirt as art.",
+      "degree": 2
+    },
+    {
+      "id": "informe/fat",
+      "title": "Fat",
+      "blurb": "joseph beuys: fat and other  unstable media",
+      "degree": 2
+    },
+    {
+      "id": "informe/fluff",
+      "title": "fluff",
+      "blurb": "Fluffy textures in minimal art of the 1960's.",
+      "degree": 3
+    },
+    {
+      "id": "informe/foam",
+      "title": "Foam",
+      "blurb": "unstable media: foam: gutai & david medalla",
+      "degree": 3
+    },
+    {
+      "id": "informe/hang",
+      "title": "hang",
+      "blurb": "rope, hanging and soft materials in twentieth-century art",
+      "degree": 3
+    },
+    {
+      "id": "informe/heap",
+      "title": "heap",
+      "blurb": "The heap in minimal art of the 1960's and after.",
+      "degree": 2
+    },
+    {
+      "id": "informe/jumble",
+      "title": "jumble",
+      "blurb": "Disorganized textile distributions in minimal art of the 1960's.",
+      "degree": 2
+    },
+    {
+      "id": "informe/junk",
+      "title": "junk",
+      "blurb": "Disorganized distributions of solid objects in twentieth-century art",
+      "degree": 2
+    },
+    {
+      "id": "informe/junk/trash",
+      "title": "trash",
+      "blurb": "Some of Arman's trash-pieces.",
+      "degree": 2
+    },
+    {
+      "id": "informe/litter",
+      "title": "litter",
+      "blurb": "Disorganized paper distributions in twentieth-century art.",
+      "degree": 2
+    },
+    {
+      "id": "informe/mess",
+      "title": "L'Informe",
+      "blurb": "What forms does the formless take?",
+      "degree": 2
+    },
+    {
+      "id": "informe/mound",
+      "title": "mounds",
+      "blurb": "elementary non-shape: a raised mass of solid, flexible, continuous stuff. as employed in modern art since the early 1960's.",
+      "degree": 2
+    },
+    {
+      "id": "informe/mud",
+      "title": "mud",
+      "blurb": "Mud in twentieth-century art.",
+      "degree": 2
+    },
+    {
+      "id": "informe/tangle",
+      "title": "tangle",
+      "blurb": "Some of Alan Saret's tangled wire pieces.",
+      "degree": 2
+    },
+    {
+      "id": "informe/viscosity",
+      "title": "viscosity",
+      "blurb": "Formlessness through viscosity.",
+      "degree": 5
+    },
+    {
+      "id": "informe/viscosity/cesar",
+      "title": "viscosity",
+      "blurb": "Formlessness through viscosity.",
+      "degree": 3
+    },
+    {
+      "id": "informe/viscosity/lynda-benglis",
+      "title": "Lynda Benglis: Viscosity Pieces",
+      "blurb": "Formlessness through viscosity.",
+      "degree": 3
+    },
+    {
+      "id": "informe/viscosity/roxy-paine",
+      "title": "Roxy Paine: Automatic Sculpture",
+      "blurb": "Formlessness through viscosity: Roxy Paine's sculpture machines.",
+      "degree": 3
+    },
+    {
+      "id": "kinetics",
+      "title": "kinetic art",
+      "blurb": "an overview of different kinds of kinetic art",
+      "degree": 49
+    },
+    {
+      "id": "kinetics/gravity/clamp",
+      "title": "Clamp",
+      "blurb": "",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/dive",
+      "title": "Dive",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/drip",
+      "title": "to drip",
+      "blurb": "Process Art: Pouring.",
+      "degree": 1
+    },
+    {
+      "id": "kinetics/gravity/drop",
+      "title": "to drop",
+      "blurb": "Process Art: Gravity: Dropping.",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/drop/motion-law-experiments",
+      "title": "experiments with falling bodies",
+      "blurb": "Process Art: Gravity: Dropping.",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/fall",
+      "title": "Fall",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/float",
+      "title": "Float",
+      "blurb": "Laszlo Moholy-Nagy\n\nFloating Chisel\n\nVision in Motion, 1947",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/fly",
+      "title": "Fly",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/hoist",
+      "title": "hoist",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/jump",
+      "title": "Jump",
+      "blurb": "Note: The photos in Darzacq's sequence La\nChute look\nlike snapshots of falling bodies, but in fact they register carefully\nselected moments in breakdance jumps. We mention them\nhere rather than in the page about\u2026",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/lean",
+      "title": "Lean",
+      "blurb": "",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/lie",
+      "title": "lie",
+      "blurb": "Horizontal floor sculpture. (Yielding to gravity.)",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/pour",
+      "title": "to pour",
+      "blurb": "Process Art: Pouring.",
+      "degree": 1
+    },
+    {
+      "id": "kinetics/gravity/rock",
+      "title": "Rock",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/roll",
+      "title": "Roll",
+      "blurb": "[Painting by Giuseppe Bezzuoli, 1841.]",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/stand",
+      "title": "Stand",
+      "blurb": "",
+      "degree": 8
+    },
+    {
+      "id": "kinetics/gravity/stand/build/buildings",
+      "title": "Tall Buildings",
+      "blurb": "Archeological sites in Egypt",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/stand/column",
+      "title": "Column",
+      "blurb": "\"Endless Column\" copies,",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/stand/high-pedestals",
+      "title": "high pedestals",
+      "blurb": "Compiled by Remko Scha \u2013 October, 2010",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/stand/obelisk",
+      "title": "Obelisks",
+      "blurb": "[Gift from Egypt to France, 1830.\n\nInstalled at Place de la Concorde,\n\nParis, 1836]",
+      "degree": 4
+    },
+    {
+      "id": "kinetics/gravity/stand/plane",
+      "title": "Free-standing monochromes",
+      "blurb": "compiled by remko scha, july\n2012",
+      "degree": 4
+    },
+    {
+      "id": "kinetics/gravity/stasis",
+      "title": "gravity",
+      "blurb": "Mathias Goeritz in a pamphlet\ndistributed outside the Museum\nof Modern Art on the occasion of the performance of\nJean Tinguely's Hommage\n\u00e0 New York, January\n1960.",
+      "degree": 13
+    },
+    {
+      "id": "kinetics/gravity/stretch",
+      "title": "Stretch",
+      "blurb": "Marcel Duchamp:\n\nSculpture de Voyage, 1918",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/suspension",
+      "title": "suspension",
+      "blurb": "Galileo Galilei:\n\nDue Nuove Scienze,\n\n1638 (Fig. 1)",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/swing",
+      "title": "Swing",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/tether",
+      "title": "tether",
+      "blurb": "",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/gravity/throw",
+      "title": "Throw",
+      "blurb": "",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/gravity/topple",
+      "title": "Topple",
+      "blurb": "Statue of King George III of England at Bowling\nGreen, NY\n\ntoppled by the Sons of Liberty, 1776",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/inutile",
+      "title": "Uselessness",
+      "blurb": "The critical content of the esthetics of uselessness",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/light",
+      "title": "light",
+      "blurb": "kinetic art: projections and reflections.",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/rigid-bodies",
+      "title": "Kinetiek",
+      "blurb": "Kinetic Art: Movement of Rigid Bodies. (Calder, Tinguely and others.)",
+      "degree": 4
+    },
+    {
+      "id": "kinetics/shove",
+      "title": "Shove",
+      "blurb": "Anon.: Ray Staakman. 6\npp. brochure. Eindhoven: Van Abbemuseum, 1974.",
+      "degree": 2
+    },
+    {
+      "id": "kinetics/spin",
+      "title": "Spin",
+      "blurb": "This page reviews a decidedly retinal type of kinetic\nart: the display of rotating objects whose speeds and/or patterns\nare designed to create optical artefacts that overrule ordinary,\n\"realistic\" perception. Rotating\u2026",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/standing-waves",
+      "title": "Kinetiek",
+      "blurb": "Kinetische kunst",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn",
+      "title": "rotation",
+      "blurb": "Kinetic art based on rotary motion.",
+      "degree": 12
+    },
+    {
+      "id": "kinetics/turn/gears-belts/heinrich-anton-mueller",
+      "title": "Heinrich Anton M\u00fcller",
+      "blurb": "",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/gears-belts/tinguely",
+      "title": "Tinguely: Machines Inutiles",
+      "blurb": "Jean Tinguely's earliest kinetic works were usually\nbased on painterly examples. (M\u00e9ta-Malevitch,\nM\u00e9ta-Kandinsky, M\u00e9ta-Herbin). The elements of these \"kinetic\npaintings\" are simultaneously rotated with different\u2026",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/kinetic-painting/tinguely",
+      "title": "Tinguely: M\u00e9ta-Peinture",
+      "blurb": "\"... 'meta-mechanical paintings', reliefs of a kind, in which simple geometrical\nshapes painted in the primary colours move about slowly in front of a surface.\n(. . .) It is theoretically possible to calculate the\u2026",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/kinetic-painting/von-graevenitz",
+      "title": "Von Graevenitz",
+      "blurb": "Kinetisches Objekt\n\n1962",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/mobiles-amain",
+      "title": "Mobiles \u00e0 main",
+      "blurb": "The \"mobiles\" developed by Alexander Calder since\nthe 1930's, use\norganic-looking shapes, hung in balanced constructions which can\nrotate freely. They are very light; the slightest breeze of air\ncreates (unpredictable)\u2026",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/mobiles-amoteur",
+      "title": "Mobiles \u00e0 moteur",
+      "blurb": "Calder (...) says that during a visit to Mondrian's studio, in the rue du D\u00e9part\nin Paris, he received a vision of a new art form (...). Mondrian's studio was\nan extraordinary room, with small, movable red, blue and\u2026",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/planetariums",
+      "title": "Planetariums",
+      "blurb": "compiled by remko scha, july 2012",
+      "degree": 3
+    },
+    {
+      "id": "kinetics/turn/simple-rotation",
+      "title": "Simple Rotation",
+      "blurb": "Around 1810, Johann von Bohnenberger\nof T\u00fcbingen University designed a \"machine\" to demonstrate\nthe laws of the earth's rotation. This was essentially the first\ngyroscope. It was first mentioned by Poisson (1813), and\u2026",
+      "degree": 3
+    },
+    {
+      "id": "life",
+      "title": "life & art",
+      "blurb": "Life as art, art as life, etc.",
+      "degree": 21
+    },
+    {
+      "id": "life/art-shall-be-religion",
+      "title": "Art engenders the universal religion",
+      "blurb": "Life considered as an artwork",
+      "degree": 2
+    },
+    {
+      "id": "life/breathing",
+      "title": "Breathing",
+      "blurb": "Life considered as an artwork",
+      "degree": 1
+    },
+    {
+      "id": "life/dandyism",
+      "title": "Lifestyle as art form",
+      "blurb": "Life considered as an artwork",
+      "degree": 2
+    },
+    {
+      "id": "life/everyone-is-an-artist",
+      "title": "Everyone is an artist",
+      "blurb": "\"Alle Menschen sind K\u00fcnstler.\"",
+      "degree": 2
+    },
+    {
+      "id": "life/everyone-shall-be-an-artist",
+      "title": "Everyone shall be an artist",
+      "blurb": "Life considered as an artwork",
+      "degree": 1
+    },
+    {
+      "id": "life/life-above-art",
+      "title": "life above art",
+      "blurb": "Life considered as an artwork",
+      "degree": 1
+    },
+    {
+      "id": "life/life-is-artwork",
+      "title": "Life as artwork",
+      "blurb": "Life considered as an artwork",
+      "degree": 1
+    },
+    {
+      "id": "life/life-will-be-art",
+      "title": "life shall be art",
+      "blurb": "Life considered as an artwork",
+      "degree": 1
+    },
+    {
+      "id": "life/maeterlinck",
+      "title": "L'homme selon Maeterlinck",
+      "blurb": "Ils ne sont pas nombreux\nceux qui nous montr\u00e8rent que l'homme est plus grand et plus profond\nque l'homme, et qui parvinrent \u00e0 fixer ainsi quelques-unes des\nallusions \u00e9ternelles que nous rencontrons \u00e0 chaque instant\u2026",
+      "degree": 1
+    },
+    {
+      "id": "life/performance-art",
+      "title": "Living as an art performance",
+      "blurb": "Living as art performance.",
+      "degree": 2
+    },
+    {
+      "id": "life/soul",
+      "title": "The beauty of the soul",
+      "blurb": "Withdraw into yourself and look. And if you observe that you are not beautiful yet, do as does the maker of a statue which is to be beautiful: he cuts away, shaves down, smooths and cleans it, until he has made manifest\u2026",
+      "degree": 1
+    },
+    {
+      "id": "life/the-artists-life",
+      "title": "Lifestyle as art form",
+      "blurb": "Life considered as an artwork",
+      "degree": 2
+    },
+    {
+      "id": "meta",
+      "title": "Kant, Duchamp, Meta-Art",
+      "blurb": "The roots of algorithmic art: Kant's aesthetics, Duchamp's readymades, sixties meta-art.",
+      "degree": 15
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "blurb": "Natural phenomena as works of visual art",
+      "degree": 12
+    },
+    {
+      "id": "nature/quotes",
+      "title": "The Aesthetics of Nature",
+      "blurb": "The aesthetics of nature",
+      "degree": 3
+    },
+    {
+      "id": "nothing",
+      "title": "nothing",
+      "blurb": "No description.",
+      "degree": 66
+    },
+    {
+      "id": "nothing/blindness",
+      "title": "Blindfolds, dark glasses, closed eyes",
+      "blurb": "Darkness in visual art: Blindfolds, dark glasses, closed eyes, blindness.",
+      "degree": 5
+    },
+    {
+      "id": "nothing/concept",
+      "title": "conceptual voids",
+      "blurb": "Meaningless signs in modern art.",
+      "degree": 9
+    },
+    {
+      "id": "nothing/concept/no-show",
+      "title": "No Show",
+      "blurb": "There is no exhibition. (Ben Vautier, Robert Barry.)",
+      "degree": 9
+    },
+    {
+      "id": "nothing/concept/rien",
+      "title": "Nothing as a concept",
+      "blurb": "\"Nothing\" as a concept: explicit statements.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/concept/secret",
+      "title": "Secret art",
+      "blurb": "Secrets as artworks.",
+      "degree": 16
+    },
+    {
+      "id": "nothing/cover-up/box",
+      "title": "Box In",
+      "blurb": "Secrets as artworks.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/cover-up/bury",
+      "title": "bury",
+      "blurb": "Eliminating the object: Burials.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/cover-up/cover",
+      "title": "coverings",
+      "blurb": "Wrapping (empaquetage) in modern art.",
+      "degree": 13
+    },
+    {
+      "id": "nothing/cover-up/cover/christo",
+      "title": "Christo: Walls&Covers",
+      "blurb": "Christo Javacheff: Walls, Fences, Showcases, Store Fronts, Curtains.",
+      "degree": 6
+    },
+    {
+      "id": "nothing/cover-up/cover/rotella-copertura",
+      "title": "Rotella: Coperture",
+      "blurb": "Mimmo Rotella's",
+      "degree": 5
+    },
+    {
+      "id": "nothing/cover-up/uebermalung",
+      "title": "Uebermalung",
+      "blurb": "\u00dcbermalung.",
+      "degree": 10
+    },
+    {
+      "id": "nothing/cover-up/uebermalung/rainer",
+      "title": "Arnulf Rainer: \u00dcbermalungen",
+      "blurb": "\u00dcbermalungen von Arnulf Rainer.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/cover-up/uebermalung/soulages",
+      "title": "Pierre Soulages",
+      "blurb": "\u00dcbermalungen von Arnulf Rainer.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/darkness",
+      "title": "Darkness",
+      "blurb": "Darkness in art: From 19th century landscape gardens to Anish Kapoor.",
+      "degree": 10
+    },
+    {
+      "id": "nothing/darkness/kapoor",
+      "title": "Darkness by Anish Kapoor",
+      "blurb": "Darkness in art: Anish Kapoor.",
+      "degree": 2
+    },
+    {
+      "id": "nothing/depiction",
+      "title": "depictions of nothing",
+      "blurb": "Depictions of nothing.",
+      "degree": 6
+    },
+    {
+      "id": "nothing/depiction/maps",
+      "title": "Empty Maps",
+      "blurb": "Empty maps: Lewis Carroll and Art & Language.",
+      "degree": 10
+    },
+    {
+      "id": "nothing/depiction/realist",
+      "title": "Paintings of absence",
+      "blurb": "Depictions of nothing in 20th-century painting: Magritte, Lichtenstein, Gnoli, etc.",
+      "degree": 8
+    },
+    {
+      "id": "nothing/depiction/romantic",
+      "title": "Depicting the void",
+      "blurb": "Antecedents of the monochrome in 17th century and romantic painting.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/index-visual",
+      "title": "nothing to see",
+      "blurb": "Nothing to see.",
+      "degree": 28
+    },
+    {
+      "id": "nothing/invisible",
+      "title": "Invisible Things",
+      "blurb": "Invisible phenomena as artworks.",
+      "degree": 5
+    },
+    {
+      "id": "nothing/invisible/electromagnetic",
+      "title": "Invisible Things",
+      "blurb": "Invisible phenomena as artworks.",
+      "degree": 6
+    },
+    {
+      "id": "nothing/mirrors",
+      "title": "mirrors",
+      "blurb": "Mirrors in late twentieth-century painting.",
+      "degree": 15
+    },
+    {
+      "id": "nothing/mirrors/christian-megert",
+      "title": "Christian Megert",
+      "blurb": "Mirror pieces by Christian Megert.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/mirrors/heinz-mack",
+      "title": "Heinz Mack",
+      "blurb": "Reflection Pieces by Heinz Mack",
+      "degree": 3
+    },
+    {
+      "id": "nothing/mirrors/kapoor",
+      "title": "Anish Kapoor",
+      "blurb": "Mirrors by Anish Kapoor",
+      "degree": 3
+    },
+    {
+      "id": "nothing/mirrors/koons",
+      "title": "Jeff Koons",
+      "blurb": "Mirrors by Jeff Koons",
+      "degree": 4
+    },
+    {
+      "id": "nothing/mirrors/lichtenstein",
+      "title": "Lichtenstein",
+      "blurb": "Mirrors by Roy Lichtenstein",
+      "degree": 4
+    },
+    {
+      "id": "nothing/mirrors/luther",
+      "title": "Luther",
+      "blurb": "Mirror Pieces by Adolphe Luther",
+      "degree": 3
+    },
+    {
+      "id": "nothing/mirrors/pistoletto",
+      "title": "Pistoletto",
+      "blurb": "Mirror Pieces by Michelangelo Pistoletto",
+      "degree": 3
+    },
+    {
+      "id": "nothing/mirrors/richter",
+      "title": "Gerhard Richter",
+      "blurb": "Mirrors by Gerhard Richter",
+      "degree": 3
+    },
+    {
+      "id": "nothing/monochrome",
+      "title": "monochrome",
+      "blurb": "monochrome painting and its history",
+      "degree": 29
+    },
+    {
+      "id": "nothing/monochrome/1-d",
+      "title": "line",
+      "blurb": "Olga Rozanova:\n\nUntitled,1917/1918",
+      "degree": 3
+    },
+    {
+      "id": "nothing/monochrome/back",
+      "title": "Canvas Back",
+      "blurb": "The back of the canvas.",
+      "degree": 7
+    },
+    {
+      "id": "nothing/monochrome/back/lichtenstein",
+      "title": "Stretcher Frames",
+      "blurb": "Stretcher Frames by Roy Lichtenstein",
+      "degree": 5
+    },
+    {
+      "id": "nothing/monochrome/black",
+      "title": "Black",
+      "blurb": "Monochrome black painting.",
+      "degree": 12
+    },
+    {
+      "id": "nothing/monochrome/black/herbert-zangs",
+      "title": "Herbert Zangs",
+      "blurb": "Black monochromes by Herbert Zangs.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/monochrome/colored",
+      "title": "Color",
+      "blurb": "Colored monochrome paintings.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/monochrome/depiction",
+      "title": "Depicting the monochrome",
+      "blurb": "Paintings depicting monochromes. (The monochrome as an iconic motif in 20th-century painting.)",
+      "degree": 6
+    },
+    {
+      "id": "nothing/monochrome/depiction/roger-raveel",
+      "title": "Roger Raveel",
+      "blurb": "Het lege vierkant in het werk van Roger Raveel.",
+      "degree": 5
+    },
+    {
+      "id": "nothing/monochrome/gold",
+      "title": "gold",
+      "blurb": "Gold monochrome paintings.",
+      "degree": 7
+    },
+    {
+      "id": "nothing/monochrome/gold/klein",
+      "title": "Yves Klein: Monogolds",
+      "blurb": "Yves Klein's Monogolds: Gold monochrome paintings (1959-1962).",
+      "degree": 4
+    },
+    {
+      "id": "nothing/monochrome/gold/mathias-goeritz",
+      "title": "Mathias Goeritz",
+      "blurb": "Gold monochrome paintings by Mathias Goeritz.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/monochrome/grey",
+      "title": "grey",
+      "blurb": "Grey monochrome paintings.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/monochrome/incoherents",
+      "title": "Les Incoherents",
+      "blurb": "Early monochromes from the Expositions des Incoherents",
+      "degree": 4
+    },
+    {
+      "id": "nothing/monochrome/light",
+      "title": "UniformLight",
+      "blurb": "Light as art.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/monochrome/malevich-rodchenko",
+      "title": "Malevich, Rodchenko and the Monochrome",
+      "blurb": "Kazimir Malevich, Aleksandr Rodchenko, and the history of the monochrome.",
+      "degree": 7
+    },
+    {
+      "id": "nothing/monochrome/malevich-rodchenko/suprematism",
+      "title": "Suprematism",
+      "blurb": "The algebra of Suprematism (Kazimir Malevich, 1915-1920).",
+      "degree": 5
+    },
+    {
+      "id": "nothing/monochrome/rauschenberg",
+      "title": "Rauschenberg",
+      "blurb": "Robert Rauschenberg's monochromes",
+      "degree": 7
+    },
+    {
+      "id": "nothing/monochrome/white",
+      "title": "white",
+      "blurb": "White monochrome paintings.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/music/monotone",
+      "title": "monotone music",
+      "blurb": "Monotone Music.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/music/silence",
+      "title": "silence",
+      "blurb": "Nothing as art. Nothing in art.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/quotes",
+      "title": "About Nothing",
+      "blurb": "Quotes about nothing.",
+      "degree": 2
+    },
+    {
+      "id": "nothing/space",
+      "title": "void",
+      "blurb": "the aesthetics of empty space",
+      "degree": 25
+    },
+    {
+      "id": "nothing/space/containers",
+      "title": "Empty Containers",
+      "blurb": "Empty containers: empty showcases, crates, boxes and suitcases by Yves Klein, Christo, Jan Henderikse, Joseph Beuys, Donald Judd, Miroslaw Balka and Stefan Brueggemann.",
+      "degree": 6
+    },
+    {
+      "id": "nothing/space/frames",
+      "title": "Empty Frames",
+      "blurb": "Frames without canvas in fifties and sixties painting.",
+      "degree": 12
+    },
+    {
+      "id": "nothing/space/frames/christian-eckart",
+      "title": "Eidolon",
+      "blurb": "Empty Frames: Christian Eckart's \"Eidolon\" Series (1989)",
+      "degree": 3
+    },
+    {
+      "id": "nothing/space/frames/gerold-miller",
+      "title": "Gerold Miller",
+      "blurb": "Empty Frames by Gerold Miller",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/frames/siegfried-cremer",
+      "title": "Siegfried Cremer",
+      "blurb": "Empty Frames by Siegfried Cremer.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/space/holes",
+      "title": "Holes",
+      "blurb": "Holes and pits in modern art.",
+      "degree": 22
+    },
+    {
+      "id": "nothing/space/holes/barbara-hepworth",
+      "title": "Holes / Barbara Hepworth",
+      "blurb": "Holes by Barbara Hepworth.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/holes/ben",
+      "title": "Holes / Ben",
+      "blurb": "Holes by Ben Vautier.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/holes/burri-jute",
+      "title": "Sacchi",
+      "blurb": "Alberto Burri's \"Sacchi\"",
+      "degree": 5
+    },
+    {
+      "id": "nothing/space/holes/fontana",
+      "title": "Holes / Lucio Fontana",
+      "blurb": "Holes by Lucio Fontana. (Sculpture and paintings.)",
+      "degree": 5
+    },
+    {
+      "id": "nothing/space/holes/gerold-miller",
+      "title": "Holes / Gerold Miller",
+      "blurb": "Gerold Miller's Instant Vision series (2005).",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/holes/klein",
+      "title": "Holes / Yves Klein",
+      "blurb": "Paintings with  holes by Yves Klein (1957).",
+      "degree": 6
+    },
+    {
+      "id": "nothing/space/holes/lee-bontecou",
+      "title": "Lee Bontecou",
+      "blurb": "Lee Bontecou.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/holes/manolo-millares",
+      "title": "Manolo Millares",
+      "blurb": "Michael Heizer's Mass Displacements.",
+      "degree": 2
+    },
+    {
+      "id": "nothing/space/holes/maryellen-latas",
+      "title": "Maryellen Latas",
+      "blurb": "Maryellen Latas.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/holes/michael-heizer",
+      "title": "Holes by Michael Heizer",
+      "blurb": "Michael Heizer's Mass Displacements.",
+      "degree": 2
+    },
+    {
+      "id": "nothing/space/holes/steven-parrino",
+      "title": "Holes by Steven Parrino",
+      "blurb": "Holes in the oeuvre of Steven Parrino.",
+      "degree": 2
+    },
+    {
+      "id": "nothing/space/klein",
+      "title": "Monochromes",
+      "blurb": "Monochromes in classical avant-garde painting.",
+      "degree": 7
+    },
+    {
+      "id": "nothing/space/klein/blue",
+      "title": "Monochromes",
+      "blurb": "Monochromes in classical avant-garde painting.",
+      "degree": 4
+    },
+    {
+      "id": "nothing/space/vide",
+      "title": "Empty Space",
+      "blurb": "Empty space in modern art.",
+      "degree": 7
+    },
+    {
+      "id": "nothing/space/vide/room",
+      "title": "Empty Space",
+      "blurb": "Empty space in modern art.",
+      "degree": 6
+    },
+    {
+      "id": "nothing/space/vide/spot",
+      "title": "Empty Spots",
+      "blurb": "Empty pedestals and similar invisible artworks.",
+      "degree": 5
+    },
+    {
+      "id": "nothing/text",
+      "title": "Empty Texts",
+      "blurb": "Empty texts.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/text/reimann",
+      "title": "Empty Texts",
+      "blurb": "Empty texts.",
+      "degree": 3
+    },
+    {
+      "id": "nothing/web",
+      "title": "Nothing Online",
+      "blurb": "Empty web-pages.",
+      "degree": 2
+    },
+    {
+      "id": "physics",
+      "title": "physics",
+      "blurb": "physics as art.",
+      "degree": 7
+    },
+    {
+      "id": "physics/gravity",
+      "title": "gravity",
+      "blurb": "Because we are accustomed every moment to\nobserve the difficulty with which things are raised in opposition\nto the impulse of gravity; the idea of ascending always implies\nthe notion of force exerted in overcoming this\u2026",
+      "degree": 8
+    },
+    {
+      "id": "physics/gravity/drop",
+      "title": "to drop",
+      "blurb": "Process Art: Gravity: Dropping.",
+      "degree": 4
+    },
+    {
+      "id": "physics/gravity/drop/motion-law-experiments",
+      "title": "experiments with falling bodies",
+      "blurb": "Process Art: Gravity: Dropping.",
+      "degree": 4
+    },
+    {
+      "id": "physics/gravity/fall",
+      "title": "Fall",
+      "blurb": "",
+      "degree": 3
+    },
+    {
+      "id": "physics/vacuum",
+      "title": "vacuum",
+      "blurb": "performances demonstrating the vacuum.",
+      "degree": 6
+    },
+    {
+      "id": "process",
+      "title": "process",
+      "blurb": "physical/chemical processes     generating works of visual art",
+      "degree": 58
+    },
+    {
+      "id": "process/blast",
+      "title": "blast",
+      "blurb": "Process art: explosion.",
+      "degree": 3
+    },
+    {
+      "id": "process/burn",
+      "title": "fire",
+      "blurb": "fire in twentieth-century  process-art",
+      "degree": 16
+    },
+    {
+      "id": "process/burn/arman",
+      "title": "Arman",
+      "blurb": "Arman: burnt Instruments",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/aubertin",
+      "title": "Bernard Aubertin",
+      "blurb": "Bernard Aubertin: Livres Br\u00fbl\u00e9s & Dessins de Feu",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/boyle",
+      "title": "burning slides",
+      "blurb": "Burning slide projections. (Mark Boyle, Paul Panhuysen.)",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/breuer",
+      "title": "Breuer",
+      "blurb": "Marco Breuer: Fire Photography",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/burri",
+      "title": "Fire",
+      "blurb": "Natural phenomena as works of visual art",
+      "degree": 5
+    },
+    {
+      "id": "process/burn/klein",
+      "title": "klein",
+      "blurb": "Yves Klein: Peintures de Feu",
+      "degree": 5
+    },
+    {
+      "id": "process/burn/latham",
+      "title": "john latham",
+      "blurb": "john latham's book burnings",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/peeters",
+      "title": "Henk Peeters: Pyrographies",
+      "blurb": "Henk Peeters: Pyrographies",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/piene",
+      "title": "Fire",
+      "blurb": "Natural phenomena as works of visual art",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/raphael-montanez-ortiz",
+      "title": "Raphael Montanez Ortiz: Archeological Finds",
+      "blurb": "Henk Peeters: Pyrographies",
+      "degree": 4
+    },
+    {
+      "id": "process/burn/vautier",
+      "title": "burn the louvre",
+      "blurb": "Ben Vautier's pyromania projects.",
+      "degree": 4
+    },
+    {
+      "id": "process/condensation",
+      "title": "steam",
+      "blurb": "unstable media: the aggregation states of water",
+      "degree": 3
+    },
+    {
+      "id": "process/drop",
+      "title": "to drop",
+      "blurb": "Process Art: Gravity: Dropping.",
+      "degree": 4
+    },
+    {
+      "id": "process/gravity-liquid/drip",
+      "title": "dripping",
+      "blurb": "Process Art: Pouring.",
+      "degree": 2
+    },
+    {
+      "id": "process/gravity-liquid/flow",
+      "title": "flowing and trickling",
+      "blurb": "Process Art: Pouring.",
+      "degree": 2
+    },
+    {
+      "id": "process/gravity-liquid/pour",
+      "title": "pour",
+      "blurb": "Process Art: Pour.",
+      "degree": 2
+    },
+    {
+      "id": "process/gravity-liquid/swirl",
+      "title": "swirling",
+      "blurb": "Process Art: Pouring.",
+      "degree": 2
+    },
+    {
+      "id": "process/gravity-liquid/thrash",
+      "title": "thrash",
+      "blurb": "Process Art: Thrash.",
+      "degree": 2
+    },
+    {
+      "id": "process/gravity-liquid/throw",
+      "title": "throwing paint",
+      "blurb": "Process Art: Pouring.",
+      "degree": 2
+    },
+    {
+      "id": "process/grind",
+      "title": "to grind",
+      "blurb": "Process Art: Grinding",
+      "degree": 4
+    },
+    {
+      "id": "process/implosion",
+      "title": "implosions",
+      "blurb": "Process art: implosion.",
+      "degree": 4
+    },
+    {
+      "id": "process/liquid-projection",
+      "title": "light shows",
+      "blurb": "1960's light shows.",
+      "degree": 2
+    },
+    {
+      "id": "process/rub",
+      "title": "rub",
+      "blurb": "Process Art: Erasure",
+      "degree": 4
+    },
+    {
+      "id": "process/rust",
+      "title": "rust",
+      "blurb": "Andy Warhol's \"Oxidation Paintings\".",
+      "degree": 3
+    },
+    {
+      "id": "process/shatter",
+      "title": "shatter",
+      "blurb": "Process art: shattering.",
+      "degree": 3
+    },
+    {
+      "id": "process/smash",
+      "title": "smash",
+      "blurb": "Process art: smashing.",
+      "degree": 7
+    },
+    {
+      "id": "process/smash/arman",
+      "title": "arman's smashed instruments",
+      "blurb": "les col\u00e8res d'arman",
+      "degree": 4
+    },
+    {
+      "id": "process/smash/guitars",
+      "title": "smashed guitars",
+      "blurb": "smashed guitars",
+      "degree": 4
+    },
+    {
+      "id": "process/smash/luther",
+      "title": "smashed glass",
+      "blurb": "smashed glass by adolf luther and werner ruhnau",
+      "degree": 4
+    },
+    {
+      "id": "process/smash/ortiz",
+      "title": "ortiz: piano smashings",
+      "blurb": "piano destruction pieces by raphael montanez ortiz",
+      "degree": 4
+    },
+    {
+      "id": "process/squeeze",
+      "title": "squeeze",
+      "blurb": "compression art.",
+      "degree": 4
+    },
+    {
+      "id": "process/tear",
+      "title": "decollage",
+      "blurb": "Process Art: D\u00e9collage.",
+      "degree": 8
+    },
+    {
+      "id": "process/tear/dufrene",
+      "title": "Fran\u00e7ois Dufr\u00eane",
+      "blurb": "Process Art: D\u00e9collage.",
+      "degree": 4
+    },
+    {
+      "id": "process/tear/hains",
+      "title": "Raymond Hains",
+      "blurb": "D\u00e9collages by Raymond Hains.",
+      "degree": 4
+    },
+    {
+      "id": "process/tear/rotella",
+      "title": "Mimmo Rotella",
+      "blurb": "D\u00e9collages by Mimmo Rotella.",
+      "degree": 5
+    },
+    {
+      "id": "process/tear/villegle",
+      "title": "Jacques de la Villegl\u00e9",
+      "blurb": "D\u00e9collages by Jacques de la Villegl\u00e9.",
+      "degree": 4
+    },
+    {
+      "id": "process/vibration/animal",
+      "title": "Animal Art",
+      "blurb": "Mechanical expressionism by animals: donkeys, monkeys, cats, elephants.",
+      "degree": 7
+    },
+    {
+      "id": "process/vibration/animal/schretlen",
+      "title": "OVER DE WORTELS VAN CREATIVITEIT",
+      "blurb": "OVER DE WORTELS VAN CREATIVITEIT.",
+      "degree": 2
+    },
+    {
+      "id": "process/vibration/chladni-lissajous",
+      "title": "harmonic vibrations",
+      "blurb": "automatic art by mechanical vibrations.",
+      "degree": 5
+    },
+    {
+      "id": "process/vibration/metamatic",
+      "title": "automatic expressionism",
+      "blurb": "Tinguely's Meta-Matic's; and other mechanical methods for generating expressive visual art",
+      "degree": 9
+    },
+    {
+      "id": "qend-art",
+      "title": "anti-artistic positions",
+      "blurb": "readymade objects as artworks",
+      "degree": 13
+    },
+    {
+      "id": "qlife",
+      "title": "life as art",
+      "blurb": "Life considered as an artwork",
+      "degree": 5
+    },
+    {
+      "id": "something",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 12
+    },
+    {
+      "id": "something/bags",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 2
+    },
+    {
+      "id": "something/balls",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 2
+    },
+    {
+      "id": "something/blocks",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 2
+    },
+    {
+      "id": "something/poles",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 2
+    },
+    {
+      "id": "something/rolls",
+      "title": "something",
+      "blurb": "elementary shapes and elementary non-shapes",
+      "degree": 2
+    },
+    {
+      "id": "things",
+      "title": "readymades &c.",
+      "blurb": "readymade objects as artworks",
+      "degree": 37
+    },
+    {
+      "id": "things/art-copied",
+      "title": "CopyArt",
+      "blurb": "Copies of art as art.",
+      "degree": 7
+    },
+    {
+      "id": "things/art-copied/bidlo",
+      "title": "Bidlo",
+      "blurb": "Mike Bidlo's Copy Art.",
+      "degree": 3
+    },
+    {
+      "id": "things/art-copied/eric-doeringer",
+      "title": "Doeringer",
+      "blurb": "Eric Doeringer's Copy Art.",
+      "degree": 3
+    },
+    {
+      "id": "things/art-copied/levine",
+      "title": "SherryLevine",
+      "blurb": "Sherry Levine's Copy Art.",
+      "degree": 3
+    },
+    {
+      "id": "things/art-copied/pettibone",
+      "title": "Pettibone",
+      "blurb": "Richard Pettibone's Copy Art.",
+      "degree": 3
+    },
+    {
+      "id": "things/art-copied/sturtevant",
+      "title": "Sturtevant",
+      "blurb": "Elaine Sturtevant's Copy Art.",
+      "degree": 3
+    },
+    {
+      "id": "things/cast",
+      "title": "cast",
+      "blurb": "Replicated objects as art: metal casts.",
+      "degree": 9
+    },
+    {
+      "id": "things/composite/collections",
+      "title": "Collections",
+      "blurb": "Compound readymades and accumulations of readymades. (From Man Ray to John Armleder.)",
+      "degree": 5
+    },
+    {
+      "id": "things/composite/collections/arman",
+      "title": "Arman",
+      "blurb": "Arman's Accumulations",
+      "degree": 3
+    },
+    {
+      "id": "things/composite/collections/spoerri",
+      "title": "Spoerri",
+      "blurb": "Tableaux-pi\u00e8ges by Daniel Spoerri.",
+      "degree": 3
+    },
+    {
+      "id": "things/composite/collections/steinbach",
+      "title": "Steinbach",
+      "blurb": "Haim Steinbach: Readymades on shelves.",
+      "degree": 3
+    },
+    {
+      "id": "things/composite/combine-paintings",
+      "title": "CombinePaintings",
+      "blurb": "Combine Paintings: the juxtaposition of object and painting.",
+      "degree": 4
+    },
+    {
+      "id": "things/composite/stacks",
+      "title": "Stacks",
+      "blurb": "Stacks: One thing on top of another.",
+      "degree": 2
+    },
+    {
+      "id": "things/copied",
+      "title": "copies",
+      "blurb": "Replicated objects as art.",
+      "degree": 3
+    },
+    {
+      "id": "things/covered",
+      "title": "covered",
+      "blurb": "Objects covered.",
+      "degree": 7
+    },
+    {
+      "id": "things/covered/kusama",
+      "title": "covered",
+      "blurb": "Objects covered.",
+      "degree": 6
+    },
+    {
+      "id": "things/enlarged",
+      "title": "enlargements",
+      "blurb": "Transformed objects as art: Enlargement.",
+      "degree": 3
+    },
+    {
+      "id": "things/immersed",
+      "title": "Immersions",
+      "blurb": "Things immersed into the canvas.",
+      "degree": 6
+    },
+    {
+      "id": "things/painted",
+      "title": "Painted",
+      "blurb": "Painted things.",
+      "degree": 5
+    },
+    {
+      "id": "things/readymade",
+      "title": "Readymades",
+      "blurb": "Unaltered objects as art.",
+      "degree": 15
+    },
+    {
+      "id": "things/readymade/aesthetics-of-reality",
+      "title": "the aesthetics of reality",
+      "blurb": "readymade objects as artworks",
+      "degree": 8
+    },
+    {
+      "id": "things/readymade/duchamp/text",
+      "title": "Marcel Duchamp",
+      "blurb": "Original texts by Marcel Duchamp",
+      "degree": 5
+    },
+    {
+      "id": "things/readymade/literature",
+      "title": "readymade literature",
+      "blurb": "Readymade texts as lierature, and readymade situations as theatre. (Some historical examples.)",
+      "degree": 9
+    },
+    {
+      "id": "things/readymade/quotes",
+      "title": "reality as art",
+      "blurb": "readymade objects as artworks",
+      "degree": 11
+    },
+    {
+      "id": "things/wrapped",
+      "title": "Wrappings",
+      "blurb": "Wrappings, empaquetages.",
+      "degree": 16
+    },
+    {
+      "id": "things/wrapped/christo",
+      "title": "christo",
+      "blurb": "Christo's empaquetages.",
+      "degree": 5
+    },
+    {
+      "id": "things/wrapped/delete",
+      "title": "wrappings",
+      "blurb": "Wrappings, empaquetages, etc.",
+      "degree": 4
+    },
+    {
+      "id": "things/wrapped/erik-dietman",
+      "title": "Dietman",
+      "blurb": "Wrappings by Erik Dietman",
+      "degree": 5
+    },
+    {
+      "id": "things/wrapped/magritte",
+      "title": "Magritte",
+      "blurb": "Wrappings by Ren\u00e9 Magritte.",
+      "degree": 5
+    },
+    {
+      "id": "things/wrapped/man-ray",
+      "title": "Wrappings by Man Ray",
+      "blurb": "Wrappings by Man Ray.",
+      "degree": 3
+    },
+    {
+      "id": "things/wrapped/muehl",
+      "title": "Otto Muehl",
+      "blurb": "Wrapping by Otto Muehl.",
+      "degree": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "about",
+      "target": "index"
+    },
+    {
+      "source": "aesthetics",
+      "target": "algorithmic-art"
+    },
+    {
+      "source": "aesthetics",
+      "target": "concept/hegel"
+    },
+    {
+      "source": "aesthetics",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/algebra"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/algebra/aaron"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/algebra/sit"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/artificial"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/chance"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/chance/boyle"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/chance/qchance-art"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/enumeration"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/evolutie"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grammar"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grammar/lindenmayer"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grammar/shape-grammar"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/abstract/2-d"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/any"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/cellular"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/cellular/1-d"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/cellular/2-d"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/cellular/3-d"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/discretization"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/discretization/asciiart"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/discretization/half-tone"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/discretization/photo-mosaic"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/every/every-icon"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/minimal/checkerboard"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/modular"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/repetition"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/repetition/62-warhol"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/grid/variation"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/interactivity"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/links"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/mapping"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/moire"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/movement"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/nake"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/nake95"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/paint"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/quotes"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/quotes-art-science"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "algorithmic-art/scatter"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "anything/bugs"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "concept"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "concept/le-witt"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art",
+      "target": "meta"
+    },
+    {
+      "source": "algorithmic-art/algebra",
+      "target": "algorithmic-art/algebra/aaron"
+    },
+    {
+      "source": "algorithmic-art/algebra",
+      "target": "algorithmic-art/algebra/sit"
+    },
+    {
+      "source": "algorithmic-art/algebra",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/algebra",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/algebra",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/algebra/aaron",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/algebra/aaron",
+      "target": "algorithmic-art/paint"
+    },
+    {
+      "source": "algorithmic-art/algebra/aaron",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/algebra/sit",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/algebra/sit",
+      "target": "algorithmic-art/moire"
+    },
+    {
+      "source": "algorithmic-art/algebra/sit",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/algebra/sit",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/artificial",
+      "target": "algorithmic-art/chance"
+    },
+    {
+      "source": "algorithmic-art/artificial",
+      "target": "algorithmic-art/grid/every"
+    },
+    {
+      "source": "algorithmic-art/artificial",
+      "target": "everything"
+    },
+    {
+      "source": "algorithmic-art/artificial",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/boyle"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/chance"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/hardware"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/qchance"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/qchance-art"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/chance/random-number-tables"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/grid/any"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "algorithmic-art/scatter"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "anything"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance",
+      "target": "meta"
+    },
+    {
+      "source": "algorithmic-art/chance/boyle",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "algorithmic-art/chance/hardware"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "algorithmic-art/chance/qchance"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "algorithmic-art/chance/random-number-tables"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "algorithmic-art/grid"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "anything"
+    },
+    {
+      "source": "algorithmic-art/chance/chance",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance/hardware",
+      "target": "algorithmic-art/chance/qchance"
+    },
+    {
+      "source": "algorithmic-art/chance/hardware",
+      "target": "algorithmic-art/chance/random-number-tables"
+    },
+    {
+      "source": "algorithmic-art/chance/hardware",
+      "target": "algorithmic-art/grid"
+    },
+    {
+      "source": "algorithmic-art/chance/hardware",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance",
+      "target": "algorithmic-art/chance/qchance-art"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance",
+      "target": "algorithmic-art/chance/random-number-tables"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance",
+      "target": "anything"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance-art",
+      "target": "algorithmic-art/quotes"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance-art",
+      "target": "anything"
+    },
+    {
+      "source": "algorithmic-art/chance/qchance-art",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/chance/random-number-tables",
+      "target": "algorithmic-art/scatter"
+    },
+    {
+      "source": "algorithmic-art/chance/random-number-tables",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "algorithmic-art/grid/every"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "algorithmic-art/grid/every/every-icon"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "algorithmic-art/grid/variation"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "concept"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "concept/le-witt"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "concept/tautology/on-kawara"
+    },
+    {
+      "source": "algorithmic-art/enumeration",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/evolutie",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/evolutie",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/evolutie",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grammar",
+      "target": "algorithmic-art/grammar/lindenmayer"
+    },
+    {
+      "source": "algorithmic-art/grammar",
+      "target": "algorithmic-art/grammar/shape-grammar"
+    },
+    {
+      "source": "algorithmic-art/grammar",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/grammar",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/grammar",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-formules"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-kooistra"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "algorithmic-art/grammar/lindenmayer/l-opdracht/l-overtoom"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "concept/paradox"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "concept/tautology"
+    },
+    {
+      "source": "algorithmic-art/grammar/lindenmayer",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grammar/shape-grammar",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/grammar/shape-grammar",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/abstract/2-d"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/any"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/cellular"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/cellular/1-d"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/cellular/2-d"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/cellular/3-d"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/discretization"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/discretization/asciiart"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/discretization/half-tone"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/discretization/photo-mosaic"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/every"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/minimal/checkerboard"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/minimal/empty"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/modular"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/repetition"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/repetition/62-warhol"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/grid/variation"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/grid",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/abstract/2-d",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/any",
+      "target": "algorithmic-art/grid/every/every-icon"
+    },
+    {
+      "source": "algorithmic-art/grid/any",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/any",
+      "target": "meta"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/grid/cellular/1-d"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/grid/cellular/2-d"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/grid/cellular/3-d"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/moire"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular",
+      "target": "process"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular/1-d",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular/2-d",
+      "target": "algorithmic-art/movement"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular/2-d",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/cellular/3-d",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization",
+      "target": "algorithmic-art/grid/discretization/asciiart"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization",
+      "target": "algorithmic-art/grid/discretization/half-tone"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization",
+      "target": "algorithmic-art/grid/discretization/photo-mosaic"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/asciiart",
+      "target": "algorithmic-art/grid/discretization/half-tone"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/asciiart",
+      "target": "algorithmic-art/grid/discretization/photo-mosaic"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/asciiart",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/asciiart",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/half-tone",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/half-tone",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/photo-mosaic",
+      "target": "algorithmic-art/grid/discretization/pixel-grids"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/photo-mosaic",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/discretization/pixel-grids",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/every",
+      "target": "algorithmic-art/grid/every/every-icon"
+    },
+    {
+      "source": "algorithmic-art/grid/every",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/every",
+      "target": "meta"
+    },
+    {
+      "source": "algorithmic-art/grid/every/every-icon",
+      "target": "algorithmic-art/grid/every/every-icon/eicon"
+    },
+    {
+      "source": "algorithmic-art/grid/every/every-icon",
+      "target": "everything"
+    },
+    {
+      "source": "algorithmic-art/grid/every/every-icon",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/minimal/checkerboard",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/minimal/empty",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/minimal/empty",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "algorithmic-art/grid/modular",
+      "target": "anything/open-form/rearrangeable-painting"
+    },
+    {
+      "source": "algorithmic-art/grid/modular",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/repetition",
+      "target": "algorithmic-art/grid/repetition/62-warhol"
+    },
+    {
+      "source": "algorithmic-art/grid/repetition",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/repetition/62-warhol",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/grid/variation",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/interactivity",
+      "target": "algorithmic-art/intro"
+    },
+    {
+      "source": "algorithmic-art/interactivity",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/interactivity",
+      "target": "anything/open-form"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/line"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/links"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/mapping"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/moire"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/movement"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/nake"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/optimization"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/quotes"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "algorithmic-art/scatter"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "anything/open-form"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "concept"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "kinetics"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "meta"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "process"
+    },
+    {
+      "source": "algorithmic-art/intro",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "algorithmic-art/line",
+      "target": "algorithmic-art/movement"
+    },
+    {
+      "source": "algorithmic-art/line",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/line",
+      "target": "process/vibration/animal"
+    },
+    {
+      "source": "algorithmic-art/line",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "algorithmic-art/links",
+      "target": "algorithmic-art/nake95"
+    },
+    {
+      "source": "algorithmic-art/links",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/mapping",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/moire",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/moire",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "algorithmic-art/movement",
+      "target": "kinetics"
+    },
+    {
+      "source": "algorithmic-art/movement",
+      "target": "process"
+    },
+    {
+      "source": "algorithmic-art/nake",
+      "target": "algorithmic-art/quotes"
+    },
+    {
+      "source": "algorithmic-art/nake",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/nake95",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/optimization",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/paint",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/quotes",
+      "target": "algorithmic-art/quotes-art-science"
+    },
+    {
+      "source": "algorithmic-art/quotes",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/quotes-art-science",
+      "target": "index"
+    },
+    {
+      "source": "algorithmic-art/scatter",
+      "target": "index"
+    },
+    {
+      "source": "anything",
+      "target": "anything/bugs"
+    },
+    {
+      "source": "anything",
+      "target": "anything/nimporte-quoi"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/diydrawing"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/diyinstallation"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/diysculpture"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/flexible-sculpture"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/music"
+    },
+    {
+      "source": "anything",
+      "target": "anything/open-form/rearrangeable-painting"
+    },
+    {
+      "source": "anything",
+      "target": "concept"
+    },
+    {
+      "source": "anything",
+      "target": "everything"
+    },
+    {
+      "source": "anything",
+      "target": "everything/all"
+    },
+    {
+      "source": "anything",
+      "target": "index"
+    },
+    {
+      "source": "anything",
+      "target": "informe"
+    },
+    {
+      "source": "anything",
+      "target": "meta"
+    },
+    {
+      "source": "anything",
+      "target": "process"
+    },
+    {
+      "source": "anything",
+      "target": "something"
+    },
+    {
+      "source": "anything",
+      "target": "things/readymade"
+    },
+    {
+      "source": "anything/bugs",
+      "target": "index"
+    },
+    {
+      "source": "anything/nimporte-quoi",
+      "target": "concept"
+    },
+    {
+      "source": "anything/nimporte-quoi",
+      "target": "everything"
+    },
+    {
+      "source": "anything/nimporte-quoi",
+      "target": "index"
+    },
+    {
+      "source": "anything/nimporte-quoi",
+      "target": "nothing/music/silence"
+    },
+    {
+      "source": "anything/nimporte-quoi",
+      "target": "things/readymade"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/diydrawing"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/diyinstallation"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/diysculpture"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/flexible-sculpture"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/music"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "anything/open-form/rearrangeable-painting"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "kinetics"
+    },
+    {
+      "source": "anything/open-form",
+      "target": "meta"
+    },
+    {
+      "source": "anything/open-form/diydrawing",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form/diyinstallation",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form/diysculpture",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form/flexible-sculpture",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form/music",
+      "target": "concept"
+    },
+    {
+      "source": "anything/open-form/music",
+      "target": "destruction/artificial-disasters/wtc"
+    },
+    {
+      "source": "anything/open-form/music",
+      "target": "index"
+    },
+    {
+      "source": "anything/open-form/rearrangeable-painting",
+      "target": "index"
+    },
+    {
+      "source": "concept",
+      "target": "concept/arithmetic"
+    },
+    {
+      "source": "concept",
+      "target": "concept/art-against-art/ben"
+    },
+    {
+      "source": "concept",
+      "target": "concept/brecht"
+    },
+    {
+      "source": "concept",
+      "target": "concept/fluxus-exercise"
+    },
+    {
+      "source": "concept",
+      "target": "concept/fluxus-music"
+    },
+    {
+      "source": "concept",
+      "target": "concept/fluxus-theatre"
+    },
+    {
+      "source": "concept",
+      "target": "concept/flynt"
+    },
+    {
+      "source": "concept",
+      "target": "concept/found-text"
+    },
+    {
+      "source": "concept",
+      "target": "concept/hegel"
+    },
+    {
+      "source": "concept",
+      "target": "concept/impossible"
+    },
+    {
+      "source": "concept",
+      "target": "concept/invisible"
+    },
+    {
+      "source": "concept",
+      "target": "concept/le-witt"
+    },
+    {
+      "source": "concept",
+      "target": "concept/le-witt/ostrow"
+    },
+    {
+      "source": "concept",
+      "target": "concept/le-witt/paragraphs"
+    },
+    {
+      "source": "concept",
+      "target": "concept/le-witt/sentences"
+    },
+    {
+      "source": "concept",
+      "target": "concept/meta-concepts"
+    },
+    {
+      "source": "concept",
+      "target": "concept/paradox"
+    },
+    {
+      "source": "concept",
+      "target": "concept/perls"
+    },
+    {
+      "source": "concept",
+      "target": "concept/quote-collections"
+    },
+    {
+      "source": "concept",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/1st-person-reports"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/accusations"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/advice-etc"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/answers"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/assertions"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/imperatives"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/performatives"
+    },
+    {
+      "source": "concept",
+      "target": "concept/speech-acts/questions"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/99-stefan-brueggemann"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/anastasi"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/ben"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/indiana"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/johns"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/kosuth"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/magritte"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/measurement"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/on-kawara"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/photo"
+    },
+    {
+      "source": "concept",
+      "target": "concept/tautology/video"
+    },
+    {
+      "source": "concept",
+      "target": "concept/weiner"
+    },
+    {
+      "source": "concept",
+      "target": "concept/wiskunde"
+    },
+    {
+      "source": "concept",
+      "target": "concept/word-constellations"
+    },
+    {
+      "source": "concept",
+      "target": "concept/words"
+    },
+    {
+      "source": "concept",
+      "target": "concept/words/ben"
+    },
+    {
+      "source": "concept",
+      "target": "ego/ben"
+    },
+    {
+      "source": "concept",
+      "target": "ego/self-exhibits"
+    },
+    {
+      "source": "concept",
+      "target": "ego/selfportraits"
+    },
+    {
+      "source": "concept",
+      "target": "ego/statements"
+    },
+    {
+      "source": "concept",
+      "target": "everything"
+    },
+    {
+      "source": "concept",
+      "target": "everything/all"
+    },
+    {
+      "source": "concept",
+      "target": "index"
+    },
+    {
+      "source": "concept",
+      "target": "meta"
+    },
+    {
+      "source": "concept",
+      "target": "nothing"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/concept/no-show"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/concept/rien"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/concept/secret"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "concept",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "concept",
+      "target": "things/readymade"
+    },
+    {
+      "source": "concept/arithmetic",
+      "target": "index"
+    },
+    {
+      "source": "concept/art-about-art",
+      "target": "concept/art-against-art"
+    },
+    {
+      "source": "concept/art-about-art",
+      "target": "concept/speech-acts"
+    },
+    {
+      "source": "concept/art-about-art",
+      "target": "concept/tautology"
+    },
+    {
+      "source": "concept/art-about-art",
+      "target": "index"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "concept/art-against-art/ben"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "concept/art-against-art/reimann"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "concept/paradox"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "concept/speech-acts"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "concept/speech-acts/advice-etc"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "index"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "life"
+    },
+    {
+      "source": "concept/art-against-art",
+      "target": "qend-art"
+    },
+    {
+      "source": "concept/art-against-art/ben",
+      "target": "concept/paradox"
+    },
+    {
+      "source": "concept/art-against-art/ben",
+      "target": "index"
+    },
+    {
+      "source": "concept/art-against-art/reimann",
+      "target": "index"
+    },
+    {
+      "source": "concept/brecht",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/brecht",
+      "target": "index"
+    },
+    {
+      "source": "concept/fluxus-exercise",
+      "target": "concept/perls"
+    },
+    {
+      "source": "concept/fluxus-exercise",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/fluxus-exercise",
+      "target": "index"
+    },
+    {
+      "source": "concept/fluxus-music",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/fluxus-music",
+      "target": "index"
+    },
+    {
+      "source": "concept/fluxus-theatre",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/fluxus-theatre",
+      "target": "concept/words/ben"
+    },
+    {
+      "source": "concept/fluxus-theatre",
+      "target": "index"
+    },
+    {
+      "source": "concept/flynt",
+      "target": "index"
+    },
+    {
+      "source": "concept/found-text",
+      "target": "index"
+    },
+    {
+      "source": "concept/hegel",
+      "target": "concept/tautology/kosuth"
+    },
+    {
+      "source": "concept/hegel",
+      "target": "qend-art"
+    },
+    {
+      "source": "concept/impossible",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/impossible",
+      "target": "index"
+    },
+    {
+      "source": "concept/invisible",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/invisible",
+      "target": "index"
+    },
+    {
+      "source": "concept/invisible",
+      "target": "nothing"
+    },
+    {
+      "source": "concept/le-witt",
+      "target": "concept/le-witt/ostrow"
+    },
+    {
+      "source": "concept/le-witt",
+      "target": "concept/le-witt/paragraphs"
+    },
+    {
+      "source": "concept/le-witt",
+      "target": "concept/le-witt/sentences"
+    },
+    {
+      "source": "concept/le-witt",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/le-witt",
+      "target": "index"
+    },
+    {
+      "source": "concept/le-witt/ostrow",
+      "target": "index"
+    },
+    {
+      "source": "concept/le-witt/paragraphs",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/le-witt/paragraphs",
+      "target": "index"
+    },
+    {
+      "source": "concept/le-witt/sentences",
+      "target": "index"
+    },
+    {
+      "source": "concept/meta-concepts",
+      "target": "concept/scores"
+    },
+    {
+      "source": "concept/meta-concepts",
+      "target": "index"
+    },
+    {
+      "source": "concept/paradox",
+      "target": "concept/tautology"
+    },
+    {
+      "source": "concept/paradox",
+      "target": "index"
+    },
+    {
+      "source": "concept/paradox",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "concept/perls",
+      "target": "index"
+    },
+    {
+      "source": "concept/quote-collections",
+      "target": "index"
+    },
+    {
+      "source": "concept/scores",
+      "target": "concept/weiner"
+    },
+    {
+      "source": "concept/scores",
+      "target": "index"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/1st-person-reports"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/accusations"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/advice-etc"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/answers"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/assertions"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/imperatives"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/performatives"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/speech-acts/questions"
+    },
+    {
+      "source": "concept/speech-acts",
+      "target": "concept/words/ben"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/99-stefan-brueggemann"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/anastasi"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/ben"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/indiana"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/johns"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/kosuth"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/magritte"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/measurement"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/on-kawara"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/photo"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "concept/tautology/video"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing/mirrors"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "nothing/monochrome/back"
+    },
+    {
+      "source": "concept/tautology",
+      "target": "things/readymade"
+    },
+    {
+      "source": "concept/tautology/anastasi",
+      "target": "concept/tautology/photo"
+    },
+    {
+      "source": "concept/tautology/anastasi",
+      "target": "concept/tautology/video"
+    },
+    {
+      "source": "concept/tautology/ben",
+      "target": "concept/words/ben"
+    },
+    {
+      "source": "concept/tautology/ben",
+      "target": "ego/ben"
+    },
+    {
+      "source": "concept/tautology/ben",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/ben",
+      "target": "things/composite/combine-paintings"
+    },
+    {
+      "source": "concept/tautology/indiana",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/johns",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/kosuth",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/kosuth",
+      "target": "things/composite/combine-paintings"
+    },
+    {
+      "source": "concept/tautology/magritte",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/measurement",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/on-kawara",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/photo",
+      "target": "concept/tautology/video"
+    },
+    {
+      "source": "concept/tautology/photo",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/photo",
+      "target": "nothing/mirrors"
+    },
+    {
+      "source": "concept/tautology/video",
+      "target": "index"
+    },
+    {
+      "source": "concept/tautology/video",
+      "target": "nothing/mirrors"
+    },
+    {
+      "source": "concept/weiner",
+      "target": "index"
+    },
+    {
+      "source": "concept/wiskunde",
+      "target": "index"
+    },
+    {
+      "source": "concept/word-constellations",
+      "target": "index"
+    },
+    {
+      "source": "concept/words",
+      "target": "concept/words/ben"
+    },
+    {
+      "source": "concept/words/ben",
+      "target": "ego/ben"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/accidents"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/architecture"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/artificial-disasters"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/artificial-disasters/atom-bomb"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/artificial-disasters/wtc"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/assassination"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/dissolve"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/metzger"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/natural-disasters"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/natural-disasters/warhol"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/pierce"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/rip"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/slash/fontana"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/slice"
+    },
+    {
+      "source": "destruction",
+      "target": "destruction/wipe"
+    },
+    {
+      "source": "destruction",
+      "target": "index"
+    },
+    {
+      "source": "destruction",
+      "target": "informe"
+    },
+    {
+      "source": "destruction",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "destruction",
+      "target": "process"
+    },
+    {
+      "source": "destruction",
+      "target": "process/blast"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/arman"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/aubertin"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/boyle"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/breuer"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/burri"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/klein"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/latham"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/peeters"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/piene"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/raphael-montanez-ortiz"
+    },
+    {
+      "source": "destruction",
+      "target": "process/burn/vautier"
+    },
+    {
+      "source": "destruction",
+      "target": "process/drop"
+    },
+    {
+      "source": "destruction",
+      "target": "process/grind"
+    },
+    {
+      "source": "destruction",
+      "target": "process/implosion"
+    },
+    {
+      "source": "destruction",
+      "target": "process/rub"
+    },
+    {
+      "source": "destruction",
+      "target": "process/shatter"
+    },
+    {
+      "source": "destruction",
+      "target": "process/smash"
+    },
+    {
+      "source": "destruction",
+      "target": "process/smash/arman"
+    },
+    {
+      "source": "destruction",
+      "target": "process/smash/guitars"
+    },
+    {
+      "source": "destruction",
+      "target": "process/smash/luther"
+    },
+    {
+      "source": "destruction",
+      "target": "process/smash/ortiz"
+    },
+    {
+      "source": "destruction",
+      "target": "process/squeeze"
+    },
+    {
+      "source": "destruction",
+      "target": "process/tear"
+    },
+    {
+      "source": "destruction",
+      "target": "process/tear/dufrene"
+    },
+    {
+      "source": "destruction",
+      "target": "process/tear/hains"
+    },
+    {
+      "source": "destruction",
+      "target": "process/tear/rotella"
+    },
+    {
+      "source": "destruction",
+      "target": "process/tear/villegle"
+    },
+    {
+      "source": "destruction/accidents",
+      "target": "index"
+    },
+    {
+      "source": "destruction/accidents",
+      "target": "process"
+    },
+    {
+      "source": "destruction/architecture",
+      "target": "destruction/artificial-disasters/wtc"
+    },
+    {
+      "source": "destruction/architecture",
+      "target": "index"
+    },
+    {
+      "source": "destruction/artificial-disasters",
+      "target": "destruction/artificial-disasters/atom-bomb"
+    },
+    {
+      "source": "destruction/artificial-disasters",
+      "target": "destruction/artificial-disasters/gulf-war"
+    },
+    {
+      "source": "destruction/artificial-disasters",
+      "target": "destruction/artificial-disasters/wtc"
+    },
+    {
+      "source": "destruction/artificial-disasters",
+      "target": "index"
+    },
+    {
+      "source": "destruction/artificial-disasters/atom-bomb",
+      "target": "index"
+    },
+    {
+      "source": "destruction/artificial-disasters/gulf-war",
+      "target": "index"
+    },
+    {
+      "source": "destruction/artificial-disasters/gulf-war",
+      "target": "process/burn"
+    },
+    {
+      "source": "destruction/artificial-disasters/wtc",
+      "target": "things/covered"
+    },
+    {
+      "source": "destruction/assassination",
+      "target": "index"
+    },
+    {
+      "source": "destruction/assassination",
+      "target": "process"
+    },
+    {
+      "source": "destruction/dissolve",
+      "target": "index"
+    },
+    {
+      "source": "destruction/dissolve",
+      "target": "process"
+    },
+    {
+      "source": "destruction/metzger",
+      "target": "index"
+    },
+    {
+      "source": "destruction/metzger",
+      "target": "process"
+    },
+    {
+      "source": "destruction/natural-disasters",
+      "target": "destruction/natural-disasters/warhol"
+    },
+    {
+      "source": "destruction/natural-disasters",
+      "target": "index"
+    },
+    {
+      "source": "destruction/natural-disasters",
+      "target": "nature"
+    },
+    {
+      "source": "destruction/natural-disasters/warhol",
+      "target": "index"
+    },
+    {
+      "source": "destruction/pierce",
+      "target": "index"
+    },
+    {
+      "source": "destruction/rip",
+      "target": "index"
+    },
+    {
+      "source": "destruction/slash/fontana",
+      "target": "index"
+    },
+    {
+      "source": "destruction/slash/fontana",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "destruction/slash/fontana",
+      "target": "nothing/space/holes/fontana"
+    },
+    {
+      "source": "destruction/slice",
+      "target": "index"
+    },
+    {
+      "source": "destruction/wipe",
+      "target": "index"
+    },
+    {
+      "source": "ego",
+      "target": "ego/ben"
+    },
+    {
+      "source": "ego",
+      "target": "ego/self-exhibits"
+    },
+    {
+      "source": "ego",
+      "target": "ego/selfportraits"
+    },
+    {
+      "source": "ego",
+      "target": "ego/statements"
+    },
+    {
+      "source": "ego",
+      "target": "index"
+    },
+    {
+      "source": "ego",
+      "target": "life"
+    },
+    {
+      "source": "ego",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "ego/ben",
+      "target": "ego/statements"
+    },
+    {
+      "source": "ego/ben",
+      "target": "index"
+    },
+    {
+      "source": "ego/ben",
+      "target": "life"
+    },
+    {
+      "source": "ego/self-exhibits",
+      "target": "index"
+    },
+    {
+      "source": "ego/self-exhibits",
+      "target": "life"
+    },
+    {
+      "source": "ego/selfportraits",
+      "target": "index"
+    },
+    {
+      "source": "ego/selfportraits",
+      "target": "life"
+    },
+    {
+      "source": "ego/statements",
+      "target": "index"
+    },
+    {
+      "source": "ego/statements",
+      "target": "life"
+    },
+    {
+      "source": "everything",
+      "target": "everything/all"
+    },
+    {
+      "source": "everything",
+      "target": "index"
+    },
+    {
+      "source": "everything",
+      "target": "meta"
+    },
+    {
+      "source": "everything",
+      "target": "nature"
+    },
+    {
+      "source": "everything",
+      "target": "nature/quotes"
+    },
+    {
+      "source": "everything",
+      "target": "qend-art"
+    },
+    {
+      "source": "everything",
+      "target": "qlife"
+    },
+    {
+      "source": "everything",
+      "target": "something"
+    },
+    {
+      "source": "everything",
+      "target": "things"
+    },
+    {
+      "source": "everything",
+      "target": "things/readymade"
+    },
+    {
+      "source": "everything",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "everything/all",
+      "target": "index"
+    },
+    {
+      "source": "everything/all",
+      "target": "things"
+    },
+    {
+      "source": "everything/all",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "index",
+      "target": "informe"
+    },
+    {
+      "source": "index",
+      "target": "informe/dirt"
+    },
+    {
+      "source": "index",
+      "target": "informe/fat"
+    },
+    {
+      "source": "index",
+      "target": "informe/fluff"
+    },
+    {
+      "source": "index",
+      "target": "informe/foam"
+    },
+    {
+      "source": "index",
+      "target": "informe/hang"
+    },
+    {
+      "source": "index",
+      "target": "informe/heap"
+    },
+    {
+      "source": "index",
+      "target": "informe/jumble"
+    },
+    {
+      "source": "index",
+      "target": "informe/junk"
+    },
+    {
+      "source": "index",
+      "target": "informe/junk/trash"
+    },
+    {
+      "source": "index",
+      "target": "informe/litter"
+    },
+    {
+      "source": "index",
+      "target": "informe/mess"
+    },
+    {
+      "source": "index",
+      "target": "informe/mound"
+    },
+    {
+      "source": "index",
+      "target": "informe/mud"
+    },
+    {
+      "source": "index",
+      "target": "informe/tangle"
+    },
+    {
+      "source": "index",
+      "target": "informe/viscosity"
+    },
+    {
+      "source": "index",
+      "target": "informe/viscosity/cesar"
+    },
+    {
+      "source": "index",
+      "target": "informe/viscosity/lynda-benglis"
+    },
+    {
+      "source": "index",
+      "target": "informe/viscosity/roxy-paine"
+    },
+    {
+      "source": "index",
+      "target": "kinetics"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/clamp"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/dive"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/drop"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/fall"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/float"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/fly"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/hoist"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/jump"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/lean"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/rock"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/roll"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand/build/buildings"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand/column"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand/high-pedestals"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand/obelisk"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stand/plane"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/stretch"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/suspension"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/swing"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/tether"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/throw"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/gravity/topple"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/inutile"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/light"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/rigid-bodies"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/shove"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/spin"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/standing-waves"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/gears-belts/heinrich-anton-mueller"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/gears-belts/tinguely"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/kinetic-painting/tinguely"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/kinetic-painting/von-graevenitz"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/mobiles-amain"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/mobiles-amoteur"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/planetariums"
+    },
+    {
+      "source": "index",
+      "target": "kinetics/turn/simple-rotation"
+    },
+    {
+      "source": "index",
+      "target": "life"
+    },
+    {
+      "source": "index",
+      "target": "life/art-shall-be-religion"
+    },
+    {
+      "source": "index",
+      "target": "life/dandyism"
+    },
+    {
+      "source": "index",
+      "target": "life/performance-art"
+    },
+    {
+      "source": "index",
+      "target": "life/the-artists-life"
+    },
+    {
+      "source": "index",
+      "target": "meta"
+    },
+    {
+      "source": "index",
+      "target": "nature"
+    },
+    {
+      "source": "index",
+      "target": "nature/quotes"
+    },
+    {
+      "source": "index",
+      "target": "nothing"
+    },
+    {
+      "source": "index",
+      "target": "nothing/blindness"
+    },
+    {
+      "source": "index",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "index",
+      "target": "nothing/concept/no-show"
+    },
+    {
+      "source": "index",
+      "target": "nothing/concept/rien"
+    },
+    {
+      "source": "index",
+      "target": "nothing/concept/secret"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/box"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/bury"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/cover"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/cover/christo"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/cover/rotella-copertura"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/uebermalung"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/uebermalung/rainer"
+    },
+    {
+      "source": "index",
+      "target": "nothing/cover-up/uebermalung/soulages"
+    },
+    {
+      "source": "index",
+      "target": "nothing/darkness"
+    },
+    {
+      "source": "index",
+      "target": "nothing/depiction"
+    },
+    {
+      "source": "index",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "index",
+      "target": "nothing/depiction/realist"
+    },
+    {
+      "source": "index",
+      "target": "nothing/depiction/romantic"
+    },
+    {
+      "source": "index",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "index",
+      "target": "nothing/invisible"
+    },
+    {
+      "source": "index",
+      "target": "nothing/invisible/electromagnetic"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/christian-megert"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/heinz-mack"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/kapoor"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/koons"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/lichtenstein"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/luther"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/pistoletto"
+    },
+    {
+      "source": "index",
+      "target": "nothing/mirrors/richter"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/1-d"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/back"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/back/lichtenstein"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/black/herbert-zangs"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/colored"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/depiction"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/depiction/roger-raveel"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/gold"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/gold/klein"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/gold/mathias-goeritz"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/grey"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/incoherents"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/light"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/malevich-rodchenko/suprematism"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "index",
+      "target": "nothing/monochrome/white"
+    },
+    {
+      "source": "index",
+      "target": "nothing/music/monotone"
+    },
+    {
+      "source": "index",
+      "target": "nothing/music/silence"
+    },
+    {
+      "source": "index",
+      "target": "nothing/quotes"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/containers"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/frames/christian-eckart"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/frames/gerold-miller"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/frames/siegfried-cremer"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/barbara-hepworth"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/ben"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/burri-jute"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/fontana"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/gerold-miller"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/klein"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/lee-bontecou"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/manolo-millares"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/maryellen-latas"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/michael-heizer"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/holes/steven-parrino"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/klein/blue"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/vide/room"
+    },
+    {
+      "source": "index",
+      "target": "nothing/space/vide/spot"
+    },
+    {
+      "source": "index",
+      "target": "nothing/text"
+    },
+    {
+      "source": "index",
+      "target": "nothing/text/reimann"
+    },
+    {
+      "source": "index",
+      "target": "nothing/web"
+    },
+    {
+      "source": "index",
+      "target": "physics"
+    },
+    {
+      "source": "index",
+      "target": "physics/gravity"
+    },
+    {
+      "source": "index",
+      "target": "physics/gravity/drop"
+    },
+    {
+      "source": "index",
+      "target": "physics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "index",
+      "target": "physics/gravity/fall"
+    },
+    {
+      "source": "index",
+      "target": "physics/vacuum"
+    },
+    {
+      "source": "index",
+      "target": "process"
+    },
+    {
+      "source": "index",
+      "target": "process/blast"
+    },
+    {
+      "source": "index",
+      "target": "process/burn"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/arman"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/aubertin"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/boyle"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/breuer"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/burri"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/klein"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/latham"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/peeters"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/piene"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/raphael-montanez-ortiz"
+    },
+    {
+      "source": "index",
+      "target": "process/burn/vautier"
+    },
+    {
+      "source": "index",
+      "target": "process/condensation"
+    },
+    {
+      "source": "index",
+      "target": "process/drop"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/drip"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/flow"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/pour"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/swirl"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/thrash"
+    },
+    {
+      "source": "index",
+      "target": "process/gravity-liquid/throw"
+    },
+    {
+      "source": "index",
+      "target": "process/grind"
+    },
+    {
+      "source": "index",
+      "target": "process/implosion"
+    },
+    {
+      "source": "index",
+      "target": "process/liquid-projection"
+    },
+    {
+      "source": "index",
+      "target": "process/rub"
+    },
+    {
+      "source": "index",
+      "target": "process/rust"
+    },
+    {
+      "source": "index",
+      "target": "process/shatter"
+    },
+    {
+      "source": "index",
+      "target": "process/smash"
+    },
+    {
+      "source": "index",
+      "target": "process/smash/arman"
+    },
+    {
+      "source": "index",
+      "target": "process/smash/guitars"
+    },
+    {
+      "source": "index",
+      "target": "process/smash/luther"
+    },
+    {
+      "source": "index",
+      "target": "process/smash/ortiz"
+    },
+    {
+      "source": "index",
+      "target": "process/squeeze"
+    },
+    {
+      "source": "index",
+      "target": "process/tear"
+    },
+    {
+      "source": "index",
+      "target": "process/tear/dufrene"
+    },
+    {
+      "source": "index",
+      "target": "process/tear/hains"
+    },
+    {
+      "source": "index",
+      "target": "process/tear/rotella"
+    },
+    {
+      "source": "index",
+      "target": "process/tear/villegle"
+    },
+    {
+      "source": "index",
+      "target": "process/vibration/animal"
+    },
+    {
+      "source": "index",
+      "target": "process/vibration/chladni-lissajous"
+    },
+    {
+      "source": "index",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "index",
+      "target": "qend-art"
+    },
+    {
+      "source": "index",
+      "target": "something"
+    },
+    {
+      "source": "index",
+      "target": "something/bags"
+    },
+    {
+      "source": "index",
+      "target": "something/balls"
+    },
+    {
+      "source": "index",
+      "target": "something/blocks"
+    },
+    {
+      "source": "index",
+      "target": "something/poles"
+    },
+    {
+      "source": "index",
+      "target": "something/rolls"
+    },
+    {
+      "source": "index",
+      "target": "things"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied/bidlo"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied/eric-doeringer"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied/levine"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied/pettibone"
+    },
+    {
+      "source": "index",
+      "target": "things/art-copied/sturtevant"
+    },
+    {
+      "source": "index",
+      "target": "things/cast"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/collections"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/collections/arman"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/collections/spoerri"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/collections/steinbach"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/combine-paintings"
+    },
+    {
+      "source": "index",
+      "target": "things/composite/stacks"
+    },
+    {
+      "source": "index",
+      "target": "things/copied"
+    },
+    {
+      "source": "index",
+      "target": "things/covered"
+    },
+    {
+      "source": "index",
+      "target": "things/covered/kusama"
+    },
+    {
+      "source": "index",
+      "target": "things/enlarged"
+    },
+    {
+      "source": "index",
+      "target": "things/immersed"
+    },
+    {
+      "source": "index",
+      "target": "things/painted"
+    },
+    {
+      "source": "index",
+      "target": "things/readymade"
+    },
+    {
+      "source": "index",
+      "target": "things/readymade/aesthetics-of-reality"
+    },
+    {
+      "source": "index",
+      "target": "things/readymade/duchamp/text"
+    },
+    {
+      "source": "index",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "index",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/christo"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/delete"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/erik-dietman"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/magritte"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/man-ray"
+    },
+    {
+      "source": "index",
+      "target": "things/wrapped/muehl"
+    },
+    {
+      "source": "informe",
+      "target": "informe/dirt"
+    },
+    {
+      "source": "informe",
+      "target": "informe/fat"
+    },
+    {
+      "source": "informe",
+      "target": "informe/fluff"
+    },
+    {
+      "source": "informe",
+      "target": "informe/foam"
+    },
+    {
+      "source": "informe",
+      "target": "informe/hang"
+    },
+    {
+      "source": "informe",
+      "target": "informe/heap"
+    },
+    {
+      "source": "informe",
+      "target": "informe/jumble"
+    },
+    {
+      "source": "informe",
+      "target": "informe/junk"
+    },
+    {
+      "source": "informe",
+      "target": "informe/junk/trash"
+    },
+    {
+      "source": "informe",
+      "target": "informe/litter"
+    },
+    {
+      "source": "informe",
+      "target": "informe/mess"
+    },
+    {
+      "source": "informe",
+      "target": "informe/mound"
+    },
+    {
+      "source": "informe",
+      "target": "informe/mud"
+    },
+    {
+      "source": "informe",
+      "target": "informe/tangle"
+    },
+    {
+      "source": "informe",
+      "target": "informe/viscosity"
+    },
+    {
+      "source": "informe",
+      "target": "informe/viscosity/cesar"
+    },
+    {
+      "source": "informe",
+      "target": "informe/viscosity/lynda-benglis"
+    },
+    {
+      "source": "informe",
+      "target": "informe/viscosity/roxy-paine"
+    },
+    {
+      "source": "informe",
+      "target": "nothing"
+    },
+    {
+      "source": "informe",
+      "target": "process"
+    },
+    {
+      "source": "informe",
+      "target": "process/condensation"
+    },
+    {
+      "source": "informe",
+      "target": "process/rust"
+    },
+    {
+      "source": "informe",
+      "target": "something"
+    },
+    {
+      "source": "informe/fluff",
+      "target": "nothing"
+    },
+    {
+      "source": "informe/foam",
+      "target": "kinetics"
+    },
+    {
+      "source": "informe/hang",
+      "target": "physics/gravity"
+    },
+    {
+      "source": "informe/viscosity",
+      "target": "informe/viscosity/cesar"
+    },
+    {
+      "source": "informe/viscosity",
+      "target": "informe/viscosity/lynda-benglis"
+    },
+    {
+      "source": "informe/viscosity",
+      "target": "informe/viscosity/roxy-paine"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/clamp"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/dive"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/drip"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/drop"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/fall"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/float"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/fly"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/hoist"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/jump"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/lean"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/lie"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/pour"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/rock"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/roll"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stand"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stand/build/buildings"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stand/high-pedestals"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stand/obelisk"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stand/plane"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/stretch"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/suspension"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/swing"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/tether"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/throw"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/gravity/topple"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/inutile"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/light"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/rigid-bodies"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/shove"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/spin"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/standing-waves"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/gears-belts/heinrich-anton-mueller"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/gears-belts/tinguely"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/kinetic-painting/tinguely"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/kinetic-painting/von-graevenitz"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/mobiles-amain"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/mobiles-amoteur"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/planetariums"
+    },
+    {
+      "source": "kinetics",
+      "target": "kinetics/turn/simple-rotation"
+    },
+    {
+      "source": "kinetics",
+      "target": "meta"
+    },
+    {
+      "source": "kinetics",
+      "target": "process"
+    },
+    {
+      "source": "kinetics/gravity/clamp",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/drop",
+      "target": "kinetics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "kinetics/gravity/float",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/lean",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/lie",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/roll",
+      "target": "kinetics/turn"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stand/build/buildings"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stand/column"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stand/high-pedestals"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stand/obelisk"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stand/plane"
+    },
+    {
+      "source": "kinetics/gravity/stand",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/stand/column",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/stand/obelisk",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/stand/plane",
+      "target": "kinetics/gravity/stasis"
+    },
+    {
+      "source": "kinetics/gravity/stasis",
+      "target": "kinetics/gravity/stretch"
+    },
+    {
+      "source": "kinetics/gravity/stasis",
+      "target": "kinetics/gravity/suspension"
+    },
+    {
+      "source": "kinetics/gravity/stasis",
+      "target": "kinetics/gravity/tether"
+    },
+    {
+      "source": "kinetics/inutile",
+      "target": "kinetics/rigid-bodies"
+    },
+    {
+      "source": "kinetics/rigid-bodies",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "kinetics/spin",
+      "target": "kinetics/turn"
+    },
+    {
+      "source": "kinetics/standing-waves",
+      "target": "process/vibration/chladni-lissajous"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/gears-belts/heinrich-anton-mueller"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/gears-belts/tinguely"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/kinetic-painting/tinguely"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/kinetic-painting/von-graevenitz"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/mobiles-amain"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/mobiles-amoteur"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/planetariums"
+    },
+    {
+      "source": "kinetics/turn",
+      "target": "kinetics/turn/simple-rotation"
+    },
+    {
+      "source": "life",
+      "target": "life/art-shall-be-religion"
+    },
+    {
+      "source": "life",
+      "target": "life/breathing"
+    },
+    {
+      "source": "life",
+      "target": "life/dandyism"
+    },
+    {
+      "source": "life",
+      "target": "life/everyone-is-an-artist"
+    },
+    {
+      "source": "life",
+      "target": "life/everyone-shall-be-an-artist"
+    },
+    {
+      "source": "life",
+      "target": "life/life-above-art"
+    },
+    {
+      "source": "life",
+      "target": "life/life-is-artwork"
+    },
+    {
+      "source": "life",
+      "target": "life/life-will-be-art"
+    },
+    {
+      "source": "life",
+      "target": "life/performance-art"
+    },
+    {
+      "source": "life",
+      "target": "life/soul"
+    },
+    {
+      "source": "life",
+      "target": "life/the-artists-life"
+    },
+    {
+      "source": "life",
+      "target": "qend-art"
+    },
+    {
+      "source": "life",
+      "target": "things/readymade/aesthetics-of-reality"
+    },
+    {
+      "source": "life",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "life/everyone-is-an-artist",
+      "target": "life/maeterlinck"
+    },
+    {
+      "source": "meta",
+      "target": "nothing"
+    },
+    {
+      "source": "meta",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "meta",
+      "target": "process"
+    },
+    {
+      "source": "meta",
+      "target": "qend-art"
+    },
+    {
+      "source": "nature",
+      "target": "nature/quotes"
+    },
+    {
+      "source": "nature",
+      "target": "physics"
+    },
+    {
+      "source": "nature",
+      "target": "process"
+    },
+    {
+      "source": "nature",
+      "target": "process/vibration/animal"
+    },
+    {
+      "source": "nature",
+      "target": "things"
+    },
+    {
+      "source": "nature",
+      "target": "things/readymade"
+    },
+    {
+      "source": "nature",
+      "target": "things/readymade/aesthetics-of-reality"
+    },
+    {
+      "source": "nature",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "nature",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/blindness"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/concept"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/concept/no-show"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/concept/rien"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/depiction/realist"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/depiction/romantic"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/christian-megert"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/kapoor"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/koons"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/lichtenstein"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/luther"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/pistoletto"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/mirrors/richter"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/1-d"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/back"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/back/lichtenstein"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/black/herbert-zangs"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/colored"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/depiction"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/grey"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/incoherents"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/light"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/malevich-rodchenko/suprematism"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/monochrome/white"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/music/monotone"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/music/silence"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/quotes"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/containers"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/frames/christian-eckart"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/frames/gerold-miller"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/frames/siegfried-cremer"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/barbara-hepworth"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/ben"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/burri-jute"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/fontana"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/klein"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/lee-bontecou"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/holes/maryellen-latas"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/klein/blue"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/vide/room"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/space/vide/spot"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/text"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/text/reimann"
+    },
+    {
+      "source": "nothing",
+      "target": "nothing/web"
+    },
+    {
+      "source": "nothing",
+      "target": "physics/vacuum"
+    },
+    {
+      "source": "nothing",
+      "target": "qend-art"
+    },
+    {
+      "source": "nothing",
+      "target": "something"
+    },
+    {
+      "source": "nothing/blindness",
+      "target": "nothing/darkness"
+    },
+    {
+      "source": "nothing/blindness",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/blindness",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/concept",
+      "target": "nothing/concept/no-show"
+    },
+    {
+      "source": "nothing/concept",
+      "target": "nothing/concept/rien"
+    },
+    {
+      "source": "nothing/concept",
+      "target": "nothing/concept/secret"
+    },
+    {
+      "source": "nothing/concept/no-show",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/concept/no-show",
+      "target": "nothing/invisible/electromagnetic"
+    },
+    {
+      "source": "nothing/concept/no-show",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/concept/no-show",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "nothing/concept/no-show",
+      "target": "nothing/space/vide/room"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/cover-up/box"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/cover-up/bury"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/cover-up/cover"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/cover-up/cover/christo"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/cover-up/uebermalung"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/invisible/electromagnetic"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "nothing/space/containers"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "things/wrapped/christo"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "things/wrapped/delete"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "things/wrapped/erik-dietman"
+    },
+    {
+      "source": "nothing/concept/secret",
+      "target": "things/wrapped/magritte"
+    },
+    {
+      "source": "nothing/cover-up/box",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/box",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "nothing/cover-up/bury",
+      "target": "nothing/cover-up/uebermalung"
+    },
+    {
+      "source": "nothing/cover-up/bury",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "nothing/cover-up/cover/christo"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "nothing/cover-up/cover/rotella-copertura"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "nothing/cover-up/uebermalung"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/covered"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/covered/kusama"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/immersed"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/wrapped/delete"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/wrapped/erik-dietman"
+    },
+    {
+      "source": "nothing/cover-up/cover",
+      "target": "things/wrapped/magritte"
+    },
+    {
+      "source": "nothing/cover-up/cover/christo",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/cover/christo",
+      "target": "nothing/space/containers"
+    },
+    {
+      "source": "nothing/cover-up/cover/christo",
+      "target": "things/wrapped/christo"
+    },
+    {
+      "source": "nothing/cover-up/cover/rotella-copertura",
+      "target": "nothing/cover-up/uebermalung"
+    },
+    {
+      "source": "nothing/cover-up/cover/rotella-copertura",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/cover/rotella-copertura",
+      "target": "process/tear/rotella"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung",
+      "target": "nothing/cover-up/uebermalung/rainer"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung",
+      "target": "nothing/cover-up/uebermalung/soulages"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung/rainer",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung/rainer",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung/soulages",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/cover-up/uebermalung/soulages",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/darkness/kapoor"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/invisible/electromagnetic"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/darkness",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "nothing/darkness/kapoor",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/depiction",
+      "target": "nothing/depiction/maps"
+    },
+    {
+      "source": "nothing/depiction",
+      "target": "nothing/depiction/realist"
+    },
+    {
+      "source": "nothing/depiction",
+      "target": "nothing/depiction/romantic"
+    },
+    {
+      "source": "nothing/depiction",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/depiction",
+      "target": "nothing/monochrome/depiction/roger-raveel"
+    },
+    {
+      "source": "nothing/depiction/maps",
+      "target": "nothing/monochrome/incoherents"
+    },
+    {
+      "source": "nothing/depiction/maps",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "nothing/depiction/maps",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "nothing/depiction/maps",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "nothing/depiction/realist",
+      "target": "nothing/index-visual"
+    },
+    {
+      "source": "nothing/depiction/realist",
+      "target": "nothing/mirrors/lichtenstein"
+    },
+    {
+      "source": "nothing/depiction/realist",
+      "target": "nothing/monochrome/back/lichtenstein"
+    },
+    {
+      "source": "nothing/depiction/realist",
+      "target": "nothing/monochrome/depiction/roger-raveel"
+    },
+    {
+      "source": "nothing/depiction/realist",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/invisible"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/invisible/electromagnetic"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/monochrome/back"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/monochrome/depiction"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/monochrome/depiction/roger-raveel"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing/index-visual",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "nothing/invisible",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/invisible",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "nothing/invisible",
+      "target": "physics/vacuum"
+    },
+    {
+      "source": "nothing/invisible/electromagnetic",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/christian-megert"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/heinz-mack"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/kapoor"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/koons"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/lichtenstein"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/luther"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/pistoletto"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/mirrors/richter"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "nothing/mirrors",
+      "target": "things/cast"
+    },
+    {
+      "source": "nothing/mirrors/heinz-mack",
+      "target": "nothing/monochrome"
+    },
+    {
+      "source": "nothing/mirrors/koons",
+      "target": "things/cast"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/1-d"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/back"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/back/lichtenstein"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/black"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/black/herbert-zangs"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/colored"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/gold"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/gold/klein"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/gold/mathias-goeritz"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/grey"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/incoherents"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/light"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/malevich-rodchenko/suprematism"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/monochrome/white"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/space"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "nothing/monochrome",
+      "target": "something"
+    },
+    {
+      "source": "nothing/monochrome/back",
+      "target": "nothing/monochrome/back/lichtenstein"
+    },
+    {
+      "source": "nothing/monochrome/back",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing/monochrome/black",
+      "target": "nothing/monochrome/black/herbert-zangs"
+    },
+    {
+      "source": "nothing/monochrome/black",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "nothing/monochrome/black",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "nothing/monochrome/depiction",
+      "target": "nothing/monochrome/depiction/roger-raveel"
+    },
+    {
+      "source": "nothing/monochrome/depiction",
+      "target": "nothing/monochrome/malevich-rodchenko"
+    },
+    {
+      "source": "nothing/monochrome/depiction",
+      "target": "nothing/monochrome/malevich-rodchenko/suprematism"
+    },
+    {
+      "source": "nothing/monochrome/gold",
+      "target": "nothing/monochrome/gold/klein"
+    },
+    {
+      "source": "nothing/monochrome/gold",
+      "target": "nothing/monochrome/gold/mathias-goeritz"
+    },
+    {
+      "source": "nothing/monochrome/gold",
+      "target": "nothing/monochrome/rauschenberg"
+    },
+    {
+      "source": "nothing/monochrome/gold",
+      "target": "nothing/space/holes/burri-jute"
+    },
+    {
+      "source": "nothing/monochrome/gold",
+      "target": "things/cast"
+    },
+    {
+      "source": "nothing/monochrome/gold/klein",
+      "target": "things/cast"
+    },
+    {
+      "source": "nothing/monochrome/gold/mathias-goeritz",
+      "target": "things/cast"
+    },
+    {
+      "source": "nothing/monochrome/malevich-rodchenko",
+      "target": "nothing/monochrome/malevich-rodchenko/suprematism"
+    },
+    {
+      "source": "nothing/monochrome/rauschenberg",
+      "target": "process/rub"
+    },
+    {
+      "source": "nothing/music/monotone",
+      "target": "nothing/music/silence"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/containers"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/frames"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/barbara-hepworth"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/ben"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/burri-jute"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/fontana"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/gerold-miller"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/klein"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/lee-bontecou"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/holes/maryellen-latas"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/klein/blue"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/vide/room"
+    },
+    {
+      "source": "nothing/space",
+      "target": "nothing/space/vide/spot"
+    },
+    {
+      "source": "nothing/space",
+      "target": "physics/vacuum"
+    },
+    {
+      "source": "nothing/space/containers",
+      "target": "nothing/space/vide/room"
+    },
+    {
+      "source": "nothing/space/frames",
+      "target": "nothing/space/frames/christian-eckart"
+    },
+    {
+      "source": "nothing/space/frames",
+      "target": "nothing/space/frames/gerold-miller"
+    },
+    {
+      "source": "nothing/space/frames",
+      "target": "nothing/space/frames/siegfried-cremer"
+    },
+    {
+      "source": "nothing/space/frames",
+      "target": "nothing/space/holes"
+    },
+    {
+      "source": "nothing/space/frames",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "nothing/space/frames/gerold-miller",
+      "target": "nothing/space/holes/gerold-miller"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/barbara-hepworth"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/ben"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/burri-jute"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/fontana"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/gerold-miller"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/klein"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/lee-bontecou"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/manolo-millares"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/maryellen-latas"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/michael-heizer"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/holes/steven-parrino"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "nothing/space/vide"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "physics/gravity"
+    },
+    {
+      "source": "nothing/space/holes",
+      "target": "process/burn/burri"
+    },
+    {
+      "source": "nothing/space/holes/klein",
+      "target": "nothing/space/klein"
+    },
+    {
+      "source": "nothing/space/holes/klein",
+      "target": "process/burn/klein"
+    },
+    {
+      "source": "nothing/space/klein",
+      "target": "nothing/space/klein/blue"
+    },
+    {
+      "source": "nothing/space/vide",
+      "target": "nothing/space/vide/spot"
+    },
+    {
+      "source": "nothing/space/vide/room",
+      "target": "nothing/space/vide/spot"
+    },
+    {
+      "source": "nothing/text",
+      "target": "nothing/text/reimann"
+    },
+    {
+      "source": "physics",
+      "target": "physics/gravity"
+    },
+    {
+      "source": "physics",
+      "target": "physics/gravity/drop"
+    },
+    {
+      "source": "physics",
+      "target": "physics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "physics",
+      "target": "physics/gravity/fall"
+    },
+    {
+      "source": "physics",
+      "target": "physics/vacuum"
+    },
+    {
+      "source": "physics/gravity",
+      "target": "physics/gravity/drop"
+    },
+    {
+      "source": "physics/gravity",
+      "target": "physics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "physics/gravity",
+      "target": "physics/gravity/fall"
+    },
+    {
+      "source": "physics/gravity",
+      "target": "process/drop"
+    },
+    {
+      "source": "physics/gravity/drop",
+      "target": "physics/gravity/drop/motion-law-experiments"
+    },
+    {
+      "source": "physics/vacuum",
+      "target": "process/implosion"
+    },
+    {
+      "source": "process",
+      "target": "process/blast"
+    },
+    {
+      "source": "process",
+      "target": "process/burn"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/arman"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/aubertin"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/boyle"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/breuer"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/burri"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/klein"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/latham"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/peeters"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/piene"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/raphael-montanez-ortiz"
+    },
+    {
+      "source": "process",
+      "target": "process/burn/vautier"
+    },
+    {
+      "source": "process",
+      "target": "process/condensation"
+    },
+    {
+      "source": "process",
+      "target": "process/drop"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/drip"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/flow"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/pour"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/swirl"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/thrash"
+    },
+    {
+      "source": "process",
+      "target": "process/gravity-liquid/throw"
+    },
+    {
+      "source": "process",
+      "target": "process/grind"
+    },
+    {
+      "source": "process",
+      "target": "process/implosion"
+    },
+    {
+      "source": "process",
+      "target": "process/liquid-projection"
+    },
+    {
+      "source": "process",
+      "target": "process/rub"
+    },
+    {
+      "source": "process",
+      "target": "process/rust"
+    },
+    {
+      "source": "process",
+      "target": "process/shatter"
+    },
+    {
+      "source": "process",
+      "target": "process/smash"
+    },
+    {
+      "source": "process",
+      "target": "process/smash/arman"
+    },
+    {
+      "source": "process",
+      "target": "process/smash/guitars"
+    },
+    {
+      "source": "process",
+      "target": "process/smash/luther"
+    },
+    {
+      "source": "process",
+      "target": "process/smash/ortiz"
+    },
+    {
+      "source": "process",
+      "target": "process/squeeze"
+    },
+    {
+      "source": "process",
+      "target": "process/tear"
+    },
+    {
+      "source": "process",
+      "target": "process/tear/dufrene"
+    },
+    {
+      "source": "process",
+      "target": "process/tear/hains"
+    },
+    {
+      "source": "process",
+      "target": "process/tear/rotella"
+    },
+    {
+      "source": "process",
+      "target": "process/tear/villegle"
+    },
+    {
+      "source": "process",
+      "target": "process/vibration/animal"
+    },
+    {
+      "source": "process",
+      "target": "process/vibration/chladni-lissajous"
+    },
+    {
+      "source": "process",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "process",
+      "target": "things/cast"
+    },
+    {
+      "source": "process",
+      "target": "things/copied"
+    },
+    {
+      "source": "process",
+      "target": "things/enlarged"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/arman"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/aubertin"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/boyle"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/breuer"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/burri"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/klein"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/latham"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/peeters"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/piene"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/raphael-montanez-ortiz"
+    },
+    {
+      "source": "process/burn",
+      "target": "process/burn/vautier"
+    },
+    {
+      "source": "process/burn",
+      "target": "things"
+    },
+    {
+      "source": "process/grind",
+      "target": "things"
+    },
+    {
+      "source": "process/smash",
+      "target": "process/smash/arman"
+    },
+    {
+      "source": "process/smash",
+      "target": "process/smash/guitars"
+    },
+    {
+      "source": "process/smash",
+      "target": "process/smash/luther"
+    },
+    {
+      "source": "process/smash",
+      "target": "process/smash/ortiz"
+    },
+    {
+      "source": "process/squeeze",
+      "target": "things"
+    },
+    {
+      "source": "process/tear",
+      "target": "process/tear/dufrene"
+    },
+    {
+      "source": "process/tear",
+      "target": "process/tear/hains"
+    },
+    {
+      "source": "process/tear",
+      "target": "process/tear/rotella"
+    },
+    {
+      "source": "process/tear",
+      "target": "process/tear/villegle"
+    },
+    {
+      "source": "process/tear",
+      "target": "things"
+    },
+    {
+      "source": "process/vibration/animal",
+      "target": "process/vibration/animal/schretlen"
+    },
+    {
+      "source": "process/vibration/animal",
+      "target": "process/vibration/chladni-lissajous"
+    },
+    {
+      "source": "process/vibration/animal",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "process/vibration/animal/schretlen",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "process/vibration/chladni-lissajous",
+      "target": "process/vibration/metamatic"
+    },
+    {
+      "source": "qend-art",
+      "target": "qlife"
+    },
+    {
+      "source": "qend-art",
+      "target": "things"
+    },
+    {
+      "source": "qend-art",
+      "target": "things/readymade"
+    },
+    {
+      "source": "qend-art",
+      "target": "things/readymade/aesthetics-of-reality"
+    },
+    {
+      "source": "qend-art",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "qend-art",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "qlife",
+      "target": "things"
+    },
+    {
+      "source": "qlife",
+      "target": "things/readymade"
+    },
+    {
+      "source": "qlife",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "something",
+      "target": "something/bags"
+    },
+    {
+      "source": "something",
+      "target": "something/balls"
+    },
+    {
+      "source": "something",
+      "target": "something/blocks"
+    },
+    {
+      "source": "something",
+      "target": "something/poles"
+    },
+    {
+      "source": "something",
+      "target": "something/rolls"
+    },
+    {
+      "source": "something",
+      "target": "things/readymade"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied/bidlo"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied/eric-doeringer"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied/levine"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied/pettibone"
+    },
+    {
+      "source": "things",
+      "target": "things/art-copied/sturtevant"
+    },
+    {
+      "source": "things",
+      "target": "things/cast"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/collections"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/collections/arman"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/collections/spoerri"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/collections/steinbach"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/combine-paintings"
+    },
+    {
+      "source": "things",
+      "target": "things/composite/stacks"
+    },
+    {
+      "source": "things",
+      "target": "things/copied"
+    },
+    {
+      "source": "things",
+      "target": "things/covered"
+    },
+    {
+      "source": "things",
+      "target": "things/covered/kusama"
+    },
+    {
+      "source": "things",
+      "target": "things/enlarged"
+    },
+    {
+      "source": "things",
+      "target": "things/immersed"
+    },
+    {
+      "source": "things",
+      "target": "things/painted"
+    },
+    {
+      "source": "things",
+      "target": "things/readymade"
+    },
+    {
+      "source": "things",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "things",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "things",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "things",
+      "target": "things/wrapped/christo"
+    },
+    {
+      "source": "things",
+      "target": "things/wrapped/erik-dietman"
+    },
+    {
+      "source": "things",
+      "target": "things/wrapped/magritte"
+    },
+    {
+      "source": "things",
+      "target": "things/wrapped/man-ray"
+    },
+    {
+      "source": "things/art-copied",
+      "target": "things/art-copied/bidlo"
+    },
+    {
+      "source": "things/art-copied",
+      "target": "things/art-copied/eric-doeringer"
+    },
+    {
+      "source": "things/art-copied",
+      "target": "things/art-copied/levine"
+    },
+    {
+      "source": "things/art-copied",
+      "target": "things/art-copied/pettibone"
+    },
+    {
+      "source": "things/art-copied",
+      "target": "things/art-copied/sturtevant"
+    },
+    {
+      "source": "things/cast",
+      "target": "things/immersed"
+    },
+    {
+      "source": "things/composite/collections",
+      "target": "things/composite/collections/arman"
+    },
+    {
+      "source": "things/composite/collections",
+      "target": "things/composite/collections/spoerri"
+    },
+    {
+      "source": "things/composite/collections",
+      "target": "things/composite/collections/steinbach"
+    },
+    {
+      "source": "things/covered",
+      "target": "things/covered/kusama"
+    },
+    {
+      "source": "things/covered",
+      "target": "things/painted"
+    },
+    {
+      "source": "things/covered",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "things/covered/kusama",
+      "target": "things/painted"
+    },
+    {
+      "source": "things/covered/kusama",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "things/immersed",
+      "target": "things/painted"
+    },
+    {
+      "source": "things/immersed",
+      "target": "things/wrapped"
+    },
+    {
+      "source": "things/readymade",
+      "target": "things/readymade/aesthetics-of-reality"
+    },
+    {
+      "source": "things/readymade",
+      "target": "things/readymade/duchamp/text"
+    },
+    {
+      "source": "things/readymade",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "things/readymade",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "things/readymade/aesthetics-of-reality",
+      "target": "things/readymade/duchamp/text"
+    },
+    {
+      "source": "things/readymade/aesthetics-of-reality",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "things/readymade/aesthetics-of-reality",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "things/readymade/duchamp/text",
+      "target": "things/readymade/literature"
+    },
+    {
+      "source": "things/readymade/duchamp/text",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "things/readymade/literature",
+      "target": "things/readymade/quotes"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/christo"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/delete"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/erik-dietman"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/magritte"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/man-ray"
+    },
+    {
+      "source": "things/wrapped",
+      "target": "things/wrapped/muehl"
+    }
+  ]
+}

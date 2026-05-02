@@ -34,7 +34,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano[1895]-M.jpg",
+      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano%5B1895%5D-M.jpg",
       "alt": "",
       "caption": "Colonna di Foca, Foro Romano\n\n608 C.E. [Photo 1895]",
       "width": "187",
@@ -152,7 +152,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple+PlasticEx-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple%2BPlasticEx-s.jpg",
       "alt": "",
       "caption": "Carl Andre:\n\nMaple and Plastic Exercise, 1959",
       "width": "160",
@@ -175,7 +175,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt%28WhiteStick%29-s.jpg",
       "alt": "",
       "caption": "herman de vries:\n\nzonder titel, 1960",
       "width": "146",
@@ -193,7 +193,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt[column]-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt%5Bcolumn%5D-s.jpg",
       "alt": "",
       "caption": "Mathias Goeritz:\n\nUntitled, 1969",
       "width": "127",
@@ -274,7 +274,7 @@
       "legacy_src": "round/50AD-JupitersaeuleMainz-M.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano[1895]-M.jpg",
+      "src": "/images/kinetics/gravity/stand/column/round-608AD-CDiFoca-ForoRomano%5B1895%5D-M.jpg",
       "alt": "",
       "caption": "Colonna di Foca, Foro Romano\n\n608 C.E. [Photo 1895]",
       "legacy_src": "round/608AD-CDiFoca-ForoRomano%5B1895%5D-M.jpg"
@@ -346,7 +346,7 @@
       "legacy_src": "../Kopjafa/CarlAndre/Andre-Studio-1959-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple+PlasticEx-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/carl-andre-1959-Maple%2BPlasticEx-s.jpg",
       "alt": "",
       "caption": "Carl Andre:\n\nMaple and Plastic Exercise, 1959",
       "legacy_src": "../Kopjafa/CarlAndre/1959-Maple+PlasticEx-s.jpg"
@@ -358,7 +358,7 @@
       "legacy_src": "straight/1964-Andre-TimberSpindleExercise-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt(WhiteStick)-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/hdv-1960-Unt%28WhiteStick%29-s.jpg",
       "alt": "",
       "caption": "herman de vries:\n\nzonder titel, 1960",
       "legacy_src": "hdv/1960-Unt(WhiteStick)-s.jpg"
@@ -370,7 +370,7 @@
       "legacy_src": "hdv/1961_untitled-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt[column]-s.jpg",
+      "src": "/images/kinetics/gravity/stand/column/mathias-goeritz-1969-Unt%5Bcolumn%5D-s.jpg",
       "alt": "",
       "caption": "Mathias Goeritz:\n\nUntitled, 1969",
       "legacy_src": "MathiasGoeritz/1969-Unt%5Bcolumn%5D-s.jpg"

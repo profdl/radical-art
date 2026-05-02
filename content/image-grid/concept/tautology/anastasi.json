@@ -15,7 +15,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/anastasi/Anastasi64Unt[Polaroids]-s.jpg",
+      "src": "/images/concept/tautology/anastasi/Anastasi64Unt%5BPolaroids%5D-s.jpg",
       "alt": "",
       "caption": "Untitled, 1964",
       "width": "154",
@@ -24,7 +24,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/anastasi/Words[AWord](1).jpg",
+      "src": "/images/concept/tautology/anastasi/Words%5BAWord%5D%281%29.jpg",
       "alt": "",
       "caption": "",
       "width": "120",
@@ -33,7 +33,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/anastasi/AWord[Words](2).jpg",
+      "src": "/images/concept/tautology/anastasi/AWord%5BWords%5D%282%29.jpg",
       "alt": "",
       "caption": "Words / A Word",
       "width": "120",
@@ -42,7 +42,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/concept/tautology/anastasi/Anastasi66Unt(SixSites)-S.jpg",
+      "src": "/images/concept/tautology/anastasi/Anastasi66Unt%28SixSites%29-S.jpg",
       "alt": "",
       "caption": "Untitled (Six Sites), 1966/1967",
       "width": "244",
@@ -106,25 +106,25 @@
   ],
   "images": [
     {
-      "src": "/images/concept/tautology/anastasi/Anastasi64Unt[Polaroids]-s.jpg",
+      "src": "/images/concept/tautology/anastasi/Anastasi64Unt%5BPolaroids%5D-s.jpg",
       "alt": "",
       "caption": "Untitled, 1964",
       "legacy_src": "Anastasi64Unt%5BPolaroids%5D-s.jpg"
     },
     {
-      "src": "/images/concept/tautology/anastasi/Words[AWord](1).jpg",
+      "src": "/images/concept/tautology/anastasi/Words%5BAWord%5D%281%29.jpg",
       "alt": "",
       "caption": "",
       "legacy_src": "Words%5BAWord%5D(1).jpg"
     },
     {
-      "src": "/images/concept/tautology/anastasi/AWord[Words](2).jpg",
+      "src": "/images/concept/tautology/anastasi/AWord%5BWords%5D%282%29.jpg",
       "alt": "",
       "caption": "Words / A Word",
       "legacy_src": "AWord%5BWords%5D(2).jpg"
     },
     {
-      "src": "/images/concept/tautology/anastasi/Anastasi66Unt(SixSites)-S.jpg",
+      "src": "/images/concept/tautology/anastasi/Anastasi66Unt%28SixSites%29-S.jpg",
       "alt": "",
       "caption": "Untitled (Six Sites), 1966/1967",
       "legacy_src": "Anastasi66Unt(SixSites)-S.jpg"

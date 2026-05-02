@@ -46,7 +46,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO'Connor-s.jpg",
+      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO%27Connor-s.jpg",
       "alt": "",
       "caption": "Donald\nO'Connor, 1952",
       "width": "215",
@@ -195,7 +195,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide(PurpleJumpngMn)-s.jpg",
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide%28PurpleJumpngMn%29-s.jpg",
       "alt": "",
       "caption": "Suicide (Purple Jumping Man), 1965",
       "width": "258",
@@ -216,7 +216,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages[animated].gif",
+      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages%5Banimated%5D.gif",
       "alt": "",
       "caption": "The Three Ages, 1923",
       "width": "380",
@@ -243,7 +243,7 @@
       "legacy_src": "Up/Halsman/51-BBardot-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO'Connor-s.jpg",
+      "src": "/images/kinetics/gravity/jump/halsman-52-DonaldO%27Connor-s.jpg",
       "alt": "",
       "caption": "Donald\nO'Connor, 1952",
       "legacy_src": "Up/Halsman/52-DonaldO'Connor-s.jpg"
@@ -315,13 +315,13 @@
       "legacy_src": "Down/1964-Warhol/1964-suicide-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide(PurpleJumpngMn)-s.jpg",
+      "src": "/images/kinetics/gravity/jump/1964-warhol-1965Suicide%28PurpleJumpngMn%29-s.jpg",
       "alt": "",
       "caption": "Suicide (Purple Jumping Man), 1965",
       "legacy_src": "Down/1964-Warhol/1965Suicide(PurpleJumpngMn)-s.jpg"
     },
     {
-      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages[animated].gif",
+      "src": "/images/kinetics/gravity/jump/keaton-1923-3Ages%5Banimated%5D.gif",
       "alt": "",
       "caption": "The Three Ages, 1923",
       "legacy_src": "Across/Keaton/1923-3Ages%5Banimated%5D.gif"

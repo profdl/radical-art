@@ -178,7 +178,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O(3)VectorSpinModel-s.jpg",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O%283%29VectorSpinModel-s.jpg",
       "alt": "",
       "caption": "O(3) vector spin model",
       "width": "200",
@@ -389,7 +389,7 @@
       "legacy_src": "93Coddington/coddington93-potts-D.gif"
     },
     {
-      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O(3)VectorSpinModel-s.jpg",
+      "src": "/images/algorithmic-art/grid/cellular/2-d/93-coddington-O%283%29VectorSpinModel-s.jpg",
       "alt": "",
       "caption": "O(3) vector spin model",
       "legacy_src": "93Coddington/O(3)VectorSpinModel-s.jpg"

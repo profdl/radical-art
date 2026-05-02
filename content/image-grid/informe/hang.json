@@ -41,7 +41,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/informe/hang/hoehmeS'amje-1957-S.jpg",
+      "src": "/images/informe/hang/hoehmeS%27amje-1957-S.jpg",
       "alt": "",
       "caption": "Gerhard Hoehme: S'amje, 1957",
       "width": "216",
@@ -140,7 +140,7 @@
       "legacy_src": "ToshioYoshidaCa1956-S.jpg"
     },
     {
-      "src": "/images/informe/hang/hoehmeS'amje-1957-S.jpg",
+      "src": "/images/informe/hang/hoehmeS%27amje-1957-S.jpg",
       "alt": "",
       "caption": "Gerhard Hoehme: S'amje, 1957",
       "legacy_src": "hoehmeS'amje-1957-S.jpg"

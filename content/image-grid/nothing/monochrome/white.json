@@ -213,7 +213,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/white/51-rauschenbergWhP(3Pnls).jpg",
+      "src": "/images/nothing/monochrome/white/51-rauschenbergWhP%283Pnls%29.jpg",
       "alt": "",
       "caption": "Robert Rauschenberg: White Painting (3 Panels), 1951",
       "width": "279",
@@ -258,7 +258,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/white/MichelJourniac[etalagepop]S.jpg",
+      "src": "/images/nothing/monochrome/white/MichelJourniac%5Betalagepop%5DS.jpg",
       "alt": "",
       "caption": "Michel Journiac, 1970",
       "width": "175",
@@ -312,7 +312,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/white/92-SugimotoRegency,SF-S.jpg",
+      "src": "/images/nothing/monochrome/white/92-SugimotoRegency%2CSF-S.jpg",
       "alt": "",
       "caption": "Hiroshi Sugimoto: Regency, San Francisco, 1992",
       "width": "259",
@@ -339,7 +339,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/nothing/monochrome/white/94-XavierVeilhanST(MchTrn).JPG",
+      "src": "/images/nothing/monochrome/white/94-XavierVeilhanST%28MchTrn%29.JPG",
       "alt": "",
       "caption": "Xavier Veilhan: Sans Titre (Machine Tournante), 1994",
       "width": "261",
@@ -460,7 +460,7 @@
       "legacy_src": "64-UeckerWeisseMuehle.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/white/51-rauschenbergWhP(3Pnls).jpg",
+      "src": "/images/nothing/monochrome/white/51-rauschenbergWhP%283Pnls%29.jpg",
       "alt": "",
       "caption": "Robert Rauschenberg: White Painting (3 Panels), 1951",
       "legacy_src": "51-rauschenbergWhP(3Pnls).jpg"
@@ -490,7 +490,7 @@
       "legacy_src": "65-schwarzkogler-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/white/MichelJourniac[etalagepop]S.jpg",
+      "src": "/images/nothing/monochrome/white/MichelJourniac%5Betalagepop%5DS.jpg",
       "alt": "",
       "caption": "Michel Journiac, 1970",
       "legacy_src": "MichelJourniac%5Betalagepop%5DS.jpg"
@@ -526,7 +526,7 @@
       "legacy_src": "66-74-JoBaerUnt.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/white/92-SugimotoRegency,SF-S.jpg",
+      "src": "/images/nothing/monochrome/white/92-SugimotoRegency%2CSF-S.jpg",
       "alt": "",
       "caption": "Hiroshi Sugimoto: Regency, San Francisco, 1992",
       "legacy_src": "92-SugimotoRegency,SF-S.jpg"
@@ -544,7 +544,7 @@
       "legacy_src": "94-sylviefleury-S.jpg"
     },
     {
-      "src": "/images/nothing/monochrome/white/94-XavierVeilhanST(MchTrn).JPG",
+      "src": "/images/nothing/monochrome/white/94-XavierVeilhanST%28MchTrn%29.JPG",
       "alt": "",
       "caption": "Xavier Veilhan: Sans Titre (Machine Tournante), 1994",
       "legacy_src": "94-XavierVeilhanST(MchTrn).JPG"

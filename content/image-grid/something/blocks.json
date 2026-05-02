@@ -34,7 +34,7 @@
     },
     {
       "type": "figure",
-      "src": "/images/something/blocks/james-lee-byars-1986-[column]-s.jpg",
+      "src": "/images/something/blocks/james-lee-byars-1986-%5Bcolumn%5D-s.jpg",
       "alt": "",
       "caption": "James Lee Byars\n\n1986",
       "width": "119",
@@ -164,7 +164,7 @@
       "legacy_src": "1966RobertMallary-Pythia-s.jpg"
     },
     {
-      "src": "/images/something/blocks/james-lee-byars-1986-[column]-s.jpg",
+      "src": "/images/something/blocks/james-lee-byars-1986-%5Bcolumn%5D-s.jpg",
       "alt": "",
       "caption": "James Lee Byars\n\n1986",
       "legacy_src": "../JamesLeeByars/1986-%5Bcolumn%5D-s.jpg"
