@@ -953,7 +953,7 @@ export default function MapView() {
 
       <div
         className="grid gap-4"
-        style={{ gridTemplateColumns: selectedNode ? "1fr 22rem" : "1fr 0", transition: "grid-template-columns 220ms ease" }}
+        style={{ gridTemplateColumns: selectedNode ? "1fr 22rem" : "1fr 0" }}
       >
         <div
           ref={wrapRef}
