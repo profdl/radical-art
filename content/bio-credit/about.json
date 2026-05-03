@@ -16,7 +16,7 @@
     },
     {
       "type": "paragraph",
-      "text": "This is a republished version of Remko Scha's original site at radicalart.info, reorganized for the contemporary web using Anthropic's Claude Code. Republished by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design.",
+      "text": "This is a republished version of Remko Scha's original site at radicalart.info, reorganized for the contemporary web using Anthropic's Claude Code. Republished by Daniel Lefcourt, Professor, Art & Computation, Rhode Island School of Design. Source code on GitHub.",
       "links": [
         {
           "text": "Remko Scha",
@@ -46,6 +46,11 @@
         {
           "text": "Rhode Island School of Design",
           "href": "https://www.risd.edu",
+          "external": true
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/profdl/radical-art",
           "external": true
         }
       ]
