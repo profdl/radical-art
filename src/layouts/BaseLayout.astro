@@ -1,5 +1,6 @@
 ---
 import "~/styles/global.css";
+import { getCollection } from "astro:content";
 import Sidebar from "~/components/Sidebar.astro";
 import { withBase } from "~/lib/text";
 
@@ -22,6 +23,41 @@ const topNav: { label: string; href: string }[] = [
   { label: "Introduction", href: "/meta" },
   { label: "End of Art", href: "/qend-art" },
 ];
+
+// Section grid for the mobile drawer. Mirrors src/pages/index.astro so the
+// menu and the homepage agree on the 10 surfaced sections and on which page
+// supplies each section's thumbnail.
+const allPages = await getCollection("pages");
+const drawerSections: { section: string; slug: string; label: string }[] = [
+  { section: "Life", slug: "life", label: "Life" },
+  { section: "everything", slug: "everything", label: "Everything" },
+  { section: "AlgorithmicArt", slug: "algorithmic-art", label: "Algorithm" },
+  { section: "anything", slug: "anything", label: "Anything" },
+  { section: "kinetics", slug: "kinetics", label: "Mechanics" },
+  { section: "something", slug: "something", label: "Something" },
+  { section: "process", slug: "process", label: "Process" },
+  { section: "destruction", slug: "destruction", label: "Destruction" },
+  { section: "nothing", slug: "nothing", label: "Nothing" },
+  { section: "concept", slug: "concept", label: "Concept" },
+];
+const drawerVirtualChildren: Record<string, string[]> = {
+  Life: ["ego"],
+  everything: ["things", "nature", "physics"],
+  something: ["informe"],
+};
+const drawerUsedThumbs = new Set<string>();
+const drawerCards = drawerSections.map((s) => {
+  const sources = [s.section, ...(drawerVirtualChildren[s.section] ?? [])];
+  const candidates = allPages
+    .filter((p) => sources.includes(p.data.section) && p.data.images.length >= 3)
+    .sort((a, b) => b.data.images.length - a.data.images.length);
+  let sample = candidates.find(
+    (p) => p.data.images[0] && !drawerUsedThumbs.has(p.data.images[0].src),
+  );
+  if (!sample) sample = candidates[0];
+  if (sample?.data.images[0]) drawerUsedThumbs.add(sample.data.images[0].src);
+  return { name: s.label, slug: s.slug, sample };
+});
 ---
 
 <!doctype html>
@@ -55,19 +91,65 @@ const topNav: { label: string; href: string }[] = [
             }
           </ul>
         </nav>
-        <div class="flex items-baseline gap-x-6">
+        <div class="hidden md:flex items-baseline gap-x-6">
           <a href={withBase("/gallery")} class="nav-link">Gallery</a>
           <a href={withBase("/map")} class="nav-link">Map</a>
           <a href={withBase("/constellation")} class="nav-link">Constellation</a>
           <a href={withBase("/about")} class="nav-link">About</a>
           <a href="http://radicalart.info" target="_blank" rel="noopener noreferrer" class="nav-link">Original Site ↗</a>
         </div>
+        <button
+          type="button"
+          class="mobile-menu-button md:hidden"
+          aria-expanded="false"
+          aria-controls="mobile-drawer"
+          aria-label="Open menu"
+          data-mobile-toggle
+        >
+          <span class="mobile-menu-icon" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </button>
       </header>
       <hr class="rule" />
 
+      <div id="mobile-drawer" class="mobile-drawer md:hidden" data-mobile-drawer hidden>
+        <ul class="hub-grid hub-grid--compact mobile-drawer-grid">
+          {
+            drawerCards.map((s) => (
+              <li>
+                <a href={withBase("/" + s.slug)} class="hub-card" data-mobile-link>
+                  <span class="hub-card-frame">
+                    {s.sample && s.sample.data.images[0] ? (
+                      <img
+                        src={withBase(s.sample.data.images[0].src)}
+                        alt={s.sample.data.images[0].alt || s.name}
+                        loading="lazy"
+                      />
+                    ) : (
+                      <span class="hub-card-empty" />
+                    )}
+                  </span>
+                  <span class="hub-card-label">{s.name}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <ul class="mobile-drawer-list">
+          <li><a href={withBase("/meta")} class="nav-link" data-mobile-link>Introduction</a></li>
+          <li><a href={withBase("/qend-art")} class="nav-link" data-mobile-link>End of Art</a></li>
+          <li><a href={withBase("/gallery")} class="nav-link" data-mobile-link>Gallery</a></li>
+          <li><a href={withBase("/about")} class="nav-link" data-mobile-link>About</a></li>
+          <li><a href="http://radicalart.info" target="_blank" rel="noopener noreferrer" class="nav-link" data-mobile-link>Original Site ↗</a></li>
+        </ul>
+      </div>
+
       <div class="grid grid-cols-12 gap-x-10 pt-10 pb-20">
         {!hideSidebar && (
-          <div class="col-span-12 md:col-span-3 lg:col-span-2 mb-10 md:mb-0 md:sticky md:top-6 md:self-start md:max-h-[calc(100vh-3rem)] md:overflow-y-auto">
+          <div class="hidden md:block md:col-span-3 lg:col-span-2 md:sticky md:top-6 md:self-start md:max-h-[calc(100vh-3rem)] md:overflow-y-auto">
             <Sidebar current={current} currentSlug={currentSlug} />
           </div>
         )}
@@ -82,5 +164,25 @@ const topNav: { label: string; href: string }[] = [
         <a href={withBase("/about")} class="hover:underline">About</a>
       </footer>
     </div>
+    <script>
+      const toggle = document.querySelector<HTMLButtonElement>("[data-mobile-toggle]");
+      const drawer = document.querySelector<HTMLElement>("[data-mobile-drawer]");
+      if (toggle && drawer) {
+        const setOpen = (open: boolean) => {
+          toggle.setAttribute("aria-expanded", open ? "true" : "false");
+          toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+          toggle.classList.toggle("is-open", open);
+          if (open) drawer.removeAttribute("hidden");
+          else drawer.setAttribute("hidden", "");
+        };
+        toggle.addEventListener("click", () => {
+          const open = toggle.getAttribute("aria-expanded") !== "true";
+          setOpen(open);
+        });
+        for (const link of drawer.querySelectorAll<HTMLAnchorElement>("[data-mobile-link]")) {
+          link.addEventListener("click", () => setOpen(false));
+        }
+      }
+    </script>
   </body>
 </html>

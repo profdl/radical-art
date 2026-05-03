@@ -461,3 +461,88 @@ a { color: inherit; }
   justify-content: center;
   padding: 1.5rem 0 0.5rem;
 }
+
+/* ---- mobile menu ----------------------------------------------------- */
+.mobile-menu-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  color: var(--color-ink);
+}
+.mobile-menu-icon {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 1.25rem;
+  height: 0.85rem;
+}
+.mobile-menu-icon > span {
+  display: block;
+  height: 1.5px;
+  width: 100%;
+  background: currentColor;
+  transition: transform 0.18s ease, opacity 0.18s ease;
+}
+.mobile-menu-button.is-open .mobile-menu-icon > span:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+.mobile-menu-button.is-open .mobile-menu-icon > span:nth-child(2) {
+  opacity: 0;
+}
+.mobile-menu-button.is-open .mobile-menu-icon > span:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+.mobile-drawer {
+  border-bottom: 1px solid var(--color-rule-light);
+  padding: 1rem 0 1.25rem;
+}
+.mobile-drawer-list {
+  list-style: none;
+  margin: 0;
+  padding: 1rem 0 0;
+  border-top: 1px solid var(--color-rule-light);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.mobile-drawer-list .nav-link {
+  display: block;
+  padding: 0.35rem 0;
+}
+.mobile-drawer-grid {
+  margin: 0 0 1.5rem;
+  /* Two columns on phones; the default hub-grid breakpoints take over above 640px,
+     but the drawer is md:hidden so this only matters at small widths. */
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem 0.85rem;
+}
+
+/* ---- small-viewport tweaks ------------------------------------------- */
+@media (max-width: 640px) {
+  .h-page {
+    font-size: 1.5rem;
+  }
+  .hub-grid {
+    gap: 1.5rem 1rem;
+  }
+  .hub-grid--compact {
+    gap: 1.25rem 0.85rem;
+  }
+  .sidebar-row[data-depth="1"] { padding-left: 0.6rem; }
+  .sidebar-row[data-depth="2"] { padding-left: 1.2rem; }
+  .sidebar-row[data-depth="3"] { padding-left: 1.8rem; }
+  .gallery-cascade {
+    column-gap: 1rem;
+  }
+  .gallery-card {
+    margin-bottom: 1.5rem;
+  }
+}
