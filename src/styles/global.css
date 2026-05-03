@@ -30,6 +30,35 @@ html, body {
   text-rendering: optimizeLegibility;
 }
 
+/* Prevent any rogue child (long URL, wide image) from forcing horizontal
+   scroll on small viewports — the body's intentional content all fits
+   within px-6 padding. */
+html, body { overflow-x: hidden; }
+
+/* Long URLs and stringy tokens in legacy prose can blow out narrow viewports
+   without a hard break opportunity. Apply only inside body prose so other
+   chrome (nav, labels) keeps its precise letter-spacing. */
+.prose-archive,
+.callout-body,
+.gallery-card-caption {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Images in body content always scale to container. */
+.prose-archive img,
+.callout-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Preformatted blocks (scores, code-like extracts) wrap on small screens
+   instead of forcing horizontal scroll. */
+.prose-archive pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
 ::selection {
   background: var(--color-ink);
   color: var(--color-paper);
@@ -239,6 +268,14 @@ a { color: inherit; }
   gap: 2.5rem 2rem;
 }
 .hub-grid > li { padding-right: 8px; padding-bottom: 8px; }
+@media (max-width: 640px) {
+  /* On phones the decorative back-frame is dropped: the 6px right/bottom
+     overhang creates layout asymmetry on a narrow viewport (rightmost card
+     sits flush against page padding while the left has no overhang),
+     and removing it lets cells align edge-to-edge with body padding. */
+  .hub-grid > li { padding-right: 0; padding-bottom: 0; }
+  .hub-card-frame::before { display: none; }
+}
 @media (min-width: 640px) {
   .hub-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
@@ -398,6 +435,8 @@ a { color: inherit; }
   break-inside: avoid;
   display: block;
   margin: 0 0 2.25rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 .gallery-card-image {
   display: block;
@@ -522,7 +561,7 @@ a { color: inherit; }
   /* Two columns on phones; the default hub-grid breakpoints take over above 640px,
      but the drawer is md:hidden so this only matters at small widths. */
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.25rem 0.85rem;
+  gap: 1.5rem 1rem;
 }
 
 /* ---- small-viewport tweaks ------------------------------------------- */
